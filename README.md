@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 A programmer who seeks for liberty.
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shejialuo&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
