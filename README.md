@@ -19,7 +19,13 @@ A programmer who seeks for liberty.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 12 October, 2021 - 18 October, 2021
+
+Python   1 hr 17 mins    █████████░░░░░░░░░░░░░░░░   36.59 % 
+C++      50 mins         ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+C        21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+INI      18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Other    16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
 ```
 <!--END_SECTION:waka-->
 
