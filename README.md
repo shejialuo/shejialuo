@@ -19,13 +19,13 @@ A programmer who seeks for liberty.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 October, 2021 - 29 October, 2021
+Week: 24 October, 2021 - 30 October, 2021
 
-Go         7 hrs 40 mins   ████████▒░░░░░░░░░░░░░░░░   33.29 % 
-C++        6 hrs 13 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.94 % 
-Markdown   3 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Python     3 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-C          1 hr 58 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Go         8 hrs 6 mins    ████████░░░░░░░░░░░░░░░░░   32.23 % 
+C++        7 hrs 34 mins   ███████▓░░░░░░░░░░░░░░░░░   30.12 % 
+Markdown   3 hrs 33 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Python     2 hrs 44 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+C          1 hr 58 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
 ```
 <!--END_SECTION:waka-->
 
