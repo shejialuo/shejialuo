@@ -19,13 +19,13 @@ A programmer who seeks for liberty.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 November, 2021 - 08 November, 2021
+Week: 03 November, 2021 - 09 November, 2021
 
-Haskell    8 hrs 16 mins   █████████░░░░░░░░░░░░░░░░   36.63 % 
-INI        5 hrs 27 mins   ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
-Markdown   3 hrs 44 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-Other      3 hrs 21 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Bash       1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Haskell    6 hrs 26 mins   ███████░░░░░░░░░░░░░░░░░░   28.52 % 
+INI        5 hrs 27 mins   ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
+Other      3 hrs 50 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Markdown   2 hrs 58 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Bash       1 hr 44 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
 ```
 <!--END_SECTION:waka-->
 
