@@ -19,13 +19,13 @@ A programmer who seeks for liberty.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 November, 2021 - 13 November, 2021
+Week: 08 November, 2021 - 14 November, 2021
 
-C++        6 hrs 33 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.23 % 
-Scala      5 hrs 57 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.89 % 
-Haskell    4 hrs 50 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.60 % 
-Markdown   2 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-Java       1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+C++        6 hrs 33 mins   ████████░░░░░░░░░░░░░░░░░   31.54 % 
+Scala      5 hrs 57 mins   ███████░░░░░░░░░░░░░░░░░░   28.61 % 
+Java       1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Go         1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Markdown   1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
 ```
 <!--END_SECTION:waka-->
 
