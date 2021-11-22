@@ -19,7 +19,7 @@ A programmer who seeks for liberty.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 November, 2021 - 20 November, 2021
+Week: 15 November, 2021 - 21 November, 2021
 
 Scala      3 hrs 40 mins   ██████████░░░░░░░░░░░░░░░   40.40 % 
 Haskell    1 hr 47 mins    █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
