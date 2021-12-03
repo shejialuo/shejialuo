@@ -19,13 +19,13 @@ A programmer who seeks for liberty.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 November, 2021 - 01 December, 2021
+Week: 26 November, 2021 - 02 December, 2021
 
-TypeScript   9 hrs 4 mins    ████████▒░░░░░░░░░░░░░░░░   32.88 % 
-HTML         7 hrs 17 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.40 % 
-Markdown     3 hrs 5 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-C++          1 hr 52 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-CMake        1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+TypeScript   8 hrs 39 mins   ████████▓░░░░░░░░░░░░░░░░   34.64 % 
+HTML         7 hrs 6 mins    ███████░░░░░░░░░░░░░░░░░░   28.39 % 
+Markdown     3 hrs 13 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+C++          1 hr 54 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+VimL         1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 ```
 <!--END_SECTION:waka-->
 
