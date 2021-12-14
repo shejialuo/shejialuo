@@ -19,13 +19,13 @@ A programmer who seeks for liberty.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 December, 2021 - 12 December, 2021
+Week: 07 December, 2021 - 13 December, 2021
 
-TeX        12 hrs 1 min    █████████▒░░░░░░░░░░░░░░░   37.88 % 
-C++        6 hrs 19 mins   █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
-conf       4 hrs 21 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Markdown   4 hrs 8 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-JSON       1 hr 58 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+TeX          14 hrs 9 mins   ██████████▓░░░░░░░░░░░░░░   42.74 % 
+Markdown     5 hrs 46 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.43 % 
+C++          4 hrs 42 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+conf         4 hrs 20 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+TypeScript   1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 ```
 <!--END_SECTION:waka-->
 
