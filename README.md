@@ -19,7 +19,7 @@ A programmer who seeks for liberty.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 December, 2021 - 30 December, 2021
+Week: 25 December, 2021 - 31 December, 2021
 
 TeX          3 hrs 35 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.92 % 
 C++          3 hrs 24 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.57 % 
