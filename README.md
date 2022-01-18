@@ -19,13 +19,13 @@ A programmer who seeks for liberty.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 January, 2022 - 16 January, 2022
+Week: 11 January, 2022 - 17 January, 2022
 
-C++          16 hrs 57 mins  ██████████░░░░░░░░░░░░░░░   39.52 % 
-Markdown     6 hrs 52 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-TypeScript   6 hrs 21 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-Haskell      5 hrs 56 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-C            2 hrs 59 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+C++          16 hrs 57 mins  ██████████░░░░░░░░░░░░░░░   39.36 % 
+Haskell      5 hrs 56 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Markdown     5 hrs 53 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+TypeScript   5 hrs 14 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+C            2 hrs 59 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
 ```
 <!--END_SECTION:waka-->
 
