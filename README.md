@@ -19,7 +19,7 @@ A programmer who seeks for liberty.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 January, 2022 - 23 January, 2022
+Week: 18 January, 2022 - 24 January, 2022
 
 TypeScript   5 hrs 53 mins   █████████░░░░░░░░░░░░░░░░   35.67 % 
 Markdown     4 hrs 7 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.98 % 
