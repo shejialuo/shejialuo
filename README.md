@@ -19,13 +19,9 @@ A programmer who seeks for liberty.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 January, 2022 - 04 February, 2022
+Week: 30 January, 2022 - 05 February, 2022
 
-Bash       1 hr 40 mins    ███████████▒░░░░░░░░░░░░░   45.47 % 
-YAML       1 hr 37 mins    ███████████░░░░░░░░░░░░░░   44.24 % 
-Git        12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-Markdown   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-Other      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Bash   54 mins         █████████████████████████   99.82 % 
 ```
 <!--END_SECTION:waka-->
 
