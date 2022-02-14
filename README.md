@@ -19,7 +19,7 @@ A programmer who seeks for liberty.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 February, 2022 - 12 February, 2022
+Week: 07 February, 2022 - 13 February, 2022
 
 Haskell    5 hrs 26 mins   ████████░░░░░░░░░░░░░░░░░   32.39 % 
 Bash       3 hrs 48 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.65 % 
