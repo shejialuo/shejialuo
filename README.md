@@ -19,15 +19,14 @@ A programmer who seeks for liberty.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 February, 2022 - 17 February, 2022
+Week: 12 February, 2022 - 18 February, 2022
 
-Total: 7 hrs 43 mins
+Total: 6 hrs 50 mins
 
-Python    4 hrs 46 mins   ███████████████▒░░░░░░░░░   60.70 % 
-Haskell   1 hr 54 mins    ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
-Git       51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Other     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-zsh       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Python     5 hrs 20 mins   ███████████████████░░░░░░   76.40 % 
+Git        1 hr 24 mins    █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Other      9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+zsh        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 ```
 <!--END_SECTION:waka-->
 
