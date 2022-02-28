@@ -18,15 +18,18 @@ Here are some ideas to get you started:
 A programmer who seeks for liberty.
 
 <!--START_SECTION:waka-->
-```text
-From: 19 February, 2022 - To: 26 February, 2022
 
-Markdown     11 hrs 52 mins  ███████████████▓░░░░░░░░░   62.47 % 
-Python       2 hrs 7 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-C++          1 hr 57 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-Git          29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-JavaScript   28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+Markdown      10 hrs 44 mins  ██████████████▓░░░░░░░░░░   58.59 %
+Python        2 hrs 7 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+C++           1 hr 57 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
+Git           35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+JavaScript    28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Bash          26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
 ```
+
 <!--END_SECTION:waka-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shejialuo&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
