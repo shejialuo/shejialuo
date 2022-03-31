@@ -20,14 +20,14 @@ A programmer who seeks for liberty.
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 March 2022 - To: 29 March 2022
+From: 23 March 2022 - To: 30 March 2022
 
-Markdown         8 hrs 50 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.21 %
-TypeScript       7 hrs 18 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.64 %
-C++              4 hrs 42 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
-YAML             3 hrs 50 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
-Python           3 hrs 13 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
-HTML             3 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
+Markdown         9 hrs 31 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.14 %
+TypeScript       7 hrs 18 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.81 %
+C++              4 hrs 43 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
+YAML             3 hrs 51 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
+Python           3 hrs 13 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
+HTML             3 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
 ```
 
 <!--END_SECTION:waka-->
