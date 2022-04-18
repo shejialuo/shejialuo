@@ -20,12 +20,12 @@ A programmer who seeks for liberty.
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 April 2022 - To: 16 April 2022
+From: 10 April 2022 - To: 17 April 2022
 
-C++          16 hrs 47 mins  █████████████░░░░░░░░░░░░   51.95 %
-C            8 hrs 29 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.25 %
-Haskell      2 hrs 32 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
-Other        1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+C++              16 hrs 26 mins  ████████████▓░░░░░░░░░░░░   50.26 %
+C                8 hrs 54 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.20 %
+Haskell          2 hrs 32 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
+Other            1 hr 44 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
 ```
 
 <!--END_SECTION:waka-->
