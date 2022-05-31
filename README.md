@@ -20,14 +20,14 @@ A programmer who seeks for liberty.
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 May 2022 - To: 29 May 2022
+From: 23 May 2022 - To: 30 May 2022
 
-C++          9 hrs 17 mins   ██████████▒░░░░░░░░░░░░░░   41.93 %
-Java         6 hrs 10 mins   ███████░░░░░░░░░░░░░░░░░░   27.87 %
-Markdown     5 hrs 47 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.11 %
-Mail         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-gitignore    16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-Haskell      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+C++              9 hrs 36 mins   ██████████▒░░░░░░░░░░░░░░   40.85 %
+Java             6 hrs 46 mins   ███████▒░░░░░░░░░░░░░░░░░   28.79 %
+Markdown         6 hrs 12 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.38 %
+Mail             31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+gitignore        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+C                4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
