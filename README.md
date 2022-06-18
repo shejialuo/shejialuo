@@ -20,10 +20,10 @@ A programmer who seeks for liberty.
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 June 2022 - To: 16 June 2022
+From: 10 June 2022 - To: 17 June 2022
 
-Markdown     9 hrs 22 mins   ██████████████████░░░░░░░   71.72 %
-Other        1 hr 44 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
+Markdown     12 hrs 25 mins  ████████████████████▓░░░░   83.13 %
+Other        51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
 ```
 
 <!--END_SECTION:waka-->
