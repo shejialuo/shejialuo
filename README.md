@@ -20,9 +20,9 @@ A programmer who seeks for liberty.
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 December 2022 - To: 13 December 2022
+From: 07 December 2022 - To: 14 December 2022
 
-Markdown     12 hrs 25 mins  █████████████▓░░░░░░░░░░░   54.10 %
+Markdown     12 hrs 25 mins  █████████████▓░░░░░░░░░░░   54.11 %
 YAML         3 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
 Python       3 hrs 22 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 %
 C++          2 hrs 14 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
