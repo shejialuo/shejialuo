@@ -20,14 +20,14 @@ A programmer who seeks for liberty.
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 December 2022 - To: 20 December 2022
+From: 14 December 2022 - To: 21 December 2022
 
-Markdown     2 hrs 10 mins   ██████░░░░░░░░░░░░░░░░░░░   23.88 %
-Bash         1 hr 19 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 %
-Go           1 hr 4 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
-sshconfig    51 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
-Vim Script   47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-Python       34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+Markdown     2 hrs 53 mins   ███████░░░░░░░░░░░░░░░░░░   27.47 %
+Bash         1 hr 20 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
+Go           1 hr 4 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+C++          52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+sshconfig    51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+Vim Script   47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
 ```
 
 <!--END_SECTION:waka-->
