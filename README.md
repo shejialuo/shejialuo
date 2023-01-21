@@ -20,7 +20,7 @@ A programmer who seeks for liberty.
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 January 2023 - To: 19 January 2023
+From: 13 January 2023 - To: 20 January 2023
 
 Haskell     5 hrs 48 mins   ███████████████▒░░░░░░░░░   60.74 %
 Python      1 hr 25 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.93 %
