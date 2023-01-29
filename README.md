@@ -20,10 +20,9 @@ A programmer who seeks for liberty.
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 January 2023 - To: 27 January 2023
+From: 21 January 2023 - To: 28 January 2023
 
-Markdown   1 hr 50 mins    ██████████████████████▓░░   90.35 %
-C++        11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
+Markdown   1 hr 38 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
