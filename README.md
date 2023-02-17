@@ -20,14 +20,14 @@ A programmer who seeks for liberty.
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 February 2023 - To: 15 February 2023
+From: 09 February 2023 - To: 16 February 2023
 
-C++           15 hrs 6 mins   █████████████░░░░░░░░░░░░   51.52 %
-Markdown      7 hrs 26 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.40 %
-Go            3 hrs 38 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
-JavaScript    1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-TeX           25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-Haskell       24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+C++           21 hrs 18 mins  ████████████████▒░░░░░░░░   65.61 %
+Markdown      6 hrs 8 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.93 %
+Go            1 hr 34 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+Haskell       1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+JavaScript    34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+CMake         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 ```
 
 <!--END_SECTION:waka-->
