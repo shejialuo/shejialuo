@@ -20,12 +20,13 @@ A programmer who seeks for liberty.
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 March 2023 - To: 15 March 2023
+From: 09 March 2023 - To: 16 March 2023
 
-C++           21 hrs 42 mins  ██████████████░░░░░░░░░░░   55.68 %
-Markdown      14 hrs 50 mins  █████████▓░░░░░░░░░░░░░░░   38.06 %
-CMake         51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-Other         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+C++           20 hrs 28 mins  ██████████████▒░░░░░░░░░░   57.07 %
+Markdown      13 hrs 20 mins  █████████▒░░░░░░░░░░░░░░░   37.18 %
+CMake         49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Python        30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Other         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
