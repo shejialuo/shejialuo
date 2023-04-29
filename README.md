@@ -20,14 +20,14 @@ A programmer who seeks for liberty.
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 April 2023 - To: 27 April 2023
+From: 21 April 2023 - To: 28 April 2023
 
-Haskell      5 hrs 42 mins   ███████░░░░░░░░░░░░░░░░░░   28.26 %
-C++          5 hrs 37 mins   ███████░░░░░░░░░░░░░░░░░░   27.90 %
-Markdown     4 hrs           █████░░░░░░░░░░░░░░░░░░░░   19.90 %
-INI          1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
-conf         52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-Bash         46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Haskell    5 hrs 42 mins   █████████░░░░░░░░░░░░░░░░   35.60 %
+Markdown   3 hrs 37 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.65 %
+C++        2 hrs 45 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.21 %
+INI        1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
+conf       52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+Bash       46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
 ```
 
 <!--END_SECTION:waka-->
