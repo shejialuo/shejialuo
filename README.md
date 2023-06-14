@@ -20,13 +20,13 @@ A programmer who seeks for liberty.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2023 - To: 12 June 2023
+From: 06 June 2023 - To: 13 June 2023
 
-Markdown     11 hrs 1 min    ███████████░░░░░░░░░░░░░░   44.33 %
-C++          8 hrs 29 mins   ████████▓░░░░░░░░░░░░░░░░   34.19 %
-C            2 hrs 32 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
-Kotlin       42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-CMake        35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+Markdown     8 hrs 45 mins   ██████████░░░░░░░░░░░░░░░   40.05 %
+C++          8 hrs 29 mins   █████████▓░░░░░░░░░░░░░░░   38.84 %
+C            2 hrs 32 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+CMake        35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+TeX          23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 ```
 
 <!--END_SECTION:waka-->
