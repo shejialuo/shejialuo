@@ -27,6 +27,11 @@ jobs:
           plugin_rss: yes
           plugin_rss_source: https://luolibrary.com/atom.xml
           plugin_rss_limit: 4
+          plugin_anilist: yes
+          plugin_anilist_user: shejialuo
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, watching
+          plugin_anilist_limit: 1
 
       - name: Right Part
         uses: lowlighter/metrics@latest
