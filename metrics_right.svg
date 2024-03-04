@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="668" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1017" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.c .side{background-color:#58a6ff26}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -52,6 +52,451 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 31 commits in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#97d1f23</div>
+                                        <div class="message">Documentation/config/pack.txt: fix broken AsciiDoc mark-up
+
+In af626ac0e0 (pack-bitmap: enable reuse from all bitmapped packs,
+2023-12-14), the documentation for `pack.allowPackReuse` was amended to
+include its effect when set to "multi".
+
+This split the documentation into two paragraphs, but did not de-dent
+the second paragraph on the right-hand side of a line-continuation
+marker. This causes the rendered documentation to appear oddly, where
+the second paragraph is treated as a &lt;pre&gt; block when rendered as HTML.
+
+Fix this by correctly removing the indentation on the second paragraph.
+
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#41bff66</div>
+                                        <div class="message">doc: apply the new placeholder rules to git-add documentation
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0824639</div>
+                                        <div class="message">doc: clarify the format of placeholders
+
+Add the new format rule when using placeholders in the description of
+commands and options.
+
+Signed-off-by: Jean-Noël Avila &lt;jn.avila@free.fr&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6835f0e</div>
+                                        <div class="message">git-remote.txt: fix typo
+
+Signed-off-by: Jakub Wilk &lt;jwilk@jwilk.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d699d15</div>
+                                        <div class="message">builtin/reflog: introduce subcommand to list reflogs
+
+While the git-reflog(1) command has subcommands to show reflog entries
+or check for reflog existence, it does not have any subcommands that
+would allow the user to enumerate all existing reflogs. This makes it
+quite hard to discover which reflogs a repository has. While this can
+be worked around with the "files" backend by enumerating files in the
+".git/logs" directory, users of the "reftable" backend don't enjoy such
+a luxury.
+
+Introduce a new subcommand `git reflog list` that lists all reflogs the
+repository knows of to fill this gap.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#59c50a9</div>
+                                        <div class="message">refs: stop resolving ref corresponding to reflogs
+
+The reflog iterator tries to resolve the corresponding ref for every
+reflog that it is about to yield. Historically, this was done due to
+multiple reasons:
+
+  - It ensures that the refname is safe because we end up calling
+    `check_refname_format()`. Also, non-conformant refnames are skipped
+    altogether.
+
+  - The iterator used to yield the resolved object ID as well as its
+    flags to the callback. This info was never used though, and the
+    corresponding parameters were dropped in the preceding commit.
+
+  - When a ref is corrupt then the reflog is not emitted at all.
+
+We're about to introduce a new `git reflog list` subcommand that will
+print all reflogs that the refdb knows about. Skipping over reflogs
+whose refs are corrupted would be quite counterproductive in this case
+as the user would have no way to learn about reflogs which may still
+exist in their repository to help and rescue such a corrupted ref. Thus,
+the only remaining reason for why we'd want to resolve the ref is to
+verify its refname.
+
+Refactor the code to call `check_refname_format()` directly instead of
+trying to resolve the ref. This is significantly more efficient given
+that we don't have to hit the object database anymore to list reflogs.
+And second, it ensures that we end up showing reflogs of broken refs,
+which will help to make the reflog more useful.
+
+Note that this really only impacts the case where the corresponding ref
+is corrupt. Reflogs for nonexistent refs would have been returned to the
+caller beforehand already as we did not pass `RESOLVE_REF_READING` to
+the function, and thus `refs_resolve_ref_unsafe()` would have returned
+successfully in that case.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#31f8983</div>
+                                        <div class="message">refs: drop unused params from the reflog iterator callback
+
+The ref and reflog iterators share much of the same underlying code to
+iterate over the corresponding entries. This results in some weird code
+because the reflog iterator also exposes an object ID as well as a flag
+to the callback function. Neither of these fields do refer to the reflog
+though -- they refer to the corresponding ref with the same name. This
+is quite misleading. In practice at least the object ID cannot really be
+implemented in any other way as a reflog does not have a specific object
+ID in the first place. This is further stressed by the fact that none of
+the callbacks except for our test helper make use of these fields.
+
+Split up the infrastucture so that ref and reflog iterators use separate
+callback signatures. This allows us to drop the nonsensical fields from
+the reflog iterator.
+
+Note that internally, the backends still use the same shared infra to
+iterate over both types. As the backends should never end up being
+called directly anyway, this is not much of a problem and thus kept
+as-is for simplicity's sake.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e01d83</div>
+                                        <div class="message">refs: always treat iterators as ordered
+
+In the preceding commit we have converted the reflog iterator of the
+"files" backend to be ordered, which was the only remaining ref iterator
+that wasn't ordered. Refactor the ref iterator infrastructure so that we
+always assume iterators to be ordered, thus simplifying the code.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6f22780</div>
+                                        <div class="message">refs/files: sort merged worktree and common reflogs
+
+When iterating through reflogs in a worktree we create a merged iterator
+that merges reflogs from both refdbs. The resulting refs are ordered so
+that instead we first return all worktree reflogs before we return all
+common refs.
+
+This is the only remaining case where a ref iterator returns entries in
+a non-lexicographic order. The result would look something like the
+following (listed with a command we introduce in a subsequent commit):
+
+```
+$ git reflog list
+HEAD
+refs/worktree/per-worktree
+refs/heads/main
+refs/heads/wt
+```
+
+So we first print the per-worktree reflogs in lexicographic order, then
+the common reflogs in lexicographic order. This is confusing and not
+consistent with how we print per-worktree refs, which are exclusively
+sorted lexicographically.
+
+Sort reflogs lexicographically in the same way as we sort normal refs.
+As this is already implemented properly by the "reftable" backend via a
+separate selection function, we simply pull out that logic and reuse it
+for the "files" backend. As logs are properly sorted now, mark the
+merged reflog iterator as sorted.
+
+Tests will be added in a subsequent commit.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e69e8ff</div>
+                                        <div class="message">refs/files: sort reflogs returned by the reflog iterator
+
+We use a directory iterator to return reflogs via the reflog iterator.
+This iterator returns entries in the same order as readdir(3P) would and
+will thus yield reflogs with no discernible order.
+
+Set the new `DIR_ITERATOR_SORTED` flag that was introduced in the
+preceding commit so that the order is deterministic. While the effect of
+this can only been observed in a test tool, a subsequent commit will
+start to expose this functionality to users via a new `git reflog list`
+subcommand.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#de34f26</div>
+                                        <div class="message">dir-iterator: support iteration in sorted order
+
+The `struct dir_iterator` is a helper that allows us to iterate through
+directory entries. This iterator returns entries in the exact same order
+as readdir(3P) does -- or in other words, it guarantees no specific
+order at all.
+
+This is about to become problematic as we are introducing a new reflog
+subcommand to list reflogs. As the "files" backend uses the directory
+iterator to enumerate reflogs, returning reflog names and exposing them
+to the user would inherit the indeterministic ordering. Naturally, it
+would make for a terrible user interface to show a list with no
+discernible order.
+
+While this could be handled at a higher level by the new subcommand
+itself by collecting and ordering the reflogs, this would be inefficient
+because we would first have to collect all reflogs before we can sort
+them, which would introduce additional latency when there are many
+reflogs.
+
+Instead, introduce a new option into the directory iterator that asks
+for its entries to be yielded in lexicographical order. If set, the
+iterator will read all directory entries greedily and sort them before
+we start to iterate over them.
+
+While this will of course also incur overhead as we cannot yield the
+directory entries immediately, it should at least be more efficient than
+having to sort the complete list of reflogs as we only need to sort one
+directory at a time.
+
+This functionality will be used in a follow-up commit.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0218de2</div>
+                                        <div class="message">dir-iterator: pass name to `prepare_next_entry_data()` directly
+
+When adding the next directory entry for `struct dir_iterator` we pass
+the complete `struct dirent *` to `prepare_next_entry_data()` even
+though we only need the entry's name.
+
+Refactor the code to pass in the name, only. This prepares for a
+subsequent commit where we introduce the ability to iterate through
+dir entries in an ordered manner.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#244001a</div>
+                                        <div class="message">rebase: make warning less passive aggressive
+
+When you run `git rebase --continue` when no rebase is in progress, git
+outputs `fatal: No rebase in progress?` which is not a question but a
+statement. Make it appear as a statement, and use lowercase to align
+with error message style.
+
+Signed-off-by: Harmen Stoppels &lt;me@harmenstoppels.nl&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#abab32a</div>
+                                        <div class="message">doc: end sentences with full-stop
+
+Signed-off-by: Jean-Noël Avila &lt;jn.avila@free.fr&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2e48553</div>
+                                        <div class="message">doc: close unclosed angle-bracket of a placeholder in git-clone doc
+
+Signed-off-by: Jean-Noël Avila &lt;jn.avila@free.fr&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#de2852a</div>
+                                        <div class="message">doc: git-rev-parse: enforce command-line description syntax
+
+git-rev-parse(1) manpage is completely off with respect to the
+command-line description syntax with badly formatted placeholders and
+malformed alternatives.
+
+Signed-off-by: Jean-Noël Avila &lt;jn.avila@free.fr&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#82d7540</div>
+                                        <div class="message">documentation: send-email: use camel case consistently
+
+Correct a few random "sendemail.*" configuration parameter names in the
+documentation that, for some unknown reason and contrary to the expected,
+didn't use camel case format.
+
+The majority of the corrections are straightforward, by using camel case
+to denote boundaries of the individual words that, stringed together, make
+up configuration parameter names.  A couple of abbreviations found in some
+of the corrected configuration parameter names present some exceptions,
+which are described in detail below.
+
+First, there's "SSL" as the abbreviation for "Secure Sockets Layer". [1]
+As such, it's written using all uppercase letters, which is pretty much the
+general rule for making abbreviations, although with certain exceptions.
+
+Second, there's "Cc" as the abbreviation for "carbon copy", which is another
+exception.  As the acronym for "carbon copy", "cc" (mind the all lowercase
+letters) stems from the rather old times when, literally, carbon copies were
+made. [2]  Therefore, using "CC" (mind the all uppercase letters) or "cc"
+(mind the all lowercase letters) would be technically correct in the email
+domain, as the abbreviation or as mentioned in RFC2076, [3] respectively, but
+the age of email has established "Cc" (mind the mixed uppercase and lowercase
+letters) as some kind of de facto standard. [1][4][5]  Moreover, some of the
+git utilities, primarily git-send-email(1), already refer to making email
+carbon copies as specifying "Cc:" email headers.  As a result, "Cc" becomes
+one of the exceptions to the general rule for making abbreviations.
+
+[1] https://en.wikipedia.org/wiki/Transport_Layer_Security
+[2] https://en.wikipedia.org/wiki/Carbon_copy
+[3] https://datatracker.ietf.org/doc/html/rfc2076
+[4] https://bugzilla.mozilla.org/show_bug.cgi?id=212059
+[5] https://bugzilla.mozilla.org/show_bug.cgi?id=50826
+
+Signed-off-by: Dragan Simic &lt;dsimic@manjaro.org&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb84c8b</div>
+                                        <div class="message">git-difftool--helper: honor `--trust-exit-code` with `--dir-diff`
+
+The `--trust-exit-code` option for git-diff-tool(1) was introduced via
+2b52123fcf (difftool: add support for --trust-exit-code, 2014-10-26).
+When set, it makes us return the exit code of the invoked diff tool when
+diffing multiple files. This patch didn't change the code path where
+`--dir-diff` was passed because we already returned the exit code of the
+diff tool unconditionally in that case.
+
+This was changed a month later via c41d3fedd8 (difftool--helper: add
+explicit exit statement, 2014-11-20), where an explicit `exit 0` was
+added to the end of git-difftool--helper.sh. While the stated intent of
+that commit was merely a cleanup, it had the consequence that we now
+to ignore the exit code of the diff tool when `--dir-diff` was set. This
+change in behaviour is thus very likely an unintended side effect of
+this patch.
+
+Now there are two ways to fix this:
+
+  - We can either restore the original behaviour, which unconditionally
+    returned the exit code of the diffing tool when `--dir-diff` is
+    passed.
+
+  - Or we can make the `--dir-diff` case respect the `--trust-exit-code`
+    flag.
+
+The fact that we have been ignoring exit codes for 7 years by now makes
+me rather lean towards the latter option. Furthermore, respecting the
+flag in one case but not the other would needlessly make the user
+interface more complex.
+
+Fix the bug so that we also honor `--trust-exit-code` for dir diffs and
+adjust the documentation accordingly.
+
+Reported-by: Jean-Rémy Falleri &lt;jr.falleri@gmail.com&gt;
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f7cdeaf</div>
+                                        <div class="message">Merge branch 'ps/reftable-backend' into ps/reflog-list
+
+* ps/reftable-backend:
+  refs/reftable: fix leak when copying reflog fails
+  ci: add jobs to test with the reftable backend
+  refs: introduce reftable backend</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c431a23</div>
+                                        <div class="message">t9146: replace test -d/-e/-f with appropriate test_path_is_* function
+
+The helper functions test_path_is_* provide better debugging
+information than test -d/-e/-f.
+
+Replace "if ! test -d then &lt;error message&gt;" and "test -d" with
+"test_path_is_dir" at places where we check for existent directories.
+
+Replace "test -f" with "test_path_is_file" at places where we check
+for existent files.
+
+Replace "test ! -e" and "if test -d then &lt;error message&gt;" with
+"test_path_is_missing" where we check for non-existent directories.
+
+Helped-by: Eric Sunshine &lt;sunshine@sunshineco.com&gt;
+Signed-off-by: Chandra Pratap &lt;chandrapratap3519@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">shejialuo/Self-Study-Course</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5a1db18</div>
+                                        <div class="message">Update</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">shejialuo/Haskell-Programming-From-First-Principle</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ad67883</div>
+                                        <div class="message">Finish Chapter 11 Vehicles Exercise</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">shejialuo/Haskell-Programming-From-First-Principle</span>
                                     </div>
@@ -85,62 +530,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shejialuo/Haskell-Programming-From-First-Principle</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d37758c</div>
-                                        <div class="message">feat: finish Chapter 6 EqInstancesExercise</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shejialuo/Haskell-Programming-From-First-Principle</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e544da9</div>
-                                        <div class="message">Update Chapter 6</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">refatcor-t3070</span>
-                                        in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -157,7 +546,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~24 coding hours recorded
+                            ~22 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -199,22 +588,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">MasterXiDian</span>
-                                <div class="bar" style="width: 58.312%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">73%</span>
+                                <div class="bar" style="width: 51.024%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">64%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">git</span>
-                                <div class="bar" style="width: 13.216%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">17%</span>
+                                <div class="bar" style="width: 14.912%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">19%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HPFFP</span>
-                                <div class="bar" style="width: 8.384%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">10%</span>
+                                <div class="bar" style="width: 12.975999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">16%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 0.08800000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.8160000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">plot</span>
+                                <div class="bar" style="width: 0.17600000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -224,28 +618,28 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TeX</span>
-                                <div class="bar" style="width: 35.632000000000005%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">45%</span>
+                                <div class="bar" style="width: 31.536%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">39%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 15.431999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">19%</span>
+                                <div class="bar" style="width: 12.952000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">16%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Haskell</span>
-                                <div class="bar" style="width: 8.128%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">10%</span>
+                                <div class="bar" style="width: 12.48%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">16%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 7.4319999999999995%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 7.648000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">10%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Bash</span>
-                                <div class="bar" style="width: 4.784000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">6%</span>
+                                <div class="bar" style="width: 5.4479999999999995%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">7%</span>
                             </div>
                         </div>
                     </section>
