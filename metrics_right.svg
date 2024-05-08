@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1036" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="637" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text,.gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.gauge{stroke-linecap:round;fill:none}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text,.gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.gauge{stroke-linecap:round;fill:none}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -69,479 +69,14 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shejialuo/shejialuo.github.io</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c2338f1</div>
-                                        <div class="message">Automated Commit by `hexo deploy`</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 676 commits in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2328eba</div>
-                                        <div class="message">object-file: update object_info_extended to reencode objects
-
-oid_object_info_extended is updated to detect an oid encoding that
-does not match the current repository, use repo_oid_to_algop to find
-the correspoding oid in the current repository and to return the data
-for the oid.
-
-Signed-off-by: "Eric W. Biederman" &lt;ebiederm@xmission.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#08a4590</div>
-                                        <div class="message">object-file-convert: convert commits that embed signed tags
-
-As mentioned in the hash function transition plan commit mergetag
-lines need to be handled.  The commit mergetag lines embed an entire
-tag object in a commit object.
-
-Keep the implementation sane if not fast by unembedding the tag
-object, converting the tag object, and embedding the new tag object,
-in the new commit object.
-
-In the long run I don't expect any other approach is maintainable, as
-tag objects may be extended in ways that require additional
-translation.
-
-To keep the implementation of convert_commit_object maintainable I
-have modified convert_commit_object to process the lines in any order,
-and to fail on unknown lines.  We can't know ahead of time if a new
-line might embed something that needs translation or not so it is
-better to fail and require the code to be updated instead of silently
-mistranslating objects.
-
-Signed-off-by: Eric W. Biederman &lt;ebiederm@xmission.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#318b023</div>
-                                        <div class="message">object-file-convert: convert commit objects when writing
-
-When writing a commit object in a repository with both SHA-1 and
-SHA-256, we'll need to convert our commit objects so that we can write
-the hash values for both into the repository.  To do so, let's add a
-function to convert commit objects.
-
-Read the commit object and map the tree value and any of the parent
-values, and copy the rest of the commit through unmodified.  Note that
-we don't need to modify the signature headers, because they are the
-same under both algorithms.
-
-Signed-off-by: brian m. carlson &lt;sandals@crustytoothpaste.net&gt;
-Signed-off-by: Eric W. Biederman &lt;ebiederm@xmission.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ac45d99</div>
-                                        <div class="message">object-file-convert: don't leak when converting tag objects
-
-Upon close examination I discovered that while brian's code to convert
-tag objects was functionally correct, it leaked memory.
-
-Rearrange the code so that all error checking happens before any
-memory is allocated.
-
-Add code to release the temporary strbufs the code uses.
-
-The code pretty much assumes the tag object ends with a newline,
-so add an explict test to verify that is the case.
-
-Signed-off-by: Eric W. Biederman &lt;ebiederm@xmission.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c8762c3</div>
-                                        <div class="message">object-file-convert: convert tag objects when writing
-
-When writing a tag object in a repository with both SHA-1 and SHA-256,
-we'll need to convert our commit objects so that we can write the hash
-values for both into the repository.  To do so, let's add a function to
-convert tag objects.
-
-Note that signatures for tag objects in the current algorithm trail the
-message, and those for the alternate algorithm are in headers.
-Therefore, we parse the tag object for both a trailing signature and a
-header and then, when writing the other format, swap the two around.
-
-Signed-off-by: brian m. carlson &lt;sandals@crustytoothpaste.net&gt;
-Signed-off-by: Eric W. Biederman &lt;ebiederm@xmission.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#33a14e8</div>
-                                        <div class="message">object-file-convert: add a function to convert trees between algorithms
-
-In the future, we're going to want to provide SHA-256 repositories that
-have compatibility support for SHA-1 as well.  In order to do so, we'll
-need to be able to convert tree objects from SHA-256 to SHA-1 by writing
-a tree with each SHA-256 object ID mapped to a SHA-1 object ID.
-
-We implement a function, convert_tree_object, that takes an existing
-tree buffer and writes it to a new strbuf, converting between
-algorithms.  Let's make this function generic, because while we only
-need it to convert from the main algorithm to the compatibility
-algorithm now, we may need to do the other way around in the future,
-such as for transport.
-
-We avoid reusing the code in decode_tree_entry because that code
-normalizes data, and we don't want that here.  We want to produce a
-complete round trip of data, so if, for example, the old entry had a
-wrongly zero-padded mode, we'd want to preserve that when converting to
-ensure a stable hash value.
-
-Signed-off-by: brian m. carlson &lt;sandals@crustytoothpaste.net&gt;
-Signed-off-by: Eric W. Biederman &lt;ebiederm@xmission.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#45b3b12</div>
-                                        <div class="message">object: factor out parse_mode out of fast-import and tree-walk into in object.h
-
-builtin/fast-import.c and tree-walk.c have almost identical version of
-get_mode.  The two functions started out the same but have diverged
-slightly.  The version in fast-import changed mode to a uint16_t to
-save memory.  The version in tree-walk started erroring if no mode was
-present.
-
-As far as I can tell both of these changes are valid for both of the
-callers, so add the both changes and place the common parsing helper
-in object.h
-
-Rename the helper from get_mode to parse_mode so it does not
-conflict with another helper named get_mode in diff-no-index.c
-
-This will be used shortly in a new helper decode_tree_entry_raw
-which is used to compute cmpatibility objects as part of
-the sha256 transition.
-
-Signed-off-by: "Eric W. Biederman" &lt;ebiederm@xmission.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#095261a</div>
-                                        <div class="message">cache: add a function to read an OID of a specific algorithm
-
-Currently, we always read a object ID of the current algorithm with
-oidread.  However, once we start converting objects, we'll need to
-consider what happens when we want to read an object ID of a specific
-algorithm, such as the compatibility algorithm.  To make this easier,
-let's define oidread_algop, which specifies which algorithm we should
-use for our object ID, and define oidread in terms of it.
-
-Signed-off-by: brian m. carlson &lt;sandals@crustytoothpaste.net&gt;
-Signed-off-by: "Eric W. Biederman" &lt;ebiederm@xmission.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#867386d</div>
-                                        <div class="message">tag: sign both hashes
-
-When we write a tag the object oid is specific to the hash algorithm.
-
-This matters when a tag is signed.  The hash transition plan calls for
-signatures on both the sha1 form and the sha256 form of the object,
-and for both of those signatures to live in the tag object.
-
-To generate tag object with multiple signatures, first compute the
-unsigned form of the tag, and then if the tag is being signed compute
-the unsigned form of the tag with the compatibilityr hash.  Then
-compute compute the signatures of both buffers.
-
-Once the signatures are computed add them to both buffers.  This
-allows computing the compatibility hash in do_sign, saving
-write_object_file the expense of recomputing the compatibility tag
-just to compute it's hash.
-
-Signed-off-by: Eric W. Biederman &lt;ebiederm@xmission.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6bcc5fa</div>
-                                        <div class="message">commit: export add_header_signature to support handling signatures on tags
-
-Rename add_commit_signature as add_header_signature, and expose it so
-that it can be used for converting tags from one object format to
-another.
-
-Inspired-by: brian m. carlson &lt;sandals@crustytoothpaste.net&gt;
-Signed-off-by: "Eric W. Biederman" &lt;ebiederm@xmission.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a3e8ae5</div>
-                                        <div class="message">commit: convert mergetag before computing the signature of a commit
-
-It so happens that commit mergetag lines embed a tag object.  So to
-compute the compatible signature of a commit object that has mergetag
-lines the compatible embedded tag must be computed first.
-
-Implement this by duplicating and converting the commit extra headers
-into the compatible version of the commit extra headers, that need
-to be passed to commit_tree_extended.
-
-To handle merge tags only the compatible extra headers need to be
-computed.
-
-Signed-off-by: Eric W. Biederman &lt;ebiederm@xmission.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6206089</div>
-                                        <div class="message">commit: write commits for both hashes
-
-When we write a commit, we include data that is specific to the hash
-algorithm, such as parents and the root tree.  In order to write both a
-SHA-1 commit and a SHA-256 version, we need to convert between them.
-
-However, a straightforward conversion isn't necessarily what we want.
-When we sign a commit, we sign its data, so if we create a commit for
-SHA-256 and then write a SHA-1 version, we'll still have only signed the
-SHA-256 data.  While this is valid, it would be better to sign both
-forms of data so people using SHA-1 can verify the signatures as well.
-
-Consequently, we don't want to use the standard mapping that occurs when
-we write an object.  Instead, let's move most of the writing of the
-commit into a separate function which is agnostic of the hash algorithm
-and which simply writes into a buffer and specify both versions of the
-object ourselves.
-
-We can then call this function twice: once with the SHA-256 contents,
-and if SHA-1 is enabled, once with the SHA-1 contents.  If we're signing
-the commit, we then sign both versions and append both signatures to
-both buffers.  To produce a consistent hash, we always append the
-signatures in the order in which Git implemented them: first SHA-1, then
-SHA-256.
-
-In order to make this signing code work, we split the commit signing
-code into two functions, one which signs the buffer, and one which
-appends the signature.
-
-Signed-off-by: brian m. carlson &lt;sandals@crustytoothpaste.net&gt;
-Signed-off-by: Eric W. Biederman &lt;ebiederm@xmission.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c253849</div>
-                                        <div class="message">object-file: add a compat_oid_in parameter to write_object_file_flags
-
-To create the proper signatures for commit objects both versions of
-the commit object need to be generated and signed.  After that it is
-a waste to throw away the work of generating the compatibility hash
-so update write_object_file_flags to take a compatibility hash input
-parameter that it can use to skip the work of generating the
-compatability hash.
-
-Update the places that don't generate the compatability hash to
-pass NULL so it is easy to tell write_object_file_flags should
-not attempt to use their compatability hash.
-
-Signed-off-by: "Eric W. Biederman" &lt;ebiederm@xmission.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#63a6745</div>
-                                        <div class="message">object-file: update the loose object map when writing loose objects
-
-To implement SHA1 compatibility on SHA256 repositories the loose
-object map needs to be updated whenver a loose object is written.
-Updating the loose object map this way allows git to support
-the old hash algorithm in constant time.
-
-The functions write_loose_object, and stream_loose_object are
-the only two functions that write to the loose object store.
-
-Update stream_loose_object to compute the compatibiilty hash, update
-the loose object, and then call repo_add_loose_object_map to update
-the loose object map.
-
-Update write_object_file_flags to convert the object into
-it's compatibility encoding, hash the compatibility encoding,
-write the object, and then update the loose object map.
-
-Update force_object_loose to lookup the hash of the compatibility
-encoding, write the loose object, and then update the loose object
-map.
-
-Update write_object_file_literally to convert the object into it's
-compatibility hash encoding, hash the compatibility enconding, write
-the object, and then update the loose object map, when the type string
-is a known type.  For objects with an unknown type this results in a
-partially broken repository, as the objects are not mapped.
-
-The point of write_object_file_literally is to generate a partially
-broken repository for testing.  For testing skipping writing the loose
-object map is much more useful than refusing to write the broken
-object at all.
-
-Except that the loose objects are updated before the loose object map
-I have not done any analysis to see how robust this scheme is in the
-event of failure.
-
-Signed-off-by: "Eric W. Biederman" &lt;ebiederm@xmission.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a2d923f</div>
-                                        <div class="message">loose: compatibilty short name support
-
-Update loose_objects_cache when udpating the loose objects map.  This
-oidtree is used to discover which oids are possibilities when
-resolving short names, and it can support a mixture of sha1
-and sha256 oids.
-
-With this any oid recorded objects/loose-objects-idx is usable
-for resolving an oid to an object.
-
-To make this maintainable a helper insert_loose_map is factored
-out of load_one_loose_object_map and repo_add_loose_object_map,
-and then modified to also update the loose_objects_cache.
-
-Signed-off-by: "Eric W. Biederman" &lt;ebiederm@xmission.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#23b2c7e</div>
-                                        <div class="message">loose: add a mapping between SHA-1 and SHA-256 for loose objects
-
-As part of the transition plan, we'd like to add a file in the .git
-directory that maps loose objects between SHA-1 and SHA-256.  Let's
-implement the specification in the transition plan and store this data
-on a per-repository basis in struct repository.
-
-Signed-off-by: brian m. carlson &lt;sandals@crustytoothpaste.net&gt;
-Signed-off-by: Eric W. Biederman &lt;ebiederm@xmission.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#15a1ca1</div>
-                                        <div class="message">repository: add a compatibility hash algorithm
-
-We currently have support for using a full stage 4 SHA-256
-implementation.  However, we'd like to support interoperability with
-SHA-1 repositories as well.  The transition plan anticipates a
-compatibility hash algorithm configuration option that we can use to
-implement support for this.  Let's add an element to the repository
-structure that indicates the compatibility hash algorithm so we can use
-it when we need to consider interoperability between algorithms.
-
-Add a helper function repo_set_compat_hash_algo that takes a
-compatibility hash algorithm and sets "repo-&gt;compat_hash_algo".  If
-GIT_HASH_UNKNOWN is passed as the compatibility hash algorithm
-"repo-&gt;compat_hash_algo" is set to NULL.
-
-For now, the code results in "repo-&gt;compat_hash_algo" always being set
-to NULL, but that will change once a configuration option is added.
-
-Inspired-by: brian m. carlson &lt;sandals@crustytoothpaste.net&gt;
-Signed-off-by: Eric W. Biederman &lt;ebiederm@xmission.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#52fca06</div>
-                                        <div class="message">object-names: support input of oids in any supported hash
-
-Support short oids encoded in any algorithm, while ensuring enough of
-the oid is specified to disambiguate between all of the oids in the
-repository encoded in any algorithm.
-
-By default have the code continue to only accept oids specified in the
-storage hash algorithm of the repository, but when something is
-ambiguous display all of the possible oids from any accepted oid
-encoding.
-
-A new flag is added GET_OID_HASH_ANY that when supplied causes the
-code to accept oids specified in any hash algorithm, and to return the
-oids that were resolved.
-
-This implements the functionality that allows both SHA-1 and SHA-256
-object names, from the "Object names on the command line" section of
-the hash function transition document.
-
-Care is taken in get_short_oid so that when the result is ambiguous
-the output remains the same if GIT_OID_HASH_ANY was not supplied.  If
-GET_OID_HASH_ANY was supplied objects of any hash algorithm that match
-the prefix are displayed.
-
-This required updating repo_for_each_abbrev to give it a parameter so
-that it knows to look at all hash algorithms.
-
-Signed-off-by: "Eric W. Biederman" &lt;ebiederm@xmission.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d50cbe4</div>
-                                        <div class="message">oid-array: teach oid-array to handle multiple kinds of oids
-
-While looking at how to handle input of both SHA-1 and SHA-256 oids in
-get_oid_with_context, I realized that the oid_array in
-repo_for_each_abbrev might have more than one kind of oid stored in it
-simultaneously.
-
-Update to oid_array_append to ensure that oids added to an oid array
-always have an algorithm set.
-
-Update void_hashcmp to first verify two oids use the same hash algorithm
-before comparing them to each other.
-
-With that oid-array should be safe to use with different kinds of
-oids simultaneously.
-
-Signed-off-by: "Eric W. Biederman" &lt;ebiederm@xmission.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5e9d802</div>
-                                        <div class="message">object-file-convert: stubs for converting from one object format to another
-
-Two basic functions are provided:
-- convert_object_file Takes an object file it's type and hash algorithm
-  and converts it into the equivalent object file that would
-  have been generated with hash algorithm "to".
-
-  For blob objects there is no conversation to be done and it is an
-  error to use this function on them.
-
-  For commit, tree, and tag objects embedded oids are replaced by the
-  oids of the objects they refer to with those objects and their
-  object ids reencoded in with the hash algorithm "to".  Signatures
-  are rearranged so that they remain valid after the object has
-  been reencoded.
-
-- repo_oid_to_algop which takes an oid that refers to an object file
-  and returns the oid of the equivalent object file generated
-  with the target hash algorithm.
-
-The pair of files object-file-convert.c and object-file-convert.h are
-introduced to hold as much of this logic as possible to keep this
-conversion logic cleanly separated from everything else and in the
-hopes that someday the code will be clean enough git can support
-compiling out support for sha1 and the various conversion functions.
-
-Signed-off-by: "Eric W. Biederman" &lt;ebiederm@xmission.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                        Deleted
+                      branch
+                                        <span class="code">revert-9-add-hardware</span>
+                                        in
+                                        <span class="repo">AIOps-ISET/AIOpsLab_tutorial</span>
                                     </div>
                                 </div>
                             </section>
@@ -554,38 +89,16 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">shejialuo/hexo-blog</span>
+                                        <span class="repo">AIOps-ISET/AIOpsLab_tutorial</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c047d57</div>
-                                        <div class="message">feat: change the theme to even for better appearance.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shejialuo/hexo-theme-even</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#05b5d5e</div>
-                                        <div class="message">feat: add some features
+                                        <div class="sha">#5dd688e</div>
+                                        <div class="message">Revert "feat: add hardware knowledge start"
 
-1. add mermaid support
-2. delete foot message
-3. fix the bug for multiple level list.</div>
+This reverts commit 3384e399a5da69d5603f1cc172a8cba61fae95a1.</div>
                                     </div>
                                 </div>
                             </section>
@@ -594,22 +107,48 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">shejialuo/shejialuo.github.io</span>
+                                        Merged
+                                        <span class="issue">#10 Revert "feat: add hardware knowledge start"</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#30eb54c</div>
-                                        <div class="message">Automated Commit by `hexo deploy`</div>
+                                    <div> in <span class="repo">AIOps-ISET/AIOpsLab_tutorial</span></div>
+                                    <div>2 files changed <span class="code">++0 --2</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#10 Revert "feat: add hardware knowledge start"</span>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#8b2a9e4</div>
-                                        <div class="message">First commit</div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">AIOps-ISET/AIOpsLab_tutorial</span></div>
+                                    <div>2 files changed <span class="code">++0 --2</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">revert-9-add-hardware</span>
+                                        in
+                                        <span class="repo">AIOps-ISET/AIOpsLab_tutorial</span>
                                     </div>
                                 </div>
                             </section>
@@ -630,7 +169,7 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~6 coding hours recorded
+                            ~8 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -672,27 +211,27 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">luo_obsidian</span>
-                                <div class="bar" style="width: 23.328000000000003%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">29%</span>
+                                <div class="bar" style="width: 25.272000000000002%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">32%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">even</span>
-                                <div class="bar" style="width: 20.12%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">25%</span>
+                                <div class="bar" style="width: 15.128%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">19%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">hexo-blog</span>
-                                <div class="bar" style="width: 19.952%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">25%</span>
+                                <div class="bar" style="width: 15%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">19%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 9.848%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">12%</span>
+                                <span class="name">git</span>
+                                <div class="bar" style="width: 11.008%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">14%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">code</span>
-                                <div class="bar" style="width: 4.648%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">AIOpsLab_tutorial</span>
+                                <div class="bar" style="width: 4.6240000000000006%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                         </div>
@@ -702,28 +241,28 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 36.727999999999994%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">46%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">YAML</span>
-                                <div class="bar" style="width: 17.152%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">21%</span>
+                                <div class="bar" style="width: 39.96000000000001%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">50%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 7.5760000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 16.224%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">20%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">YAML</span>
+                                <div class="bar" style="width: 12.896%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">16%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">EJS</span>
-                                <div class="bar" style="width: 7.456%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 5.608%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">7%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TOML</span>
-                                <div class="bar" style="width: 3.184%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <div class="bar" style="width: 0.968%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
                             </div>
                         </div>
                     </section>
