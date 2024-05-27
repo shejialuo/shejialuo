@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1017" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="668" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}svg.large .largeable-column-fields{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -57,6 +57,70 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">fsck-ref</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d4c3386</div>
+                                        <div class="message">fsck: setup ref consistency check infrastructure
+
+Add a new interface `check_ref_fn` for the `ref_storage_be`. Implement a
+demo to enable ref name check for file backends. Simply add the check to
+fsck builtin</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">fsck-ref</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#39433fa</div>
+                                        <div class="message">fsck: setup ref consistency check infrastructure
+
+Add a new interface `check_ref_fn` for the `ref_storage_be`. Implement a
+demo to enable ref name check for file backends. Simply add the check to
+fsck builtin</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">fsck-ref</span>
+                                        in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">shejialuo/dotfiles</span>
                                     </div>
                                 </div>
@@ -89,541 +153,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shejialuo/OS-Configuration</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0448c56</div>
-                                        <div class="message">add ranger again</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 230 commits in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#21bcb4a</div>
-                                        <div class="message">ci: drop duplicate package installation for "linux-gcc-default"
-
-The "linux-gcc-default" job installs common Ubuntu packages. This is
-already done in the distro-specific switch, so we basically duplicate
-the effort here.
-
-Drop the duplicate package installations and inline the variable that
-contains those common packages.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#11d3f1a</div>
-                                        <div class="message">ci: skip sudo when we are already root
-
-Our "install-dependencies.sh" script is executed by non-dockerized jobs
-to install dependencies. These jobs don't run with "root" permissions,
-but with a separate user. Consequently, we need to use sudo(8) there to
-elevate permissions when installing packages.
-
-We're about to merge "install-docker-dependencies.sh" into that script
-though, and our Docker containers do run as "root". Using sudo(8) is
-thus unnecessary there, even though it would be harmless. On some images
-like Alpine Linux though there is no sudo(8) available by default, which
-would consequently break the build.
-
-Adapt the script to make "sudo" a no-op when running as "root" user.
-This allows us to easily reuse the script for our dockerized jobs.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ab2b3aa</div>
-                                        <div class="message">ci: expose distro name in dockerized GitHub jobs
-
-Expose a distro name in dockerized jobs. This will be used in a
-subsequent commit where we merge the installation scripts for dockerized
-and non-dockerized jobs.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d65e5b</div>
-                                        <div class="message">ci: rename "runs_on_pool" to "distro"
-
-The "runs_on_pool" environment variable is used by our CI scripts to
-distinguish the different kinds of operating systems. It is quite
-specific to GitHub Actions though and not really a descriptive name.
-
-Rename the variable to "distro" to clarify its intent.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6741e91</div>
-                                        <div class="message">repository: avoid leaking `fsmonitor` data
-
-The `fsmonitor` repo-setting data is allocated lazily. It needs to be
-released in `repo_clear()` along the rest of the allocated data in
-`repository`.
-
-This is needed because the next commit will merge v2.39.4, which will
-add a `git checkout --recurse-modules` call (which would leak memory
-without this here fix) to an otherwise leak-free test script.
-
-Signed-off-by: Johannes Schindelin &lt;johannes.schindelin@gmx.de&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5d312ec</div>
-                                        <div class="message">remote-curl: add Transfer-Encoding header only for older curl
-
-As of curl 7.66.0, we don't need to manually specify a "chunked"
-Transfer-Encoding header. Instead, modern curl deduces the need for it
-in a POST that has a POSTFIELDSIZE of -1 and uses READFUNCTION rather
-than POSTFIELDS.
-
-That version is recent enough that we can't just drop the header; we
-need to do so conditionally. Since it's only a single line, it seems
-like the simplest thing would just be to keep setting it unconditionally
-(after all, the #ifdefs are much longer than the actual code). But
-there's another wrinkle: HTTP/2.
-
-Curl may choose to use HTTP/2 under the hood if the server supports it.
-And in that protocol, we do not use the chunked encoding for streaming
-at all. Most versions of curl handle this just fine by recognizing and
-removing the header. But there's a regression in curl 8.7.0 and 8.7.1
-where it doesn't, and large requests over HTTP/2 are broken (which t5559
-notices). That regression has since been fixed upstream, but not yet
-released.
-
-Make the setting of this header conditional, which will let Git work
-even with those buggy curl versions. And as a bonus, it serves as a
-reminder that we can eventually clean up the code as we bump the
-supported curl versions.
-
-This is a backport of 92a209bf24 (remote-curl: add Transfer-Encoding
-header only for older curl, 2024-04-05) into the `maint-2.39` branch.
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;
-Signed-off-by: Johannes Schindelin &lt;johannes.schindelin@gmx.de&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ea61df9</div>
-                                        <div class="message">INSTALL: bump libcurl version to 7.21.3
-
-Our documentation claims we support curl versions back to 7.19.5. But we
-can no longer compile with that version since adding an unconditional
-use of CURLOPT_RESOLVE in 511cfd3bff (http: add custom hostname to IP
-address resolutions, 2022-05-16). That feature wasn't added to libcurl
-until 7.21.3.
-
-We could add #ifdefs to make this work back to 7.19.5. But given that
-nobody noticed the compilation failure in the intervening two years, it
-makes more sense to bump the version in the documentation to 7.21.3
-(which is itself over 13 years old).
-
-We could perhaps go forward even more (which would let us drop some
-cruft from git-curl-compat.h), but this should be an obviously safe
-jump, and we can move forward later.
-
-Note that user-visible syntax for CURLOPT_RESOLVE has grown new features
-in subsequent curl versions. Our documentation mentions "+" and "-"
-entries, which require more recent versions than 7.21.3. We could
-perhaps clarify that in our docs, but it's probably not worth cluttering
-them with restrictions of ancient curl versions.
-
-This is a backport of c28ee09503 (INSTALL: bump libcurl version to
-7.21.3, 2024-04-02) into the `maint-2.39` branch.
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;
-Signed-off-by: Johannes Schindelin &lt;johannes.schindelin@gmx.de&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#580097b</div>
-                                        <div class="message">http: reset POSTFIELDSIZE when clearing curl handle
-
-In get_active_slot(), we return a CURL handle that may have been used
-before (reusing them is good because it lets curl reuse the same
-connection across many requests). We set a few curl options back to
-defaults that may have been modified by previous requests.
-
-We reset POSTFIELDS to NULL, but do not reset POSTFIELDSIZE (which
-defaults to "-1"). This usually doesn't matter because most POSTs will
-set both fields together anyway. But there is one exception: when
-handling a large request in remote-curl's post_rpc(), we don't set
-_either_, and instead set a READFUNCTION to stream data into libcurl.
-
-This can interact weirdly with a stale POSTFIELDSIZE setting, because
-curl will assume it should read only some set number of bytes from our
-READFUNCTION. However, it has worked in practice because we also
-manually set a "Transfer-Encoding: chunked" header, which libcurl uses
-as a clue to set the POSTFIELDSIZE to -1 itself.
-
-So everything works, but we're better off resetting the size manually
-for a few reasons:
-
-  - there was a regression in curl 8.7.0 where the chunked header
-    detection didn't kick in, causing any large HTTP requests made by
-    Git to fail. This has since been fixed (but not yet released). In
-    the issue, curl folks recommended setting it explicitly to -1:
-
-      https://github.com/curl/curl/issues/13229#issuecomment-2029826058
-
-    and it indeed works around the regression. So even though it won't
-    be strictly necessary after the fix there, this will help folks who
-    end up using the affected libcurl versions.
-
-  - it's consistent with what a new curl handle would look like. Since
-    get_active_slot() may or may not return a used handle, this reduces
-    the possibility of heisenbugs that only appear with certain request
-    patterns.
-
-Note that the recommendation in the curl issue is to actually drop the
-manual Transfer-Encoding header. Modern libcurl will add the header
-itself when streaming from a READFUNCTION. However, that code wasn't
-added until 802aa5ae2 (HTTP: use chunked Transfer-Encoding for HTTP_POST
-if size unknown, 2019-07-22), which is in curl 7.66.0. We claim to
-support back to 7.19.5, so those older versions still need the manual
-header.
-
-This is a backport of 3242311742 (http: reset POSTFIELDSIZE when
-clearing curl handle, 2024-04-02) into the `maint-2.39` branch.
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;
-Signed-off-by: Johannes Schindelin &lt;johannes.schindelin@gmx.de&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa74f32</div>
-                                        <div class="message">reftable/block: reuse compressed array
-
-Similar to the preceding commit, let's reuse the `compressed` array that
-we use to store compressed data in. This results in a small reduction in
-memory allocations when writing many refs.
-
-Before:
-
-  HEAP SUMMARY:
-      in use at exit: 671,931 bytes in 151 blocks
-    total heap usage: 22,620,528 allocs, 22,620,377 frees, 1,245,549,984 bytes allocated
-
-After:
-
-  HEAP SUMMARY:
-      in use at exit: 671,931 bytes in 151 blocks
-    total heap usage: 22,618,257 allocs, 22,618,106 frees, 1,236,351,528 bytes allocated
-
-So while the reduction in allocations isn't really all that big, it's a
-low hanging fruit and thus there isn't much of a reason not to pick it.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a155ab2</div>
-                                        <div class="message">reftable/block: reuse zstream when writing log blocks
-
-While most reftable blocks are written to disk as-is, blocks for log
-records are compressed with zlib. To compress them we use `compress2()`,
-which is a simple wrapper around the more complex `zstream` interface
-that would require multiple function invocations.
-
-One downside of this interface is that `compress2()` will reallocate
-internal state of the `zstream` interface on every single invocation.
-Consequently, as we call `compress2()` for every single log block which
-we are about to write, this can lead to quite some memory allocation
-churn.
-
-Refactor the code so that the block writer reuses a `zstream`. This
-significantly reduces the number of bytes allocated when writing many
-refs in a single transaction, as demonstrated by the following benchmark
-that writes 100k refs in a single transaction.
-
-Before:
-
-  HEAP SUMMARY:
-      in use at exit: 671,931 bytes in 151 blocks
-    total heap usage: 22,631,887 allocs, 22,631,736 frees, 1,854,670,793 bytes allocated
-
-After:
-
-  HEAP SUMMARY:
-      in use at exit: 671,931 bytes in 151 blocks
-    total heap usage: 22,620,528 allocs, 22,620,377 frees, 1,245,549,984 bytes allocated
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8aaeffe</div>
-                                        <div class="message">reftable/writer: reset `last_key` instead of releasing it
-
-The reftable writer tracks the last key that it has written so that it
-can properly compute the compressed prefix for the next record it is
-about to write. This last key must be reset whenever we move on to write
-the next block, which is done in `writer_reinit_block_writer()`. We do
-this by calling `strbuf_release()` though, which needlessly deallocates
-the underlying buffer.
-
-Convert the code to use `strbuf_reset()` instead, which saves one
-allocation per block we're about to write. This requires us to also
-amend `reftable_writer_free()` to release the buffer's memory now as we
-previously seemingly relied on `writer_reinit_block_writer()` to release
-the memory for us. Releasing memory here is the right thing to do
-anyway.
-
-While at it, convert a callsite where we truncate the buffer by setting
-its length to zero to instead use `strbuf_reset()`, too.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#60dd319</div>
-                                        <div class="message">reftable/writer: unify releasing memory
-
-There are two code paths which release memory of the reftable writer:
-
-  - `reftable_writer_close()` releases internal state after it has
-    written data.
-
-  - `reftable_writer_free()` releases the block that was written to and
-    the writer itself.
-
-Both code paths free different parts of the writer, and consequently the
-caller must make sure to call both. And while callers mostly do this
-already, this falls apart when a write failure causes the caller to skip
-calling `reftable_write_close()`.
-
-Introduce a new function `reftable_writer_release()` that releases all
-internal state and call it from both paths. Like this it is fine for the
-caller to not call `reftable_writer_close()`.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e892fe</div>
-                                        <div class="message">reftable/writer: refactorings for `writer_flush_nonempty_block()`
-
-Large parts of the reftable library do not conform to Git's typical code
-style. Refactor `writer_flush_nonempty_block()` such that it conforms
-better to it and add some documentation that explains some of its more
-intricate behaviour.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d0dd119</div>
-                                        <div class="message">reftable/writer: refactorings for `writer_add_record()`
-
-Large parts of the reftable library do not conform to Git's typical code
-style. Refactor `writer_add_record()` such that it conforms better to it
-and add some documentation that explains some of its more intricate
-behaviour.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#44afd85</div>
-                                        <div class="message">refs/reftable: don't recompute committer ident
-
-In order to write reflog entries we need to compute the committer's
-identity as it gets encoded in the log record itself. The reftable
-backend does this via `git_committer_info()` and `split_ident_line()` in
-`fill_reftable_log_record()`, which use the Git config as well as
-environment variables to figure out the identity.
-
-While most callers would only call `fill_reftable_log_record()` once or
-twice, `write_transaction_table()` will call it as many times as there
-are queued ref updates. This can be quite a waste of effort when writing
-many refs with reflog entries in a single transaction.
-
-Refactor the code to pre-compute the committer information. This results
-in a small speedup when writing 100000 refs in a single transaction:
-
-  Benchmark 1: update-ref: create many refs (HEAD~)
-    Time (mean ± σ):      2.895 s ±  0.020 s    [User: 1.516 s, System: 1.374 s]
-    Range (min … max):    2.868 s …  2.983 s    100 runs
-
-  Benchmark 2: update-ref: create many refs (HEAD)
-    Time (mean ± σ):      2.845 s ±  0.017 s    [User: 1.461 s, System: 1.379 s]
-    Range (min … max):    2.803 s …  2.913 s    100 runs
-
-  Summary
-    update-ref: create many refs (HEAD) ran
-      1.02 ± 0.01 times faster than update-ref: create many refs (HEAD~)
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#485c63c</div>
-                                        <div class="message">reftable: remove name checks
-
-In the preceding commit we have disabled name checks in the "reftable"
-backend. These checks were responsible for verifying multiple things
-when writing records to the reftable stack:
-
-  - Detecting file/directory conflicts. Starting with the preceding
-    commits this is now handled by the reftable backend itself via
-    `refs_verify_refname_available()`.
-
-  - Validating refnames. This is handled by `check_refname_format()` in
-    the generic ref transacton layer.
-
-The code in the reftable library is thus not used anymore and likely to
-bitrot over time. Remove it.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4af31dc</div>
-                                        <div class="message">refs/reftable: skip duplicate name checks
-
-All the callback functions which write refs in the reftable backend
-perform D/F conflict checks via `refs_verify_refname_available()`. But
-in reality we perform these D/F conflict checks a second time in the
-reftable library via `stack_check_addition()`.
-
-Interestingly, the code in the reftable library is inferior compared to
-the generic function:
-
-  - It is slower than `refs_verify_refname_available()`, even though
-    this can probably be optimized.
-
-  - It does not provide a proper error message to the caller, and thus
-    all the user would see is a generic "file/directory conflict"
-    message.
-
-Disable the D/F conflict checks in the reftable library by setting the
-`skip_name_check` write option. This results in a non-negligible speedup
-when writing many refs. The following benchmark writes 100k refs in a
-single transaction:
-
-  Benchmark 1: update-ref: create many refs (HEAD~)
-    Time (mean ± σ):      3.241 s ±  0.040 s    [User: 1.854 s, System: 1.381 s]
-    Range (min … max):    3.185 s …  3.454 s    100 runs
-
-  Benchmark 2: update-ref: create many refs (HEAD)
-    Time (mean ± σ):      2.878 s ±  0.024 s    [User: 1.506 s, System: 1.367 s]
-    Range (min … max):    2.838 s …  2.960 s    100 runs
-
-  Summary
-    update-ref: create many refs (HEAD~) ran
-      1.13 ± 0.02 times faster than update-ref: create many refs (HEAD)
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#455d61b</div>
-                                        <div class="message">refs/reftable: perform explicit D/F check when writing symrefs
-
-We already perform explicit D/F checks in all reftable callbacks which
-write refs, except when writing symrefs. For one this leads to an error
-message which isn't perfectly actionable because we only tell the user
-that there was a D/F conflict, but not which refs conflicted with each
-other. But second, once all ref updating callbacks explicitly check for
-D/F conflicts, we can disable the D/F checks in the reftable library
-itself and thus avoid some duplicated efforts.
-
-Refactor the code that writes symref tables to explicitly call into
-`refs_verify_refname_available()` when writing symrefs.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f57cc98</div>
-                                        <div class="message">refs/reftable: fix D/F conflict error message on ref copy
-
-The `write_copy_table()` function is shared between the reftable
-implementations for renaming and copying refs. The only difference
-between those two cases is that the rename will also delete the old
-reference, whereas copying won't.
-
-This has resulted in a bug though where we don't properly verify refname
-availability. When calling `refs_verify_refname_available()`, we always
-add the old ref name to the list of refs to be skipped when computing
-availability, which indicates that the name would be available even if
-it already exists at the current point in time. This is only the right
-thing to do for renames though, not for copies.
-
-The consequence of this bug is quite harmless because the reftable
-backend has its own checks for D/F conflicts further down in the call
-stack, and thus we refuse the update regardless of the bug. But all the
-user gets in this case is an uninformative message that copying the ref
-has failed, without any further details.
-
-Fix the bug and only add the old name to the skip-list in case we rename
-the ref. Consequently, this error case will now be handled by
-`refs_verify_refname_available()`, which knows to provide a proper error
-message.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#483b759</div>
-                                        <div class="message">Merge branch 'jk/unit-tests-buildfix' into js/unit-test-suite-runner
-
-* jk/unit-tests-buildfix:
-  t/Makefile: say the default target upfront
-  t/Makefile: get UNIT_TESTS list from C sources
-  Makefile: remove UNIT_TEST_BIN directory with "make clean"
-  Makefile: use mkdir_p_parent_template for UNIT_TEST_BIN</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shejialuo/MasterXiDian</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7d25439</div>
-                                        <div class="message">Update clc</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -640,7 +169,7 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~11 coding hours recorded
+                            ~14 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -652,7 +181,7 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                             </svg>
-                            Mostly coding in Markdown
+                            Mostly coding in C
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -682,28 +211,28 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 26.368000000000002%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">33%</span>
+                                <div class="bar" style="width: 22.552000000000003%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">28%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">t25x_modern_standby</span>
-                                <div class="bar" style="width: 17.968000000000004%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">22%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">MasterXiDian</span>
-                                <div class="bar" style="width: 15.24%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">git</span>
+                                <div class="bar" style="width: 15.232%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">19%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">nv_docs</span>
-                                <div class="bar" style="width: 11.856%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">t25x_modern_standby</span>
+                                <div class="bar" style="width: 14.104%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">18%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">MasterXiDian</span>
+                                <div class="bar" style="width: 11.959999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">15%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">OS-Configuration</span>
-                                <div class="bar" style="width: 8.32%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">10%</span>
+                                <span class="name">nv_docs</span>
+                                <div class="bar" style="width: 9.312000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">12%</span>
                             </div>
                         </div>
                     </section>
@@ -711,29 +240,29 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <h3>Language activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
+                                <span class="name">C</span>
+                                <div class="bar" style="width: 25.032%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">31%</span>
+                            </div>
+                            <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 21.224000000000004%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">27%</span>
+                                <div class="bar" style="width: 16.663999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">21%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">conf</span>
-                                <div class="bar" style="width: 16.224%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">20%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">C</span>
-                                <div class="bar" style="width: 13.712%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">17%</span>
+                                <div class="bar" style="width: 12.736%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">16%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 13.584%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">17%</span>
+                                <div class="bar" style="width: 10.888%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">14%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Bash</span>
-                                <div class="bar" style="width: 7.231999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 5.68%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">7%</span>
                             </div>
                         </div>
                     </section>
