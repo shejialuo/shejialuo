@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1305" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="756" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.punctuation{color:#8a93a8}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -41,18 +41,53 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shejialuo/shejialuo.github.io</span>
+                                        Commented on
+                                        <span class="issue">#14 &lt;docs&gt;(background_knowledge/LinuxKernel/LinuxKernel_knowledge.md)(bac…</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9f9c697</div>
-                                        <div class="message">Automated Commit by `hexo deploy`</div>
+                                    <div>opened by zuanbishuihun in <span class="repo">AIOps-ISET/AIOpsLab_tutorial</span></div>
+                                    <div class="comment">删除⭐</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#14 &lt;docs&gt;(background_knowledge/LinuxKernel/LinuxKernel_knowledge.md)(bac…</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by zuanbishuihun in <span class="repo">AIOps-ISET/AIOpsLab_tutorial</span></div>
+                                    <div class="comment">建议删除⭐</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#14 &lt;docs&gt;(background_knowledge/LinuxKernel/LinuxKernel_knowledge.md)(bac…</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by zuanbishuihun in <span class="repo">AIOps-ISET/AIOpsLab_tutorial</span></div>
+                                    <div class="comment">
+                                        为什么这里使用
+                                        <code>[]()</code>
+                                        呢？其他的链接都没有进行修饰，建议统一。
                                     </div>
                                 </div>
                             </section>
@@ -61,18 +96,20 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shejialuo/MasterXiDian</span>
+                                        Commented on
+                                        <span class="issue">#14 &lt;docs&gt;(background_knowledge/LinuxKernel/LinuxKernel_knowledge.md)(bac…</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2cd30b3</div>
-                                        <div class="message">Last Fix Due To Defense</div>
+                                    <div>opened by zuanbishuihun in <span class="repo">AIOps-ISET/AIOpsLab_tutorial</span></div>
+                                    <div class="comment">
+                                        如果我们使用了有序列表，那么后面的也应该是是有序列表，例如。
+                                        <code class="language-multiline language-md" xml:space="preserve"><span class="token list punctuation">1.</span> one-level
+    <span class="token list punctuation">1.</span> second-level</code>
+                                        不建议混用，建议全部使用无需列表
                                     </div>
                                 </div>
                             </section>
@@ -81,912 +118,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shejialuo/git</span>
+                                        Commented on
+                                        <span class="issue">#14 &lt;docs&gt;(background_knowledge/LinuxKernel/LinuxKernel_knowledge.md)(bac…</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">fsck-ref-v1</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#733b44f</div>
-                                        <div class="message">refs: add name and content check for file backend
-
-The existing git-fsck does not fully check bad format ref name such as
-standalone '@' or name ending with ".lock". And also `git-fsck` does not
-fully check ref content, the following contents will not be reported by
-the original git-fsck command.
-
-1. "c71dba5654404b9b0d378a6cbff1b743b9d31a34 garbage": with trailing
-   characters.
-2. "c71dba5654404b9b0d378a6cbff1b743b9d31a34    ": with trailing empty
-   characters.
-3. "C71DBA5654404b9b0d378a6cbff1b743b9d31A34": with uppercase hex.
-4. "z71dba5654404b9b0d378a6cbff1b743b9d31a34": with not hex character.
-
-Provide functionality to support such consistency checks for branch and
-tag refs and add a new unit test to verify this functionality.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 102 commits in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">fsck-ref-v1</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fc0202b</div>
-                                        <div class="message">fetch-pack: remove unused 'struct loose_object_iter'
-
-'struct loose_object_iter' in fetch-pack.c is unused since commit
-97b2fa08 (fetch-pack: drop custom loose object cache, 2018-11-12).
-
-Remove it.
-
-Signed-off-by: Dr. David Alan Gilbert &lt;dave@treblig.org&gt;
-Acked-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f01301a</div>
-                                        <div class="message">compat/regex: fix argument order to calloc(3)
-
-Windows compiler suddenly started complaining that calloc(3) takes
-its arguments in &lt;nmemb, size&gt; order.  Indeed, there are many calls
-that has their arguments in a _wrong_ order.
-
-Fix them all.
-
-A sample breakage can be seen at
-
-  https://github.com/git/git/actions/runs/9046793153/job/24857988702#step:4:272
-
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9422e71</div>
-                                        <div class="message">Merge branch 'ps/config-subcommands' into ps/builtin-config-cleanup
-
-* ps/config-subcommands:
-  builtin/config: display subcommand help
-  builtin/config: introduce "edit" subcommand
-  builtin/config: introduce "remove-section" subcommand
-  builtin/config: introduce "rename-section" subcommand
-  builtin/config: introduce "unset" subcommand
-  builtin/config: introduce "set" subcommand
-  builtin/config: introduce "get" subcommand
-  builtin/config: introduce "list" subcommand
-  builtin/config: pull out function to handle `--null`
-  builtin/config: pull out function to handle config location
-  builtin/config: use `OPT_CMDMODE()` to specify modes
-  builtin/config: move "fixed-value" option to correct group
-  builtin/config: move option array around
-  config: clarify memory ownership when preparing comment strings</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#120adc7</div>
-                                        <div class="message">SubmittingPatches: extend the "flow" section
-
-Explain a full lifecycle of a patch series upfront, so that it is
-clear when key decisions to "accept" a series is made and how a new
-patch series becomes a part of a new release.
-
-Fold the "you need to monitor the progress of your topic" section
-into the primary "patch lifecycle" section, as that is one of the
-things the patch submitter is responsible for.  It is not like "I
-sent a patch and responded to review messages, and now it is their
-problem".  They need to see their patch through the patch life
-cycle.
-
-Earlier versions of this document outlined a slightly different
-patch flow in an idealized world, where the original submitter
-gathered agreements from the participants of the discussion and sent
-the final "we all agreed that this is the good version--please
-apply" patches to the maintainer.  In practice, this almost never
-happened.  Instead, describe what flow was used in practice for the
-past decade that worked well for us.
-
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d58848f</div>
-                                        <div class="message">SubmittingPatches: move the patch-flow section earlier
-
-Before discussing the small details of how the patch gets sent, we'd
-want to give people a larger picture first to set the expectation
-straight.  The existing patch-flow section covers materials that are
-suitable for that purpose, so move it to the beginning of the
-document.  We'll update the contents of the section to clarify what
-goal the patch submitter is working towards in the next step, which
-will make it easier to understand the reason behind the individual
-rules presented in latter parts of the document.
-
-This step only moves two sections (patch-flow and patch-status)
-without changing their contents, except that their section levels
-are demoted from Level 1 to Level 2 to fit better in the document
-structure at their new place.
-
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c22d41d</div>
-                                        <div class="message">format-patch: run range-diff with larger creation-factor
-
-We see too often that a range-diff added to format-patch output
-shows too many "unmatched" patches.  This is because the default
-value for creation-factor is set to a relatively low value.
-
-It may be justified for other uses (like you have a yet-to-be-sent
-new iteration of your series, and compare it against the 'seen'
-branch that has an older iteration, probably with the '--left-only'
-option, to pick out only your patches while ignoring the others) of
-"range-diff" command, but when the command is run as part of the
-format-patch, the user _knows_ and expects that the patches in the
-old and the new iterations roughly correspond to each other, so we
-can and should use a much higher default.
-
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9339fca</div>
-                                        <div class="message">refs: return conflict error when checking packed refs
-
-The TRANSACTION_NAME_CONFLICT error code refers to a failure to create a
-ref due to a name conflict with another ref. An example of this is a
-directory/file conflict such as ref names A/B and A.
-
-"git fetch" uses this error code to more accurately describe the error
-by recommending to the user that they try running "git remote prune" to
-remove any old refs that are deleted by the remote which would clear up
-any directory/file conflicts.
-
-This helpful error message is not displayed when the conflicted ref is
-stored in packed refs. This change fixes this by ensuring error return
-code consistency in `lock_raw_ref`.
-
-Signed-off-by: Ivan Tse &lt;ivan.tse1@gmail.com&gt;
-Acked-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dc88e52</div>
-                                        <div class="message">trailer unit tests: inspect iterator contents
-
-Previously we only checked whether we would iterate a certain (expected)
-number of times.
-
-Also check the parsed "raw", "key" and "val" fields during each
-iteration.
-
-Helped-by: Junio C Hamano &lt;gitster@pobox.com&gt;
-Signed-off-by: Linus Arver &lt;linus@ucla.edu&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f80060</div>
-                                        <div class="message">trailer: document parse_trailers() usage
-
-Explain how to use parse_trailers(), because earlier we made the
-trailer_info struct opaque. That is, because clients can no longer peek
-inside it, we should give them guidance about how the (pointer to the)
-opaque struct can still be useful to them.
-
-Rename "head" struct to "trailer_objects" to make the wording of the new
-comments a bit easier to read (because "head" itself doesn't really have
-any domain-specific meaning here).
-
-Signed-off-by: Linus Arver &lt;linus@ucla.edu&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cf5c934</div>
-                                        <div class="message">trailer: retire trailer_info_get() from API
-
-Make trailer_info_get() "static" to be file-scoped to trailer.c, because
-no one outside of trailer.c uses it. Remove its declaration from
-&lt;trailer.h&gt;.
-
-We have to also reposition it to be above parse_trailers(), which
-depends on it.
-
-Signed-off-by: Linus Arver &lt;linus@ucla.edu&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c1e4b2b</div>
-                                        <div class="message">trailer: make trailer_info struct private
-
-In 13211ae23f (trailer: separate public from internal portion of
-trailer_iterator, 2023-09-09) we moved trailer_info behind an anonymous
-struct to discourage use by trailer.h API users. However it still left
-open the possibility of external use of trailer_info itself. Now that
-there are no external users of trailer_info, we can make this struct
-private.
-
-Make this struct private by putting its definition inside trailer.c.
-This has two benefits:
-
-  (1) it makes the surface area of the public facing
-      interface (trailer.h) smaller, and
-
-  (2) external API users are unable to peer inside this struct (because
-      it is only ever exposed as an opaque pointer).
-
-There are a few disadvantages:
-
-  (A) every time the member of the struct is accessed an extra pointer
-      dereference must be done, and
-
-  (B) for users of trailer_info outside trailer.c, this struct can no
-      longer be allocated on the stack and may only be allocated on the
-      heap (because its definition is hidden away in trailer.c) and
-      appropriately deallocated by the user, and
-
-  (C) without good documentation on the API, the opaque struct is
-      hostile to programmers by going opposite to the "Show me your
-      data structures, and I won't usually need your code; it'll
-      be obvious." mantra [2].
-
-(The disadvantages have already been observed in the two preparatory
-commits that precede this one.) This commit believes that the benefits
-outweigh the disadvantages for designing APIs, as explained below.
-
-Making trailer_info private exposes existing deficiencies in the API.
-This is because users of this struct had full access to its internals,
-so there wasn't much need to actually design it to be "complete" in the
-sense that API users only needed to use what was provided by the API.
-For example, the location of the trailer block (start/end offsets
-relative to the start of the input text) was accessible by looking at
-these struct members directly. Now that the struct is private, we have
-to expose new API functions to allow clients to access this
-information (see builtin/interpret-trailers.c).
-
-The idea in this commit to hide implementation details behind an "opaque
-pointer" is also known as the "pimpl" (pointer to implementation) idiom
-in C++ and is a common pattern in that language (where, for example,
-abstract classes only have pointers to concrete classes).
-
-However, the original inspiration to use this idiom does not come from
-C++, but instead the book "C Interfaces and Implementations: Techniques
-for Creating Reusable Software" [1]. This book recommends opaque
-pointers as a good design principle for designing C libraries, using the
-term "interface" as the functions defined in *.h (header) files and
-"implementation" as the corresponding *.c file which define the
-interfaces.
-
-The book says this about opaque pointers:
-
-    ... clients can manipulate such pointers freely, but they can’t
-    dereference them; that is, they can’t look at the innards of the
-    structure pointed to by them. Only the implementation has that
-    privilege. Opaque pointers hide representation details and help
-    catch errors.
-
-In our case, "struct trailer_info" is now hidden from clients, and the
-ways in which this opaque pointer can be used is limited to the richness
-of &lt;trailer.h&gt;. In other words, &lt;trailer.h&gt; exclusively controls exactly
-how "trailer_info" pointers are to be used.
-
-[1] Hanson, David R. "C Interfaces and Implementations: Techniques for
-    Creating Reusable Software". Addison Wesley, 1997. p. 22
-
-[2] Raymond, Eric S. "The Cathedral and the Bazaar: Musings on Linux and
-    Open Source by an Accidental Revolutionary". O'Reilly, 1999.
-
-Helped-by: Junio C Hamano &lt;gitster@pobox.com&gt;
-Helped-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
-Signed-off-by: Linus Arver &lt;linus@ucla.edu&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#24a25c6</div>
-                                        <div class="message">trailer: make parse_trailers() return trailer_info pointer
-
-This is the second and final preparatory commit for making the
-trailer_info struct private to the trailer implementation.
-
-Make trailer_info_get() do the actual work of allocating a new
-trailer_info struct, and return a pointer to it. Because
-parse_trailers() wraps around trailer_info_get(), it too can return this
-pointer to the caller. From the trailer API user's perspective, the call
-to trailer_info_new() can be replaced with parse_trailers(); do so in
-interpret-trailers.
-
-Because trailer_info_new() is no longer called by interpret-trailers,
-remove this function from the trailer API.
-
-With this change, we no longer allocate trailer_info on the stack ---
-all uses of it are via a pointer where the actual data is always
-allocated at runtime through trailer_info_new(). Make
-trailer_info_release() free this dynamically allocated memory.
-
-Finally, due to the way the function signatures of parse_trailers() and
-trailer_info_get() have changed, update the callsites in
-format_trailers_from_commit() and trailer_iterator_init() accordingly.
-
-Helped-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
-Signed-off-by: Linus Arver &lt;linus@ucla.edu&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#655eb65</div>
-                                        <div class="message">interpret-trailers: access trailer_info with new helpers
-
-Instead of directly accessing trailer_info members, access them
-indirectly through new helper functions exposed by the trailer API.
-
-This is the first of two preparatory commits which will allow us to
-use the so-called "pimpl" (pointer to implementation) idiom for the
-trailer API, by making the trailer_info struct private to the trailer
-implementation (and thus hidden from the API).
-
-Helped-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
-Signed-off-by: Linus Arver &lt;linus@ucla.edu&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ade054</div>
-                                        <div class="message">sequencer: use the trailer iterator
-
-Instead of calling "trailer_info_get()", which is a low-level function
-in the trailers implementation (trailer.c), call
-trailer_iterator_advance(), which was specifically designed for public
-consumption in f0939a0eb1 (trailer: add interface for iterating over
-commit trailers, 2020-09-27).
-
-Avoiding "trailer_info_get()" means we don't have to worry about options
-like "no_divider" (relevant for parsing trailers). We also don't have to
-check for things like "info.trailer_start == info.trailer_end" to see
-whether there were any trailers (instead we can just check to see
-whether the iterator advanced at all).
-
-Note how we have to use "iter.raw" in order to get the same behavior as
-before when we iterated over the unparsed string array (char **trailers)
-in trailer_info.
-
-Signed-off-by: Linus Arver &lt;linus@ucla.edu&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3be65e6</div>
-                                        <div class="message">trailer: teach iterator about non-trailer lines
-
-Previously the iterator did not iterate over non-trailer lines. This was
-somewhat unfortunate, because trailer blocks could have non-trailer
-lines in them since 146245063e (trailer: allow non-trailers in trailer
-block, 2016-10-21), which was before the iterator was created in
-f0939a0eb1 (trailer: add interface for iterating over commit trailers,
-2020-09-27).
-
-So if trailer API users wanted to iterate over all lines in a trailer
-block (including non-trailer lines), they could not use the iterator and
-were forced to use the lower-level trailer_info struct directly (which
-provides a raw string array that includes all lines in the trailer
-block).
-
-Change the iterator's behavior so that we also iterate over non-trailer
-lines, instead of skipping over them. The new "raw" member of the
-iterator allows API users to access previously inaccessible non-trailer
-lines. Reword the variable "trailer" to just "line" because this
-variable can now hold both trailer lines _and_ non-trailer lines.
-
-The new "raw" member is important because anyone currently not using the
-iterator is using trailer_info's raw string array directly to access
-lines to check what the combined key + value looks like. If we didn't
-provide a "raw" member here, iterator users would have to re-construct
-the unparsed line by concatenating the key and value back together again
-
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#56b0488</div>
-                                        <div class="message">trailer: add unit tests for trailer iterator
-
-Test the number of trailers found by the iterator (to be more precise,
-the parsing mechanism which the iterator just walks over) when given
-some arbitrary log message.
-
-We test the iterator because it is a public interface function exposed
-by the trailer API (we generally don't want to test internal
-implementation details which are, unlike the API, subject to drastic
-changes).
-
-Signed-off-by: Linus Arver &lt;linus@ucla.edu&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#704b590</div>
-                                        <div class="message">Makefile: sort UNIT_TEST_PROGRAMS
-
-Signed-off-by: Linus Arver &lt;linus@ucla.edu&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d424488</div>
-                                        <div class="message">rev-parse: document how --is-* options work outside a repository
-
-When "git rev-parse" is run with the "--is-inside-work-tree" option
-and friends outside a Git repository, the command exits with a
-non-zero status and says "fatal: not a repository".  While it is not
-wrong per-se, in the sense that it is useless to learn if we are
-inside or outside a working tree in the first place when we are not
-even in a repository, it could be argued that they should emit
-"false" and exit with status 0, as they cannot possibly be "true".
-
-As the current behaviour has been with us for a decade or more
-since it was introduced in Git 1.5.3 timeframe, it is too late to
-change it.
-
-And arguably, the current behaviour is easier to use if you want to
-distinguish among three states, i.e.,
-
- (1) the cwd is not controlled by Git at all
- (2) the cwd is inside a working tree
- (3) the cwd is not inside a working tree (e.g., .git/hooks/)
-
-with a single invocation of the command by doing
-
-    if inout=$(git rev-parse --is-inside-work-tree)
-    then
-        case "$inout" in
-        true)   : in a working tree ;;
-        false)  : not in a working tree ;;
-        esac
-    else
-        : not in a repository
-    fi
-
-So, let's document clearly that the command will die() when run
-outside a repository in general, unless in some special cases like
-when the command is in the --parseopt mode.
-
-While at it, update the introductory text that makes it sound as if
-the primary operating mode is the only operating mode of the
-command, which was written long before we added "--parseopt" and
-"--sq-quote" modes.
-
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c02dc38</div>
-                                        <div class="message">send-email: move newline characters out of a few translatable strings
-
-Move the already existing newline characters out of a few translatable
-strings, to help a bit with the translation efforts.
-
-Signed-off-by: Dragan Simic &lt;dsimic@manjaro.org&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fe86a34</div>
-                                        <div class="message">Merge branch 'la/format-trailer-info' into la/hide-trailer-info
-
-* la/format-trailer-info:
-  trailer: finish formatting unification
-  trailer: begin formatting unification
-  format_trailer_info(): append newline for non-trailer lines
-  format_trailer_info(): drop redundant unfold_value()
-  format_trailer_info(): use trailer_item objects</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 67 commits in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c0c1e26</div>
-                                        <div class="message">builtin/config: move display options into local variables
-
-The display options are tracked via a set of global variables. Move
-them into a self-contained structure so that we can easily parse all
-relevant options and hand them over to the various functions that
-require them.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ddb103c</div>
-                                        <div class="message">builtin/config: move location options into local variables
-
-The location options are tracked via a set of global variables. Move
-them into a self-contained structure so that we can easily parse all
-relevant options and hand them over to the various functions that
-require them.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#999425c</div>
-                                        <div class="message">builtin/config: refactor functions to have common exit paths
-
-Refactor functions to have a single exit path. This will make it easier
-in subsequent commits to add common cleanup code.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#12b2306</div>
-                                        <div class="message">config: make the config source const
-
-The `struct git_config_source` passed to `config_with_options()` is
-never modified. Let's mark it as `const` to clarify.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e44b018</div>
-                                        <div class="message">builtin/config: check for writeability after source is set up
-
-The `check_write()` function verifies that we do not try to write to a
-config source that cannot be written to, like for example stdin. But
-while the new subcommands do call this function, they do so before
-calling `handle_config_location()`. Consequently, we only end up
-checking the default config location for writeability, not the location
-that was actually specified by the caller of git-config(1).
-
-Fix this by calling `check_write()` after `handle_config_location()`. We
-will further clarify the relationship between those two functions in a
-subsequent commit where we remove the global state that both implicitly
-rely on.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9cab5e8</div>
-                                        <div class="message">builtin/config: move actions into `cmd_config_actions()`
-
-We only use actions in the legacy mode. Convert them to an enum and move
-them into `cmd_config_actions()` to clearly demonstrate that they are
-not used anywhere else.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d5387e</div>
-                                        <div class="message">builtin/config: move legacy options into `cmd_config()`
-
-Move the legacy options as well some of the variables it references into
-`cmd_config_action()`. This reduces our reliance on global state.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8b908f9</div>
-                                        <div class="message">builtin/config: move subcommand options into `cmd_config()`
-
-Move the subcommand options as well as the `subcommand` variable into
-`cmd_config()`. This reduces our reliance on global state.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0336d00</div>
-                                        <div class="message">builtin/config: move legacy mode into its own function
-
-In `cmd_config()` we first try to parse the provided arguments as
-subcommands and, if this is successful, call the respective functions
-of that subcommand. Otherwise we continue with the "legacy" mode that
-uses implicit actions and/or flags.
-
-Disentangle this by moving the legacy mode into its own function. This
-allows us to move the options into the respective functions and clearly
-separates concerns.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a577d2f</div>
-                                        <div class="message">builtin/config: stop printing full usage on misuse
-
-When invoking git-config(1) with a wrong set of arguments we end up
-calling `usage_builtin_config()` after printing an error message that
-says what was wrong. As that function ends up printing the full list of
-options, which is quite long, the actual error message will be buried by
-a wall of text. This makes it really hard to figure out what exactly
-caused the error.
-
-Furthermore, now that we have recently introduced subcommands, the usage
-information may actually be misleading as we unconditionally print
-options of the subcommand-less mode.
-
-Fix both of these issues by just not printing the options at all
-anymore. Instead, we call `usage()` that makes us report in a single
-line what has gone wrong. This should be way more discoverable for our
-users and addresses the inconsistency.
-
-Furthermore, this change allow us to inline the options into the
-respective functions that use them to parse the command line.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#85f360f</div>
-                                        <div class="message">pack-bitmap: introduce `bitmap_writer_free()`
-
-Now that there is clearer memory ownership around the bitmap_writer
-structure, introduce a bitmap_writer_free() function that callers may
-use to free any memory associated with their instance of the
-bitmap_writer structure.
-
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f25e1f2</div>
-                                        <div class="message">pack-bitmap-write.c: avoid uninitialized 'write_as' field
-
-Prepare to free() memory associated with bitmapped_commit structs by
-zero'ing the 'write_as' field.
-
-In ideal cases, it is fine to do something like:
-
-    for (i = 0; i &lt; writer-&gt;selected_nr; i++) {
-        struct bitmapped_commit *bc = &amp;writer-&gt;selected[i];
-        if (bc-&gt;write_as != bc-&gt;bitmap)
-            ewah_free(bc-&gt;write_as);
-        ewah_free(bc-&gt;bitmap);
-    }
-
-but if not all of the 'write_as' fields were populated (e.g., because
-the packing_data given does not form a reachability closure), then we
-may attempt to free uninitialized memory.
-
-Guard against this by preemptively zero'ing this field just in case.
-
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9675b06</div>
-                                        <div class="message">pack-bitmap: drop unused `max_bitmaps` parameter
-
-The `max_bitmaps` parameter in `bitmap_writer_select_commits()` was
-introduced back in 7cc8f97108 (pack-objects: implement bitmap writing,
-2013-12-21), making it original to the bitmap implementation in Git
-itself.
-
-When that patch was merged via 0f9e62e084 (Merge branch
-'jk/pack-bitmap', 2014-02-27), its sole caller in builtin/pack-objects.c
-passed a value of "-1" for `max_bitmaps`, indicating no limit.
-
-Since then, the only other caller (in midx.c, added via c528e17966
-(pack-bitmap: write multi-pack bitmaps, 2021-08-31)) also uses a value
-of "-1" for `max_bitmaps`.
-
-Since no callers have needed a finite limit for the `max_bitmaps`
-parameter in the nearly decade that has passed since 0f9e62e084, let's
-remove the parameter and any dead pieces of code connected to it.
-
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#07647c9</div>
-                                        <div class="message">pack-bitmap: avoid use of static `bitmap_writer`
-
-The pack-bitmap machinery uses a structure called 'bitmap_writer' to
-collect the data necessary to write out .bitmap files. Since its
-introduction in 7cc8f971085 (pack-objects: implement bitmap writing,
-2013-12-21), there has been a single static bitmap_writer structure,
-which is responsible for all bitmap writing-related operations.
-
-In practice, this is OK, since we are only ever writing a single .bitmap
-file in a single process (e.g., `git multi-pack-index write --bitmap`,
-`git pack-objects --write-bitmap-index`, `git repack -b`, etc.).
-
-However, having a single static variable makes issues like data
-ownership unclear, when to free variables, what has/hasn't been
-initialized unclear.
-
-Refactor this code to be written in terms of a given bitmap_writer
-structure instead of relying on a static global.
-
-Note that this exposes the structure definition of the bitmap_writer at
-the pack-bitmap.h level. We could work around this by, e.g., forcing
-callers to declare their writers as:
-
-    struct bitmap_writer *writer;
-    bitmap_writer_init(&amp;bitmap_writer);
-
-and then declaring `bitmap_writer_init()` as taking in a double-pointer
-like so:
-
-    void bitmap_writer_init(struct bitmap_writer **writer);
-
-which would avoid us having to expose the definition of the structure
-itself. This patch takes a different approach, since future patches
-(like for the ongoing pseudo-merge bitmaps work) will want to modify the
-innards of this structure (in the previous example, via pseudo-merge.c).
-
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#94830fc</div>
-                                        <div class="message">pack-bitmap-write.c: move commit_positions into commit_pos fields
-
-In 7cc8f971085 (pack-objects: implement bitmap writing, 2013-12-21), the
-bitmapped_commit struct was introduced, including the 'commit_pos'
-field, which has been unused ever since its introduction more than a
-decade ago.
-
-Instead, we have used the nearby `commit_positions` array leaving the
-bitmapped_commit struct with an unused 4-byte field.
-
-We could drop the `commit_pos` field as unused, and continue to store
-the values in the auxiliary array. But we could also drop the array and
-store the data for each bitmapped_commit struct inside of the structure
-itself, which is what this patch does.
-
-In any spot that we previously read `commit_positions[i]`, we can now
-instead read `writer.selected[i].commit_pos`. There are a few spots that
-need changing as a result:
-
-  - write_selected_commits_v1() is a simple transformation, since we're
-    just reading the field. As a result, the function no longer needs an
-    explicit argument to pass the commit_positions array.
-
-  - write_lookup_table() also no longer needs the explicit
-    commit_positions array passed in as an argument. But it still needs
-    to sort an array of indices into the writer.selected array to read
-    them in commit_pos order, so table_cmp() is adjusted accordingly.
-
-  - bitmap_writer_finish() no longer needs to allocate, populate, and
-    free the commit_positions table. Instead, we can just write the data
-    directly into each struct bitmapped_commit.
-
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b174a97</div>
-                                        <div class="message">object.h: add flags allocated by pack-bitmap.h
-
-In commit 7cc8f971085 (pack-objects: implement bitmap writing,
-2013-12-21) the NEEDS_BITMAP flag was introduced into pack-bitmap.h, but
-no object flags allocation table existed at the time.
-
-In 208acbfb82f (object.h: centralize object flag allocation, 2014-03-25)
-when that table was first introduced, we never added the flags from
-7cc8f971085, which has remained the case since.
-
-Rectify this by including the flag bit used by pack-bitmap.h into the
-centralized table in object.h.
-
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9422e71</div>
-                                        <div class="message">Merge branch 'ps/config-subcommands' into ps/builtin-config-cleanup
-
-* ps/config-subcommands:
-  builtin/config: display subcommand help
-  builtin/config: introduce "edit" subcommand
-  builtin/config: introduce "remove-section" subcommand
-  builtin/config: introduce "rename-section" subcommand
-  builtin/config: introduce "unset" subcommand
-  builtin/config: introduce "set" subcommand
-  builtin/config: introduce "get" subcommand
-  builtin/config: introduce "list" subcommand
-  builtin/config: pull out function to handle `--null`
-  builtin/config: pull out function to handle config location
-  builtin/config: use `OPT_CMDMODE()` to specify modes
-  builtin/config: move "fixed-value" option to correct group
-  builtin/config: move option array around
-  config: clarify memory ownership when preparing comment strings</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c22d41d</div>
-                                        <div class="message">format-patch: run range-diff with larger creation-factor
-
-We see too often that a range-diff added to format-patch output
-shows too many "unmatched" patches.  This is because the default
-value for creation-factor is set to a relatively low value.
-
-It may be justified for other uses (like you have a yet-to-be-sent
-new iteration of your series, and compare it against the 'seen'
-branch that has an older iteration, probably with the '--left-only'
-option, to pick out only your patches while ignoring the others) of
-"range-diff" command, but when the command is run as part of the
-format-patch, the user _knows_ and expects that the patches in the
-old and the new iterations roughly correspond to each other, so we
-can and should use a much higher default.
-
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d424488</div>
-                                        <div class="message">rev-parse: document how --is-* options work outside a repository
-
-When "git rev-parse" is run with the "--is-inside-work-tree" option
-and friends outside a Git repository, the command exits with a
-non-zero status and says "fatal: not a repository".  While it is not
-wrong per-se, in the sense that it is useless to learn if we are
-inside or outside a working tree in the first place when we are not
-even in a repository, it could be argued that they should emit
-"false" and exit with status 0, as they cannot possibly be "true".
-
-As the current behaviour has been with us for a decade or more
-since it was introduced in Git 1.5.3 timeframe, it is too late to
-change it.
-
-And arguably, the current behaviour is easier to use if you want to
-distinguish among three states, i.e.,
-
- (1) the cwd is not controlled by Git at all
- (2) the cwd is inside a working tree
- (3) the cwd is not inside a working tree (e.g., .git/hooks/)
-
-with a single invocation of the command by doing
-
-    if inout=$(git rev-parse --is-inside-work-tree)
-    then
-        case "$inout" in
-        true)   : in a working tree ;;
-        false)  : not in a working tree ;;
-        esac
-    else
-        : not in a repository
-    fi
-
-So, let's document clearly that the command will die() when run
-outside a repository in general, unless in some special cases like
-when the command is in the --parseopt mode.
-
-While at it, update the introductory text that makes it sound as if
-the primary operating mode is the only operating mode of the
-command, which was written long before we added "--parseopt" and
-"--sq-quote" modes.
-
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c02dc38</div>
-                                        <div class="message">send-email: move newline characters out of a few translatable strings
-
-Move the already existing newline characters out of a few translatable
-strings, to help a bit with the translation efforts.
-
-Signed-off-by: Dragan Simic &lt;dsimic@manjaro.org&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
+                                    <div>opened by zuanbishuihun in <span class="repo">AIOps-ISET/AIOpsLab_tutorial</span></div>
+                                    <div class="comment">同上进行相同的修改。</div>
                                 </div>
                             </section>
                         </div>
@@ -1006,7 +147,7 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~28 coding hours recorded
+                            ~26 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1048,28 +189,28 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">git</span>
-                                <div class="bar" style="width: 49.135999999999996%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">61%</span>
+                                <div class="bar" style="width: 50.12799999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">63%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">nv_docs</span>
-                                <div class="bar" style="width: 9.792000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">12%</span>
+                                <div class="bar" style="width: 8.08%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">10%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 6.688%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
+                                <div class="bar" style="width: 7.312000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">AIOpsLab_tutorial</span>
+                                <div class="bar" style="width: 3.84%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">hexo-blog</span>
-                                <div class="bar" style="width: 5.6240000000000006%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">7%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">t25x_modern_standby</span>
-                                <div class="bar" style="width: 2.544%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
+                                <div class="bar" style="width: 3.432%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
                             </div>
                         </div>
                     </section>
@@ -1078,28 +219,28 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 40.16%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">50%</span>
+                                <div class="bar" style="width: 40.928%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">51%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 19.584000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">24%</span>
+                                <div class="bar" style="width: 18.703999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">23%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Bash</span>
-                                <div class="bar" style="width: 9.128%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">11%</span>
+                                <div class="bar" style="width: 9.76%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">12%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Mail</span>
-                                <div class="bar" style="width: 4.776%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.512%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">TeX</span>
-                                <div class="bar" style="width: 2.504%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
+                                <span class="name">Git</span>
+                                <div class="bar" style="width: 1.7679999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                         </div>
                     </section>
