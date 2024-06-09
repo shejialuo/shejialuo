@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="986" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="855" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.chart-bars.horizontal .entry .name,.track .name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.categories{display:flex;align-items:center;justify-content:space-around;margin-top:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -44,411 +44,77 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 128 commits in
+                                        Pushed 4 commits in
                                         <span class="repo">shejialuo/git</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">js-refs-fsck</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c22d75b</div>
-                                        <div class="message">reftable/writer: improve error when passed an invalid block size
+                                        <div class="sha">#94d38ee</div>
+                                        <div class="message">builtin/fsck: add `git-refs verify` child process
 
-The reftable format only supports block sizes up to 16MB. When the
-writer is being passed a value bigger than that it simply calls
-abort(3P), which isn't all that helpful due to the lack of a proper
-error message.
+Introduce a new function "fsck_refs" that initializes and runs a child
+process to execute the "git-refs verify" command.
 
-Improve this by calling `BUG()` instead.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e0cf3d8</div>
-                                        <div class="message">reftable/writer: drop static variable used to initialize strbuf
+                                        <div class="sha">#0df0112</div>
+                                        <div class="message">builtin/refs: add verify subcommand
 
-We have a static variable in the reftable writer code that is merely
-used to initialize the `last_key` of the writer. Convert the code to
-instead use `strbuf_init()` and drop the variable.
+Introduce a new subcommand "verify" in git-refs(1) to allow the user to
+only check the reference database consistency.
 
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7992378</div>
-                                        <div class="message">reftable: pass opts as constant pointer
+                                        <div class="sha">#dd1f32e</div>
+                                        <div class="message">refs: set up ref consistency check infrastructure
 
-We sometimes pass the refatble write options as value and sometimes as a
-pointer. This is quite confusing and makes the reader wonder whether the
-options get modified sometimes.
+The interfaces defined in the `ref_storage_be` are carefully structured
+in semantic. It's organized as the five parts:
 
-In fact, `reftable_new_writer()` does cause the caller-provided options
-to get updated when some values aren't set up. This is quite unexpected,
-but didn't cause any harm until now.
+1. The name and the initialization interfaces.
+2. The ref transaction interfaces.
+3. The ref internal interfaces (pack, rename and copy).
+4. The ref filesystem interfaces.
+5. The reflog related interfaces.
 
-Adapt the code so that we do not modify the caller-provided values
-anymore. While at it, refactor the code to code to consistently pass the
-options as a constant pointer to clarify that the caller-provided opts
-will not ever get modified.
+To keep consistent with the git-fsck(1), add a new interface named
+"fsck_refs_fn" to the end of "ref_storage_be". This semantic cannot be
+grouped into any above five categories. Explicitly add blank line to
+make it different from others.
 
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#4d35bb2</div>
-                                        <div class="message">reftable: consistently refer to `reftable_write_options` as `opts`
+                                        <div class="sha">#1c5e468</div>
+                                        <div class="message">fsck: add refs check interfaces to interface with fsck error levels
 
-Throughout the reftable library the `reftable_write_options` are
-sometimes referred to as `cfg` and sometimes as `opts`. Unify these to
-consistently use `opts` to avoid confusion.
+The git-fsck(1) focuses on object database consistency check. It replies
+on the "fsck_options" to interact with fsck error levels. However,
+"fsck_options" aims at checking the object database which makes us
+unsuitable to change the semantics of it. Instead, create
+"fsck_refs_options" structure to handle refs consistency check.
 
-While at it, touch up the coding style a bit by removing unneeded braces
-around one-line statements and newlines between variable declarations.
+Move the "msg_type" and "strict" member to the top of the "fsck_options"
+which allows us to convert "fsck_refs_options *" to "fsck_options *" to
+reuse the interfaces provided by "fsck.h" without changing the original
+code.
 
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#17bc3a4</div>
-                                        <div class="message">Merge branch 'ps/undecided-is-not-necessarily-sha1' into jc/undecided-is-not-necessarily-sha1-fix
+Remove the "static" identifier for the "fsck_msg_type" function which we
+will use when checking the refs database.
 
-* ps/undecided-is-not-necessarily-sha1:
-  repository: stop setting SHA1 as the default object hash
-  oss-fuzz/commit-graph: set up hash algorithm
-  builtin/shortlog: don't set up revisions without repo
-  builtin/diff: explicitly set hash algo when there is no repo
-  builtin/bundle: abort "verify" early when there is no repository
-  builtin/blame: don't access potentially unitialized `the_hash_algo`
-  builtin/rev-parse: allow shortening to more than 40 hex characters
-  remote-curl: fix parsing of detached SHA256 heads
-  attr: fix BUG() when parsing attrs outside of repo
-  attr: don't recompute default attribute source
-  parse-options-cb: only abbreviate hashes when hash algo is known
-  path: move `validate_headref()` to its only user
-  path: harden validation of HEAD with non-standard hashes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c8aed5e</div>
-                                        <div class="message">repository: stop setting SHA1 as the default object hash
-
-During the startup of Git, we call `initialize_the_repository()` to set
-up `the_repository` as well as `the_index`. Part of this setup is also
-to set the default object hash of the repository to SHA1. This has the
-effect that `the_hash_algo` is getting initialized to SHA1, as well.
-This default hash algorithm eventually gets overridden by most Git
-commands via `setup_git_directory()`, which also detects the actual hash
-algorithm used by the repository.
-
-There are some commands though that don't access a repository at all, or
-at a later point only, and thus retain the default hash function for
-some amount of time. As some of the the preceding commits demonstrate,
-this can lead to subtle issues when we access `the_hash_algo` when no
-repository has been set up.
-
-Address this issue by dropping the set up of the default hash algorithm
-completely. The effect of this is that `the_hash_algo` will map to a
-`NULL` pointer and thus cause Git to crash when something tries to
-access the hash algorithm without it being properly initialized. It thus
-forces all Git commands to explicitly set up the hash algorithm in case
-there is no repository.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#781ba69</div>
-                                        <div class="message">oss-fuzz/commit-graph: set up hash algorithm
-
-Our fuzzing setups don't work in a proper repository, but only use the
-in-memory configured `the_repository`. Consequently, we never go through
-the full repository setup procedures and thus do not set up the hash
-algo used by the repository.
-
-The commit-graph fuzzer does rely on a properly initialized hash algo
-though. Initialize it explicitly.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#373bfa6</div>
-                                        <div class="message">builtin/shortlog: don't set up revisions without repo
-
-It is possible to run git-shortlog(1) outside of a repository by passing
-it output from git-log(1) via standard input. Obviously, as there is no
-repository in that context, it is thus unsupported to pass any revisions
-as arguments.
-
-Regardless of that we still end up calling `setup_revisions()`. While
-that works alright, it is somewhat strange. Furthermore, this is about
-to cause problems when we unset the default object hash.
-
-Refactor the code to only call `setup_revisions()` when we have a
-repository. This is safe to do as we already verify that there are no
-arguments when running outside of a repository anyway.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ab27490</div>
-                                        <div class="message">builtin/diff: explicitly set hash algo when there is no repo
-
-The git-diff(1) command can be used outside repositories to diff two
-files with each other. But even if there is no repository we will end up
-hashing the files that we are diffing so that we can print the "index"
-line:
-
-    ```
-    diff --git a/a b/b
-    index 7898192..6178079 100644
-    --- a/a
-    +++ b/b
-    @@ -1 +1 @@
-    -a
-    +b
-    ```
-
-We implicitly use SHA1 to calculate the hash here, which is because
-`the_repository` gets initialized with SHA1 during the startup routine.
-We are about to stop doing this though such that `the_repository` only
-ever has a hash function when it was properly initialized via a repo's
-configuration.
-
-To give full control to our users, we would ideally add a new switch to
-git-diff(1) that allows them to specify the hash function when executed
-outside of a repository. But for now, we only convert the code to make
-this explicit such that we can stop setting the default hash algorithm
-for `the_repository`.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#332b56b</div>
-                                        <div class="message">builtin/bundle: abort "verify" early when there is no repository
-
-Verifying a bundle requires us to have a repository. This is encoded in
-`verify_bundle()`, which will return an error if there is no repository.
-We call `open_bundle()` before we call `verify_bundle()` though, which
-already performs some verifications even though we may ultimately abort
-due to a missing repository.
-
-This is problematic because `open_bundle()` already reads the bundle
-header and verifies that it contains a properly formatted hash. When
-there is no repository we have no clue what hash function to expect
-though, so we always end up assuming SHA1 here, which may or may not be
-correct. Furthermore, we are about to stop initializing `the_hash_algo`
-when there is no repository, which will lead to segfaults.
-
-Check early on whether we have a repository to fix this issue.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ce992ce</div>
-                                        <div class="message">builtin/blame: don't access potentially unitialized `the_hash_algo`
-
-We access `the_hash_algo` in git-blame(1) before we have executed
-`parse_options_start()`, which may not be properly set up in case we
-have no repository. This is fine for most of the part because all the
-call paths that lead to it (git-blame(1), git-annotate(1) as well as
-git-pick-axe(1)) specify `RUN_SETUP` and thus require a repository.
-
-There is one exception though, namely when passing `-h` to print the
-help. Here we will access `the_hash_algo` even if there is no repo.
-This works fine right now because `the_hash_algo` gets sets up to point
-to the SHA1 algorithm via `initialize_repository()`. But we're about to
-stop doing this, and thus the code would lead to a `NULL` pointer
-exception.
-
-Prepare the code for this and only access `the_hash_algo` after we are
-sure that there is a proper repository.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#07658e9</div>
-                                        <div class="message">builtin/rev-parse: allow shortening to more than 40 hex characters
-
-The `--short=` option for git-rev-parse(1) allows the user to specify
-to how many characters object IDs should be shortened to. The option is
-broken though for SHA256 repositories because we set the maximum allowed
-hash size to `the_hash_algo-&gt;hexsz` before we have even set up the repo.
-Consequently, `the_hash_algo` will always be SHA1 and thus we truncate
-every hash after at most 40 characters.
-
-Fix this by accessing `the_hash_algo` only after we have set up the
-repo.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bd455ce</div>
-                                        <div class="message">remote-curl: fix parsing of detached SHA256 heads
-
-The dumb HTTP transport tries to read the remote HEAD reference by
-downloading the "HEAD" file and then parsing it via `http_fetch_ref()`.
-This function will either parse the file as an object ID in case it is
-exactly `the_hash_algo-&gt;hexsz` long, or otherwise it will check whether
-the reference starts with "ref :" and parse it as a symbolic ref.
-
-This is broken when parsing detached HEADs of a remote SHA256 repository
-because we never update `the_hash_algo` to the discovered remote object
-hash. Consequently, `the_hash_algo` will always be the fallback SHA1
-hash algorithm, which will cause us to fail parsing HEAD altogteher when
-it contains a SHA256 object ID.
-
-Fix this issue by setting up `the_hash_algo` via `repo_set_hash_algo()`.
-While at it, let's make the expected SHA1 fallback explicit in our code,
-which also addresses an upcoming issue where we are going to remove the
-SHA1 fallback for `the_hash_algo`.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#813f17f</div>
-                                        <div class="message">attr: fix BUG() when parsing attrs outside of repo
-
-If either the `--attr-source` option or the `GIT_ATTR_SOURCE` envvar are
-set, then `compute_default_attr_source()` will try to look up the value
-as a treeish. It is possible to hit that function while outside of a Git
-repository though, for example when using `git grep --no-index`. In that
-case, Git will hit a bug because we try to look up the main ref store
-outside of a repository.
-
-Handle the case gracefully and detect when we try to look up an attr
-source without a repository.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bbb82f8</div>
-                                        <div class="message">attr: don't recompute default attribute source
-
-The `default_attr_source()` function lazily computes the attr source
-supposedly once, only. This is done via a static variable `attr_source`
-that contains the resolved object ID of the attr source's tree. If the
-variable is the null object ID then we try to look up the attr source,
-otherwise we skip over it.
-
-This approach is flawed though: the variable will never be set to
-anything else but the null object ID in case there is no attr source.
-Consequently, we re-compute the information on every call. And in the
-worst case, when we silently ignore bad trees, this will cause us to try
-and look up the treeish every single time.
-
-Improve this by introducing a separate variable `has_attr_source` to
-track whether we already computed the attr source and, if so, whether we
-have an attr source or not.
-
-This also allows us to convert the `ignore_bad_attr_tree` to not be
-static anymore as the code will only be executed once anyway.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b7afb46</div>
-                                        <div class="message">parse-options-cb: only abbreviate hashes when hash algo is known
-
-The `OPT__ABBREV()` option can be used to add an option that abbreviates
-object IDs. When given a length longer than `the_hash_algo-&gt;hexsz`, then
-it will instead set the length to that maximum length.
-
-It may not always be guaranteed that we have `the_hash_algo` initialized
-properly as the hash algorithm can only be set up after we have set up
-`the_repository`. In that case, the hash would always be truncated to
-the hex length of SHA1, which may not be what the user desires.
-
-In practice it's not a problem as all commands that use `OPT__ABBREV()`
-also have `RUN_SETUP` set and thus cannot work without a repository.
-Consequently, both `the_repository` and `the_hash_algo` would be
-properly set up.
-
-Regardless of that, harden the code to not truncate the length when we
-didn't set up a repository.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0c6bd2b</div>
-                                        <div class="message">path: move `validate_headref()` to its only user
-
-While `validate_headref()` is only called from `is_git_directory()` in
-"setup.c", it is currently implemented in "path.c". Move it over such
-that it becomes clear that it is only really used during setup in order
-to discover repositories.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a0851ce</div>
-                                        <div class="message">path: harden validation of HEAD with non-standard hashes
-
-The `validate_headref()` function takes a path to a supposed "HEAD" file
-and checks whether its format is something that we understand. It is
-used as part of our repository discovery to check whether a specific
-directory is a Git directory or not.
-
-Part of the validation is a check for a detached HEAD that contains a
-plain object ID. To do this validation we use `get_oid_hex()`, which
-relies on `the_hash_algo`. At this point in time the hash algo cannot
-yet be initialized though because we didn't yet read the Git config.
-Consequently, it will always be the SHA1 hash algorithm.
-
-In practice this works alright because `get_oid_hex()` only ends up
-checking whether the prefix of the buffer is a valid object ID. And
-because SHA1 is shorter than SHA256, the function will successfully
-parse SHA256 object IDs, as well.
-
-It is somewhat fragile though and not really the intent to only check
-for SHA1. With this in mind, harden the code to use `get_oid_hex_any()`
-to check whether the "HEAD" file parses as any known hash.
-
-One might be hard pressed to tighten the check even further and fully
-validate the file contents, not only the prefix. In practice though that
-wouldn't make a lot of sense as it could be that the repository uses a
-hash function that produces longer hashes than SHA256, but which the
-current version of Git doesn't understand yet. We'd still want to detect
-the repository as proper Git repository in that case, and we will fail
-eventually with a proper error message that the hash isn't understood
-when trying to set up the repository format.
-
-It follows that we could just leave the current code intact, as in
-practice the code change doesn't have any user visible impact. But it
-also prepares us for `the_hash_algo` being unset when there is no
-repository.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3452c8a</div>
-                                        <div class="message">Merge branch 'ps/the-index-is-no-more' into ps/undecided-is-not-necessarily-sha1
-
-* ps/the-index-is-no-more:
-  repository: drop `initialize_the_repository()`
-  repository: drop `the_index` variable
-  builtin/clone: stop using `the_index`
-  repository: initialize index in `repo_init()`
-  builtin: stop using `the_index`
-  t/helper: stop using `the_index`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e9e8dd8</div>
-                                        <div class="message">Merge branch 'jc/no-default-attr-tree-in-bare' into ps/undecided-is-not-necessarily-sha1
-
-* jc/no-default-attr-tree-in-bare:
-  stop using HEAD for attributes in bare repository by default</div>
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -460,15 +126,33 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">AIOps-ISET/AIOpsLab_tutorial</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">shejialuo/git</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">js-refs-fsck</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a9f6849</div>
-                                        <div class="message">fix</div>
+                                        <div class="sha">#0509d88</div>
+                                        <div class="message">builtin/fsck: add `git-refs verify` child process
+
+Introduce a new function "fsck_refs" that initializes and runs a child
+process to execute the "git-refs verify" command.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3927a3e</div>
+                                        <div class="message">builtin/refs: add verify subcommand
+
+Introduce a new subcommand "verify" in git-refs(1) to allow the user to
+only check the reference database consistency.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -480,17 +164,33 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">AIOps-ISET/AIOpsLab_tutorial</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">shejialuo/git</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">js-refs-fsck</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c408cd0</div>
-                                        <div class="message">大模型部分
+                                        <div class="sha">#ba2c1ee</div>
+                                        <div class="message">builtin/fsck: add `git-refs verify` child process
 
-参考大模型基本原理与使用文档，写了method.md</div>
+Introduce a new function "fsck_refs" that initializes and runs a child
+process to execute the "git-refs verify" command.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#457a961</div>
+                                        <div class="message">builtin/refs: add verify subcommand
+
+Introduce a new subcommand "verify" in git-refs(1) to allow the user to
+only check the reference database consistency.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -499,16 +199,80 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#8 Discussion [RFC]: 培训文档新增内容</span>
+                                        Pushed 4 commits in
+                                        <span class="repo">shejialuo/git</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by shejialuo in <span class="repo">AIOps-ISET/AIOpsLab_tutorial</span></div>
-                                    <div class="comment">Thanks all. Close this issue.</div>
+                                    <div>on branch <span class="code">js-refs-fsck</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4894477</div>
+                                        <div class="message">builtin/fsck: add `git-refs verify` child process
+
+Introduce a new function "fsck_refs" that initializes and runs a child
+process to execute the "git-refs verify" command.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#baa680d</div>
+                                        <div class="message">builtin/refs: add verify subcommand
+
+Introduce a new subcommand "verify" in git-refs(1) to allow the user to
+only check the reference database consistency.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f75d232</div>
+                                        <div class="message">refs: set up ref consistency check infrastructure
+
+The interfaces defined in the `ref_storage_be` are carefully structured
+in semantic. It's organized as the five parts:
+
+1. The name and the initialization interfaces.
+2. The ref transaction interfaces.
+3. The ref internal interfaces (pack, rename and copy).
+4. The ref filesystem interfaces.
+5. The reflog related interfaces.
+
+To keep consistent with the git-fsck(1), add a new interface named
+"fsck_refs_fn" to the end of "ref_storage_be". This semantic cannot be
+grouped into any above five categories. Explicitly add blank line to
+make it different from others.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#abde891</div>
+                                        <div class="message">fsck: add refs check interfaces to interface with fsck error levels
+
+The git-fsck(1) focuses on object database consistency check. It replies
+on the "fsck_options" to interact with fsck error levels. However,
+"fsck_options" aims at checking the object database which makes us
+unsuitable to change the semantics of it. Instead, create
+"fsck_refs_options" structure to handle refs consistency check.
+
+Move the "msg_type" member to the top of the "fsck_options" which allows
+us to convert "fsck_refs_options *" to "fsck_options *" to reuse the
+interfaces provided by "fsck.h" without changing the original code.
+
+Remove the "static" identifier for the "fsck_msg_type" function which we
+will use when checking the refs database.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -516,16 +280,80 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Closed
-                                        <span class="issue">#8 Discussion [RFC]: 培训文档新增内容</span>
+                                        Pushed 4 commits in
+                                        <span class="repo">shejialuo/git</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">AIOps-ISET/AIOpsLab_tutorial</span></div>
+                                    <div>on branch <span class="code">js-refs-fsck</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7136655</div>
+                                        <div class="message">builtin/fsck: add `git-refs verify` child process
+
+Introduce a new function "fsck_refs" that initializes and runs a child
+process to execute the "git-refs verify" command.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#483b585</div>
+                                        <div class="message">builtin/refs: add verify subcommand
+
+Introduce a new subcommand "verify" in git-refs(1) to allow the user to
+only check the reference database consistency.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd7fa05</div>
+                                        <div class="message">refs: set up ref consistency check infrastructure
+
+The interfaces defined in the `ref_storage_be` are carefully structured
+in semantic. It's organized as the five parts:
+
+1. The name and the initialization interfaces.
+2. The ref transaction interfaces.
+3. The ref internal interfaces (pack, rename and copy).
+4. The ref filesystem interfaces.
+5. The reflog related interfaces.
+
+To keep consistent with the git-fsck(1), add a new interface named
+"fsck_refs_fn" to the end of "ref_storage_be". This semantic cannot be
+grouped into any above five categories. Explicitly add blank line to
+make it different from others.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9032ca2</div>
+                                        <div class="message">fsck: add refs check interfaces to interface with fsck error levels
+
+The git-fsck(1) focuses on object database consistency check. It replies
+on the "fsck_options" to interact with fsck error levels. However,
+"fsck_options" aims at checking the object database which makes us
+unsuitable to change the semantics of it. Instead, create
+"fsck_refs_options" structure to handle refs consistency check.
+
+Move the "msg_type" member to the top of the "fsck_options" which allows
+us to convert "fsck_refs_options *" to "fsck_options *" to reuse the
+interfaces provided by "fsck.h" without changing the original code.
+
+Remove the "static" identifier for the "fsck_msg_type" function which we
+will use when checking the refs database.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -545,7 +373,7 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~17 coding hours recorded
+                            ~27 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -565,7 +393,7 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/>
                             </svg>
-                            ~3 hours of coding per day
+                            ~4 hours of coding per day
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -587,28 +415,28 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">git</span>
-                                <div class="bar" style="width: 51.648%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">65%</span>
+                                <div class="bar" style="width: 62.664%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">78%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">AIOpsLab_tutorial</span>
-                                <div class="bar" style="width: 9.312000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">12%</span>
+                                <div class="bar" style="width: 5.720000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">7%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">luo_obsidian</span>
-                                <div class="bar" style="width: 5.968%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">7%</span>
+                                <div class="bar" style="width: 3.552%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">hexo-blog</span>
-                                <div class="bar" style="width: 5.328%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">7%</span>
+                                <div class="bar" style="width: 3.272%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 2.784%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
+                                <div class="bar" style="width: 1.7120000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                         </div>
                     </section>
@@ -617,28 +445,28 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 51.59199999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">64%</span>
+                                <div class="bar" style="width: 59.727999999999994%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">75%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 20.863999999999997%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">26%</span>
+                                <div class="bar" style="width: 12.704%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">16%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Bash</span>
+                                <div class="bar" style="width: 1.784%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TeX</span>
-                                <div class="bar" style="width: 1.9440000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">2%</span>
+                                <div class="bar" style="width: 1.192%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Git</span>
-                                <div class="bar" style="width: 1.5439999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">2%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">conf</span>
-                                <div class="bar" style="width: 1.4400000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">2%</span>
+                                <div class="bar" style="width: 0.984%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
                             </div>
                         </div>
                     </section>
