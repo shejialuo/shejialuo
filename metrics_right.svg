@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="756" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="989" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.categories{display:flex;align-items:center;justify-content:space-around;margin-top:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.label,.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;border-radius:32px;font-size:12px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.chart-bars.horizontal .entry .name,.track .name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -44,35 +44,391 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shejialuo/shejialuo.github.io</span>
+                                        Pushed 116 commits in
+                                        <span class="repo">shejialuo/git</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f5ac89b</div>
-                                        <div class="message">Automated Commit by `hexo deploy`</div>
+                                        <div class="sha">#d58a687</div>
+                                        <div class="message">mv: factor out empty src_dir removal
+
+This pulls the loop added by b6f51e3db9 (mv: cleanup empty
+WORKING_DIRECTORY, 2022-08-09) into a sub-function. That reduces clutter
+in cmd_mv() and makes it easier to see that the lifetime of the
+a_src_dir strbuf is limited to this code (and thus its cleanup doesn't
+need to go after the "out" label).
+
+Another option would be to just declare the strbuf inside the loop,
+since it is only used there. But this refactor retains the existing
+property that we can reuse the allocated buffer for each iteration of
+the loop. That optimization is probably overkill, but I think the
+sub-function is more readable anyway, and then keeping the optimization
+is basically free.
+
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shejialuo/hexo-blog</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#846c57d</div>
-                                        <div class="message">Add GSoC Week 3</div>
+                                        <div class="sha">#cc65e08</div>
+                                        <div class="message">mv: move src_dir cleanup to end of cmd_mv()
+
+Commit b6f51e3db9 (mv: cleanup empty WORKING_DIRECTORY, 2022-08-09)
+added an auxiliary array where we store directory arguments that we see
+while processing the incoming arguments. After actually moving things,
+we then use that array to remove now-empty directories, and then
+immediately free the array.
+
+But if the actual move queues any errors in only_match_skip_worktree,
+that can cause us to jump straight to the "out" label to clean up,
+skipping the free() and leaking the array.
+
+Let's push the free() down past the "out" label so that we always clean
+up (the array is initialized to NULL, so this is always safe). We'll
+hold on to the memory a little longer than necessary, but clarity is
+more important than micro-optimizing here.
+
+Note that the adjacent "a_src_dir" strbuf does not suffer the same
+problem; it is only allocated during the removal step.
+
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#34eb843</div>
+                                        <div class="message">t-strvec: mark variable-arg helper with LAST_ARG_MUST_BE_NULL
+
+This will let the compiler catch a problem like:
+
+  /* oops, we forgot the NULL */
+  check_strvec(&amp;vec, "foo");
+
+rather than triggering undefined behavior at runtime.
+
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b639884</div>
+                                        <div class="message">t-strvec: use va_end() to match va_start()
+
+Our check_strvec_loc() helper uses a variable argument list. When we
+va_start(), we must be sure to va_end() before leaving the function.
+This is required by the standard (though the effect of forgetting will
+vary between platforms).
+
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a3f0e2a</div>
+                                        <div class="message">Merge branch 'ps/leakfixes' into jk/leakfixes
+
+* ps/leakfixes:
+  builtin/mv: fix leaks for submodule gitfile paths
+  builtin/mv: refactor to use `struct strvec`
+  builtin/mv duplicate string list memory
+  builtin/mv: refactor `add_slash()` to always return allocated strings
+  strvec: add functions to replace and remove strings
+  submodule: fix leaking memory for submodule entries
+  commit-reach: fix memory leak in `ahead_behind()`
+  builtin/credential: clear credential before exit
+  config: plug various memory leaks
+  config: clarify memory ownership in `git_config_string()`
+  builtin/log: stop using globals for format config
+  builtin/log: stop using globals for log config
+  convert: refactor code to clarify ownership of check_roundtrip_encoding
+  diff: refactor code to clarify memory ownership of prefixes
+  config: clarify memory ownership in `git_config_pathname()`
+  http: refactor code to clarify memory ownership
+  checkout: clarify memory ownership in `unique_tracking_name()`
+  strbuf: fix leak when `appendwholeline()` fails with EOF
+  transport-helper: fix leaking helper name</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#efa8786</div>
+                                        <div class="message">t: improve the test-case for parse_names()
+
+In the existing test-case for parse_names(), the fact that empty
+lines should be ignored is not obvious because the empty line is
+immediately followed by end-of-string. This can be mistaken as the
+empty line getting replaced by NULL. Improve this by adding a
+non-empty line after the empty one to demonstrate the intended behavior.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
+Signed-off-by: Chandra Pratap &lt;chandrapratap3519@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e31efff</div>
+                                        <div class="message">t: add test for put_be16()
+
+put_be16() is a function defined in reftable/basics.{c, h} for which
+there are no tests in the current setup. Add a test for the same.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
+Signed-off-by: Chandra Pratap &lt;chandrapratap3519@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#afe5b9e</div>
+                                        <div class="message">t: move tests from reftable/record_test.c to the new unit test
+
+common_prefix_size(), get_be24() and put_be24() are functions defined
+in reftable/basics.{c, h}. Move the tests for these functions from
+reftable/record_test.c to the newly ported test.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
+Signed-off-by: Chandra Pratap &lt;chandrapratap3519@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f74e186</div>
+                                        <div class="message">t: move tests from reftable/stack_test.c to the new unit test
+
+parse_names() and names_equal() are functions defined in
+reftable/basics.{c, h}. Move the tests for these functions from
+reftable/stack_test.c to the newly ported test.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
+Signed-off-by: Chandra Pratap &lt;chandrapratap3519@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b34116a</div>
+                                        <div class="message">t: move reftable/basics_test.c to the unit testing framework
+
+reftable/basics_test.c exercise the functions defined in
+reftable/basics.{c, h}. Migrate reftable/basics_test.c to the
+unit testing framework. Migration involves refactoring the tests
+to use the unit testing framework instead of reftable's test
+framework.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
+Signed-off-by: Chandra Pratap &lt;chandrapratap3519@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#313eec1</div>
+                                        <div class="message">safe.directory: allow "lead/ing/path/*" match
+
+When safe.directory was introduced in v2.30.3 timeframe, 8959555c
+(setup_git_directory(): add an owner check for the top-level
+directory, 2022-03-02), it only allowed specific opt-out
+directories.  Immediately after an embargoed release that included
+the change, 0f85c4a3 (setup: opt-out of check with safe.directory=*,
+2022-04-13) was done as a response to loosen the check so that a
+single '*' can be used to say "I trust all repositories" for folks
+who host too many repositories to list individually.
+
+Let's further loosen the check to allow people to say "everything
+under this hierarchy is deemed safe" by specifying such a leading
+directory with "/*" appended to it.
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5529cba</div>
+                                        <div class="message">Merge branch 'ps/leakfixes' into ps/no-writable-strings
+
+* ps/leakfixes:
+  builtin/mv: fix leaks for submodule gitfile paths
+  builtin/mv: refactor to use `struct strvec`
+  builtin/mv duplicate string list memory
+  builtin/mv: refactor `add_slash()` to always return allocated strings
+  strvec: add functions to replace and remove strings
+  submodule: fix leaking memory for submodule entries
+  commit-reach: fix memory leak in `ahead_behind()`
+  builtin/credential: clear credential before exit
+  config: plug various memory leaks
+  config: clarify memory ownership in `git_config_string()`
+  builtin/log: stop using globals for format config
+  builtin/log: stop using globals for log config
+  convert: refactor code to clarify ownership of check_roundtrip_encoding
+  diff: refactor code to clarify memory ownership of prefixes
+  config: clarify memory ownership in `git_config_pathname()`
+  http: refactor code to clarify memory ownership
+  checkout: clarify memory ownership in `unique_tracking_name()`
+  strbuf: fix leak when `appendwholeline()` fails with EOF
+  transport-helper: fix leaking helper name</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2794932</div>
+                                        <div class="message">t/: migrate helper/test-{sha1, sha256} to unit-tests/t-hash
+
+t/helper/test-{sha1, sha256} and t/t0015-hash.sh test the hash
+implementation of SHA-1 and SHA-256 in Git with basic hash values.
+Migrate them to the new unit testing framework for better debugging
+and runtime performance.
+
+The 'sha1' and 'sha256' subcommands are still not removed due to
+pack_trailer():lib-pack.sh's reliance on them. The 'sha1' subcommand
+is also relied upon by t0013-sha1dc (which requires 'test-tool
+sha1' dying when it is used on a file created to contain the
+known sha1 attack).
+
+Helped-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
+Mentored-by: Kaartic Sivaraam &lt;kaartic.sivaraam@gmail.com&gt;
+Co-authored-by: Achu Luma &lt;ach.lumap@gmail.com&gt;
+Signed-off-by: Achu Luma &lt;ach.lumap@gmail.com&gt;
+Signed-off-by: Ghanshyam Thakkar &lt;shyamthakkar001@gmail.com&gt;
+Acked-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a70f8f1</div>
+                                        <div class="message">strbuf: introduce strbuf_addstrings() to repeatedly add a string
+
+In a following commit we are going to port code from
+"t/helper/test-sha256.c", t/helper/test-hash.c and "t/t0015-hash.sh" to
+a new "t/unit-tests/t-hash.c" file using the recently added unit test
+framework.
+
+To port code like: perl -e "$| = 1; print q{aaaaaaaaaa} for 1..100000;"
+we are going to need a new strbuf_addstrings() function that repeatedly
+adds the same string a number of times to a buffer.
+
+Such a strbuf_addstrings() function would already be useful in
+"json-writer.c" and "builtin/submodule-helper.c" as both of these files
+already have code that repeatedly adds the same string. So let's
+introduce such a strbuf_addstrings() function in "strbuf.{c,h}" and use
+it in both "json-writer.c" and "builtin/submodule-helper.c".
+
+We use the "strbuf_addstrings" name as this way strbuf_addstr() and
+strbuf_addstrings() would be similar for strings as strbuf_addch() and
+strbuf_addchars() for characters.
+
+Helped-by: Junio C Hamano &lt;gitster@pobox.com&gt;
+Mentored-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
+Mentored-by: Kaartic Sivaraam &lt;kaartic.sivaraam@gmail.com&gt;
+Co-authored-by: Achu Luma &lt;ach.lumap@gmail.com&gt;
+Signed-off-by: Achu Luma &lt;ach.lumap@gmail.com&gt;
+Signed-off-by: Ghanshyam Thakkar &lt;shyamthakkar001@gmail.com&gt;
+Acked-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#456b4dc</div>
+                                        <div class="message">t/: migrate helper/test-example-decorate to the unit testing framework
+
+helper/test-example-decorate.c along with t9004-example.sh provide
+an example of how to use the functions in decorate.h (which provides
+a data structure that associates Git objects to void pointers) and
+also test their output.
+
+Migrate them to the new unit testing framework for better debugging
+and runtime performance.
+
+Mentored-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
+Mentored-by: Kaartic Sivaraam &lt;kaartic.sivaraam@gmail.com&gt;
+Signed-off-by: Ghanshyam Thakkar &lt;shyamthakkar001@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#174443e</div>
+                                        <div class="message">Documentation: alias: rework notes into points
+
+There are a number of caveats when using aliases.  Rather than
+stuffing them all together in a paragraph, let's separate them out
+into individual points to make it clearer what's going on.
+
+Signed-off-by: Ian Wienand &lt;iwienand@redhat.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2fa04ce</div>
+                                        <div class="message">format-patch: move range/inter diff at the end of a single patch output
+
+When running "format-patch" on a multiple patch series, the output
+coming from "--interdiff" and "--range-diff" options is inserted
+after the "shortlog" list of commits and the overall diffstat.
+
+The idea is that shortlog/diffstat are shorter and with denser
+information content, which gives a better overview before the
+readers dive into more details of range/inter diff.
+
+When working on a single patch, however, we stuff the inter/range
+diff output before the actual patch, next to the diffstat.  This
+pushes down the patch text way down with inter/range diff output,
+distracting readers.
+
+Move the inter/range diff output to the very end of the output,
+after all the patch text is shown.
+
+As the inter/range diff is no longer part of the commentary block
+(i.e., what comes after the log message and "---", but before the
+patch text), stop producing "---" in the function that generates
+them.  But to separate it out visually (note: this is not needed
+to help tools like "git apply" that pay attention to the hunk
+headers to figure out the length of the hunks), add an extra blank
+line between the end of the patch text and the inter/range diff.
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#84ed505</div>
+                                        <div class="message">show_log: factor out interdiff/range-diff generation
+
+The integration of "git range-diff" with "git format-patch" for a
+single patch (i.e., not generating "range-diff" into the cover
+letter) hooks into log-tree.c:show_log(), which is responsible for
+writing the log message out and other stuff.  Essentially,
+everything you see before the diffstat and the patch is generated
+there.
+
+Split out the code that spits out the interdiff/range-diff into a
+separate helper function show_diff_of_diff().  Hopefully this will
+make it easier to move things around in the output stream in the
+future patches.
+
+This is supposed to be a no-op refactoring.
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0ff6d23</div>
+                                        <div class="message">Merge branch 'ps/pseudo-ref-terminology' into ps/ref-storage-migration
+
+* ps/pseudo-ref-terminology:
+  refs: refuse to write pseudorefs
+  ref-filter: properly distinuish pseudo and root refs
+  refs: pseudorefs are no refs
+  refs: classify HEAD as a root ref
+  refs: do not check ref existence in `is_root_ref()`
+  refs: rename `is_special_ref()` to `is_pseudo_ref()`
+  refs: rename `is_pseudoref()` to `is_root_ref()`
+  Documentation/glossary: define root refs as refs
+  Documentation/glossary: clarify limitations of pseudorefs
+  Documentation/glossary: redefine pseudorefs as special refs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e55f364</div>
+                                        <div class="message">Merge branch 'ps/refs-without-the-repository-updates' into ps/ref-storage-migration
+
+* ps/refs-without-the-repository-updates:
+  refs/packed: remove references to `the_hash_algo`
+  refs/files: remove references to `the_hash_algo`
+  refs/files: use correct repository
+  refs: remove `dwim_log()`
+  refs: drop `git_default_branch_name()`
+  refs: pass repo when peeling objects
+  refs: move object peeling into "object.c"
+  refs: pass ref store when detecting dangling symrefs
+  refs: convert iteration over replace refs to accept ref store
+  refs: retrieve worktree ref stores via associated repository
+  refs: refactor `resolve_gitlink_ref()` to accept a repository
+  refs: pass repo when retrieving submodule ref store
+  refs: track ref stores via strmap
+  refs: implement releasing ref storages
+  refs: rename `init_db` callback to avoid confusion
+  refs: adjust names for `init` and `init_db` callbacks</div>
                                     </div>
                                 </div>
                             </section>
@@ -89,26 +445,36 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">js-refs-fsck</span></div>
+                                    <div>on branch <span class="code">js-refs-fsck-v3</span></div>
                                     <div class="commit">
-                                        <div class="sha">#aba5f50</div>
+                                        <div class="sha">#b945f61</div>
                                         <div class="message">fsck: add ref content check for files backend
 
 Enhance the git-fsck(1) command by adding a check for reference content
 in the files backend. The new functionality ensures that symrefs, real
 symbolic link and regular refs are validated correctly.
 
-Add a new function "files_fsck_symref" to check whether the symrefs and
-symbolic link points to a valid object and a new function
-"files_fsck_refs_content" handles both regular refs and symbolic refs.
+In order to check the trailing content of the regular refs, add a new
+parameter `trailing` to `parse_loose_ref_contents`.
 
-In order to check the trailing content, add a new parameter
-"trailing" to "parse_loose_ref_contents" function.
+For symrefs, `parse_loose_ref_contents` will set the "referent".
+However, symbolic link could be either absolute or relative. Use
+"strbuf_add_real_path" to read the symbolic link and convert the
+relative path to absolute path. Then use "skip_prefix" to make it align
+with symref "referent".
+
+Thus, the symrefs and symbolic links could share the same interface. Add
+a new function "files_fsck_symref_target" which aims at checking the
+following things:
+
+1. whether the pointee is under the `refs/` directory.
+2. whether the pointee name is correct.
+3. whether the pointee path is a wrong type in filesystem.
 
 Last, add the following FSCK MESSAGEs:
 
-1. "badRefSha(ERROR)": A ref has a bad sha.
-2. "danglingSymre(WARN)": Found a dangling symref.
+1. "badRefContent(ERROR)": A ref has a bad content
+2. "badSymrefPointee(ERROR)": The pointee of a symref is bad.
 3. "trailingRefContent(WARN)": A ref content has trailing contents.
 
 Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
@@ -122,158 +488,84 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">js-refs-fsck</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#53fe5b8</div>
-                                        <div class="message">fsck: add ref content check for files backend
-
-Enhance the git-fsck(1) command by adding a check for reference content
-in the files backend. The new functionality ensures that symrefs, real
-symbolic link and regular refs are validated correctly.
-
-Add a new function "files_fsck_symref" to check whether the symrefs and
-symbolic link points to a valid object and a new function
-"files_fsck_refs_content" handles both regular refs and symbolic refs.
-
-In order to check the trailing content, add a new parameter
-"trailing" to "parse_loose_ref_contents" function.
-
-Last, add the following FSCK MESSAGEs:
-
-1. "badRefSha(ERROR)": A ref has a bad sha.
-2. "danglingSymre(WARN)": Found a dangling symref.
-3. "trailingRefContent(WARN)": A ref content has trailing contents.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8c55ecd</div>
-                                        <div class="message">fsck: add ref name check for files backend
-
-The git-fsck(1) only implicitly checks the reference, it does not fully
-check refs with bad format name such as standalone "@" and name ending
-with ".lock".
-
-In order to provide such checks, add a new fsck message id "badRefName"
-with default ERROR type. Use existing "check_refname_format" to explicit
-check the ref name. And add a new unit test to verify the functionality.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d23eaa</div>
-                                        <div class="message">files-backend: add unified interface for refs scanning
-
-For refs and reflogs, we need to scan its corresponding directories to
-check every regular file or symbolic link which shares the same pattern.
-Introduce a unified interface for scanning directories for
-files-backend.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2b0ee79</div>
-                                        <div class="message">builtin/fsck: add `git-refs verify` child process
-
-Introduce a new function "fsck_refs" that initializes and runs a child
-process to execute the "git-refs verify" command.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e1f1b77</div>
-                                        <div class="message">builtin/refs: add verify subcommand
-
-Introduce a new subcommand "verify" in git-refs(1) to allow the user to
-check the reference database consistency.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a871490</div>
-                                        <div class="message">refs: set up ref consistency check infrastructure
-
-The interfaces defined in the `ref_storage_be` are carefully structured
-in semantic. It's organized as the five parts:
-
-1. The name and the initialization interfaces.
-2. The ref transaction interfaces.
-3. The ref internal interfaces (pack, rename and copy).
-4. The ref filesystem interfaces.
-5. The reflog related interfaces.
-
-To keep consistent with the git-fsck(1), add a new interface named
-"fsck_refs_fn" to the end of "ref_storage_be". This semantic cannot be
-grouped into any above five categories. Explicitly add blank line to
-make it different from others.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a65de15</div>
-                                        <div class="message">fsck: add refs check interfaces to interface with fsck error levels
-
-The git-fsck(1) focuses on object database consistency check. It relies
-on the "fsck_options" to interact with fsck error levels. However,
-"fsck_options" aims at checking the object database which makes it
-unsuitable to change the semantics of it. Instead, create
-"fsck_refs_options" structure to handle refs consistency check.
-
-The "git_fsck_config" sets up the "msg_type" and "skiplist" member of
-the "fsck_options". For refs, we just need the "msg_type". In order to
-allow setting up more refs-specific options easily later, add a separate
-function "git_fsck_refs_config" to initialize the refs-specific options.
-
-Move the "msg_type" and "strict" member to the top of the "fsck_options"
-which allows us to convert "fsck_refs_options *" to "fsck_options *" to
-reuse the interfaces provided by "fsck.h" without changing the original
-code.
-
-The static function "report" provided by "fsck.c" aims at reporting the
-problems related to object database which cannot be reused for refs.
-Provide "fsck_refs_report" function to integrate the fsck error levels
-into reference consistency check.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Reviewed
+                                        Closed
                                         <span class="issue">#2 ref consistency check infra setup</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">shejialuo/git</span></div>
+                                    <div> in <span class="repo">shejialuo/git</span></div>
+                                    <div>14 files changed <span class="code">++685 --8</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">js-refs-fsck-v3</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8761ac7</div>
+                                        <div class="message">fsck: add ref content check for files backend
+
+Enhance the git-fsck(1) command by adding a check for reference content
+in the files backend. The new functionality ensures that symrefs, real
+symbolic link and regular refs are validated correctly.
+
+In order to check the trailing content of the regular refs, add a new
+parameter `trailing` to `parse_loose_ref_contents`.
+
+For symrefs, `parse_loose_ref_contents` will set the "referent".
+However, symbolic link could be either absolute or relative. Use
+"strbuf_add_real_path" to read the symbolic link and convert the
+relative path to absolute path. Then use "skip_prefix" to make it align
+with symref "referent".
+
+Thus, the symrefs and symbolic links could share the same interface. Add
+a new function "files_fsck_symref_target" which aims at checking the
+following things:
+
+1. whether the pointee is under the `refs/` directory.
+2. whether the pointee name is correct.
+3. whether the pointee path is a wrong type in filesystem.
+
+Last, add the following FSCK MESSAGEs:
+
+1. "badRefContent(ERROR)": A ref has a bad content
+2. "badSymrefPointee(ERROR)": The pointee of a symref is bad.
+3. "trailingRefContent(WARN)": A ref content has trailing contents.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#3 Js refs fsck v3</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">shejialuo/git</span></div>
+                                    <div>14 files changed <span class="code">++761 --8</span></div>
                                 </div>
                             </section>
                         </div>
@@ -293,7 +585,7 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~13 coding hours recorded
+                            ~16 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -335,27 +627,27 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">git</span>
-                                <div class="bar" style="width: 60.224000000000004%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">75%</span>
+                                <div class="bar" style="width: 61.736000000000004%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">77%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 10.168000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 10.048000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">13%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">hexo-blog</span>
-                                <div class="bar" style="width: 3.4960000000000004%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.8800000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">repo</span>
-                                <div class="bar" style="width: 2.008%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
+                                <div class="bar" style="width: 1.936%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">luo_obsidian</span>
-                                <div class="bar" style="width: 1.9440000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.6%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                         </div>
@@ -365,28 +657,28 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 48.68000000000001%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">61%</span>
+                                <div class="bar" style="width: 45.968%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">57%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Mail</span>
-                                <div class="bar" style="width: 7.792%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 8.096%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">10%</span>
                             </div>
                             <div class="entry">
+                                <span class="name">Bash</span>
+                                <div class="bar" style="width: 7.071999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
+                            </div>
+                            <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 5.4799999999999995%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">7%</span>
+                                <div class="bar" style="width: 4.5200000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Diff</span>
-                                <div class="bar" style="width: 5.392%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">7%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Text</span>
-                                <div class="bar" style="width: 2.7279999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
+                                <div class="bar" style="width: 4.4559999999999995%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
                             </div>
                         </div>
                     </section>
