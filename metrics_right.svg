@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1338" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1322" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.categories{display:flex;align-items:center;justify-content:space-around;margin-top:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.categories{display:flex;align-items:center;justify-content:space-around;margin-top:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -37,6 +37,246 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 12 commits in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">js-refs-fsck-v5</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#16209a7</div>
+                                        <div class="message">fsck: add ref content check for files backend
+
+Enhance the git-fsck(1) command by adding a check for reference content
+in the files backend. The new functionality ensures that symrefs, real
+symbolic link and regular refs are validated correctly.
+
+In order to check the trailing content of the regular refs, add a new
+parameter `trailing` to `parse_loose_ref_contents`.
+
+For symrefs, `parse_loose_ref_contents` will set the "referent".
+However, symbolic link could be either absolute or relative. Use
+"strbuf_add_real_path" to read the symbolic link and convert the
+relative path to absolute path. Then use "skip_prefix" to make it align
+with symref "referent".
+
+Thus, the symrefs and symbolic links could share the same interface. Add
+a new function "files_fsck_symref_target" which aims at checking the
+following things:
+
+1. whether the pointee is under the `refs/` directory.
+2. whether the pointee name is correct.
+3. whether the pointee path is a wrong type in filesystem.
+
+Last, add the following FSCK MESSAGEs:
+
+1. "badRefContent(ERROR)": A ref has a bad content
+2. "badSymrefPointee(ERROR)": The pointee of a symref is bad.
+3. "trailingRefContent(WARN)": A ref content has trailing contents.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7d78014</div>
+                                        <div class="message">fsck: add ref name check for files backend
+
+The git-fsck(1) only implicitly checks the reference, it does not fully
+check refs with bad format name such as standalone "@" and name ending
+with ".lock".
+
+In order to provide such checks, add a new fsck message id "badRefName"
+with default ERROR type. Use existing "check_refname_format" to explicit
+check the ref name. And add a new unit test to verify the functionality.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7f87c6a</div>
+                                        <div class="message">files-backend: add unified interface for refs scanning
+
+For refs and reflogs, we need to scan its corresponding directories to
+check every regular file or symbolic link which shares the same pattern.
+Introduce a unified interface for scanning directories for
+files-backend.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#054c8ce</div>
+                                        <div class="message">builtin/fsck: add `git-refs verify` child process
+
+Introduce a new function "fsck_refs" that initializes and runs a child
+process to execute the "git-refs verify" command.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#534a3d0</div>
+                                        <div class="message">builtin/refs: add verify subcommand
+
+Introduce a new subcommand "verify" in git-refs(1) to allow the user to
+check the reference database consistency.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2ecd1f5</div>
+                                        <div class="message">refs: set up ref consistency check infrastructure
+
+The interfaces defined in the `ref_storage_be` are carefully structured
+in semantic. It's organized as the five parts:
+
+1. The name and the initialization interfaces.
+2. The ref transaction interfaces.
+3. The ref internal interfaces (pack, rename and copy).
+4. The ref filesystem interfaces.
+5. The reflog related interfaces.
+
+To keep consistent with the git-fsck(1), add a new interface named
+"fsck_refs_fn" to the end of "ref_storage_be". This semantic cannot be
+grouped into any above five categories. Explicitly add blank line to
+make it different from others.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8fb62b5</div>
+                                        <div class="message">fsck: add "fsck_refs_options" initialization macros
+
+Add "FSCK_REFS_OPTIONS_DEFAULT" and "FSCK_REFS_OPTIONS_STRICT" macros to
+create the "fsck_refs_options" easily. Add refs-specific "error_func"
+callback "fsck_refs_error_function".
+
+"fsck_refs_error_function" will use the "oid" parameter. When the caller
+passed the oid, it will use "oid_to_hex" to get the corresponding hex
+value to report to the user.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8dea565</div>
+                                        <div class="message">fsck: add a unified interface for reporting fsck messages
+
+The static function "report" provided by "fsck.c" aims at reporting the
+problems related to object database which cannot be reused for refs.
+In order to provide a unified interface which can report either objects
+or refs, create a new function "fsck_report" by adding two parameters
+"refs_options" and "checked_ref_name" following the "report" prototype.
+However, instead of using "...", provide "va_list" to allow more
+flexibility.
+
+The "vfsck_report" function will use "error_func" registered in
+"fsck_options" function to report customized messages. Change
+"error_func" prototype to align with the "vfsck_report".
+
+Change "report" function to make it use "vfsck_report" to report
+objects-related messages. Add a new function called "fsck_refs_report"
+to use "vfsck_report" to report refs-related messages. Also, create a
+general function "fsck_report" for future use.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#403750d</div>
+                                        <div class="message">fsck: add "fsck_refs_options" struct
+
+Add "fsck_refs_options" to support ref consistency checks.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#65093ba</div>
+                                        <div class="message">fsck: abstract common options for reusing
+
+Create "fsck_options" struct to contain the general fields. Change
+"fsck_objects_options" to incorporate the general "fsck_options"
+and object-speicifc options.
+
+The fsck message will use "strict" option to set the corresponding
+"msg_type". Rename the parameter name from "struct fsck_objects_options
+*" to "struct fsck_options *".
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#88000b0</div>
+                                        <div class="message">fsck: use "fsck_configs" to set up configs
+
+Some fields such as "msg_type" and "skiplist" in "fsck_objects_options"
+are not options, these fields are related to "git-config(1)" which are
+initialized using "git_fsck_config" function.  Create a static variable
+named "fsck_configs" in "fsck.c" which aims at handling configs. Thus we
+don't need to reply on the "fsck_objects_options" to set up the fsck
+error message severity.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d83b579</div>
+                                        <div class="message">fsck: rename "fsck_options" to "fsck_objects_options"
+
+The git-fsck(1) focuses on object database consistency check. It relies
+on the "fsck_options" to interact with fsck error levels. However,
+"fsck_options" aims at checking the object database which contains a lot
+of fields only related to object database.
+
+In order to provide git-fsck(1) with refs consistency check. Rename
+"fsck_options" to "fsck_objects_options" to explicitly indicate this
+structure is used to check the object database.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#4 ref consistency check infra setup</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">shejialuo/git</span></div>
+                                    <div>19 files changed <span class="code">++765 --64</span></div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -606,208 +846,6 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">js-refs-fsck-v5</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#44a9c61</div>
-                                        <div class="message">builtin/unpack-objects: rename "fsck_options" to "fsck_objs_options"
-
-Replace "fsck_options" with "fsck_objs_options". Use
-"fsck_objs_options.fsck_options" to set up the fsck message type.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c4f8b19</div>
-                                        <div class="message">builtin/mktag: rename "fsck_options" to "fsck_objs_options"
-
-Replace "fsck_options" with "fsck_objs_options". Use
-"fsck_objs_options.fsck_options" to set up the fsck message type.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#88e6c50</div>
-                                        <div class="message">builtin/index-pack: rename "fsck_options" to "fsck_objs_options"
-
-Replace "fsck_options" with "fsck_objs_options". Use
-"fsck_objs_options.fsck_options" to set up the fsck message type.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a2cfc68</div>
-                                        <div class="message">builtin/fsck: rename "fsck_options" to "fsck_objs_options"
-
-Replace "fsck_options" with "fsck_objs_options". Use
-"fsck_objs_options.fsck_options" to set up the "strict" and "error_func"
-fields.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d716612</div>
-                                        <div class="message">object-file: rename "fsck_options" to "fsck_objs_options"
-
-Replace "fsck_options" with "fsck_objs_options". Use
-"fsck_objs_options.fsck_options" to set up the "strict" and "error_func"
-fields.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d0b7171</div>
-                                        <div class="message">fetch-pack: rename "fsck_options" to "fsck_objs_options"
-
-Replace "fsck_options" with "fsck_objs_options"
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#53da66a</div>
-                                        <div class="message">fsck: rename "fsck_options" to "fsck_objs_options"
-
-The existing functions use "fsck_options" as the parameter which should
-be changed because we changed the original "fsck_options" structure.
-Modify the code to replace "struct fsck_options *options" with "struct
-fsck_objs_options *objs_options".
-
-However, "report" function is used to report the problem which needs to
-interact with fsck error message. When the caller passes the "struct
-fsck_objs_options *" it will contain the general "fsck_options *"
-options. Change the code to be align with this new design.
-
-pickMentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">js-refs-fsck-v5</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5d949ac</div>
-                                        <div class="message">builtin/unpack-objects: rename "fsck_options" to "fsck_objs_options"
-
-Replace "fsck_options" with "fsck_objs_options". Use
-"fsck_objs_options.fsck_options" to set up the fsck message type.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d86ca9c</div>
-                                        <div class="message">builtin/mktag: rename "fsck_options" to "fsck_objs_options"
-
-Replace "fsck_options" with "fsck_objs_options". Use
-"fsck_objs_options.fsck_options" to set up the fsck message type.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3307aa3</div>
-                                        <div class="message">builtin/index-pack: rename "fsck_options" to "fsck_objs_options"
-
-Replace "fsck_options" with "fsck_objs_options". Use
-"fsck_objs_options.fsck_options" to set up the fsck message type.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3d94fe8</div>
-                                        <div class="message">builtin/fsck: rename "fsck_options" to "fsck_objs_options"
-
-Replace "fsck_options" with "fsck_objs_options". Use
-"fsck_objs_options.fsck_options" to set up the "strict" and "error_func"
-fields.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#377b6d6</div>
-                                        <div class="message">object-file: rename "fsck_options" to "fsck_objs_options"
-
-Replace "fsck_options" with "fsck_objs_options". Use
-"fsck_objs_options.fsck_options" to set up the "strict" and "error_func"
-fields.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d882a0</div>
-                                        <div class="message">fetch-pack: rename "fsck_options" to "fsck_objs_options"
-
-Replace "fsck_options" with "fsck_objs_options"
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dafd669</div>
-                                        <div class="message">fsck: rename "fsck_options" to "fsck_objs_options"
-
-The existing functions use "fsck_options" as the parameter which should
-be changed because we changed the original "fsck_options" structure.
-Modify the code to replace "struct fsck_options *options" with "struct
-fsck_objs_options *objs_options".
-
-However, "report" function is used to report the problem which needs to
-interact with fsck error message. When the caller passes the "struct
-fsck_objs_options *" it will contain the general "fsck_options *"
-options. Change the code to be align with this new design.
-
-pickMentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -824,7 +862,7 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~18 coding hours recorded
+                            ~20 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -844,7 +882,7 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/>
                             </svg>
-                            ~3 hours of coding per day
+                            ~4 hours of coding per day
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -866,22 +904,17 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">git</span>
-                                <div class="bar" style="width: 58.352%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">73%</span>
+                                <div class="bar" style="width: 71.336%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">89%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 11.887999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">15%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">luo_obsidian</span>
-                                <div class="bar" style="width: 9.488%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">12%</span>
+                                <div class="bar" style="width: 8.424%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">11%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">cpp_stl</span>
-                                <div class="bar" style="width: 0.272%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.24%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -891,27 +924,27 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 55.656%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">70%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Markdown</span>
-                                <div class="bar" style="width: 9.488%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">12%</span>
+                                <div class="bar" style="width: 66.88799999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">84%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Mail</span>
-                                <div class="bar" style="width: 7.864%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">10%</span>
+                                <div class="bar" style="width: 6.912000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">C++</span>
-                                <div class="bar" style="width: 2.408%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">gitrebase</span>
+                                <div class="bar" style="width: 2.128%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Bash</span>
-                                <div class="bar" style="width: 1.104%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.064%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Diff</span>
+                                <div class="bar" style="width: 0.7440000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
