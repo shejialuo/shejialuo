@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="955" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="672" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.c .side{background-color:#58a6ff26}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -45,40 +45,6 @@
                                     </svg>
                                     <div class="content">
                                         Closed
-                                        <span class="issue">#5 ref consistency check infra setup </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">shejialuo/git</span></div>
-                                    <div>19 files changed <span class="code">++889 --127</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#6 ref intra setup</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">shejialuo/git</span></div>
-                                    <div>19 files changed <span class="code">++824 --115</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
                                         <span class="issue">#7 Js refs fsck v7</span>
                                     </div>
                                 </div>
@@ -92,14 +58,18 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">js-refs-fsck-v7</span>
-                                        in
-                                        <span class="repo">shejialuo/git</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">shejialuo/hexo-blog</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f70d4a8</div>
+                                        <div class="message">Update GSoC Week 6</div>
                                     </div>
                                 </div>
                             </section>
@@ -111,636 +81,53 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 60 commits in
-                                        <span class="repo">shejialuo/git</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">shejialuo/shejialuo.github.io</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9c34eb9</div>
-                                        <div class="message">hash: require hash algorithm in `is_empty_{blob,tree}_oid()`
-
-Both functions `is_empty_{blob,tree}_oid()` use `the_repository` to
-derive the hash function that shall be used. Require callers to pass in
-the hash algorithm to get rid of this implicit dependency.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                        <div class="sha">#cdcbc6b</div>
+                                        <div class="message">Automated Commit by `hexo deploy`</div>
                                     </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">shejialuo/hexo-blog</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#861e8c7</div>
-                                        <div class="message">hash: make `is_null_oid()` independent of `the_repository`
-
-The function `is_null_oid()` uses `oideq(oid, null_oid())` to check
-whether a given object ID is the all-zero object ID. `null_oid()`
-implicitly relies on `the_repository` though to return the correct null
-object ID.
-
-Get rid of this dependency by always comparing the complete hash array
-for being all-zeroes. This is possible due to the refactoring of object
-IDs so that their hash arrays are always fully initialized.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                        <div class="sha">#1b01fe6</div>
+                                        <div class="message">Update package info</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#d4d364b</div>
-                                        <div class="message">hash: convert `oidcmp()` and `oideq()` to compare whole hash
-
-With the preceding commit, the hash array of object IDs is now fully
-zero-padded even when the hash algorithm's output is smaller than the
-array length. With that, we can now adapt both `oidcmp()` and `oideq()`
-to unconditionally memcmp(3P) the whole array instead of depending on
-the hash size.
-
-While it may feel inefficient to compare unused bytes for e.g. SHA-1, in
-practice the compiler should now be able to produce code that is better
-optimized both because we have no branch anymore, but also because the
-size to compare is now known at compile time. Goldbolt spits out the
-following assembly on an x86_64 platform with GCC 14.1 for the old and
-new implementations of `oidcmp()`:
-
-    oidcmp_old:
-            movsx   rax, DWORD PTR [rdi+32]
-            test    eax, eax
-            jne     .L2
-            mov     rax, QWORD PTR the_repository[rip]
-            cmp     QWORD PTR [rax+16], 32
-            je      .L6
-    .L4:
-            mov     edx, 20
-            jmp     memcmp
-    .L2:
-            lea     rdx, [rax+rax*2]
-            lea     rax, [rax+rdx*4]
-            lea     rax, hash_algos[0+rax*8]
-            cmp     QWORD PTR [rax+16], 32
-            jne     .L4
-    .L6:
-            mov     edx, 32
-            jmp     memcmp
-
-    oidcmp_new:
-            mov     edx, 32
-            jmp     memcmp
-
-The new implementation gets ridi of all the branches and effectively
-only ends setting up `edx` for `memcmp()` and then calling it.
-
-And for `oideq()`:
-
-    oideq_old:
-            movsx   rcx, DWORD PTR [rdi+32]
-            mov     rax, rdi
-            mov     rdx, rsi
-            test    ecx, ecx
-            jne     .L2
-            mov     rcx, QWORD PTR the_repository[rip]
-            cmp     QWORD PTR [rcx+16], 32
-            mov     rcx, QWORD PTR [rax]
-            je      .L12
-    .L4:
-            mov     rsi, QWORD PTR [rax+8]
-            xor     rcx, QWORD PTR [rdx]
-            xor     rsi, QWORD PTR [rdx+8]
-            or      rcx, rsi
-            je      .L13
-    .L8:
-            mov     eax, 1
-            test    eax, eax
-            sete    al
-            movzx   eax, al
-            ret
-    .L2:
-            lea     rsi, [rcx+rcx*2]
-            lea     rcx, [rcx+rsi*4]
-            lea     rcx, hash_algos[0+rcx*8]
-            cmp     QWORD PTR [rcx+16], 32
-            mov     rcx, QWORD PTR [rax]
-            jne     .L4
-    .L12:
-            mov     rsi, QWORD PTR [rax+8]
-            xor     rcx, QWORD PTR [rdx]
-            xor     rsi, QWORD PTR [rdx+8]
-            or      rcx, rsi
-            jne     .L8
-            mov     rcx, QWORD PTR [rax+16]
-            mov     rax, QWORD PTR [rax+24]
-            xor     rcx, QWORD PTR [rdx+16]
-            xor     rax, QWORD PTR [rdx+24]
-            or      rcx, rax
-            jne     .L8
-            xor     eax, eax
-    .L14:
-            test    eax, eax
-            sete    al
-            movzx   eax, al
-            ret
-    .L13:
-            mov     edi, DWORD PTR [rdx+16]
-            cmp     DWORD PTR [rax+16], edi
-            jne     .L8
-            xor     eax, eax
-            jmp     .L14
-
-    oideq_new:
-            mov     rax, QWORD PTR [rdi]
-            mov     rdx, QWORD PTR [rdi+8]
-            xor     rax, QWORD PTR [rsi]
-            xor     rdx, QWORD PTR [rsi+8]
-            or      rax, rdx
-            je      .L5
-    .L2:
-            mov     eax, 1
-            xor     eax, 1
-            ret
-    .L5:
-            mov     rax, QWORD PTR [rdi+16]
-            mov     rdx, QWORD PTR [rdi+24]
-            xor     rax, QWORD PTR [rsi+16]
-            xor     rdx, QWORD PTR [rsi+24]
-            or      rax, rdx
-            jne     .L2
-            xor     eax, eax
-            xor     eax, 1
-            ret
-
-Interestingly, the compiler decides to split the comparisons into two so
-that it first compares the lower half of the object ID for equality and
-then the upper half. If the first check shows a difference, then we
-wouldn't even end up comparing the second half.
-
-In both cases, the new generated code is significantly shorter and has
-way less branches. While I didn't benchmark the change, I'd be surprised
-if the new code was slower.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#5 ref consistency check infra setup </span>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#c98d762</div>
-                                        <div class="message">global: ensure that object IDs are always padded
-
-The `oidcmp()` and `oideq()` functions only compare the prefix length as
-specified by the given hash algorithm. This mandates that the object IDs
-have a valid hash algorithm set, or otherwise we wouldn't be able to
-figure out that prefix. As we do not have a hash algorithm in many
-cases, for example when handling null object IDs, this assumption cannot
-always be fulfilled. We thus have a fallback in place that instead uses
-`the_repository` to derive the hash function. This implicit dependency
-is hidden away from callers and can be quite surprising, especially in
-contexts where there may be no repository.
-
-In theory, we can adapt those functions to always memcmp(3P) the whole
-length of their hash arrays. But there exist a couple of sites where we
-populate `struct object_id`s such that only the prefix of its hash that
-is actually used by the hash algorithm is populated. The remaining bytes
-are left uninitialized. The fact that those bytes are uninitialized also
-leads to warnings under Valgrind in some places where we copy those
-bytes.
-
-Refactor callsites where we populate object IDs to always initialize all
-bytes. This also allows us to get rid of `oidcpy_with_padding()`, for
-one because the input is now fully initialized, and because `oidcpy()`
-will now always copy the whole hash array.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9da95bd</div>
-                                        <div class="message">hash: require hash algorithm in `oidread()` and `oidclr()`
-
-Both `oidread()` and `oidclr()` use `the_repository` to derive the hash
-function that shall be used. Require callers to pass in the hash
-algorithm to get rid of this implicit dependency.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f483657</div>
-                                        <div class="message">hash: require hash algorithm in `hasheq()`, `hashcmp()` and `hashclr()`
-
-Many of our hash functions have two variants, one receiving a `struct
-git_hash_algo` and one that derives it via `the_repository`. Adapt all
-of those functions to always require the hash algorithm as input and
-drop the variants that do not accept one.
-
-As those functions are now independent of `the_repository`, we can move
-them from "hash.h" to "hash-ll.h".
-
-Note that both in this and subsequent commits in this series we always
-just pass `the_repository-&gt;hash_algo` as input even if it is obvious
-that there is a repository in the context that we should be using the
-hash from instead. This is done to be on the safe side and not introduce
-any regressions. All callsites should eventually be amended to use a
-repo passed via parameters, but this is outside the scope of this patch
-series.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#129cb1b</div>
-                                        <div class="message">hash: drop (mostly) unused `is_empty_{blob,tree}_sha1()` functions
-
-The functions `is_empty_{blob,tree}_sha1()` are mostly unused, except
-for a single callsite in "read-cache.c". Most callsites have long since
-been converted to use the equivalents that accept a `struct object_id`
-instead of a string.
-
-Adapt the remaining callsite and drop those functions.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aecd794</div>
-                                        <div class="message">remote: drop checks for zero-url case
-
-Now that the previous commit removed the possibility that a "struct
-remote" will ever have zero url fields, we can drop a number of
-redundant checks and untriggerable code paths.
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ffce821</div>
-                                        <div class="message">remote: always require at least one url in a remote
-
-When we return a struct from remote_get(), the result _almost_ always
-has at least one url. In remotes_remote_get_1(), we do this:
-
-        if (name_given &amp;&amp; !valid_remote(ret))
-                add_url_alias(remote_state, ret, name);
-        if (!valid_remote(ret))
-                return NULL;
-
-So if the remote doesn't have a url, we give it one based on the name
-(this is how unconfigured urls are used as remotes). And if that doesn't
-work, we return NULL.
-
-But there's a catch: valid_remote() checks that we have at least one url
-_unless_ the remote.*.vcs field is set. This comes from c578f51d52 (Add
-a config option for remotes to specify a foreign vcs, 2009-11-18), and
-the whole idea was to support remote helpers that don't have their own
-url.
-
-However, that mode has been broken since 25d5cc488a (Pass unknown
-protocols to external protocol handlers, 2009-12-09)! That commit
-unconditionally looks at the url in get_helper(), causing a segfault
-with something like:
-
-  git -c remote.foo.vcs=bar fetch foo
-
-We could fix that now, of course. But given that it has been broken for
-almost 15 years and nobody noticed, there's a better option. This weird
-"there might not be a url" special case requires checks all over the
-code base, and it's not clear if there are other similar segfaults
-lurking. It would be nice if we could drop that special case.
-
-So instead, let's let the "the remote name is the url" code kick in. If
-you have "remote.foo.vcs", then your url (unless otherwise configured)
-is "foo". This does have a visible effect compared to what 25d5cc488a
-was trying to do. The idea back then is that for a remote without a url,
-we'd run:
-
-   # only one command-line option!
-   git-remote-bar foo
-
-whereas with our default url, now we'll run:
-
-  git-remote-bar foo foo
-
-Again, in practice nobody can be relying on this because it has been
-segfaulting for 15 years. We should consider just removing this "vcs"
-config option entirely, but that would be a user-visible breakage. So by
-fixing it this way, we can keep things working that have been working,
-and simplify away one special case inside our code.
-
-This fixes the segfault from 25d5cc488a (demonstrated by the test), and
-we can build further cleanups on top.
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7384e75</div>
-                                        <div class="message">t5801: test remote.*.vcs config
-
-The usual way to trigger a remote helper is to use the "::" syntax from:
-87422439d1 (Allow specifying the remote helper in the url, 2009-11-18).
-Doing:
-
-  git config remote.origin.url hg::https://example.com/repo
-
-will run "git-remote-hg origin https://example.com/repo". Or you can
-use the fallback handling from 25d5cc488a (Pass unknown protocols to
-external protocol handlers, 2009-12-09):
-
-  git config remote.origin.url "foo://bar"
-
-which will run "git-remote-foo origin foo://bar".
-
-But there's a third way, from c578f51d52 (Add a config option for
-remotes to specify a foreign vcs, 2009-11-18):
-
-  git config remote.origin.vcs foo
-  git config remote.origin.url bar
-
-which will run "git-remote-foo origin bar". This is mostly redundant
-with the other methods, except that it is supposed to allow you to run
-without a URL at all. So:
-
-  git config remote.origin.vcs foo
-
-would run "git-remote-foo origin" with no extra URL parameter (under the
-assumption that the helper somehow knows how to access the remote repo).
-However, this mode has been broken since 25d5cc488a, shortly after it
-was added! That commit taught the transport code to always look at the
-URL string to parse off the "foo::" bits, meaning it would always
-segfault in the no-url case. You can see that with:
-
-  git -c remote.foo.vcs=bar fetch foo
-
-Nobody seems to have noticed in the almost 15 years since, so presumably
-it's not a well-used feature. And without that, arguably the whole
-remote.*.vcs feature could be removed entirely, as it isn't offering
-anything you couldn't do with the "helper::" syntax. But it _does_ work
-if you have a URL, and it has been advertised in the documentation for
-all that time. So we shouldn't just remove it without warning.
-
-Likewise, even if we were going to deprecate it, we should avoid
-breaking it in the meantime. Since there are no tests for it at all,
-let's add a few basic ones:
-
-  - this syntax doesn't work well with "git clone" (another point
-    against it versus "helper::"). But we can use "clone -c" to set up
-    the config manually, passing the URL as usual to clone. This does
-    work, though note that I had to use --no-local in the test to avoid
-    broken interactions between the local code and the helper. In the
-    real world this would be a non-issue, since the remote URL would
-    generally not also be a local Git repo!
-
-  - likewise, we should be able to set up the config manually and fetch
-    into a repository. This also works.
-
-  - we can simulate a vcs that has no URL support by stuffing the remote
-    path into another environment variable. This should work, but
-    doesn't (it hits the segfault mentioned above).
-
-In the first two cases, I took the extra step of checking GIT_TRACE
-output to confirm that we actually ran the helper (since the URL is a
-valid Git repo, the clone/fetch would appear to work even if we
-didn't use the helper at all!).
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e2269a2</div>
-                                        <div class="message">t5801: make remote-testgit GIT_DIR setup more robust
-
-Our tests use a fake helper that just imports from an existing Git
-repository. We're fed the path to that repo on the command line, and
-derive the GIT_DIR by tacking on "/.git".
-
-This is wrong if the path is a bare repository, but that's OK since this
-is just a limited test. But it's also wrong if the transport code feeds
-us the actual .git directory itself (i.e., we expect "/path/to/repo" but
-it gives us "/path/to/repo/.git"). None of the current tests do that,
-but let's future-proof ourselves against adding a test that does.
-
-We can instead ask "rev-parse" to set our GIT_DIR. Note that we have to
-first unset other git variables from our environment. Coming into this
-script, we'll have GIT_DIR set to the fetching repository, and we need
-to "switch" to the remote one.
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9badf97</div>
-                                        <div class="message">remote: allow resetting url list
-
-Because remote.*.url is treated as a multi-valued key, there is no way
-to override previous config. So for example if you have
-remote.origin.url set to some wrong value, doing:
-
-  git -c remote.origin.url=right fetch
-
-would not work. It would append "right" to the list, which means we'd
-still fetch from "wrong" (since subsequent values are used only as push
-urls).
-
-Let's provide a mechanism to reset the list, like we do for other
-multi-valued keys (e.g., credential.helper, http.extraheaders, and
-merge.suppressDest all use this "empty string means reset" pattern).
-
-Reported-by: Mathew George &lt;mathewegeorge@gmail.com&gt;
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bd1b88d</div>
-                                        <div class="message">config: document remote.*.url/pushurl interaction
-
-The documentation for these keys gives a very terse definition and
-points you to the fetch/push manpages. But from reading those pages it
-was not at all obvious to me that:
-
-  - these are keys that can be defined multiple times with meaningful
-    behavior (especially remote.*.url)
-
-  - the way that pushurl overrides url (the git-push page does mention
-    that "pushurl defaults to url", but it is not immediately clear what
-    a multi-valued url would do in that situation).
-
-Let's try to summarize the current behavior.
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b68118d</div>
-                                        <div class="message">remote: simplify url/pushurl selection
-
-When we want to know the push urls for a remote, there is some simple
-logic:
-
-  - if the user configured any remote.*.pushurl keys, then those make
-    the complete set of push urls
-
-  - otherwise we push to all urls in remote.*.url
-
-Many spots implement this with a level of indirection, assigning to a
-local url/url_nr pair. But since both arrays are now strvecs, we can
-just use a pointer to select the appropriate strvec, shortening the code
-a bit.
-
-Even though this is now a one-liner, since it is application logic that
-is present in so many places, it's worth abstracting a helper function.
-In fact, we already have such a function, but it's local to
-builtin/push.c. So we'll just make it available everywhere via remote.h.
-
-There are two spots to pay special attention to here:
-
-  1. in builtin/remote.c's get_url(), we are selecting first based on
-     push_mode and then falling back to "url" when we're in push_mode
-     but no pushurl is defined. The updated code makes that much more
-     clear, compared to the original which had an "else" fall-through.
-
-  2. likewise in that file's set_url(), we _only_ respect push_mode,
-     sine the point is that we are adding to pushurl in that case
-     (whether it is empty or not). And thus it does not use our helper
-     function.
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8e80441</div>
-                                        <div class="message">remote: use strvecs to store remote url/pushurl
-
-Now that the url/pushurl fields of "struct remote" own their strings, we
-can switch from bare arrays to strvecs. This has a few advantages:
-
-  - push/clear are now one-liners
-
-  - likewise the free+assigns in alias_all_urls() can use
-    strvec_replace()
-
-  - we now use size_t for storage, avoiding possible overflow
-
-  - this will enable some further cleanups in future patches
-
-There's quite a bit of fallout in the code that reads these fields, as
-it tends to access these arrays directly. But it's mostly a mechanical
-replacement of "url_nr" with "url.nr", and "url[i]" with "url.v[i]",
-with a few variations (e.g. "*url" could become "*url.v", but I used
-"url.v[0]" for consistency).
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#52595c1</div>
-                                        <div class="message">remote: transfer ownership of memory in add_url(), etc
-
-Many of the internal functions in remote.c take const strings and store
-them forever in instances of "struct remote". Since the functions are
-internal and callers are aware of the convention, this seems to mostly
-work and not cause leaks. But there are some issues:
-
-  - it's impossible to clear any of the arrays, because the data
-    dependencies between them are too muddled (if you free() a string,
-    it might also be referenced from another array, causing a
-    user-after-free; but if you don't, that might be the last reference,
-    causing a leak).
-
-    This is mostly of interest for further refactoring and features, but
-    there's at least one spot that's already a problem. In alias_all_urls(),
-    we replace elements of remote-&gt;url and remote-&gt;pushurl with their
-    aliased forms, dropping references to the original.
-
-  - sometimes strings from outside callers make their way in. For
-    example, calling remote_get("foo") when there is no configured "foo"
-    remote will create a remote struct with the single url "foo". But
-    we'll do so by holding on to the string passed to remote_get()
-    forever.
-
-    In practice I think this works out because we'd usually pass in a
-    string that lasts the length of the program (a string literal, or
-    argv reference, or other data structure allocated in the main
-    function). But it's a rather subtle requirement.
-
-Instead, let's have remote-&gt;url and remote-&gt;pushurl own their string
-memory. They'll copy the const strings that are passed in, and callers
-can stop making their own copies. Likewise, when we overwrite an entry,
-we can free the memory it points to, fixing the leak mentioned above.
-
-We'll leave the struct members as "const" since they are visible to the
-outside world, and shouldn't usually be touched. This requires casting
-on free() for now, but we'll clean that further in a future patch.
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aa0595f</div>
-                                        <div class="message">remote: refactor alias_url() memory ownership
-
-The alias_url() function may return either a newly allocated string
-(which the caller must take ownership of), or the original const "url"
-parameter that was passed in.
-
-This often works OK because callers are generally passing in a "url"
-that they expect to retain ownership of anyway. So whether we got back
-the original or a new string, we're always interested in storing it
-forever. But I suspect there are some possible leaks here (e.g.,
-add_url_alias() may end up discarding the original "url").
-
-Whether there are active leaks or not, this is a confusing setup that
-makes further refactoring of memory ownership harder. So instead of
-returning the original string, return NULL, forcing callers to decide
-what to do with it explicitly. We can then build further cleanups on top
-of that.
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0295ce7</div>
-                                        <div class="message">archive: fix check for missing url
-
-Running "git archive --remote" checks that we have at least one url for
-the remote. It does so by looking at remote.url[0], but that won't work;
-if we have no url at all, then remote.url will be NULL, and we'll
-segfault.
-
-Check url_nr instead, which is a more direct way of asking what we
-want.
-
-You can trigger the segfault like this:
-
-  git -c remote.foo.vcs=bar archive --remote=foo
-
-but I didn't bother adding a test. This is the tip of the iceberg for
-no-url remotes, and a later patch will improve that situation. I just
-wanted to clean up this bug so it didn't make further refactoring of
-this code more confusing.
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#10aa7c7</div>
-                                        <div class="message">Merge branch 'gt/unit-test-oidtree' into ps/use-the-repository
-
-* gt/unit-test-oidtree:
-  t/: migrate helper/test-oidtree.c to unit-tests/t-oidtree.c</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#092b33d</div>
-                                        <div class="message">Merge branch 'ps/ref-storage-migration' into ps/use-the-repository
-
-* ps/ref-storage-migration:
-  builtin/refs: new command to migrate ref storage formats
-  refs: implement logic to migrate between ref storage formats
-  refs: implement removal of ref storages
-  worktree: don't store main worktree twice
-  reftable: inline `merged_table_release()`
-  refs/files: fix NULL pointer deref when releasing ref store
-  refs/files: extract function to iterate through root refs
-  refs/files: refactor `add_pseudoref_and_head_entries()`
-  refs: allow to skip creation of reflog entries
-  refs: pass storage format to `ref_store_init()` explicitly
-  refs: convert ref storage format to an enum
-  setup: unset ref storage when reinitializing repository version</div>
-                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">shejialuo/git</span></div>
+                                    <div>19 files changed <span class="code">++889 --127</span></div>
                                 </div>
                             </section>
                         </div>
@@ -766,13 +153,13 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            Working on git
+                            Working on Unknown Project
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                             </svg>
-                            Mostly coding in C
+                            Mostly coding in Mail
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -786,7 +173,7 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M0 2.75C0 1.784.784 1 1.75 1h12.5c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0114.25 15H1.75A1.75 1.75 0 010 13.25V2.75zm1.75-.25a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V2.75a.25.25 0 00-.25-.25H1.75zM7.25 8a.75.75 0 01-.22.53l-2.25 2.25a.75.75 0 11-1.06-1.06L5.44 8 3.72 6.28a.75.75 0 111.06-1.06l2.25 2.25c.141.14.22.331.22.53zm1.5 1.5a.75.75 0 000 1.5h3a.75.75 0 000-1.5h-3z"/>
                             </svg>
-                            Coding with VS Code
+                            Coding with Vim
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -801,14 +188,19 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <h3>Projects activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
-                                <span class="name">git</span>
-                                <div class="bar" style="width: 58.61599999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">73%</span>
+                                <span class="name">Unknown Project</span>
+                                <div class="bar" style="width: 39.912%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">50%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 21.384%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">27%</span>
+                                <span class="name">hexo-blog</span>
+                                <div class="bar" style="width: 20.375999999999998%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">25%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">git</span>
+                                <div class="bar" style="width: 19.72%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">25%</span>
                             </div>
                         </div>
                     </section>
@@ -816,29 +208,29 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <h3>Language activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
-                                <span class="name">C</span>
-                                <div class="bar" style="width: 44.63999999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">56%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">gitrebase</span>
-                                <div class="bar" style="width: 9.744%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">12%</span>
-                            </div>
-                            <div class="entry">
                                 <span class="name">Mail</span>
-                                <div class="bar" style="width: 7.712%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">10%</span>
+                                <div class="bar" style="width: 25.48%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">32%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Markdown</span>
+                                <div class="bar" style="width: 20.375999999999998%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">25%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">C</span>
+                                <div class="bar" style="width: 16.528%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">21%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">YAML</span>
-                                <div class="bar" style="width: 7.256%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 7.656000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">10%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Diff</span>
-                                <div class="bar" style="width: 4.232%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <span class="name">Bash</span>
+                                <div class="bar" style="width: 3.568%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
                             </div>
                         </div>
                     </section>
