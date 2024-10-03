@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="810" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1060" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -33,6 +33,393 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 18 commits in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e9356ba</div>
+                                        <div class="message">another batch after 2.47-rc0
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#92198dd</div>
+                                        <div class="message">Merge branch 'ps/includeif-onbranch-cornercase-fix'
+
+"git --git-dir=nowhere cmd" failed to properly notice that it
+wasn't in any repository while processing includeIf.onbranch
+configuration and instead crashed.
+
+* ps/includeif-onbranch-cornercase-fix:
+  config: fix evaluating "onbranch" with nonexistent git dir
+  t1305: exercise edge cases of "onbranch" includes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4251403</div>
+                                        <div class="message">Merge branch 'ds/background-maintenance-with-credential'
+
+Background tasks "git maintenance" runs may need to use credential
+information when going over the network, but a credential helper
+may work only in an interactive environment, and end up blocking a
+scheduled task waiting for UI.  Credential helpers can now behave
+differently when they are not running interactively.
+
+* ds/background-maintenance-with-credential:
+  scalar: configure maintenance during 'reconfigure'
+  maintenance: add custom config to background jobs
+  credential: add new interactive config option</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c58eee0</div>
+                                        <div class="message">Merge branch 'rs/archive-with-attr-pathspec-fix'
+
+"git archive" with pathspec magic that uses the attribute
+information did not work well, which has been corrected.
+
+* rs/archive-with-attr-pathspec-fix:
+  archive: load index before pathspec checks</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a898ce</div>
+                                        <div class="message">Merge branch 'rs/commit-graph-ununleak'
+
+Code clean-up.
+
+* rs/commit-graph-ununleak:
+  commit-graph: remove unnecessary UNLEAK</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22baac8</div>
+                                        <div class="message">Merge branch 'pw/submodule-process-sigpipe'
+
+When a subprocess to work in a submodule spawned by "git submodule"
+fails with SIGPIPE, the parent Git process caught the death of it,
+but gave a generic "failed to work in that submodule", which was
+misleading.  We now behave as if the parent got SIGPIPE and die.
+
+* pw/submodule-process-sigpipe:
+  submodule status: propagate SIGPIPE</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab68c70</div>
+                                        <div class="message">Merge branch 'ps/reftable-concurrent-writes'
+
+Give timeout to the locking code to write to reftable.
+
+* ps/reftable-concurrent-writes:
+  refs/reftable: reload locked stack when preparing transaction
+  reftable/stack: allow locking of outdated stacks
+  refs/reftable: introduce "reftable.lockTimeout"</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6241ce2</div>
+                                        <div class="message">refs/reftable: reload locked stack when preparing transaction
+
+When starting a reftable transaction we lock all stacks we are about to
+modify. While it may happen that the stack is out-of-date at this point
+in time we don't really care: transactional updates encode the expected
+state of a certain reference, so all that we really want to verify is
+that the _current_ value matches that expected state.
+
+Pass `REFTABLE_STACK_NEW_ADDITION_RELOAD` when locking the stack such
+that an out-of-date stack will be reloaded after having been locked.
+This change is safe because all verifications of the expected state
+happen after this step anyway.
+
+Add a testcase that verifies that many writers are now able to write to
+the stack concurrently without failures and with a deterministic end
+result.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#80e7342</div>
+                                        <div class="message">reftable/stack: allow locking of outdated stacks
+
+In `reftable_stack_new_addition()` we first lock the stack and then
+check whether it is still up-to-date. If it is not we return an error to
+the caller indicating that the stack is outdated.
+
+This is overly restrictive in our ref transaction interface though: we
+lock the stack right before we start to verify the transaction, so we do
+not really care whether it is outdated or not. What we really want is
+that the stack is up-to-date after it has been locked so that we can
+verify queued updates against its current state while we know that it is
+locked for concurrent modification.
+
+Introduce a new flag `REFTABLE_STACK_NEW_ADDITION_RELOAD` that alters
+the behaviour of `reftable_stack_init_addition()` in this case: when we
+notice that it is out-of-date we reload it instead of returning an error
+to the caller.
+
+This logic will be wired up in the reftable backend in the next commit.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bc39b6a</div>
+                                        <div class="message">refs/reftable: introduce "reftable.lockTimeout"
+
+When multiple concurrent processes try to update references in a
+repository they may try to lock the same lockfiles. This can happen even
+when the updates are non-conflicting and can both be applied, so it
+doesn't always make sense to abort the transaction immediately. Both the
+"loose" and "packed" backends thus have a grace period that they wait
+for the lock to be released that can be controlled via the config values
+"core.filesRefLockTimeout" and "core.packedRefsTimeout", respectively.
+
+The reftable backend doesn't have such a setting yet and instead fails
+immediately when it sees such a lock. But the exact same concepts apply
+here as they do apply to the other backends.
+
+Introduce a new "reftable.lockTimeout" config that controls how long we
+may wait for a "tables.list" lock to be released. The default value of
+this config is 100ms, which is the same default as we have it for the
+"loose" backend.
+
+Note that even though we also lock individual tables, this config really
+only applies to the "tables.list" file. This is because individual
+tables are only ever locked when we already hold the "tables.list" lock
+during compaction. When we observe such a lock we in fact do not want to
+compact the table at all because it is already in the process of being
+compacted by a concurrent process. So applying the same timeout here
+would not make any sense and only delay progress.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#320c96b</div>
+                                        <div class="message">config: fix evaluating "onbranch" with nonexistent git dir
+
+The `include_by_branch()` function is responsible for evaluating whether
+or not a specific include should be pulled in based on the currently
+checked out branch. Naturally, his condition can only be evaluated when
+we have a properly initialized repository with a ref store in the first
+place. This is why the function guards against the case when either
+`data-&gt;repo` or `data-&gt;repo-&gt;gitdir` are `NULL` pointers.
+
+But the second check is insufficient: the `gitdir` may be set even
+though the repository has not been initialized. Quoting "setup.c":
+
+  NEEDSWORK: currently we allow bogus GIT_DIR values to be set in some
+  code paths so we also need to explicitly setup the environment if the
+  user has set GIT_DIR.  It may be beneficial to disallow bogus GIT_DIR
+  values at some point in the future.
+
+So when either the GIT_DIR environment variable or the `--git-dir`
+global option are set by the user then `the_repository` may end up with
+an initialized `gitdir` variable. And this happens even when the dir is
+invalid, like for example when it doesn't exist. It follows that only
+checking for whether or not `gitdir` is `NULL` is not sufficient for us
+to determine whether the repository has been properly initialized.
+
+This issue can lead to us triggering a BUG: when using a config with an
+"includeIf.onbranch:" condition outside of a repository while using the
+`--git-dir` option pointing to an invalid Git directory we may end up
+trying to evaluate the condition even though the ref storage format has
+not been set up.
+
+This bisects to 173761e21b (setup: start tracking ref storage format,
+2023-12-29), but that commit really only starts to surface the issue
+that has already existed beforehand. The code to check for `gitdir` was
+introduced via 85fe0e800c (config: work around bug with
+includeif:onbranch and early config, 2019-07-31), which tried to fix
+similar issues when we didn't yet have a repository set up. But the fix
+was incomplete as it missed the described scenario.
+
+As the quoted comment mentions, we'd ideally refactor the code to not
+set up `gitdir` with an invalid value in the first place, but that may
+be a bigger undertaking. Instead, refactor the code to use the ref
+storage format as an indicator of whether or not the ref store has been
+set up to fix the bug.
+
+Reported-by: Ronan Pigott &lt;ronan@rjp.ie&gt;
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9cc2590</div>
+                                        <div class="message">t1305: exercise edge cases of "onbranch" includes
+
+Add a couple more tests for "onbranch" includes for several edge cases.
+All tests except for the last one pass, so for the most part this change
+really only aims to nail down behaviour of include conditionals further.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff0eb72</div>
+                                        <div class="message">commit-graph: remove unnecessary UNLEAK
+
+When f4dbdfc4d5 (commit-graph: clean up leaked memory during write,
+2018-10-03) added the UNLEAK, it was right before a call to die_errno().
+e103f7276f (commit-graph: return with errors during write, 2019-06-12)
+made it unnecessary, as it was then followed by a free() call for the
+allocated string.
+
+The code moved to write_commit_graph_file() in the meantime and the
+string pointer is now part of a struct, but the function's only caller
+still cleans up the allocation.  Drop the superfluous UNLEAK.
+
+Signed-off-by: René Scharfe &lt;l.s.r@web.de&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#296743a</div>
+                                        <div class="message">archive: load index before pathspec checks
+
+git archive checks whether pathspec arguments match anything to avoid
+surprises due to typos and later loads the index to get attributes.
+
+This order was OK when these features were introduced by ba053ea96c
+(archive: do not read .gitattributes in working directory, 2009-04-18)
+and d5f53d6d6f (archive: complain about path specs that don't match
+anything, 2009-12-12).
+
+But when attribute matching was added to pathspec in b0db704652
+(pathspec: allow querying for attributes, 2017-03-13), the pathspec
+checker in git archive did not support it fully, because it lacks the
+attributes from the index.
+
+Load the index earlier, before the pathspec check, to support attr
+pathspecs.
+
+Reported-by: Ronan Pigott &lt;ronan@rjp.ie&gt;
+Signed-off-by: René Scharfe &lt;l.s.r@web.de&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b9183b0</div>
+                                        <div class="message">scalar: configure maintenance during 'reconfigure'
+
+The 'scalar reconfigure' command is intended to update registered repos
+with the latest settings available. However, up to now we were not
+reregistering the repos with background maintenance.
+
+In particular, this meant that the background maintenance schedule would
+not be updated if there are improvements between versions.
+
+Be sure to register repos for maintenance during the reconfigure step.
+
+Signed-off-by: Derrick Stolee &lt;stolee@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4f55519</div>
+                                        <div class="message">maintenance: add custom config to background jobs
+
+At the moment, some background jobs are getting blocked on credentials
+during the 'prefetch' task. This leads to other tasks, such as
+incremental repacks, getting blocked. Further, if a user manages to fix
+their credentials, then they still need to cancel the background process
+before their background maintenance can continue working.
+
+Update the background schedules for our four scheduler integrations to
+include these config options via '-c' options:
+
+ * 'credential.interactive=false' will stop Git and some credential
+   helpers from prompting in the UI (assuming the '-c' parameters are
+   carried through and respected by GCM).
+
+ * 'core.askPass=true' will replace the text fallback for a username
+   and password into the 'true' command, which will return a success in
+   its exit code, but Git will treat the empty string returned as an
+   invalid password and move on.
+
+We can do some testing that the credentials are passed, at least in the
+systemd case due to writing the service files.
+
+Signed-off-by: Derrick Stolee &lt;stolee@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#719399b</div>
+                                        <div class="message">credential: add new interactive config option
+
+When scripts or background maintenance wish to perform HTTP(S) requests,
+there is a risk that our stored credentials might be invalid. At the
+moment, this causes the credential helper to ping the user and block the
+process. Even if the credential helper does not ping the user, Git falls
+back to the 'askpass' method, which includes a direct ping to the user
+via the terminal.
+
+Even setting the 'core.askPass' config as something like 'echo' will
+causes Git to fallback to a terminal prompt. It uses
+git_terminal_prompt(), which finds the terminal from the environment and
+ignores whether stdin has been redirected. This can also block the
+process awaiting input.
+
+Create a new config option to prevent user interaction, favoring a
+failure to a blocked process.
+
+The chosen name, 'credential.interactive', is taken from the config
+option used by Git Credential Manager to already avoid user
+interactivity, so there is already one credential helper that integrates
+with this option. However, older versions of Git Credential Manager also
+accepted other string values, including 'auto', 'never', and 'always'.
+The modern use is to use a boolean value, but we should still be
+careful that some users could have these non-booleans. Further, we
+should respect 'never' the same as 'false'. This is respected by the
+implementation and test, but not mentioned in the documentation.
+
+The implementation for the Git interactions takes place within
+credential_getpass(). The method prototype is modified to return an
+'int' instead of 'void'. This allows us to detect that no attempt was
+made to fill the given credential, changing the single caller slightly.
+
+Also, a new trace2 region is added around the interactive portion of the
+credential request. This provides a way to measure the amount of time
+spent in that region for commands that _are_ interactive. It also makes
+a conventient way to test that the config option works with
+'test_region'.
+
+Signed-off-by: Derrick Stolee &lt;stolee@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#082caf5</div>
+                                        <div class="message">submodule status: propagate SIGPIPE
+
+It has been reported than running
+
+     git submodule status --recurse | grep -q ^+
+
+results in an unexpected error message
+
+    fatal: failed to recurse into submodule $submodule
+
+When "git submodule--helper" recurses into a submodule it creates a
+child process. If that process fails then the error message above is
+displayed by the parent. In the case above the child is killed by
+SIGPIPE as "grep -q" exits as soon as it sees the first match. Fix this
+by propagating SIGPIPE so that it is visible to the process running
+git. We could propagate other signals but I'm not sure there is much
+value in doing that. In the common case of the user pressing Ctrl-C or
+Ctrl-\ then SIGINT or SIGQUIT will be sent to the foreground process
+group and so the parent process will receive the same signal as the
+child.
+
+Reported-by: Matt Liberty &lt;mliberty@precisioninno.com&gt;
+Signed-off-by: Phillip Wood &lt;phillip.wood@dunelm.org.uk&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -373,133 +760,6 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">js-refs-content-v5</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8e28ca6</div>
-                                        <div class="message">ref: add basic symref content check for files backend
-
-We have code that checks regular ref contents, but we do not yet check
-the contents of symbolic refs. By using "parse_loose_ref_content" for
-symbolic refs, we will get the information of the "referent".
-
-We do not need to check the "referent" by opening the file. This is
-because if "referent" exists in the file system, we will eventually
-check its correctness by inspecting every file in the "refs" directory.
-If the "referent" does not exist in the filesystem, this is OK as it is
-seen as the dangling symref.
-
-So we just need to check the "referent" string content. A regular could
-be accepted as a textual symref if it begins with "ref:", followed by
-zero or more whitespaces, followed by the full refname, followed only by
-whitespace characters. However, we always write a single SP after "ref:"
-and a single LF after the refname. It may seem that we should report a
-fsck error message when the "referent" does not apply above rules and we
-should not be so aggressive because third-party reimplementations of Git
-may have taken advantage of the looser syntax. Put it more specific, we
-accept the following "referent":
-
-1. "ref: refs/heads/master   "
-2. "ref: refs/heads/master   \n  \n"
-3. "ref: refs/heads/master\n\n"
-
-When introducing the regular ref content checks, we created a new fsck
-message "unofficialFormattedRef" which exactly represents above
-situation. So we will reuse this fsck message to write checks to info
-the user about these situations.
-
-But we do not allow any other trailing garbage. The followings are bad
-symref contents which will be reported as fsck error by "git-fsck(1)".
-
-1. "ref: refs/heads/master garbage\n"
-2. "ref: refs/heads/master \n\n\n garbage  "
-
-And we introduce a new "badReferent(ERROR)" fsck message to report above
-errors by using "ref.c::check_refname_format". But we cannot just pass
-the "referent" to this function because the "referent" might contain
-some whitespaces which will cause "check_refname_format" failing.
-
-In order to add checks, we will do the following things:
-
-1. Record the untrimmed length "orig_len" and untrimmed last byte
-   "orig_last_byte".
-2. Use "strbuf_rtrim" to trim the whitespaces or newlines to make sure
-   "check_refname_format" won't be failed by them.
-3. Use "orig_len" and "orig_last_byte" to check whether the "referent"
-   misses '\n' at the end or it has trailing whitespaces or newlines.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f22482e</div>
-                                        <div class="message">ref: add more strict checks for regular refs
-
-We have already used "parse_loose_ref_contents" function to check
-whether the ref content is valid in files backend. However, by
-using "parse_loose_ref_contents", we allow the ref's content to end with
-garbage or without a newline.
-
-Even though we never create such loose refs ourselves, we have accepted
-such loose refs. So, it is entirely possible that some third-party tools
-may rely on such loose refs being valid. We should not report an error
-fsck message at current. We should notify the users about such
-"curiously formatted" loose refs so that adequate care is taken before
-we decide to tighten the rules in the future.
-
-And it's not suitable either to report a warn fsck message to the user.
-We don't yet want the "--strict" flag that controls this bit to end up
-generating errors for such weirdly-formatted reference contents, as we
-first want to assess whether this retroactive tightening will cause
-issues for any tools out there. It may cause compatibility issues which
-may break the repository. So we add the "unofficialFormattedRef(INFO)"
-fsck message to represent the situation where the ref format is not
-officially created by us and notify the users it may become an error in
-the future.
-
-It might appear that we can't provide the user with any warnings by
-using FSCK_INFO. However, in "fsck.c::fsck_vreport", we will convert
-FSCK_INFO to FSCK_WARN and we can still warn the user about these
-situations when using "git refs verify" without introducing
-compatibility issues.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#70a5bb9</div>
-                                        <div class="message">ref: port git-fsck(1) regular refs check for files backend
-
-"git-fsck(1)" has some consistency checks for regular refs. As we want
-to align the checks "git refs verify" performs with them (and eventually
-call the unified code that checks refs from both), port the logic
-"git-fsck" has to "git refs verify".
-
-"git-fsck(1)" will report an error when the ref content is invalid.
-Following this, add a similar check to "git refs verify". Then add a new
-fsck error message "badRefContent(ERROR)" to represent that a ref has an
-invalid content.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -516,7 +776,7 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~15 coding hours recorded
+                            ~21 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -536,7 +796,7 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/>
                             </svg>
-                            ~4 hours of coding per day
+                            ~5 hours of coding per day
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -558,22 +818,22 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">git</span>
-                                <div class="bar" style="width: 60.07999999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">75%</span>
+                                <div class="bar" style="width: 66.256%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">83%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 12.488%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">16%</span>
+                                <div class="bar" style="width: 8.623999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">11%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">repo</span>
-                                <div class="bar" style="width: 6.672000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
+                                <div class="bar" style="width: 4.6000000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">repo-3</span>
-                                <div class="bar" style="width: 0.7679999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.528%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -583,27 +843,27 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 35.472%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">44%</span>
+                                <div class="bar" style="width: 49.312000000000005%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">62%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Bash</span>
-                                <div class="bar" style="width: 21%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">26%</span>
+                                <div class="bar" style="width: 14.391999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">18%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Mail</span>
-                                <div class="bar" style="width: 11.704%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">15%</span>
+                                <div class="bar" style="width: 8.024000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">10%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Git</span>
-                                <div class="bar" style="width: 7.264%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 4.976%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Text</span>
-                                <div class="bar" style="width: 1.752%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.2%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                         </div>
