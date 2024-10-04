@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1060" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1276" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.c .side{background-color:#58a6ff26}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.chart-bars.horizontal .entry .name,.track .name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}.deleted{color:#da3633}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -33,6 +33,500 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 66 commits in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#134bfed</div>
+                                        <div class="message">http-walker: free fake packed_git list
+
+The dumb-http walker code creates a "fake" packed_git list representing
+packs we've downloaded from the remote (I call it "fake" because
+generally that struct is only used and managed by the local repository
+struct). But during our cleanup phase we don't touch those at all,
+causing a leak.
+
+There's no support here from the rest of the object-database API, as
+these structs are not meant to be freed, except when closing the object
+store completely. But we can see that raw_object_store_clear() just
+calls free() on them, and that's enough here to fix the leak.
+
+I also added a call to close_pack() before each. In the regular code
+this happens via close_object_store(), which we do as part of
+raw_object_store_clear(). This is necessary to prevent leaking mmap'd
+data (like the pack idx) or descriptors. The leak-checker won't catch
+either of these itself, but I did confirm with some hacky warning()
+calls and running t5550 that it's easy to leak at least index data.
+
+This is all much more intimate with the packed_git struct than I'd like,
+but I think fixing it would be a pretty big refactor. And it's just not
+worth it for dumb-http code which is rarely used these days. If we can
+silence the leak-checker without creating too much hassle, we should
+just do that.
+
+This lets us mark t5550 as leak-free.
+
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf8072e</div>
+                                        <div class="message">remote-curl: free HEAD ref with free_one_ref()
+
+After dumb-http downloads the remote info/refs file, it adds an extra
+HEAD ref struct to our list by downloading the remote symref and finding
+the matching ref within our list. If either of those fails, we throw
+away the ref struct. But we do so with free(), when we should use
+free_one_ref() to catch any embedded allocations (in particular, if
+fetching the remote HEAD succeeded but the branch is unborn, its
+ref-&gt;symref field will be populated but we'll still throw it all away).
+
+This leak is triggered by t5550 (but we still have a little more work to
+mark it leak-free).
+
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#75f4acc</div>
+                                        <div class="message">http: stop leaking buffer in http_get_info_packs()
+
+We use http_get_strbuf() to fetch the remote info/packs content into a
+strbuf, but never free it, causing a leak. There's no need to hold onto
+it, as we've already parsed it completely.
+
+This lets us mark t5619 as leak-free.
+
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8bdb84e</div>
+                                        <div class="message">http: call git_inflate_end() when releasing http_object_request
+
+In new_http_object_request(), we initialize the zlib stream with
+git_inflate_init(). We must have a matching git_inflate_end() to avoid
+leaking any memory allocated by zlib.
+
+In most cases this happens in finish_http_object_request(), but we don't
+always get there. If we abort a request mid-stream, then we may clean it
+up without hitting that function.
+
+We can't just add a git_inflate_end() call to the release function,
+though. That would double-free the cases that did actually finish.
+Instead, we'll move the call from the finish function to the release
+function. This does delay it for the cases that do finish, but I don't
+think it matters. We should have already reached Z_STREAM_END (and
+complain if we didn't), and we do not record any status code from
+git_inflate_end().
+
+This leak is triggered by t5550 at least (and probably other dumb-http
+tests).
+
+I did find one other related spot of interest. If we try to read a
+previously downloaded file and fail, we reset the stream by calling
+memset() followed by a fresh git_inflate_init(). I don't think this case
+is triggered in the test suite, but it seemed like an obvious leak, so I
+added the appropriate git_inflate_end() before the memset() there.
+
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a1bc3c8</div>
+                                        <div class="message">http: fix leak of http_object_request struct
+
+The new_http_object_request() function allocates a struct on the heap,
+along with some fields inside the struct. But the matching function to
+clean it up, release_http_object_request(), only frees the interior
+fields without freeing the struct itself, causing a leak.
+
+The related http_pack_request new/release pair gets this right, and at
+first glance we should be able to do the same thing and just add a
+single free() call. But there's a catch.
+
+These http_object_request structs are typically embedded in the
+object_request struct of http-walker.c. And when we clean up that parent
+struct, it sanity-checks the embedded struct to make sure we are not
+leaking descriptors. Which means a use-after-free if we simply free()
+the embedded struct.
+
+I have no idea how valuable that sanity-check is, or whether it can
+simply be deleted. This all goes back to 5424bc557f (http*: add helper
+methods for fetching objects (loose), 2009-06-06). But the obvious way
+to make it all work is to be sure we set the pointer to NULL after
+freeing it (and our freeing process closes the descriptor, so we know
+there is no leak).
+
+To make sure we do that consistently, we'll switch the pointer we take
+in release_http_object_request() to a pointer-to-pointer, and we'll set
+it to NULL ourselves. And then the compiler can help us find each caller
+which needs to be updated.
+
+Most cases will just pass "&amp;obj_req-&gt;req", which will obviously do the
+right thing. In a few cases, like http-push's finish_request(), we are
+working with a copy of the pointer, so we don't NULL the original. But
+it's OK because the next step is to free the struct containing the
+original pointer anyway.
+
+This lets us mark t5551 as leak-free. Ironically this is the "smart"
+http test, and the leak here only affects dumb http. But there's a
+single dumb-http invocation in there. The full dumb tests are in t5550,
+which still has some more leaks.
+
+This also makes t5559 leak-free, as it's just an HTTP/2 variant of
+t5551. But we don't need to mark it as such, since it inherits the flag
+from t5551.
+
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d33e96</div>
+                                        <div class="message">http: fix leak when redacting cookies from curl trace
+
+When redacting headers for GIT_TRACE_CURL, we build up a redacted cookie
+header in a local strbuf, and then copy it into the output. But we
+forget to release the temporary strbuf, leaking it for every cookie
+header we show.
+
+The other redacted headers don't run into this problem, since they're
+able to work in-place in the output buffer. But the cookie parsing is
+too complicated for that, since we redact the cookies individually.
+
+This leak is triggered by the cookie tests in t5551.
+
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cb2732f</div>
+                                        <div class="message">transport-helper: fix leak of dummy refs_list
+
+When using a remote-helper, the fetch_refs() function will issue a
+"list" command if we haven't already done so. We don't care about the
+result, but this is just to maintain compatibility as explained in
+ac3fda82bf (transport-helper: skip ls-refs if unnecessary, 2019-08-21).
+
+But get_refs_list_using_list(), the function we call to issue the
+command, does parse and return the resulting ref list, which we simply
+leak. We should record the return value and free it immediately (another
+approach would be to teach it to avoid allocating at all, but it does
+not seem worth the trouble to micro-optimize this mostly historical
+case).
+
+Triggering this requires the v0 protocol (since in v2 we use stateless
+connect to take over the connection). You can see it in t5551.37, "fetch
+by SHA-1 without tag following", as it explicitly enables v0.
+
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d121a7d</div>
+                                        <div class="message">fetch-pack: clear pack lockfiles list
+
+If the --lock-pack option is passed (which it typically is when
+fetch-pack is used under the hood by smart-http), then we may end up
+with entries in our pack_lockfiles string_list. We need to clear them
+before returning to avoid a leak.
+
+In git-fetch this isn't a problem, since the same cleanup happens via
+transport_unlock_pack(). But the leak is detectable in t5551, which does
+http fetches.
+
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ea47803</div>
+                                        <div class="message">fetch: free "raw" string when shrinking refspec
+
+The "--prefetch" option to git-fetch modifies the default refspec,
+including eliminating some entries entirely. When we drop an entry we
+free the strings in the refspec_item, but we forgot to free the matching
+string in the "raw" array of the refspec struct. There's no behavioral
+bug here (since we correctly shrink the raw array, too), but we're
+leaking the allocated string.
+
+Let's add in the leak-fix, and while we're at it drop "const" from
+the type of the raw string array. These strings are always allocated by
+refspec_append(), etc, and this makes the memory ownership more clear.
+
+This is all a bit more intimate with the refspec code than I'd like, and
+I suspect it would be better if each refspec_item held on to its own raw
+string, we had a single array, and we could use refspec_item_clear() to
+clean up everything. But that's a non-trivial refactoring, since
+refspec_item structs can be held outside of a "struct refspec", without
+having a matching raw string at all. So let's leave that for now and
+just fix the leak in the most immediate way.
+
+This lets us mark t5582 as leak-free.
+
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e00e1cf</div>
+                                        <div class="message">transport-helper: fix strbuf leak in push_refs_with_push()
+
+We loop over the refs to push, building up a strbuf with the set of
+"push" directives to send to the remote helper. But if the atomic-push
+flag is set and we hit a rejected ref, we'll bail from the function
+early. We clean up most things, but forgot to release the strbuf.
+
+Fixing this lets us mark t5541 as leak-free.
+
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#05372c2</div>
+                                        <div class="message">send-pack: free cas options before exit
+
+The send-pack --force-with-lease option populates a push_cas_option
+struct with allocated strings. Exiting without cleaning this up will
+cause leak-checkers to complain.
+
+We can fix this by calling clear_cas_option(), after making it publicly
+available. Previously it was used only for resetting the list when we
+saw --no-force-with-lease.
+
+The git-push command has the same "leak", though in this case it won't
+trigger a leak-checker since it stores the push_cas_option struct as a
+global rather than on the stack (and is thus reachable even after main()
+exits). I've added cleanup for it here anyway, though, as
+future-proofing.
+
+The leak is triggered by t5541 (it tests --force-with-lease over http,
+which requires a separate send-pack process under the hood), but we
+can't mark it as leak-free yet.
+
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#753f670</div>
+                                        <div class="message">commit: avoid leaking already-saved buffer
+
+When we parse a commit via repo_parse_commit_internal(), if
+save_commit_buffer is set we'll stuff the buffer of the object contents
+into a cache, overwriting any previous value.
+
+This can result in a leak of that previously cached value, though it's
+rare in practice. If we have a value in the cache it would have come
+from a previous parse, and during that parse we'd set the object.parsed
+flag, causing any subsequent parse attempts to exit without doing any
+work.
+
+But it's possible to "unparse" a commit, which we do when registering a
+commit graft. And since shallow fetches are implemented using grafts,
+the leak is triggered in practice by t5539.
+
+There are a number of possible ways to address this:
+
+  1. the unparsing function could clear the cached commit buffer, too. I
+     think this would work for the case I found, but I'm not sure if
+     there are other ways to end up in the same state (an unparsed
+     commit with an entry in the commit buffer cache).
+
+  2. when we parse, we could check the buffer cache and prefer it to
+     reading the contents from the object database. In theory the
+     contents of a particular sha1 are immutable, but the code in
+     question is violating the immutability with grafts. So this
+     approach makes me a bit nervous, although I think it would work in
+     practice (the grafts are applied to what we parse, but we still
+     retain the original contents).
+
+  3. We could realize the cache is already populated and discard its
+     contents before overwriting. It's possible some other code could be
+     holding on to a pointer to the old cache entry (and we'd introduce
+     a use-after-free), but I think the risk of that is relatively low.
+
+  4. The reverse of (3): when the cache is populated, don't bother
+     saving our new copy. This is perhaps a little weird, since we'll
+     have just populated the commit struct based on a different buffer.
+     But the two buffers should be the same, even in the presence of
+     grafts (as in (2) above).
+
+I went with option 4. It addresses the leak directly and doesn't carry
+any risk of breaking other assumptions. And it's the same technique used
+by parse_object_buffer() for this situation, though I'm not sure when it
+would even come up there. The extra safety has been there since
+bd1e17e245 (Make "parse_object()" also fill in commit message buffer
+data., 2005-05-25).
+
+This lets us mark t5539 as leak-free.
+
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c800963</div>
+                                        <div class="message">fetch-pack, send-pack: clean up shallow oid array
+
+When we call get_remote_heads() for protocol v0, that may populate the
+"shallow" oid_array, which must be cleaned up to avoid a leak at the
+program exit. The same problem exists for both fetch-pack and send-pack,
+but not for the usual transport.c code paths, since we already do this
+cleanup in disconnect_git().
+
+Fixing this lets us mark t5542 as leak-free for the send-pack side, but
+fetch-pack will need some more fixes before we can do the same for
+t5539.
+
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0c23f1a</div>
+                                        <div class="message">fetch-pack: free object filter before exiting
+
+Our fetch_pack_args holds a filter_options struct that may be populated
+with allocated strings by the by the "--filter" command-line option. We
+must free it before exiting to avoid a leak when the program exits.
+
+The usual fetch code paths that use transport.c don't have the same
+leak, because we do the cleanup in disconnect_git().
+
+Fixing this leak lets us mark t5500 as leak-free.
+
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#91aa673</div>
+                                        <div class="message">connect: clear child process before freeing in diagnostic mode
+
+The git_connect() function has a special CONNECT_DIAG_URL mode, where we
+stop short of actually connecting to the other side and just print some
+parsing details. For URLs that require a child process (like ssh), we
+free() the child_process struct but forget to clear it, leaking the
+strings we stuffed into its "env" list.
+
+This leak is triggered many times in t5500, which uses "fetch-pack
+--diag-url", but we're not yet ready to mark it as leak-free.
+
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6f54d00</div>
+                                        <div class="message">fetch-pack: fix leaking sought refs
+
+When calling `fetch_pack()` the caller is expected to pass in a set of
+sought-after refs that they want to fetch. This array gets massaged to
+not contain duplicate entries, which is done by replacing duplicate refs
+with `NULL` pointers. This modifies the caller-provided array, and in
+case we do unset any pointers the caller now loses track of that ref and
+cannot free it anymore.
+
+Now the obvious fix would be to not only unset these pointers, but to
+also free their contents. But this doesn't work because callers continue
+to use those refs. Another potential solution would be to copy the array
+in `fetch_pack()` so that we dont modify the caller-provided one. But
+that doesn't work either because the NULL-ness of those entries is used
+by callers to skip over ref entries that we didn't even try to fetch in
+`report_unmatched_refs()`.
+
+Instead, we make it the responsibility of our callers to duplicate these
+arrays as needed. It ain't pretty, but it works to plug the memory leak.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#61133e6</div>
+                                        <div class="message">shallow: fix leak when unregistering last shallow root
+
+When unregistering a shallow root we shrink the array of grafts by one
+and move remaining grafts one to the left. This can of course only
+happen when there are any grafts left, because otherwise there is
+nothing to move. As such, this code is guarded by a condition that only
+performs the move in case there are grafts after the position of the
+graft to be unregistered.
+
+By mistake we also put the call to free the unregistered graft into that
+condition. But that doesn't make any sense, as we want to always free
+the graft when it exists. Fix the resulting memory leak by doing so.
+
+This leak is exposed by t5500, but plugging it does not make the whole
+test suite pass.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2ccf570</div>
+                                        <div class="message">http-fetch: clear leaking git-index-pack(1) arguments
+
+We never clear the arguments that we pass to git-index-pack(1). Create a
+common exit path and release them there to plug this leak.
+
+This is leak is exposed by t5702, but plugging the leak does not make
+the whole test suite pass.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#537e516</div>
+                                        <div class="message">sparse-checkout: disable advice in 'disable'
+
+When running 'git sparse-checkout disable' with the sparse index
+enabled, Git is expected to expand the index into a full index. However,
+it currently outputs the advice message saying that that is unexpected
+and likely due to an issue with the working directory.
+
+Disable this advice message when in this code path. Establish a pattern
+for doing a similar removal in the future.
+
+Signed-off-by: Derrick Stolee &lt;stolee@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a2b7f03</div>
+                                        <div class="message">Merge branch 'ps/leakfixes-part-6' into ps/leakfixes-part-7
+
+* ps/leakfixes-part-6: (22 commits)
+  builtin/repack: fix leaking keep-pack list
+  merge-ort: fix two leaks when handling directory rename modifications
+  match-trees: fix leaking prefixes in `shift_tree()`
+  builtin/fmt-merge-msg: fix leaking buffers
+  builtin/grep: fix leaking object context
+  builtin/pack-objects: plug leaking list of keep-packs
+  builtin/repack: fix leaking line buffer when packing promisors
+  negotiator/skipping: fix leaking commit entries
+  shallow: fix leaking members of `struct shallow_info`
+  shallow: free grafts when unregistering them
+  object: clear grafts when clearing parsed object pool
+  gpg-interface: fix misdesigned signing key interfaces
+  send-pack: fix leaking push cert nonce
+  remote: fix leak in reachability check of a remote-tracking ref
+  remote: fix leaking tracking refs
+  builtin/submodule--helper: fix leaking refs on push-check
+  submodule: fix leaking fetch task data
+  upload-pack: fix leaking child process data on reachability checks
+  builtin/push: fix leaking refspec query result
+  send-pack: fix leaking common object IDs
+  ...</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -554,212 +1048,6 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">js-refs-content-v5</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#35aaf43</div>
-                                        <div class="message">t0602: add ref content checks for worktrees
-
-We have already added content tests, but we don't have tests when there
-are worktrees in the repository. Add a new test to test all the
-functionalities we have added for worktrees.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#df31d5d</div>
-                                        <div class="message">ref: enhance escape situation for worktrees
-
-We do allow users to use "git symbolic-ref" to create symrefs which
-point to one of the linked worktrees from the primary worktree or one of
-the linked worktrees.
-
-We should not info the user about such situation and enhance
-"files_fsck_symref_target" function to check whether the "referent"
-starts with the "worktrees/".
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa608fa</div>
-                                        <div class="message">ref: add escape check for the referent of symref
-
-Ideally, we want to the users use "git symbolic-ref" to create symrefs
-instead of writing raw contents into the filesystem. However, "git
-symbolic-ref" is strict with the refname but not strict with the
-referent. For example, we can make the "referent" located at the
-"$(gitdir)/logs/aaa" and manually write the content into this where we
-can still successfully parse this symref by using "git rev-parse".
-
-  $ git init repo &amp;&amp; cd repo &amp;&amp; git commit --allow-empty -mx
-  $ git symbolic-ref refs/heads/test logs/aaa
-  $ echo $(git rev-parse HEAD) &gt; .git/logs/aaa
-  $ git rev-parse test
-
-We may need to add some restrictions for "referent" parameter when using
-"git symbolic-ref" to create symrefs because ideally all the
-nonpeudo-refs should be located under the "refs" directory and we may
-tighten this in the future.
-
-In order to tell the user we may tighten the "escape" situation, create
-a new fsck message "escapeReferent" to notify the user that this may
-become an error in the future.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9e5494d</div>
-                                        <div class="message">ref: add basic symref content check for files backend
-
-We have code that checks regular ref contents, but we do not yet check
-the contents of symbolic refs. By using "parse_loose_ref_content" for
-symbolic refs, we will get the information of the "referent".
-
-We do not need to check the "referent" by opening the file. This is
-because if "referent" exists in the file system, we will eventually
-check its correctness by inspecting every file in the "refs" directory.
-If the "referent" does not exist in the filesystem, this is OK as it is
-seen as the dangling symref.
-
-So we just need to check the "referent" string content. A regular could
-be accepted as a textual symref if it begins with "ref:", followed by
-zero or more whitespaces, followed by the full refname, followed only by
-whitespace characters. However, we always write a single SP after "ref:"
-and a single LF after the refname. It may seem that we should report a
-fsck error message when the "referent" does not apply above rules and we
-should not be so aggressive because third-party reimplementations of Git
-may have taken advantage of the looser syntax. Put it more specific, we
-accept the following "referent":
-
-1. "ref: refs/heads/master   "
-2. "ref: refs/heads/master   \n  \n"
-3. "ref: refs/heads/master\n\n"
-
-When introducing the regular ref content checks, we created a new fsck
-message "unofficialFormattedRef" which exactly represents above
-situation. So we will reuse this fsck message to write checks to info
-the user about these situations.
-
-But we do not allow any other trailing garbage. The followings are bad
-symref contents which will be reported as fsck error by "git-fsck(1)".
-
-1. "ref: refs/heads/master garbage\n"
-2. "ref: refs/heads/master \n\n\n garbage  "
-
-And we introduce a new "badReferent(ERROR)" fsck message to report above
-errors by using "ref.c::check_refname_format". But we cannot just pass
-the "referent" to this function because the "referent" might contain
-some whitespaces which will cause "check_refname_format" failing.
-
-In order to add checks, we will do the following things:
-
-1. Record the untrimmed length "orig_len" and untrimmed last byte
-   "orig_last_byte".
-2. Use "strbuf_rtrim" to trim the whitespaces or newlines to make sure
-   "check_refname_format" won't be failed by them.
-3. Use "orig_len" and "orig_last_byte" to check whether the "referent"
-   misses '\n' at the end or it has trailing whitespaces or newlines.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#87cdc31</div>
-                                        <div class="message">ref: add more strict checks for regular refs
-
-We have already used "parse_loose_ref_contents" function to check
-whether the ref content is valid in files backend. However, by
-using "parse_loose_ref_contents", we allow the ref's content to end with
-garbage or without a newline.
-
-Even though we never create such loose refs ourselves, we have accepted
-such loose refs. So, it is entirely possible that some third-party tools
-may rely on such loose refs being valid. We should not report an error
-fsck message at current. We should notify the users about such
-"curiously formatted" loose refs so that adequate care is taken before
-we decide to tighten the rules in the future.
-
-And it's not suitable either to report a warn fsck message to the user.
-We don't yet want the "--strict" flag that controls this bit to end up
-generating errors for such weirdly-formatted reference contents, as we
-first want to assess whether this retroactive tightening will cause
-issues for any tools out there. It may cause compatibility issues which
-may break the repository. So we add the "unofficialFormattedRef(INFO)"
-fsck message to represent the situation where the ref format is not
-officially created by us and notify the users it may become an error in
-the future.
-
-It might appear that we can't provide the user with any warnings by
-using FSCK_INFO. However, in "fsck.c::fsck_vreport", we will convert
-FSCK_INFO to FSCK_WARN and we can still warn the user about these
-situations when using "git refs verify" without introducing
-compatibility issues.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b5e025a</div>
-                                        <div class="message">ref: port git-fsck(1) regular refs check for files backend
-
-"git-fsck(1)" has some consistency checks for regular refs. As we want
-to align the checks "git refs verify" performs with them (and eventually
-call the unified code that checks refs from both), port the logic
-"git-fsck" has to "git refs verify".
-
-"git-fsck(1)" will report an error when the ref content is invalid.
-Following this, add a similar check to "git refs verify". Then add a new
-fsck error message "badRefContent(ERROR)" to represent that a ref has an
-invalid content.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#196faf3</div>
-                                        <div class="message">builtin/refs: support multiple worktrees check for refs.
-
-We have already set up the infrastructure to check the consistency for
-refs, but we do not support multiple worktrees. As we decide to add more
-checks for ref content, we need to set up support for multiple
-worktrees. Use "get_worktrees" and "get_worktree_ref_store" to check
-refs under the worktrees.
-
-Because we should only check once for "packed-refs", let's call the fsck
-function for packed-backend when in the main worktree. In order to know
-which directory we check, we should default print this information
-instead of specifying "--verbose".
-
-It's not suitable to print these information to the stderr. So, change
-to stdout.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -776,7 +1064,7 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~21 coding hours recorded
+                            ~22 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -796,7 +1084,7 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/>
                             </svg>
-                            ~5 hours of coding per day
+                            ~4 hours of coding per day
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -818,22 +1106,22 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">git</span>
-                                <div class="bar" style="width: 66.256%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">83%</span>
+                                <div class="bar" style="width: 67.072%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">84%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 8.623999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">11%</span>
+                                <div class="bar" style="width: 8.104%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">10%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">repo</span>
-                                <div class="bar" style="width: 4.6000000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">6%</span>
+                                <div class="bar" style="width: 4.328%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">repo-3</span>
-                                <div class="bar" style="width: 0.528%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.496%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -843,28 +1131,28 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 49.312000000000005%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">62%</span>
+                                <div class="bar" style="width: 50.968%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">64%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Bash</span>
-                                <div class="bar" style="width: 14.391999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">18%</span>
+                                <div class="bar" style="width: 13.536000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">17%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Mail</span>
-                                <div class="bar" style="width: 8.024000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">10%</span>
+                                <div class="bar" style="width: 7.544%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Git</span>
-                                <div class="bar" style="width: 4.976%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.68%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Text</span>
-                                <div class="bar" style="width: 1.2%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">2%</span>
+                                <div class="bar" style="width: 1.128%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
                             </div>
                         </div>
                     </section>
