@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1276" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1592" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.c .side{background-color:#58a6ff26}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.chart-bars.horizontal .entry .name,.track .name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}.deleted{color:#da3633}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}svg.large .largeable-column-fields{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.c .side{background-color:#58a6ff26}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.chart-bars.horizontal .entry .name,.track .name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}.added{color:#3fb950}.deleted{color:#da3633}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -33,6 +33,370 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 28 commits in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8895aca</div>
+                                        <div class="message">A bit more after 2.47-rc1
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b4efdfe</div>
+                                        <div class="message">Merge branch 'ds/read-cache-mempool-leakfix'
+
+Leakfix.
+
+* ds/read-cache-mempool-leakfix:
+  read-cache: free threaded memory pool</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b9b995e</div>
+                                        <div class="message">Merge branch 'jc/doc-discarding-stalled-topics'
+
+Document that inactive topics are subject to be discarded.
+
+* jc/doc-discarding-stalled-topics:
+  howto-maintain-git: discarding inactive topics</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#441e0df</div>
+                                        <div class="message">Merge branch 'jk/test-lsan-improvements'
+
+Usability improvements for running tests in leak-checking mode.
+
+* jk/test-lsan-improvements:
+  test-lib: check for leak logs after every test
+  test-lib: show leak-sanitizer logs on --immediate failure
+  test-lib: stop showing old leak logs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7355574</div>
+                                        <div class="message">t0610: work around flaky test with concurrent writers
+
+In 6241ce2170 (refs/reftable: reload locked stack when preparing
+transaction, 2024-09-24) we have introduced a new test that exercises
+how the reftable backend behaves with many concurrent writers all racing
+with each other. This test was introduced after a couple of fixes in
+this context that should make concurrent writes behave gracefully. As it
+turns out though, Windows systems do not yet handle concurrent writes
+properly, as we've got two reports for Cygwin and MinGW failing in this
+newly added test.
+
+The root cause of this is how we update the "tables.list" file: when
+writing a new stack of tables we first write the data into a lockfile
+and then rename that file into place. But Windows forbids us from doing
+that rename when the target path is open for reading by another process.
+And as the test races both readers and writers with each other we are
+quite likely to hit this edge case.
+
+This is not a regression: the logic didn't work before the mentioned
+commit, and after the commit it performs well on Linux and macOS, and
+the situation on Windows should have at least improved a bit. But the
+test shows that we need to put more thought into how to make this work
+properly there.
+
+Work around the issue by disabling the test on Windows for now. While at
+it, increase the locking timeout to address reported timeouts when using
+either the address or memory sanitizer, which also tend to significantly
+extend the runtime of this test.
+
+This should be revisited after Git v2.47 is out.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#435a690</div>
+                                        <div class="message">fsmonitor OSX: fix hangs for submodules
+
+fsmonitor_classify_path_absolute() expects state-&gt;path_gitdir_watch.buf
+has no trailing '/' or '.' For a submodule, fsmonitor_run_daemon() sets
+the value with trailing "/." (as repo_get_git_dir(the_repository) on
+Darwin returns ".") so that fsmonitor_classify_path_absolute() returns
+IS_OUTSIDE_CONE.
+
+In this case, fsevent_callback() doesn't update cookie_list so that
+fsmonitor_publish() does nothing and with_lock__mark_cookies_seen() is
+not invoked.
+
+As with_lock__wait_for_cookie() infinitely waits for state-&gt;cookies_cond
+that with_lock__mark_cookies_seen() should unlock, the whole daemon
+hangs.
+
+Remove trailing "/." from state-&gt;path_gitdir_watch.buf for submodules
+and add a corresponding test in t7527-builtin-fsmonitor.sh. The test is
+disabled for MINGW because hangs treated with this patch occur only for
+Darwin and there is no simple way to terminate the win32 fsmonitor
+daemon that hangs.
+
+Suggested-by: Johannes Schindelin &lt;johannes.schindelin@gmx.de&gt;
+Suggested-by: Junio C Hamano &lt;gitster@pobox.com&gt;
+Signed-off-by: Koji Nakamaru &lt;koji.nakamaru@gree.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#686f333</div>
+                                        <div class="message">perl: fix a typo
+
+Fix a typo in comments.
+
+Signed-off-by: Andrew Kreimer &lt;algonell@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2c1070c</div>
+                                        <div class="message">mergetool: fix a typo
+
+Fix a typo in comments.
+
+Signed-off-by: Andrew Kreimer &lt;algonell@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a54601c</div>
+                                        <div class="message">reftable: fix a typo
+
+Fix a typo in comments.
+
+Signed-off-by: Andrew Kreimer &lt;algonell@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#23925a1</div>
+                                        <div class="message">trace2: fix typos
+
+Fix typos in comments.
+
+Signed-off-by: Andrew Kreimer &lt;algonell@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4638250</div>
+                                        <div class="message">hash.h: set NEEDS_CLONE_HELPER_UNSAFE in fallback mode
+
+Commit 253ed9ecff (hash.h: scaffolding for _unsafe hashing variants,
+2024-09-26) introduced the concept of having two hash algorithms: a safe
+and an unsafe one. When the Makefile knobs do not explicitly request an
+unsafe one, we fall back to using the safe algorithm.
+
+However, the fallback to do so forgot one case: we should inherit the
+NEEDS_CLONE_HELPER flag from the safe variant. Failing to do so means
+that we'll end up defining two clone functions (the algorithm specific
+one, and the generic one that just calls memcpy). You'll see an error
+like this:
+
+  $ make OPENSSL_SHA1=1
+  [...]
+  sha1/openssl.h:46:29: error: redefinition of ‘openssl_SHA1_Clone’
+     46 | #define platform_SHA1_Clone openssl_SHA1_Clone
+        |                             ^~~~~~~~~~~~~~~~~~
+  hash.h:83:40: note: in expansion of macro ‘platform_SHA1_Clone’
+     83 | #    define platform_SHA1_Clone_unsafe platform_SHA1_Clone
+        |                                        ^~~~~~~~~~~~~~~~~~~
+  hash.h:101:33: note: in expansion of macro ‘platform_SHA1_Clone_unsafe’
+    101 | #  define git_SHA1_Clone_unsafe platform_SHA1_Clone_unsafe
+        |                                 ^~~~~~~~~~~~~~~~~~~~~~~~~~
+  hash.h:133:20: note: in expansion of macro ‘git_SHA1_Clone_unsafe’
+    133 | static inline void git_SHA1_Clone_unsafe(git_SHA_CTX_unsafe *dst,
+        |                    ^~~~~~~~~~~~~~~~~~~~~
+  sha1/openssl.h:37:20: note: previous definition of ‘openssl_SHA1_Clone’ with type ‘void(struct openssl_SHA1_CTX *, const struct openssl_SHA1_CTX *)’
+     37 | static inline void openssl_SHA1_Clone(struct openssl_SHA1_CTX *dst,
+        |                    ^~~~~~~~~~~~~~~~~~
+
+This only matters when compiling with openssl as the "safe" variant,
+since it's the only algorithm that requires a clone helper (and even
+then, only if you are using openssl 3.0+). And you should never do that,
+because it's not safe. But still, the invocation above used to work and
+should continue to do so until we decide to require a
+collision-detecting variant for the safe algorithm entirely.
+
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bebf0e2</div>
+                                        <div class="message">archive: fix misleading error message
+
+The error message added by 296743a7ca (archive: load index before
+pathspec checks, 2024-09-21) is misleading: unpack_trees() is not
+touching the working tree at all here, but just loading a tree into
+the index.  Correct it.
+
+Signed-off-by: René Scharfe &lt;l.s.r@web.de&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e03b2a2</div>
+                                        <div class="message">utf8.h: squelch unused-parameter warnings with NO_ICONV
+
+Since DEVELOPER=YesPlease build enables -Wunused-parameter warnings
+these days, the fallback definition for reencode_string_len() that
+did not touch any of its parameters but one needs to be annotated
+properly.
+
+Signed-off-by: Mike Hommey &lt;mh@glandium.org&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e6f359</div>
+                                        <div class="message">read-cache: free threaded memory pool
+
+In load_cache_entries_threaded(), each thread allocates its own memory
+pool. This pool needs to be cleaned up while closing the threads down,
+or it will be leaked.
+
+This ce_mem_pool pointer could theoretically be converted to an inline
+copy of the struct, but the use of a pointer helps with existing lazy-
+initialization logic. Adjusting that behavior only to avoid this pointer
+would be a much bigger change.
+
+Signed-off-by: Derrick Stolee &lt;stolee@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9c4c840</div>
+                                        <div class="message">howto-maintain-git: discarding inactive topics
+
+When a patch series happened to look interesting to the maintainer
+but is not ready for 'next', it is applied on a topic branch and
+merged to the 'seen' branch to keep an eye on it.  In an ideal
+world, the participants give reviews and the original author
+responds to the reviews, and such iterations may produce newer
+versions of the patch series, and at some point, a concensus is
+formed that the latest round is good enough for 'next'.  Then the
+topic is merged to 'next' for inclusion in a future release.
+
+In a much less ideal world we live in, however, a topic sometimes
+get stalled.  The original author may not respond to hanging review
+comments, may promise an update will be sent but does not manage to
+do so, nobody talks about the topic on the list and nobody builds
+upon it, etc.
+
+Following the recent trend to document and give more transparency to
+the decision making process, let's set a deadline to keep a topic
+still alive, and actively discard those that are inactive for a long
+period of time.
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf14643</div>
+                                        <div class="message">test-lib: check for leak logs after every test
+
+If you are trying to find and fix leaks in a large test script, it can
+be overwhelming to see the leak logs for every test at once. The
+previous commit let you use "--immediate" to see the logs after the
+first failing test, but this isn't always the first leak. As discussed
+there, we may see leaks from previous tests that didn't happen to fail.
+
+To catch those, let's check for any logs that appeared after each test
+snippet is run, meaning that in a SANITIZE=leak build, any leak is an
+immediate failure of the test snippet.
+
+This check is mostly free in non-leak builds (just a "test -z"), and
+only a few extra processes in a leak build, so I don't think the
+overhead should matter (if it does, we could probably optimize for the
+common "no logs" case without even spending a process).
+
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5fabf6e</div>
+                                        <div class="message">test-lib: show leak-sanitizer logs on --immediate failure
+
+When we've compiled with SANITIZE=leak, at the end of the test script
+we'll dump any collected logs to stdout. These logs have two uses:
+
+  1. Leaks don't always cause a test snippet to fail (e.g., if they
+     happen in a sub-process that we expect to return non-zero).
+     Checking the logs catches these cases that we'd otherwise miss
+     entirely.
+
+  2. LSan will dump the leak info to stderr, but that is sometimes
+     hidden (e.g., because it's redirected by the test, or because it's
+     in a sub-process whose stderr goes elsewhere). Dumping the logs is
+     the easiest way for the developer to see them.
+
+One downside is that the set of logs for an entire script may be very
+long, especially when you're trying to fix existing test scripts. You
+can run with --immediate to stop at the first failing test, which means
+we'll have accrued fewer logs. But we don't show the logs in that case!
+
+Let's start doing so. This can only help case (2), of course (since it
+depends on test failure). And it's somewhat weakened by the fact that
+any cases of (1) will pollute the logs. But we can improve things
+further in the next patch.
+
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95c679a</div>
+                                        <div class="message">test-lib: stop showing old leak logs
+
+We ask LSan to record the logs of all leaks in test-results/, which is
+useful for finding leaks that didn't trigger a test failure.
+
+We don't clean out the leak/ directory for each test before running it,
+though. Instead, we count the number of files it has, and complain only
+if we ended up with more when the script finishes. So we shouldn't
+trigger any output if you've made a script leak free. But if you simply
+_reduced_ the number of leaks, then there is an annoying outcome: we do
+not record which logs were from this run and which were from previous
+ones. So when we dump them to stdout, you get a mess of
+possibly-outdated leaks. This is very confusing when you are in an
+edit-compile-test cycle trying to fix leaks.
+
+The instructions do note that you should "rm -rf test-results/" if you
+want to avoid this. But I'm having trouble seeing how this cumulative
+count could ever be useful. It is not even counting the number of leaks,
+but rather the number of processes with at least one leak!
+
+So let's just blow away the per-test leak/ directory before running. We
+already overwrite the ".out" file in test-results/ in the same way, so
+this is following that pattern.
+
+Running "make test" isn't affected by this, since it blows away all of
+test-results/ already. This only comes up when you are iterating on a
+single script that you're running manually.
+
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9310f10</div>
+                                        <div class="message">Documentation: fix typos
+
+Fix typos in documentation.
+
+Signed-off-by: Andrew Kreimer &lt;algonell@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#90e82eb</div>
+                                        <div class="message">Documentation/config: fix typos
+
+Fix typos in documentation.
+
+Signed-off-by: Andrew Kreimer &lt;algonell@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1004,50 +1368,6 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">js-refs-content-v5</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3285e87</div>
-                                        <div class="message">ref: add symlink ref content check for files backend
-
-We have already introduced "files_fsck_symref_target". We should reuse
-this function to handle the symrefs which use legacy symbolic links. We
-should not check the trailing garbage for symbolic refs. Add a new
-parameter "symbolic_link" to disable some checks which should only be
-executed for textual symrefs.
-
-We firstly use the "strbuf_add_real_path" to resolve the symlink and
-get the absolute path as the "ref_content" which the symlink ref points
-to. Then we can use the absolute "abs_gitdir" of the "gitdir" and then
-combine "ref_content" and "abs_gitdir" to extract the relative path
-"referent". If "ref_content" is outside of "gitdir", we just use the
-"ref_content" as the "referent". Thus, we can reuse
-"files_fsck_symref_target" function to seamlessly check the symlink
-refs.
-
-Because we consider deprecating writing the symbolic links. We first
-need to asses whether symbolic links may still be used. So, add a new
-fsck message "symlinkRef(INFO)" to tell the user be aware of this
-information.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1064,7 +1384,7 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~24 coding hours recorded
+                            ~17 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1084,7 +1404,7 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/>
                             </svg>
-                            ~4 hours of coding per day
+                            ~3 hours of coding per day
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1106,23 +1426,18 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">git</span>
-                                <div class="bar" style="width: 61.704%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">77%</span>
+                                <div class="bar" style="width: 54.391999999999996%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">68%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 13.840000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">17%</span>
+                                <div class="bar" style="width: 25.4%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">32%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">repo</span>
-                                <div class="bar" style="width: 4%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">repo-3</span>
-                                <div class="bar" style="width: 0.45599999999999996%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
+                                <div class="bar" style="width: 0.208%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
                             </div>
                         </div>
                     </section>
@@ -1131,27 +1446,27 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 46.84%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 47.352%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">59%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Bash</span>
-                                <div class="bar" style="width: 17.44%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">22%</span>
-                            </div>
-                            <div class="entry">
                                 <span class="name">Mail</span>
-                                <div class="bar" style="width: 7.592%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 16.68%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">21%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Git</span>
-                                <div class="bar" style="width: 4.32%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <span class="name">Bash</span>
+                                <div class="bar" style="width: 12.48%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">16%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">conf</span>
+                                <div class="bar" style="width: 0.848%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Text</span>
-                                <div class="bar" style="width: 1.048%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.7919999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
