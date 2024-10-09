@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1592" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1559" class="">
     <defs>
         <style/>
     </defs>
@@ -33,6 +33,29 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 23 commits in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#dde6096</div>
+                                        <div class="message">Merge branch 'master' of github.com:alshopov/git-po
+
+* 'master' of github.com:alshopov/git-po:
+  l10n: bg.po: Updated Bulgarian translation (5772t)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1295,79 +1318,6 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">js-refs-content-v5</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#cde7ed7</div>
-                                        <div class="message">ref: add symlink ref content check for files backend
-
-We have already introduced "files_fsck_symref_target". We should reuse
-this function to handle the symrefs which use legacy symbolic links. We
-should not check the trailing garbage for symbolic refs. Add a new
-parameter "symbolic_link" to disable some checks which should only be
-executed for textual symrefs.
-
-We firstly use the "strbuf_add_real_path" to resolve the symlink and
-get the absolute path as the "ref_content" which the symlink ref points
-to. Then we can use the absolute "abs_gitdir" of the "gitdir" and then
-combine "ref_content" and "abs_gitdir" to extract the relative path
-"referent". If "ref_content" is outside of "gitdir", we just use the
-"ref_content" as the "referent". Thus, we can reuse
-"files_fsck_symref_target" function to seamlessly check the symlink
-refs.
-
-Because we consider deprecating writing the symbolic links. We first
-need to asses whether symbolic links may still be used. So, add a new
-fsck message "symlinkRef(INFO)" to tell the user be aware of this
-information.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#61b5a55</div>
-                                        <div class="message">t0602: add ref content checks for worktrees
-
-We have already added content tests, but we don't have tests when there
-are worktrees in the repository. Add a new test to test all the
-functionalities we have added for worktrees.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4eccf44</div>
-                                        <div class="message">ref: enhance escape situation for worktrees
-
-We do allow users to use "git symbolic-ref" to create symrefs which
-point to one of the linked worktrees from the primary worktree or one of
-the linked worktrees.
-
-We should not info the user about the escape for above situation. So,
-enhance "files_fsck_symref_target" function to check whether the "referent"
-starts with the "worktrees/" to make sure that we won't warn the user
-when symrefs point to "referent" in the linked worktrees.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1426,18 +1376,23 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">git</span>
-                                <div class="bar" style="width: 35.968%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">45%</span>
+                                <div class="bar" style="width: 35.384%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">44%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 31.304000000000002%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">39%</span>
+                                <div class="bar" style="width: 29.4%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">37%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">efb-qq-plugin-napcat</span>
-                                <div class="bar" style="width: 12.704%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 13%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">16%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">luo_obsidian</span>
+                                <div class="bar" style="width: 2.192%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">repo</span>
@@ -1451,28 +1406,28 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 34.568%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 34.416000000000004%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">43%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Mail</span>
-                                <div class="bar" style="width: 24.6%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">31%</span>
+                                <div class="bar" style="width: 22.512%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">28%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 12.607999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 12.904%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">16%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Bash</span>
-                                <div class="bar" style="width: 5.768%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.5920000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">7%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Text</span>
-                                <div class="bar" style="width: 0.784%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
+                                <span class="name">Markdown</span>
+                                <div class="bar" style="width: 2.336%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
                             </div>
                         </div>
                     </section>
