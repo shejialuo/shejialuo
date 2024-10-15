@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1559" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1276" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}svg.large .largeable-column-fields{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.c .side{background-color:#58a6ff26}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.chart-bars.horizontal .entry .name,.track .name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}.added{color:#3fb950}.deleted{color:#da3633}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}svg.large .largeable-column-fields{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -33,6 +33,348 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">shejialuo/OS-Configuration</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#454d0bf</div>
+                                        <div class="message">Update Android</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 72 commits in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5ce08ed</div>
+                                        <div class="message">line-log: fix several memory leaks
+
+As described in "line-log.c" itself, the code is "leaking like a sieve".
+These leaks are all of rather trivial nature, so this commit plugs them
+without going too much into details for each of those leaks.
+
+The leaks are hit by t4211, but plugging them alone does not make the
+full test suite pass. The remaining leaks are unrelated to the line-log
+subsystem.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a5aecb2</div>
+                                        <div class="message">diff: improve lifecycle management of diff queues
+
+The lifecycle management of diff queues is somewhat confusing:
+
+  - For most of the part this can be attributed to `DIFF_QUEUE_CLEAR()`,
+    which does not release any memory but rather initializes the queue,
+    only. This is in contrast to our common naming schema, where
+    "clearing" means that we release underlying memory and then
+    re-initialize the data structure such that it is ready to use.
+
+  - A second offender is `diff_free_queue()`, which does not free the
+    queue structure itself. It is rather a release-style function.
+
+Refactor the code to make things less confusing. `DIFF_QUEUE_CLEAR()` is
+replaced by `DIFF_QUEUE_INIT` and `diff_queue_init()`, while
+`diff_free_queue()` is replaced by `diff_queue_release()`. While on it,
+adapt callsites where we call `DIFF_QUEUE_CLEAR()` with the intent to
+release underlying memory to instead call `diff_queue_clear()` to fix
+memory leaks.
+
+This memory leak is exposed by t4211, but plugging it alone does not
+make the whole test suite pass.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fdf972a</div>
+                                        <div class="message">builtin/revert: fix leaking `gpg_sign` and `strategy` config
+
+We leak the config values when `gpg_sign` or `strategy` options are
+being overridden via the command line. To fix this we need to free the
+old value, which requires us to figure out whether the value was changed
+via an option in the first place. The easy way to do this, which is to
+initialize local variables with `NULL`, doesn't work because we cannot
+tell the case where the user has passed e.g. `--no-gpg-sign`. Instead,
+we use a sentinel value for both values that we can compare against to
+check whether the user has passed the option.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#58888c0</div>
+                                        <div class="message">t/helper: fix leaking repository in partial-clone helper
+
+We initialize but never clear a repository in the partial-clone test
+helper. Plug this leak.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6361dea</div>
+                                        <div class="message">builtin/clone: fix leaking repo state when cloning with bundle URIs
+
+When cloning with bundle URIs we re-initialize `the_repository` after
+having fetched the bundle. This causes a bunch of memory leaks though
+because we do not release its previous state.
+
+These leaks can be plugged by calling `repo_clear()` before we call
+`repo_init()`. But this causes another issue because the remote that we
+used is tied to the lifetime of the repository's remote state, which
+would also get released. We thus have to make sure that it does not get
+free'd under our feet.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a0f2a2f</div>
+                                        <div class="message">builtin/pack-redundant: fix various memory leaks
+
+There are various different memory leaks in git-pack-redundant(1),
+mostly caused by not even trying to free allocated memory. Fix them.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#64fe1e4</div>
+                                        <div class="message">builtin/stash: fix leaking `pathspec_from_file`
+
+The `OPT_PATHSPEC_FROM_FILE()` option maps to `OPT_FILENAME()`, which we
+know will always allocate memory when passed. We never free the memory
+though, causing a memory leak. Plug it.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5cca114</div>
+                                        <div class="message">submodule: fix leaking submodule entry list
+
+The submodule entry list returned by `submodules_of_tree()` is never
+completely free'd by its only caller. Introduce a new function that
+free's the list for us and call it.
+
+While at it, also fix the leaking `branch_point` string.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#666643f</div>
+                                        <div class="message">wt-status: fix leaking buffer with sparse directories
+
+When hitting a sparse directory in `wt_status_collect_changes_initial()`
+we use a `struct strbuf` to assemble the directory's name. We never free
+that buffer though, causing a memory leak.
+
+Fix the leak by releasing the buffer. While at it, move the buffer
+outside of the loop and reset it to save on some wasteful allocations.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c758416</div>
+                                        <div class="message">shell: fix leaking strings
+
+There are two memory leaks in "shell.c". The first one in `run_shell()`
+is trivial and fixed without further explanation. The second one in
+`cmd_main()` happens because we overwrite the `prog` variable, which
+contains an allocated string. In fact though, the memory pointed to by
+that variable is still in use because we use `split_cmdline()`, which
+may create pointers into the middle of that string. But as we do not
+have a direct pointer to the head of the allocated string anymore, we
+get a complaint by the leak checker.
+
+Address this by not overwriting the `prog` pointer.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d607bd8</div>
+                                        <div class="message">scalar: fix leaking repositories
+
+In the scalar code we iterate through multiple repositories,
+initializing each of them. We never clear them though, causing memory
+leaks. Plug them.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a69d120</div>
+                                        <div class="message">read-cache: fix leaking hash context in `do_write_index()`
+
+When writing an index with the EOIE extension we allocate a separate
+hash context. We never free that context though, causing a memory leak.
+Plug it.
+
+This leak is exposed by t9210, but plugging it alone does not make the
+whole test suite pass.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a48fc1</div>
+                                        <div class="message">builtin/annotate: fix leaking args vector
+
+We're leaking the args vector in git-annotate(1) because we never clear
+it. Fixing it isn't as easy as calling `strvec_clear()` though because
+calling `cmd_blame()` will cause the underlying array to be modified.
+Instead, we also need to pass a shallow copy of the argv array to the
+function.
+
+Do so to plug the memory leaks.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a503122</div>
+                                        <div class="message">Merge branch 'jk/http-leakfixes' into ps/leakfixes-part-8
+
+* jk/http-leakfixes: (28 commits)
+  http-push: clean up local_refs at exit
+  http-push: clean up loose request when falling back to packed
+  http-push: clean up objects list
+  http-push: free xml_ctx.cdata after use
+  http-push: free remote_ls_ctx.dentry_name
+  http-push: free transfer_request strbuf
+  http-push: free transfer_request dest field
+  http-push: free curl header lists
+  http-push: free repo-&gt;url string
+  http-push: clear refspecs before exiting
+  http-walker: free fake packed_git list
+  remote-curl: free HEAD ref with free_one_ref()
+  http: stop leaking buffer in http_get_info_packs()
+  http: call git_inflate_end() when releasing http_object_request
+  http: fix leak of http_object_request struct
+  http: fix leak when redacting cookies from curl trace
+  transport-helper: fix leak of dummy refs_list
+  fetch-pack: clear pack lockfiles list
+  fetch: free "raw" string when shrinking refspec
+  transport-helper: fix strbuf leak in push_refs_with_push()
+  ...</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#674e46f</div>
+                                        <div class="message">Merge branch 'ps/leakfixes-part-7' into ps/leakfixes-part-8
+
+* ps/leakfixes-part-7: (23 commits)
+  diffcore-break: fix leaking filespecs when merging broken pairs
+  revision: fix leaking parents when simplifying commits
+  builtin/maintenance: fix leak in `get_schedule_cmd()`
+  builtin/maintenance: fix leaking config string
+  promisor-remote: fix leaking partial clone filter
+  grep: fix leaking grep pattern
+  submodule: fix leaking submodule ODB paths
+  trace2: destroy context stored in thread-local storage
+  builtin/difftool: plug several trivial memory leaks
+  builtin/repack: fix leaking configuration
+  diffcore-order: fix leaking buffer when parsing orderfiles
+  parse-options: free previous value of `OPTION_FILENAME`
+  diff: fix leaking orderfile option
+  builtin/pull: fix leaking "ff" option
+  dir: fix off by one errors for ignored and untracked entries
+  builtin/submodule--helper: fix leaking remote ref on errors
+  t/helper: fix leaking subrepo in nested submodule config helper
+  builtin/submodule--helper: fix leaking error buffer
+  builtin/submodule--helper: clear child process when not running it
+  submodule: fix leaking update strategy
+  ...</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2229389</div>
+                                        <div class="message">doc: apply synopsis simplification on git-clone and git-init
+
+With the new synopsis formatting backend, no special asciidoc markup
+is needed.
+
+Signed-off-by: Jean-Noël Avila &lt;jn.avila@free.fr&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#029eff9</div>
+                                        <div class="message">doc: update the guidelines to reflect the current formatting rules
+
+Signed-off-by: Jean-Noël Avila &lt;jn.avila@free.fr&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#974cdca</div>
+                                        <div class="message">doc: introduce a synopsis typesetting
+
+In order to follow the common manpage usage, the synopsis of the
+commands needs to be heavily typeset. A first try was performed with
+using native markup, but it turned out to make the document source
+almost unreadable, difficult to write and prone to mistakes with
+unwanted Asciidoc's role attributes.
+
+In order to both simplify the writer's task and obtain a consistant
+typesetting in the synopsis, a custom 'synopsis' paragraph type is
+created and the processor for backticked text are modified. The
+backends of asciidoc and asciidoctor take in charge to correctly add
+the required typesetting.
+
+Signed-off-by: Jean-Noël Avila &lt;jn.avila@free.fr&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e8a0c24</div>
+                                        <div class="message">Merge branch 'ps/reftable-exclude' into ps/reftable-alloc-failures
+
+* ps/reftable-exclude:
+  refs/reftable: wire up support for exclude patterns
+  reftable/reader: make table iterator reseekable
+  t/unit-tests: introduce reftable library
+  Makefile: stop listing test library objects twice
+  builtin/receive-pack: fix exclude patterns when announcing refs
+  refs: properly apply exclude patterns to namespaced refs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d29fc59</div>
+                                        <div class="message">Merge branch 'cp/unit-test-reftable-stack' into ps/reftable-alloc-failures
+
+* cp/unit-test-reftable-stack:
+  t-reftable-stack: add test for stack iterators
+  t-reftable-stack: add test for non-default compaction factor
+  t-reftable-stack: use reftable_ref_record_equal() to compare ref records
+  t-reftable-stack: use Git's tempfile API instead of mkstemp()
+  t: harmonize t-reftable-stack.c with coding guidelines
+  t: move reftable/stack_test.c to the unit testing framework</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -453,887 +795,6 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 66 commits in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#134bfed</div>
-                                        <div class="message">http-walker: free fake packed_git list
-
-The dumb-http walker code creates a "fake" packed_git list representing
-packs we've downloaded from the remote (I call it "fake" because
-generally that struct is only used and managed by the local repository
-struct). But during our cleanup phase we don't touch those at all,
-causing a leak.
-
-There's no support here from the rest of the object-database API, as
-these structs are not meant to be freed, except when closing the object
-store completely. But we can see that raw_object_store_clear() just
-calls free() on them, and that's enough here to fix the leak.
-
-I also added a call to close_pack() before each. In the regular code
-this happens via close_object_store(), which we do as part of
-raw_object_store_clear(). This is necessary to prevent leaking mmap'd
-data (like the pack idx) or descriptors. The leak-checker won't catch
-either of these itself, but I did confirm with some hacky warning()
-calls and running t5550 that it's easy to leak at least index data.
-
-This is all much more intimate with the packed_git struct than I'd like,
-but I think fixing it would be a pretty big refactor. And it's just not
-worth it for dumb-http code which is rarely used these days. If we can
-silence the leak-checker without creating too much hassle, we should
-just do that.
-
-This lets us mark t5550 as leak-free.
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cf8072e</div>
-                                        <div class="message">remote-curl: free HEAD ref with free_one_ref()
-
-After dumb-http downloads the remote info/refs file, it adds an extra
-HEAD ref struct to our list by downloading the remote symref and finding
-the matching ref within our list. If either of those fails, we throw
-away the ref struct. But we do so with free(), when we should use
-free_one_ref() to catch any embedded allocations (in particular, if
-fetching the remote HEAD succeeded but the branch is unborn, its
-ref-&gt;symref field will be populated but we'll still throw it all away).
-
-This leak is triggered by t5550 (but we still have a little more work to
-mark it leak-free).
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#75f4acc</div>
-                                        <div class="message">http: stop leaking buffer in http_get_info_packs()
-
-We use http_get_strbuf() to fetch the remote info/packs content into a
-strbuf, but never free it, causing a leak. There's no need to hold onto
-it, as we've already parsed it completely.
-
-This lets us mark t5619 as leak-free.
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8bdb84e</div>
-                                        <div class="message">http: call git_inflate_end() when releasing http_object_request
-
-In new_http_object_request(), we initialize the zlib stream with
-git_inflate_init(). We must have a matching git_inflate_end() to avoid
-leaking any memory allocated by zlib.
-
-In most cases this happens in finish_http_object_request(), but we don't
-always get there. If we abort a request mid-stream, then we may clean it
-up without hitting that function.
-
-We can't just add a git_inflate_end() call to the release function,
-though. That would double-free the cases that did actually finish.
-Instead, we'll move the call from the finish function to the release
-function. This does delay it for the cases that do finish, but I don't
-think it matters. We should have already reached Z_STREAM_END (and
-complain if we didn't), and we do not record any status code from
-git_inflate_end().
-
-This leak is triggered by t5550 at least (and probably other dumb-http
-tests).
-
-I did find one other related spot of interest. If we try to read a
-previously downloaded file and fail, we reset the stream by calling
-memset() followed by a fresh git_inflate_init(). I don't think this case
-is triggered in the test suite, but it seemed like an obvious leak, so I
-added the appropriate git_inflate_end() before the memset() there.
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a1bc3c8</div>
-                                        <div class="message">http: fix leak of http_object_request struct
-
-The new_http_object_request() function allocates a struct on the heap,
-along with some fields inside the struct. But the matching function to
-clean it up, release_http_object_request(), only frees the interior
-fields without freeing the struct itself, causing a leak.
-
-The related http_pack_request new/release pair gets this right, and at
-first glance we should be able to do the same thing and just add a
-single free() call. But there's a catch.
-
-These http_object_request structs are typically embedded in the
-object_request struct of http-walker.c. And when we clean up that parent
-struct, it sanity-checks the embedded struct to make sure we are not
-leaking descriptors. Which means a use-after-free if we simply free()
-the embedded struct.
-
-I have no idea how valuable that sanity-check is, or whether it can
-simply be deleted. This all goes back to 5424bc557f (http*: add helper
-methods for fetching objects (loose), 2009-06-06). But the obvious way
-to make it all work is to be sure we set the pointer to NULL after
-freeing it (and our freeing process closes the descriptor, so we know
-there is no leak).
-
-To make sure we do that consistently, we'll switch the pointer we take
-in release_http_object_request() to a pointer-to-pointer, and we'll set
-it to NULL ourselves. And then the compiler can help us find each caller
-which needs to be updated.
-
-Most cases will just pass "&amp;obj_req-&gt;req", which will obviously do the
-right thing. In a few cases, like http-push's finish_request(), we are
-working with a copy of the pointer, so we don't NULL the original. But
-it's OK because the next step is to free the struct containing the
-original pointer anyway.
-
-This lets us mark t5551 as leak-free. Ironically this is the "smart"
-http test, and the leak here only affects dumb http. But there's a
-single dumb-http invocation in there. The full dumb tests are in t5550,
-which still has some more leaks.
-
-This also makes t5559 leak-free, as it's just an HTTP/2 variant of
-t5551. But we don't need to mark it as such, since it inherits the flag
-from t5551.
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3d33e96</div>
-                                        <div class="message">http: fix leak when redacting cookies from curl trace
-
-When redacting headers for GIT_TRACE_CURL, we build up a redacted cookie
-header in a local strbuf, and then copy it into the output. But we
-forget to release the temporary strbuf, leaking it for every cookie
-header we show.
-
-The other redacted headers don't run into this problem, since they're
-able to work in-place in the output buffer. But the cookie parsing is
-too complicated for that, since we redact the cookies individually.
-
-This leak is triggered by the cookie tests in t5551.
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cb2732f</div>
-                                        <div class="message">transport-helper: fix leak of dummy refs_list
-
-When using a remote-helper, the fetch_refs() function will issue a
-"list" command if we haven't already done so. We don't care about the
-result, but this is just to maintain compatibility as explained in
-ac3fda82bf (transport-helper: skip ls-refs if unnecessary, 2019-08-21).
-
-But get_refs_list_using_list(), the function we call to issue the
-command, does parse and return the resulting ref list, which we simply
-leak. We should record the return value and free it immediately (another
-approach would be to teach it to avoid allocating at all, but it does
-not seem worth the trouble to micro-optimize this mostly historical
-case).
-
-Triggering this requires the v0 protocol (since in v2 we use stateless
-connect to take over the connection). You can see it in t5551.37, "fetch
-by SHA-1 without tag following", as it explicitly enables v0.
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d121a7d</div>
-                                        <div class="message">fetch-pack: clear pack lockfiles list
-
-If the --lock-pack option is passed (which it typically is when
-fetch-pack is used under the hood by smart-http), then we may end up
-with entries in our pack_lockfiles string_list. We need to clear them
-before returning to avoid a leak.
-
-In git-fetch this isn't a problem, since the same cleanup happens via
-transport_unlock_pack(). But the leak is detectable in t5551, which does
-http fetches.
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ea47803</div>
-                                        <div class="message">fetch: free "raw" string when shrinking refspec
-
-The "--prefetch" option to git-fetch modifies the default refspec,
-including eliminating some entries entirely. When we drop an entry we
-free the strings in the refspec_item, but we forgot to free the matching
-string in the "raw" array of the refspec struct. There's no behavioral
-bug here (since we correctly shrink the raw array, too), but we're
-leaking the allocated string.
-
-Let's add in the leak-fix, and while we're at it drop "const" from
-the type of the raw string array. These strings are always allocated by
-refspec_append(), etc, and this makes the memory ownership more clear.
-
-This is all a bit more intimate with the refspec code than I'd like, and
-I suspect it would be better if each refspec_item held on to its own raw
-string, we had a single array, and we could use refspec_item_clear() to
-clean up everything. But that's a non-trivial refactoring, since
-refspec_item structs can be held outside of a "struct refspec", without
-having a matching raw string at all. So let's leave that for now and
-just fix the leak in the most immediate way.
-
-This lets us mark t5582 as leak-free.
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e00e1cf</div>
-                                        <div class="message">transport-helper: fix strbuf leak in push_refs_with_push()
-
-We loop over the refs to push, building up a strbuf with the set of
-"push" directives to send to the remote helper. But if the atomic-push
-flag is set and we hit a rejected ref, we'll bail from the function
-early. We clean up most things, but forgot to release the strbuf.
-
-Fixing this lets us mark t5541 as leak-free.
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05372c2</div>
-                                        <div class="message">send-pack: free cas options before exit
-
-The send-pack --force-with-lease option populates a push_cas_option
-struct with allocated strings. Exiting without cleaning this up will
-cause leak-checkers to complain.
-
-We can fix this by calling clear_cas_option(), after making it publicly
-available. Previously it was used only for resetting the list when we
-saw --no-force-with-lease.
-
-The git-push command has the same "leak", though in this case it won't
-trigger a leak-checker since it stores the push_cas_option struct as a
-global rather than on the stack (and is thus reachable even after main()
-exits). I've added cleanup for it here anyway, though, as
-future-proofing.
-
-The leak is triggered by t5541 (it tests --force-with-lease over http,
-which requires a separate send-pack process under the hood), but we
-can't mark it as leak-free yet.
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#753f670</div>
-                                        <div class="message">commit: avoid leaking already-saved buffer
-
-When we parse a commit via repo_parse_commit_internal(), if
-save_commit_buffer is set we'll stuff the buffer of the object contents
-into a cache, overwriting any previous value.
-
-This can result in a leak of that previously cached value, though it's
-rare in practice. If we have a value in the cache it would have come
-from a previous parse, and during that parse we'd set the object.parsed
-flag, causing any subsequent parse attempts to exit without doing any
-work.
-
-But it's possible to "unparse" a commit, which we do when registering a
-commit graft. And since shallow fetches are implemented using grafts,
-the leak is triggered in practice by t5539.
-
-There are a number of possible ways to address this:
-
-  1. the unparsing function could clear the cached commit buffer, too. I
-     think this would work for the case I found, but I'm not sure if
-     there are other ways to end up in the same state (an unparsed
-     commit with an entry in the commit buffer cache).
-
-  2. when we parse, we could check the buffer cache and prefer it to
-     reading the contents from the object database. In theory the
-     contents of a particular sha1 are immutable, but the code in
-     question is violating the immutability with grafts. So this
-     approach makes me a bit nervous, although I think it would work in
-     practice (the grafts are applied to what we parse, but we still
-     retain the original contents).
-
-  3. We could realize the cache is already populated and discard its
-     contents before overwriting. It's possible some other code could be
-     holding on to a pointer to the old cache entry (and we'd introduce
-     a use-after-free), but I think the risk of that is relatively low.
-
-  4. The reverse of (3): when the cache is populated, don't bother
-     saving our new copy. This is perhaps a little weird, since we'll
-     have just populated the commit struct based on a different buffer.
-     But the two buffers should be the same, even in the presence of
-     grafts (as in (2) above).
-
-I went with option 4. It addresses the leak directly and doesn't carry
-any risk of breaking other assumptions. And it's the same technique used
-by parse_object_buffer() for this situation, though I'm not sure when it
-would even come up there. The extra safety has been there since
-bd1e17e245 (Make "parse_object()" also fill in commit message buffer
-data., 2005-05-25).
-
-This lets us mark t5539 as leak-free.
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c800963</div>
-                                        <div class="message">fetch-pack, send-pack: clean up shallow oid array
-
-When we call get_remote_heads() for protocol v0, that may populate the
-"shallow" oid_array, which must be cleaned up to avoid a leak at the
-program exit. The same problem exists for both fetch-pack and send-pack,
-but not for the usual transport.c code paths, since we already do this
-cleanup in disconnect_git().
-
-Fixing this lets us mark t5542 as leak-free for the send-pack side, but
-fetch-pack will need some more fixes before we can do the same for
-t5539.
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0c23f1a</div>
-                                        <div class="message">fetch-pack: free object filter before exiting
-
-Our fetch_pack_args holds a filter_options struct that may be populated
-with allocated strings by the by the "--filter" command-line option. We
-must free it before exiting to avoid a leak when the program exits.
-
-The usual fetch code paths that use transport.c don't have the same
-leak, because we do the cleanup in disconnect_git().
-
-Fixing this leak lets us mark t5500 as leak-free.
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#91aa673</div>
-                                        <div class="message">connect: clear child process before freeing in diagnostic mode
-
-The git_connect() function has a special CONNECT_DIAG_URL mode, where we
-stop short of actually connecting to the other side and just print some
-parsing details. For URLs that require a child process (like ssh), we
-free() the child_process struct but forget to clear it, leaking the
-strings we stuffed into its "env" list.
-
-This leak is triggered many times in t5500, which uses "fetch-pack
---diag-url", but we're not yet ready to mark it as leak-free.
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6f54d00</div>
-                                        <div class="message">fetch-pack: fix leaking sought refs
-
-When calling `fetch_pack()` the caller is expected to pass in a set of
-sought-after refs that they want to fetch. This array gets massaged to
-not contain duplicate entries, which is done by replacing duplicate refs
-with `NULL` pointers. This modifies the caller-provided array, and in
-case we do unset any pointers the caller now loses track of that ref and
-cannot free it anymore.
-
-Now the obvious fix would be to not only unset these pointers, but to
-also free their contents. But this doesn't work because callers continue
-to use those refs. Another potential solution would be to copy the array
-in `fetch_pack()` so that we dont modify the caller-provided one. But
-that doesn't work either because the NULL-ness of those entries is used
-by callers to skip over ref entries that we didn't even try to fetch in
-`report_unmatched_refs()`.
-
-Instead, we make it the responsibility of our callers to duplicate these
-arrays as needed. It ain't pretty, but it works to plug the memory leak.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#61133e6</div>
-                                        <div class="message">shallow: fix leak when unregistering last shallow root
-
-When unregistering a shallow root we shrink the array of grafts by one
-and move remaining grafts one to the left. This can of course only
-happen when there are any grafts left, because otherwise there is
-nothing to move. As such, this code is guarded by a condition that only
-performs the move in case there are grafts after the position of the
-graft to be unregistered.
-
-By mistake we also put the call to free the unregistered graft into that
-condition. But that doesn't make any sense, as we want to always free
-the graft when it exists. Fix the resulting memory leak by doing so.
-
-This leak is exposed by t5500, but plugging it does not make the whole
-test suite pass.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ccf570</div>
-                                        <div class="message">http-fetch: clear leaking git-index-pack(1) arguments
-
-We never clear the arguments that we pass to git-index-pack(1). Create a
-common exit path and release them there to plug this leak.
-
-This is leak is exposed by t5702, but plugging the leak does not make
-the whole test suite pass.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#537e516</div>
-                                        <div class="message">sparse-checkout: disable advice in 'disable'
-
-When running 'git sparse-checkout disable' with the sparse index
-enabled, Git is expected to expand the index into a full index. However,
-it currently outputs the advice message saying that that is unexpected
-and likely due to an issue with the working directory.
-
-Disable this advice message when in this code path. Establish a pattern
-for doing a similar removal in the future.
-
-Signed-off-by: Derrick Stolee &lt;stolee@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a2b7f03</div>
-                                        <div class="message">Merge branch 'ps/leakfixes-part-6' into ps/leakfixes-part-7
-
-* ps/leakfixes-part-6: (22 commits)
-  builtin/repack: fix leaking keep-pack list
-  merge-ort: fix two leaks when handling directory rename modifications
-  match-trees: fix leaking prefixes in `shift_tree()`
-  builtin/fmt-merge-msg: fix leaking buffers
-  builtin/grep: fix leaking object context
-  builtin/pack-objects: plug leaking list of keep-packs
-  builtin/repack: fix leaking line buffer when packing promisors
-  negotiator/skipping: fix leaking commit entries
-  shallow: fix leaking members of `struct shallow_info`
-  shallow: free grafts when unregistering them
-  object: clear grafts when clearing parsed object pool
-  gpg-interface: fix misdesigned signing key interfaces
-  send-pack: fix leaking push cert nonce
-  remote: fix leak in reachability check of a remote-tracking ref
-  remote: fix leaking tracking refs
-  builtin/submodule--helper: fix leaking refs on push-check
-  submodule: fix leaking fetch task data
-  upload-pack: fix leaking child process data on reachability checks
-  builtin/push: fix leaking refspec query result
-  send-pack: fix leaking common object IDs
-  ...</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 18 commits in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e9356ba</div>
-                                        <div class="message">another batch after 2.47-rc0
-
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#92198dd</div>
-                                        <div class="message">Merge branch 'ps/includeif-onbranch-cornercase-fix'
-
-"git --git-dir=nowhere cmd" failed to properly notice that it
-wasn't in any repository while processing includeIf.onbranch
-configuration and instead crashed.
-
-* ps/includeif-onbranch-cornercase-fix:
-  config: fix evaluating "onbranch" with nonexistent git dir
-  t1305: exercise edge cases of "onbranch" includes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4251403</div>
-                                        <div class="message">Merge branch 'ds/background-maintenance-with-credential'
-
-Background tasks "git maintenance" runs may need to use credential
-information when going over the network, but a credential helper
-may work only in an interactive environment, and end up blocking a
-scheduled task waiting for UI.  Credential helpers can now behave
-differently when they are not running interactively.
-
-* ds/background-maintenance-with-credential:
-  scalar: configure maintenance during 'reconfigure'
-  maintenance: add custom config to background jobs
-  credential: add new interactive config option</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c58eee0</div>
-                                        <div class="message">Merge branch 'rs/archive-with-attr-pathspec-fix'
-
-"git archive" with pathspec magic that uses the attribute
-information did not work well, which has been corrected.
-
-* rs/archive-with-attr-pathspec-fix:
-  archive: load index before pathspec checks</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1a898ce</div>
-                                        <div class="message">Merge branch 'rs/commit-graph-ununleak'
-
-Code clean-up.
-
-* rs/commit-graph-ununleak:
-  commit-graph: remove unnecessary UNLEAK</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#22baac8</div>
-                                        <div class="message">Merge branch 'pw/submodule-process-sigpipe'
-
-When a subprocess to work in a submodule spawned by "git submodule"
-fails with SIGPIPE, the parent Git process caught the death of it,
-but gave a generic "failed to work in that submodule", which was
-misleading.  We now behave as if the parent got SIGPIPE and die.
-
-* pw/submodule-process-sigpipe:
-  submodule status: propagate SIGPIPE</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ab68c70</div>
-                                        <div class="message">Merge branch 'ps/reftable-concurrent-writes'
-
-Give timeout to the locking code to write to reftable.
-
-* ps/reftable-concurrent-writes:
-  refs/reftable: reload locked stack when preparing transaction
-  reftable/stack: allow locking of outdated stacks
-  refs/reftable: introduce "reftable.lockTimeout"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6241ce2</div>
-                                        <div class="message">refs/reftable: reload locked stack when preparing transaction
-
-When starting a reftable transaction we lock all stacks we are about to
-modify. While it may happen that the stack is out-of-date at this point
-in time we don't really care: transactional updates encode the expected
-state of a certain reference, so all that we really want to verify is
-that the _current_ value matches that expected state.
-
-Pass `REFTABLE_STACK_NEW_ADDITION_RELOAD` when locking the stack such
-that an out-of-date stack will be reloaded after having been locked.
-This change is safe because all verifications of the expected state
-happen after this step anyway.
-
-Add a testcase that verifies that many writers are now able to write to
-the stack concurrently without failures and with a deterministic end
-result.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#80e7342</div>
-                                        <div class="message">reftable/stack: allow locking of outdated stacks
-
-In `reftable_stack_new_addition()` we first lock the stack and then
-check whether it is still up-to-date. If it is not we return an error to
-the caller indicating that the stack is outdated.
-
-This is overly restrictive in our ref transaction interface though: we
-lock the stack right before we start to verify the transaction, so we do
-not really care whether it is outdated or not. What we really want is
-that the stack is up-to-date after it has been locked so that we can
-verify queued updates against its current state while we know that it is
-locked for concurrent modification.
-
-Introduce a new flag `REFTABLE_STACK_NEW_ADDITION_RELOAD` that alters
-the behaviour of `reftable_stack_init_addition()` in this case: when we
-notice that it is out-of-date we reload it instead of returning an error
-to the caller.
-
-This logic will be wired up in the reftable backend in the next commit.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bc39b6a</div>
-                                        <div class="message">refs/reftable: introduce "reftable.lockTimeout"
-
-When multiple concurrent processes try to update references in a
-repository they may try to lock the same lockfiles. This can happen even
-when the updates are non-conflicting and can both be applied, so it
-doesn't always make sense to abort the transaction immediately. Both the
-"loose" and "packed" backends thus have a grace period that they wait
-for the lock to be released that can be controlled via the config values
-"core.filesRefLockTimeout" and "core.packedRefsTimeout", respectively.
-
-The reftable backend doesn't have such a setting yet and instead fails
-immediately when it sees such a lock. But the exact same concepts apply
-here as they do apply to the other backends.
-
-Introduce a new "reftable.lockTimeout" config that controls how long we
-may wait for a "tables.list" lock to be released. The default value of
-this config is 100ms, which is the same default as we have it for the
-"loose" backend.
-
-Note that even though we also lock individual tables, this config really
-only applies to the "tables.list" file. This is because individual
-tables are only ever locked when we already hold the "tables.list" lock
-during compaction. When we observe such a lock we in fact do not want to
-compact the table at all because it is already in the process of being
-compacted by a concurrent process. So applying the same timeout here
-would not make any sense and only delay progress.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#320c96b</div>
-                                        <div class="message">config: fix evaluating "onbranch" with nonexistent git dir
-
-The `include_by_branch()` function is responsible for evaluating whether
-or not a specific include should be pulled in based on the currently
-checked out branch. Naturally, his condition can only be evaluated when
-we have a properly initialized repository with a ref store in the first
-place. This is why the function guards against the case when either
-`data-&gt;repo` or `data-&gt;repo-&gt;gitdir` are `NULL` pointers.
-
-But the second check is insufficient: the `gitdir` may be set even
-though the repository has not been initialized. Quoting "setup.c":
-
-  NEEDSWORK: currently we allow bogus GIT_DIR values to be set in some
-  code paths so we also need to explicitly setup the environment if the
-  user has set GIT_DIR.  It may be beneficial to disallow bogus GIT_DIR
-  values at some point in the future.
-
-So when either the GIT_DIR environment variable or the `--git-dir`
-global option are set by the user then `the_repository` may end up with
-an initialized `gitdir` variable. And this happens even when the dir is
-invalid, like for example when it doesn't exist. It follows that only
-checking for whether or not `gitdir` is `NULL` is not sufficient for us
-to determine whether the repository has been properly initialized.
-
-This issue can lead to us triggering a BUG: when using a config with an
-"includeIf.onbranch:" condition outside of a repository while using the
-`--git-dir` option pointing to an invalid Git directory we may end up
-trying to evaluate the condition even though the ref storage format has
-not been set up.
-
-This bisects to 173761e21b (setup: start tracking ref storage format,
-2023-12-29), but that commit really only starts to surface the issue
-that has already existed beforehand. The code to check for `gitdir` was
-introduced via 85fe0e800c (config: work around bug with
-includeif:onbranch and early config, 2019-07-31), which tried to fix
-similar issues when we didn't yet have a repository set up. But the fix
-was incomplete as it missed the described scenario.
-
-As the quoted comment mentions, we'd ideally refactor the code to not
-set up `gitdir` with an invalid value in the first place, but that may
-be a bigger undertaking. Instead, refactor the code to use the ref
-storage format as an indicator of whether or not the ref store has been
-set up to fix the bug.
-
-Reported-by: Ronan Pigott &lt;ronan@rjp.ie&gt;
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9cc2590</div>
-                                        <div class="message">t1305: exercise edge cases of "onbranch" includes
-
-Add a couple more tests for "onbranch" includes for several edge cases.
-All tests except for the last one pass, so for the most part this change
-really only aims to nail down behaviour of include conditionals further.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ff0eb72</div>
-                                        <div class="message">commit-graph: remove unnecessary UNLEAK
-
-When f4dbdfc4d5 (commit-graph: clean up leaked memory during write,
-2018-10-03) added the UNLEAK, it was right before a call to die_errno().
-e103f7276f (commit-graph: return with errors during write, 2019-06-12)
-made it unnecessary, as it was then followed by a free() call for the
-allocated string.
-
-The code moved to write_commit_graph_file() in the meantime and the
-string pointer is now part of a struct, but the function's only caller
-still cleans up the allocation.  Drop the superfluous UNLEAK.
-
-Signed-off-by: René Scharfe &lt;l.s.r@web.de&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#296743a</div>
-                                        <div class="message">archive: load index before pathspec checks
-
-git archive checks whether pathspec arguments match anything to avoid
-surprises due to typos and later loads the index to get attributes.
-
-This order was OK when these features were introduced by ba053ea96c
-(archive: do not read .gitattributes in working directory, 2009-04-18)
-and d5f53d6d6f (archive: complain about path specs that don't match
-anything, 2009-12-12).
-
-But when attribute matching was added to pathspec in b0db704652
-(pathspec: allow querying for attributes, 2017-03-13), the pathspec
-checker in git archive did not support it fully, because it lacks the
-attributes from the index.
-
-Load the index earlier, before the pathspec check, to support attr
-pathspecs.
-
-Reported-by: Ronan Pigott &lt;ronan@rjp.ie&gt;
-Signed-off-by: René Scharfe &lt;l.s.r@web.de&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b9183b0</div>
-                                        <div class="message">scalar: configure maintenance during 'reconfigure'
-
-The 'scalar reconfigure' command is intended to update registered repos
-with the latest settings available. However, up to now we were not
-reregistering the repos with background maintenance.
-
-In particular, this meant that the background maintenance schedule would
-not be updated if there are improvements between versions.
-
-Be sure to register repos for maintenance during the reconfigure step.
-
-Signed-off-by: Derrick Stolee &lt;stolee@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f55519</div>
-                                        <div class="message">maintenance: add custom config to background jobs
-
-At the moment, some background jobs are getting blocked on credentials
-during the 'prefetch' task. This leads to other tasks, such as
-incremental repacks, getting blocked. Further, if a user manages to fix
-their credentials, then they still need to cancel the background process
-before their background maintenance can continue working.
-
-Update the background schedules for our four scheduler integrations to
-include these config options via '-c' options:
-
- * 'credential.interactive=false' will stop Git and some credential
-   helpers from prompting in the UI (assuming the '-c' parameters are
-   carried through and respected by GCM).
-
- * 'core.askPass=true' will replace the text fallback for a username
-   and password into the 'true' command, which will return a success in
-   its exit code, but Git will treat the empty string returned as an
-   invalid password and move on.
-
-We can do some testing that the credentials are passed, at least in the
-systemd case due to writing the service files.
-
-Signed-off-by: Derrick Stolee &lt;stolee@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#719399b</div>
-                                        <div class="message">credential: add new interactive config option
-
-When scripts or background maintenance wish to perform HTTP(S) requests,
-there is a risk that our stored credentials might be invalid. At the
-moment, this causes the credential helper to ping the user and block the
-process. Even if the credential helper does not ping the user, Git falls
-back to the 'askpass' method, which includes a direct ping to the user
-via the terminal.
-
-Even setting the 'core.askPass' config as something like 'echo' will
-causes Git to fallback to a terminal prompt. It uses
-git_terminal_prompt(), which finds the terminal from the environment and
-ignores whether stdin has been redirected. This can also block the
-process awaiting input.
-
-Create a new config option to prevent user interaction, favoring a
-failure to a blocked process.
-
-The chosen name, 'credential.interactive', is taken from the config
-option used by Git Credential Manager to already avoid user
-interactivity, so there is already one credential helper that integrates
-with this option. However, older versions of Git Credential Manager also
-accepted other string values, including 'auto', 'never', and 'always'.
-The modern use is to use a boolean value, but we should still be
-careful that some users could have these non-booleans. Further, we
-should respect 'never' the same as 'false'. This is respected by the
-implementation and test, but not mentioned in the documentation.
-
-The implementation for the Git interactions takes place within
-credential_getpass(). The method prototype is modified to return an
-'int' instead of 'void'. This allows us to detect that no attempt was
-made to fill the given credential, changing the single caller slightly.
-
-Also, a new trace2 region is added around the interactive portion of the
-credential request. This provides a way to measure the amount of time
-spent in that region for commands that _are_ interactive. It also makes
-a conventient way to test that the config option works with
-'test_region'.
-
-Signed-off-by: Derrick Stolee &lt;stolee@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#082caf5</div>
-                                        <div class="message">submodule status: propagate SIGPIPE
-
-It has been reported than running
-
-     git submodule status --recurse | grep -q ^+
-
-results in an unexpected error message
-
-    fatal: failed to recurse into submodule $submodule
-
-When "git submodule--helper" recurses into a submodule it creates a
-child process. If that process fails then the error message above is
-displayed by the parent. In the case above the child is killed by
-SIGPIPE as "grep -q" exits as soon as it sees the first match. Fix this
-by propagating SIGPIPE so that it is visible to the process running
-git. We could propagate other signals but I'm not sure there is much
-value in doing that. In the common case of the user pressing Ctrl-C or
-Ctrl-\ then SIGINT or SIGQUIT will be sent to the foreground process
-group and so the parent process will receive the same signal as the
-child.
-
-Reported-by: Matt Liberty &lt;mliberty@precisioninno.com&gt;
-Signed-off-by: Phillip Wood &lt;phillip.wood@dunelm.org.uk&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1350,7 +811,7 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~10 coding hours recorded
+                            ~7 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1362,7 +823,7 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                             </svg>
-                            Mostly coding in Mail
+                            Mostly coding in Markdown
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -1376,7 +837,7 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M0 2.75C0 1.784.784 1 1.75 1h12.5c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0114.25 15H1.75A1.75 1.75 0 010 13.25V2.75zm1.75-.25a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V2.75a.25.25 0 00-.25-.25H1.75zM7.25 8a.75.75 0 01-.22.53l-2.25 2.25a.75.75 0 11-1.06-1.06L5.44 8 3.72 6.28a.75.75 0 111.06-1.06l2.25 2.25c.141.14.22.331.22.53zm1.5 1.5a.75.75 0 000 1.5h3a.75.75 0 000-1.5h-3z"/>
                             </svg>
-                            Coding with Vim
+                            Coding with VS Code
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1392,18 +853,23 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 42.496%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">53%</span>
+                                <div class="bar" style="width: 30.992%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">39%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">luo_obsidian</span>
-                                <div class="bar" style="width: 21.768%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">27%</span>
+                                <div class="bar" style="width: 30.992%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">39%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">git</span>
-                                <div class="bar" style="width: 15.736%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">20%</span>
+                                <div class="bar" style="width: 10.104%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">13%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">OS-Configuration</span>
+                                <div class="bar" style="width: 7.912%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">10%</span>
                             </div>
                         </div>
                     </section>
@@ -1411,28 +877,28 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <h3>Language activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
-                                <span class="name">Mail</span>
-                                <div class="bar" style="width: 42.44%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">53%</span>
+                                <span class="name">Markdown</span>
+                                <div class="bar" style="width: 38.879999999999995%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">49%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Markdown</span>
-                                <div class="bar" style="width: 21.752000000000002%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">27%</span>
+                                <span class="name">Mail</span>
+                                <div class="bar" style="width: 30.912000000000003%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">39%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 14.887999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">19%</span>
+                                <div class="bar" style="width: 10.104%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">13%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Diff</span>
-                                <div class="bar" style="width: 0.4%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
+                                <span class="name">mail</span>
+                                <div class="bar" style="width: 0.064%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Bash</span>
-                                <div class="bar" style="width: 0.256%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">Other</span>
+                                <div class="bar" style="width: 0.032%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
