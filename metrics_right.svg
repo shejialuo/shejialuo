@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -33,6 +33,269 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">js-refs-content-v6</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#752f0ad</div>
+                                        <div class="message">ref: add symlink ref content check for files backend
+
+Besides the textual symref, we also allow symbolic links as the symref.
+So, we should also provide the consistency check as what we have done
+for textual symref. And also we consider deprecating writing the
+symbolic links. We first need to access whether symbolic links still
+be used. So, add a new fsck message "symlinkRef(INFO)" to tell the
+user be aware of this information.
+
+We have already introduced "files_fsck_symref_target". We should reuse
+this function to handle the symrefs which use legacy symbolic links. We
+should not check the trailing garbage for symbolic refs. Add a new
+parameter "symbolic_link" to disable some checks which should only be
+executed for textual symrefs.
+
+And we need to also generate the "referent" parameter for reusing
+"files_fsck_symref_target" by the following steps:
+
+1. Use "strbuf_add_real_path" to resolve the symlink and get the
+   absolute path "ref_content" which the symlink ref points to.
+2. Generate the absolute path "abs_gitdir" of "gitdir" and combine
+   "ref_content" and "abs_gitdir" to extract the relative path
+   "relative_referent_path".
+3. If "ref_content" is outside of "gitdir", we just set "referent" with
+   "ref_content". Instead, we set "referent" with
+   "relative_referent_path".
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1d200f2</div>
+                                        <div class="message">ref: check whether the target of the symref is a ref
+
+Ideally, we want to the users use "git symbolic-ref" to create symrefs
+instead of writing raw contents into the filesystem. However, "git
+symbolic-ref" is strict with the refname but not strict with the
+referent. For example, we can make the "referent" located at the
+"$(gitdir)/logs/aaa" and manually write the content into this where we
+can still successfully parse this symref by using "git rev-parse".
+
+  $ git init repo &amp;&amp; cd repo &amp;&amp; git commit --allow-empty -mx
+  $ git symbolic-ref refs/heads/test logs/aaa
+  $ echo $(git rev-parse HEAD) &gt; .git/logs/aaa
+  $ git rev-parse test
+
+We may need to add some restrictions for "referent" parameter when using
+"git symbolic-ref" to create symrefs because ideally all the
+nonpseudo-refs should be located under the "refs" directory and we may
+tighten this in the future.
+
+In order to tell the user we may tighten the above situation, create
+a new fsck message "symrefTargetIsNotARef" to notify the user that this
+may become an error in the future.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">js-refs-content-v6</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a950b98</div>
+                                        <div class="message">ref: add symlink ref content check for files backend
+
+Besides the textual symref, we also allow symbolic links as the symref.
+So, we should also provide the consistency check as what we have done
+for textual symref. And also we consider deprecating writing the
+symbolic links. We first need to access whether symbolic links still
+be used. So, add a new fsck message "symlinkRef(INFO)" to tell the
+user be aware of this information.
+
+We have already introduced "files_fsck_symref_target". We should reuse
+this function to handle the symrefs which use legacy symbolic links. We
+should not check the trailing garbage for symbolic refs. Add a new
+parameter "symbolic_link" to disable some checks which should only be
+executed for textual symrefs.
+
+And we need to also generate the "referent" parameter for reusing
+"files_fsck_symref_target" by the following steps:
+
+1. Use "strbuf_add_real_path" to resolve the symlink and get the
+   absolute path "ref_content" which the symlink ref points to.
+2. Generate the absolute path "abs_gitdir" of "gitdir" and combine
+   "ref_content" and "abs_gitdir" to extract the relative path
+   "relative_referent_path".
+3. If "ref_content" is outside of "gitdir", we just set "referent" with
+   "ref_content". Instead, we set "referent" with
+   "relative_referent_path".
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">js-refs-content-v6</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4f93e30</div>
+                                        <div class="message">ref: add symlink ref content check for files backend
+
+Besides the textual symref, we also allow symbolic links as the symref.
+So, we should also provide the consistency check as what we have done
+for textual symref. And also we consider deprecating writing the
+symbolic links. We first need to access whether symbolic links still
+be used. So, add a new fsck message "symlinkRef(INFO)" to tell the
+user be aware of this information.
+
+We have already introduced "files_fsck_symref_target". We should reuse
+this function to handle the symrefs which use legacy symbolic links. We
+should not check the trailing garbage for symbolic refs. Add a new
+parameter "symbolic_link" to disable some checks which should only be
+executed for textual symrefs.
+
+And we need to also generate the "referent" parameter for reusing
+"files_fsck_symref_target" by the following steps:
+
+1. Use "strbuf_add_real_path" to resolve the symlink and get the
+   absolute path "ref_content" which the symlink ref points to.
+2. Generate the absolute path "abs_gitdir" of "gitdir" and combine
+   "ref_content" and "abs_gitdir" to extract the relative path
+   "relative_referent_path".
+3. If "ref_content" is outside of "gitdir", we just set "referent" with
+   "ref_content". Instead, we set "referent" with
+   "relative_referent_path".
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9ca187a</div>
+                                        <div class="message">ref: check whether the target of the symref is a ref
+
+Ideally, we want to the users use "git symbolic-ref" to create symrefs
+instead of writing raw contents into the filesystem. However, "git
+symbolic-ref" is strict with the refname but not strict with the
+referent. For example, we can make the "referent" located at the
+"$(gitdir)/logs/aaa" and manually write the content into this where we
+can still successfully parse this symref by using "git rev-parse".
+
+  $ git init repo &amp;&amp; cd repo &amp;&amp; git commit --allow-empty -mx
+  $ git symbolic-ref refs/heads/test logs/aaa
+  $ echo $(git rev-parse HEAD) &gt; .git/logs/aaa
+  $ git rev-parse test
+
+We may need to add some restrictions for "referent" parameter when using
+"git symbolic-ref" to create symrefs because ideally all the
+nonpseudo-refs should be located under the "refs" directory and we may
+tighten this in the future.
+
+In order to tell the user we may tighten the above situation, create
+a new fsck message "symrefTargetIsNotARef" to notify the user that this
+may become an error in the future.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1bf36dd</div>
+                                        <div class="message">ref: add basic symref content check for files backend
+
+We have code that checks regular ref contents, but we do not yet check
+the contents of symbolic refs. By using "parse_loose_ref_content" for
+symbolic refs, we will get the information of the "referent".
+
+We do not need to check the "referent" by opening the file. This is
+because if "referent" exists in the file system, we will eventually
+check its correctness by inspecting every file in the "refs" directory.
+If the "referent" does not exist in the filesystem, this is OK as it is
+seen as the dangling symref.
+
+So we just need to check the "referent" string content. A regular ref
+could be accepted as a textual symref if it begins with "ref:", followed
+by zero or more whitespaces, followed by the full refname, followed only
+by whitespace characters. However, we always write a single SP after
+"ref:" and a single LF after the refname. It may seem that we should
+report a fsck error message when the "referent" does not apply above
+rules and we should not be so aggressive because third-party
+reimplementations of Git may have taken advantage of the looser syntax.
+Put it more specific, we accept the following contents:
+
+1. "ref: refs/heads/master   "
+2. "ref: refs/heads/master   \n  \n"
+3. "ref: refs/heads/master\n\n"
+
+When introducing the regular ref content checks, we created two fsck
+infos "refMissingNewline" and "trailingRefContent" which exactly
+represents above situations. So we will reuse these two fsck messages to
+write checks to info the user about these situations.
+
+But we do not allow any other trailing garbage. The followings are bad
+symref contents which will be reported as fsck error by "git-fsck(1)".
+
+1. "ref: refs/heads/master garbage\n"
+2. "ref: refs/heads/master \n\n\n garbage  "
+
+And we introduce a new "badReferentName(ERROR)" fsck message to report
+above errors by using "is_root_ref" and "check_refname_format" to check
+the "referent". Since both "is_root_ref" and "check_refname_format"
+don't work with whitespaces, we use the trimmed version of "referent"
+with these functions.
+
+In order to add checks, we will do the following things:
+
+1. Record the untrimmed length "orig_len" and untrimmed last byte
+   "orig_last_byte".
+2. Use "strbuf_rtrim" to trim the whitespaces or newlines to make sure
+   "is_root_ref" and "check_refname_format" won't be failed by them.
+3. Use "orig_len" and "orig_last_byte" to check whether the "referent"
+   misses '\n' at the end or it has trailing whitespaces or newlines.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -221,172 +484,6 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">js-refs-content-v6</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9b8f5f3</div>
-                                        <div class="message">ref: support multiple worktrees check for refs
-
-We have already set up the infrastructure to check the consistency for
-refs, but we do not support multiple worktrees. As we decide to add more
-checks for ref content, we need to set up support for multiple
-worktrees.
-
-We need to display the full check target name such as
-"worktrees/&lt;id&gt;/refs/worktree/foo", so we should know the id of the
-worktree to get the full target name. Add a new parameter "struct
-worktree *" for "refs-internal.h::fsck_fn". Then, change the related
-interfaces to follow this new interface.
-
-Because we should only check once for "packed-refs", use
-"is_main_worktree" method to skip checking "pack-refs" when the
-worktree is not the main worktree.
-
-Then, enhance the "files-backend.c::files_fsck_refs_dir" function to add
-"worktree/&lt;id&gt;/" prefix when we are not in the main worktree.
-
-Last, add new test to check the refname when there are multiple
-worktrees to exercise the code.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">js-refs-content-v6</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#86ada27</div>
-                                        <div class="message">ref: support multiple worktrees check for refs
-
-We have already set up the infrastructure to check the consistency for
-refs, but we do not support multiple worktrees. As we decide to add more
-checks for ref content, we need to set up support for multiple
-worktrees.
-
-We need to display the full check target name such as
-"worktrees/&lt;id&gt;/refs/worktree/foo", so we should know the id of the
-worktree to get the full target name. Add a new parameter "struct
-worktree *" for "refs-internal.h::fsck_fn". Then, change the related
-interfaces to follow this new interface.
-
-Because we should only check once for "packed-refs", use
-"is_main_worktree" method to skip checking "pack-refs" when the
-worktree is not the main worktree.
-
-Then, enhance the "files-backend.c::files_fsck_refs_dir" function to add
-"worktree/&lt;id&gt;/" prefix when we are not in the main worktree.
-
-Last, add new test to check the refname when there are multiple
-worktrees to exercise the code.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e67d9bd</div>
-                                        <div class="message">ref: initialize target name outside of the check functions
-
-We passes "refs_check_dir" to the "files_fsck_refs_name" function which
-allows it to create the checked ref name later. However, when we
-introduce a new check function, we have to re-calculate the target name.
-It's bad for us to do repeat calculation. Instead, we should pass the
-target name to the check functions.
-
-In order not to do repeat calculation, rename "refs_check_dir" to
-"target_name". And in "files_fsck_refs_dir", create a new strbuf
-"target_name", thus whenever we handle a new target, calculate the
-name and call the check functions one by one.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#abd9012</div>
-                                        <div class="message">ref: check the full refname instead of basename
-
-"files_fsck_refs_name" uses "check_refname_format" by specifying the
-"REFNAME_ALLOW_ONELEVEL" flag to check the one level refname
-"iter-&gt;basename".
-
-However, this is a bad implementation. Because we doesn't allow a single
-"@" in ".git" directory and we allow "refs/heads/@". So, we will report
-an error to the user when there is a "refs/heads/@" ref by using one
-level refname "@", which is wrong.
-
-In order to fix the above problem, pass the full name to the
-"check_refname_format", replace the related tests and exercise the ref
-name "refs/heads/@".
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#319f384</div>
-                                        <div class="message">ref: initialize "fsck_ref_report" with zero
-
-In "fsck.c::fsck_refs_error_function", we need to tell whether "oid" and
-"referent" is NULL. So, we need to always initialize these parameters to
-NULL instead of letting them point to anywhere when creating a new
-"fsck_ref_report" structure.
-
-The original code explicitly initializes the "path" member in the
-"struct fsck_ref_report" to NULL (which implicitly 0-initializes other
-members in the struct). It is more customary to use "{ 0 }" to express
-that we are 0-initializing everything. In order to align with the
-codebase, initialize "fsck_ref_report" with zero.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#21 Js refs content v5</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">shejialuo/git</span></div>
-                                    <div>7 files changed <span class="code">++646 --12</span></div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -445,27 +542,22 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">git</span>
-                                <div class="bar" style="width: 48.175999999999995%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">60%</span>
+                                <div class="bar" style="width: 53.096000000000004%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">66%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 17.096%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 16.48%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">21%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">luo_obsidian</span>
-                                <div class="bar" style="width: 10.368000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">13%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">OS-Configuration</span>
-                                <div class="bar" style="width: 3.7520000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <div class="bar" style="width: 9.840000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">12%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">repo</span>
-                                <div class="bar" style="width: 0.608%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.584%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -475,28 +567,28 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 28.992%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">36%</span>
+                                <div class="bar" style="width: 30.944%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">39%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Bash</span>
-                                <div class="bar" style="width: 15.712000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 15.792%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">20%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Markdown</span>
-                                <div class="bar" style="width: 14.12%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">18%</span>
-                            </div>
-                            <div class="entry">
                                 <span class="name">Mail</span>
-                                <div class="bar" style="width: 11.688%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">15%</span>
+                                <div class="bar" style="width: 11.352%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">14%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Other</span>
-                                <div class="bar" style="width: 2.912%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <span class="name">Markdown</span>
+                                <div class="bar" style="width: 9.840000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">12%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Text</span>
+                                <div class="bar" style="width: 3.76%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
                             </div>
                         </div>
                     </section>
