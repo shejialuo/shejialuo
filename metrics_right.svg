@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="760" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="999" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}svg.large .largeable-column-fields{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -33,6 +33,422 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 41 commits in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#41869f7</div>
+                                        <div class="message">t: fix typos
+
+Fix typos via codespell.
+
+Signed-off-by: Andrew Kreimer &lt;algonell@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#897124a</div>
+                                        <div class="message">t/helper: fix a typo
+
+Fix a typo in comments: bellow -&gt; below.
+
+Signed-off-by: Andrew Kreimer &lt;algonell@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#050e0ef</div>
+                                        <div class="message">t/perf: fix typos
+
+Fix typos via codespell.
+
+Signed-off-by: Andrew Kreimer &lt;algonell@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ca2746b</div>
+                                        <div class="message">t/unit-tests: fix typos
+
+Fix typos via codespell.
+
+Signed-off-by: Andrew Kreimer &lt;algonell@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f5deddd</div>
+                                        <div class="message">contrib: fix typos
+
+Fix typos via codespell.
+
+Signed-off-by: Andrew Kreimer &lt;algonell@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#54ee29c</div>
+                                        <div class="message">compat: fix typos
+
+Fix typos and grammar.
+
+Reported-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Andrew Kreimer &lt;algonell@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#631ddbb</div>
+                                        <div class="message">gitlab-ci: exercise Git on Windows
+
+Add jobs that exercise Git on Windows. Unfortunately, building and
+especially testing Git on Windows is inherently slower compared to other
+Unix-like systems, mostly because spawning processes is way slower. We
+thus use the same layout as we use in GitHub Actions, where we have one
+build job, and then pass on the resulting build artifacts to ten test
+jobs that split up the work across each other.
+
+Unfortunately, the GitLab runners for Windows machines are embarassingly
+slow by themselves. So while this strategy leads to around 20 minutes of
+build time in GitHub Actions, the same pipeline takes around an hour in
+GitLab CI. Still, having late coverage is certainly better than having
+none at all.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#05a928a</div>
+                                        <div class="message">gitlab-ci: introduce stages and dependencies
+
+We're about to add a couple of jobs for Windows. As the Windows runners
+are quite slow, we will split those up across two stages: one stage to
+build the artifacts, and one stage that runs test slices in parallel.
+
+Introduce stages and "needs" dependencies for the preexisting jobs as a
+preparatory step. The stages will lead to a more natural representation
+of jobs in the UI, whereas the "needs" dependency ensures that jobs do
+not have to wait for all jobs in the preceding stage to finish.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b7a08e9</div>
+                                        <div class="message">ci: handle Windows-based CI jobs in GitLab CI
+
+We try to abstract away any differences between different CI platforms
+in "ci/lib.sh", such that knowledge specific to e.g. GitHub Actions or
+GitLab CI is neatly encapsulated in a single place. Next to some generic
+variables, we also set up some variables that are specific to the actual
+platform that the CI operates on, e.g. Linux or macOS.
+
+We do not yet support Windows runners on GitLab CI. Unfortunately, those
+systems do not use the same "CI_JOB_IMAGE" environment variable as both
+Linux and macOS do. Instead, we can use the "OS" variable, which should
+have a value of "Windows_NT" on Windows platforms.
+
+Handle the combination of "$OS,$CI_JOB_IMAGE" and introduce support for
+Windows.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#91839a8</div>
+                                        <div class="message">ci: create script to set up Git for Windows SDK
+
+In order to build and test Git, we have to first set up the Git for
+Windows SDK, which contains various required tools and libraries. The
+SDK is basically a clone of [1], but that repository is quite large due
+to all the binaries it contains. We thus use both shallow clones and
+sparse checkouts to speed up the setup. To handle this complexity we use
+a GitHub action that is hosted externally at [2].
+
+Unfortunately, this makes it rather hard to reuse the logic for CI
+platforms other than GitHub Actions. After chatting with Johannes
+Schindelin we came to the conclusion that it would be nice if the Git
+for Windows SDK would regularly publish releases that one can easily
+download and extract, thus moving all of the complexity into that single
+step. Like this, all that a CI job needs to do is to fetch and extract
+the resulting archive. This published release comes in the form of a new
+"ci-artifacts" tag that gets updated regularly [3].
+
+Implement a new script that knows how to fetch and extract that script
+and convert GitHub Actions to use it.
+
+[1]: https://github.com/git-for-windows/git-sdk-64/
+[2]: https://github.com/git-for-windows/setup-git-for-windows-sdk/
+[3]: https://github.com/git-for-windows/git-sdk-64/releases/tag/ci-artifacts/
+
+Helped-by: Johannes Schindelin &lt;johannes.schindelin@gmx.de&gt;
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#106834e</div>
+                                        <div class="message">t7300: work around platform-specific behaviour with long paths on MinGW
+
+Windows by default has a restriction in place to only allow paths up to
+260 characters. This restriction can nowadays be lifted by setting a
+registry key, but is still active by default.
+
+In t7300 we have one test that exercises the behaviour of git-clean(1)
+with such long paths. Interestingly enough, this test fails on my system
+that uses Windows 10 with mingw-w64 installed via MSYS2: instead of
+observing ENAMETOOLONG, we observe ENOENT. This behaviour is consistent
+across multiple different environments I have tried.
+
+I cannot say why exactly we observe a different error here, but I would
+not be surprised if this was either dependent on the Windows version,
+the version of MinGW, the current working directory of Git or any kind
+of combination of these.
+
+Work around the issue by handling both errors.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0c1a998</div>
+                                        <div class="message">submodule: correct remote name with fetch
+
+The code fetches the submodules remote based on the superproject remote name
+instead of the submodule remote name[1].
+
+Instead of grabbing the default remote of the superproject repository, ask
+the default remote of the submodule we are going to run 'git fetch' in.
+
+1. https://lore.kernel.org/git/ZJR5SPDj4Wt_gmRO@pweza/
+
+Signed-off-by: Daniel Black &lt;daniel@mariadb.org&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#08830ac</div>
+                                        <div class="message">worktree: add test for path handling in linked worktrees
+
+A failure scenario reported in an earlier patch series[1] that several
+`git worktree` subcommands failed or misbehaved when invoked from within
+linked worktrees that used relative paths.
+
+This adds a test that executes a `worktree prune` command inside both an
+internally and an externally linked worktree and asserts that the other
+worktree was not pruned.
+
+[1]: https://lore.kernel.org/git/CAPig+cQXFy=xPVpoSq6Wq0pxMRCjS=WbkgdO+3LySPX=q0nPCw@mail.gmail.com/
+
+Reported-by: Eric Sunshine &lt;sunshine@sunshineco.com&gt;
+Signed-off-by: Caleb White &lt;cdwhite3@pm.me&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#717af91</div>
+                                        <div class="message">worktree: link worktrees with relative paths
+
+Git currently stores absolute paths to both the main repository and
+linked worktrees. However, this causes problems when moving repositories
+or working in containerized environments where absolute paths differ
+between systems. The worktree links break, and users are required to
+manually execute `worktree repair` to repair them, leading to workflow
+disruptions. Additionally, mapping repositories inside of containerized
+environments renders the repository unusable inside the containers, and
+this is not repairable as repairing the worktrees inside the containers
+will result in them being broken outside the containers.
+
+To address this, this patch makes Git always write relative paths when
+linking worktrees. Relative paths increase the resilience of the
+worktree links across various systems and environments, particularly
+when the worktrees are self-contained inside the main repository (such
+as when using a bare repository with worktrees). This improves
+portability, workflow efficiency, and reduces overall breakages.
+
+Although Git now writes relative paths, existing repositories with
+absolute paths are still supported. There are no breaking changes
+to workflows based on absolute paths, ensuring backward compatibility.
+
+At a low level, the changes involve modifying functions in `worktree.c`
+and `builtin/worktree.c` to use `relative_path()` when writing the
+worktree’s `.git` file and the main repository’s `gitdir` reference.
+Instead of hardcoding absolute paths, Git now computes the relative path
+between the worktree and the repository, ensuring that these links are
+portable. Locations where these respective file are read have also been
+updated to properly handle both absolute and relative paths. Generally,
+relative paths are always resolved into absolute paths before any
+operations or comparisons are performed.
+
+Additionally, `repair_worktrees_after_gitdir_move()` has been introduced
+to address the case where both the `&lt;worktree&gt;/.git` and
+`&lt;repo&gt;/worktrees/&lt;id&gt;/gitdir` links are broken after the gitdir is
+moved (such as during a re-initialization). This function repairs both
+sides of the worktree link using the old gitdir path to reestablish the
+correct paths after a move.
+
+The `worktree.path` struct member has also been updated to always store
+the absolute path of a worktree. This ensures that worktree consumers
+never have to worry about trying to resolve the absolute path themselves.
+
+Signed-off-by: Caleb White &lt;cdwhite3@pm.me&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb4a883</div>
+                                        <div class="message">worktree: refactor infer_backlink() to use *strbuf
+
+This lays the groundwork for the next patch, which needs the backlink
+returned from infer_backlink() as a `strbuf`. It seemed inefficient to
+convert from `strbuf` to `char*` and back to `strbuf` again.
+
+This refactors infer_backlink() to return an integer result and use a
+pre-allocated `strbuf` for the inferred backlink path, replacing the
+previous `char*` return type and improving efficiency.
+
+Signed-off-by: Caleb White &lt;cdwhite3@pm.me&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#58d8805</div>
+                                        <div class="message">Merge branch 'es/worktree-repair-copied' into cw/worktrees-relative
+
+* es/worktree-repair-copied:
+  worktree: repair copied repository and linked worktrees</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ecb5c43</div>
+                                        <div class="message">unpack-trees: detect mismatching number of cache-tree/index entries
+
+Same as the preceding commit, we unconditionally dereference the index's
+cache entries depending on the number of cache-tree entries, which can
+lead to a segfault when the cache-tree is corrupted. Fix this bug.
+
+This also makes t4058 pass with the leak sanitizer enabled.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2be7fc0</div>
+                                        <div class="message">cache-tree: detect mismatching number of index entries
+
+In t4058 we have some tests that exercise git-read-tree(1) when used
+with a tree that contains duplicate entries. While the expectation is
+that we fail, we ideally should fail gracefully without a segfault.
+
+But that is not the case: we never check that the number of entries in
+the cache-tree is less than or equal to the number of entries in the
+index. This can lead to an out-of-bounds read as we unconditionally
+access `istate-&gt;cache[idx]`, where `idx` is controlled by the number of
+cache-tree entries and the current position therein. The result is a
+segfault.
+
+Fix this segfault by adding a sanity check for the number of index
+entries before dereferencing them.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9f11959</div>
+                                        <div class="message">cache-tree: refactor verification to return error codes
+
+The function `cache_tree_verify()` will `BUG()` whenever it finds that
+the cache-tree extension of the index is corrupt. The function is thus
+inherently untestable because the resulting call to `abort()` will be
+detected by our testing framework and labelled an error. And rightfully
+so: it shouldn't ever be possible to hit bugs, as they should indicate a
+programming error rather than corruption of on-disk state.
+
+Refactor the function to instead return error codes. This also ensures
+that the function can be used e.g. by git-fsck(1) without the whole
+process dying. Furthermore, this refactoring plugs some memory leaks
+when returning early by creating a common exit path.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#992f7a4</div>
+                                        <div class="message">worktree: repair copied repository and linked worktrees
+
+For each linked worktree, Git maintains two pointers: (1)
+&lt;repo&gt;/worktrees/&lt;id&gt;/gitdir which points at the linked worktree, and
+(2) &lt;worktree&gt;/.git which points back at &lt;repo&gt;/worktrees/&lt;id&gt;. Both
+pointers are absolute pathnames.
+
+Aside from manually manipulating those raw files, it is possible to
+easily "break" one or both pointers by ignoring the "git worktree move"
+command and instead manually moving a linked worktree, moving the
+repository, or moving both. The "git worktree repair" command was
+invented to handle this case by restoring these pointers to sane values.
+
+For the "repair" command, the "git worktree" manual page states:
+
+  Repair worktree administrative files, if possible, if they have
+  become corrupted or outdated due to external factors.
+
+The "if possible" clause was chosen deliberately to convey that the
+existing implementation may not be able to fix every possible breakage,
+and to imply that improvements may be made to handle other types of
+breakage.
+
+A recent problem report[*] illustrates a case in which "git worktree
+repair" not only fails to fix breakage, but actually causes breakage.
+Specifically, if a repository / main-worktree and linked worktrees are
+*copied* as a unit (rather than *moved*), then "git worktree repair" run
+in the copy leaves the copy untouched but botches the pointers in the
+original repository and the original worktrees.
+
+For instance, given this directory structure:
+
+  orig/
+    main/ (main-worktree)
+    linked/ (linked worktree)
+
+if "orig" is copied (not moved) to "dup", then immediately after the
+manual copy operation:
+
+  * orig/main/.git/worktrees/linked/gitdir points at orig/linked/.git
+  * orig/linked/.git points at orig/main/.git/worktrees/linked
+  * dup/main/.git/worktrees/linked/gitdir points at orig/linked/.git
+  * dup/linked/.git points at orig/main/.git/worktrees/linked
+
+So, dup/main thinks its linked worktree is orig/linked, and worktree
+dup/linked thinks its repository / main-worktree is orig/main.
+
+"git worktree repair" is reasonably simple-minded; it wants to trust
+valid-looking pointers, hence doesn't try to second-guess them. In this
+case, when validating dup/linked/.git, it finds a legitimate repository
+pointer, orig/main/.git/worktrees/linked, thus trusts that is correct,
+but does notice that gitdir in that directory doesn't point at
+dup/linked/.git, so it (incorrectly) _fixes_
+orig/main/.git/worktrees/linked/gitdir to point at dup/linked/.git.
+Similarly, when validating dup/main/.git/worktrees/linked/gitdir, it
+finds a legitimate worktree pointer, orig/linked/.git, but notices that
+its .git file doesn't point back at dup/main, thus (incorrectly) _fixes_
+orig/linked/.git to point at dup/main/.git/worktrees/linked. Hence, it
+has modified and broken the linkage between orig/main and orig/linked
+rather than fixing dup/main and dup/linked as expected.
+
+Fix this problem by also checking if a plausible .git/worktrees/&lt;id&gt;
+exists in the *current* repository -- not just in the repository pointed
+at by the worktree's .git file -- and comparing whether they are the
+same. If not, then it is likely because the repository / main-worktree
+and linked worktrees were copied, so prefer the discovered plausible
+pointer rather than the one from the existing .git file.
+
+[*]: https://lore.kernel.org/git/E1sr5iF-0007zV-2k@binarylane-bailey.stuart.id.au/
+
+Reported-by: Russell Stuart &lt;russell+git.vger.kernel.org@stuart.id.au&gt;
+Signed-off-by: Eric Sunshine &lt;sunshine@sunshineco.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -322,168 +738,6 @@ reference, which has been corrected.
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">js-refs-content-v6</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7eea024</div>
-                                        <div class="message">ref: add more strict checks for regular refs
-
-We have already used "parse_loose_ref_contents" function to check
-whether the ref content is valid in files backend. However, by
-using "parse_loose_ref_contents", we allow the ref's content to end with
-garbage or without a newline.
-
-Even though we never create such loose refs ourselves, we have accepted
-such loose refs. So, it is entirely possible that some third-party tools
-may rely on such loose refs being valid. We should not report an error
-fsck message at current. We should notify the users about such
-"curiously formatted" loose refs so that adequate care is taken before
-we decide to tighten the rules in the future.
-
-And it's not suitable either to report a warn fsck message to the user.
-We don't yet want the "--strict" flag that controls this bit to end up
-generating errors for such weirdly-formatted reference contents, as we
-first want to assess whether this retroactive tightening will cause
-issues for any tools out there. It may cause compatibility issues which
-may break the repository. So, we add the following two fsck infos to
-represent the situation where the ref content ends without newline or
-has trailing garbages:
-
-1. refMissingNewline(INFO): A loose ref that does not end with
-   newline(LF).
-2. trailingRefContent(INFO): A loose ref has trailing content.
-
-It might appear that we can't provide the user with any warnings by
-using FSCK_INFO. However, in "fsck.c::fsck_vreport", we will convert
-FSCK_INFO to FSCK_WARN and we can still warn the user about these
-situations when using "git refs verify" without introducing
-compatibility issues.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6a9e297</div>
-                                        <div class="message">ref: port git-fsck(1) regular refs check for files backend
-
-"git-fsck(1)" implicitly checks the ref content by passing the
-callback "fsck_handle_ref" to the "refs.c::refs_for_each_rawref".
-Then, it will check whether the ref content (eventually "oid")
-is valid. If not, it will report the following error to the user.
-
-  error: refs/heads/main: invalid sha1 pointer 0000...
-
-And it will also report above errors when there are dangling symrefs
-in the repository wrongly. This does not align with the behavior of
-the "git symbolic-ref" command which allows users to create dangling
-symrefs.
-
-As we have already introduced the "git refs verify" command, we'd better
-check the ref content explicitly in the "git refs verify" command thus
-later we could remove these checks in "git-fsck(1)" and launch a
-subprocess to call "git refs verify" in "git-fsck(1)" to make the
-"git-fsck(1)" more clean.
-
-Following what "git-fsck(1)" does, add a similar check to "git refs
-verify". Then add a new fsck error message "badRefContent(ERROR)" to
-represent that a ref has an invalid content.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b396bf6</div>
-                                        <div class="message">ref: support multiple worktrees check for refs
-
-We have already set up the infrastructure to check the consistency for
-refs, but we do not support multiple worktrees. As we decide to add more
-checks for ref content, we need to set up support for multiple
-worktrees.
-
-Because each worktree has its own specific refs, instead of just showing
-the users "refs/worktree/foo", we need to display the full name such as
-"worktrees/&lt;id&gt;/refs/worktree/foo". So we should know the id of the
-worktree to get the full name. Add a new parameter "struct worktree *"
-for "refs-internal.h::fsck_fn". Then change the related functions to
-follow this new interface.
-
-The "packed-refs" only exists in the main worktree, so we should only
-check "packed-refs" in the main worktree. Use "is_main_worktree" method
-to skip checking "packed-refs" in "packed_fsck" function.
-
-Then, enhance the "files-backend.c::files_fsck_refs_dir" function to add
-"worktree/&lt;id&gt;/" prefix when we are not in the main worktree.
-
-Last, add a new test to check the refname when there are multiple
-worktrees to exercise the code.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9614475</div>
-                                        <div class="message">ref: initialize target name outside of check functions
-
-We passes "refs_check_dir" to the "files_fsck_refs_name" function which
-allows it to create the checked ref name later. However, when we
-introduce a new check function, we have to re-calculate the target name.
-It's bad for us to do repeat calculation. Instead, we should calculate
-it only once and pass the target name to the check functions.
-
-In order not to do repeat calculation, rename "refs_check_dir" to
-"target_name". And in "files_fsck_refs_dir", create a new strbuf
-"target_name", thus whenever we handle a new target, calculate the
-name and call the check functions one by one.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8662fc9</div>
-                                        <div class="message">ref: check the full refname instead of basename
-
-In "files-backend.c::files_fsck_refs_name", we validate the refname
-format by using "check_refname_format" to check the basename of the
-iterator with "REFNAME_ALLOW_ONELEVEL" flag.
-
-However, this is a bad implementation. Although we doesn't allow a
-single "@" in ".git" directory, we do allow "refs/heads/@". So, we will
-report an error wrongly when there is a "refs/heads/@" ref by using one
-level refname "@".
-
-Because we just check one level refname, we either cannot check the
-other parts of the full refname. And we will ignore the following
-errors:
-
-  "refs/heads/ new-feature/test"
-  "refs/heads/~new-feature/test"
-
-In order to fix the above problem, enhance "files_fsck_refs_name" to use
-the full name for "check_refname_format". Then, replace the tests which
-are related to "@" and add tests to exercise the above situations.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -500,7 +754,7 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~3 coding hours recorded
+                            ~4 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -542,22 +796,22 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">git</span>
-                                <div class="bar" style="width: 57.176%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">71%</span>
+                                <div class="bar" style="width: 68.576%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">86%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 19.84%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">25%</span>
+                                <div class="bar" style="width: 8.863999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">11%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">OS-Configuration</span>
-                                <div class="bar" style="width: 2.488%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.1359999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">repo</span>
-                                <div class="bar" style="width: 0.488%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.424%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -567,27 +821,22 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 56.288%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">70%</span>
+                                <div class="bar" style="width: 68.576%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">86%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">YAML</span>
-                                <div class="bar" style="width: 10.328%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">13%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Mail</span>
-                                <div class="bar" style="width: 9.440000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">12%</span>
+                                <div class="bar" style="width: 8.863999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">11%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 2.488%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.1359999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Text</span>
-                                <div class="bar" style="width: 0.888%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">Git</span>
+                                <div class="bar" style="width: 0.424%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
