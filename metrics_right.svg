@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1010" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1293" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}svg.large .largeable-column-fields{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.c .side{background-color:#58a6ff26}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}svg.large .largeable-column-fields{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.c .side{background-color:#58a6ff26}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -33,6 +33,433 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 59 commits in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#dc6050f</div>
+                                        <div class="message">Documentation/git-update-ref.txt: demote symlink to last section
+
+Move the discussion of file system symbolic links to a new “Notes”
+section (inspired by the one in git-symbolic-ref(1)) since this is
+mostly of historical note at this point, not something that is needed in
+the main section of the documentation.
+
+Signed-off-by: Kristoffer Haugsbakk &lt;code@khaugsbakk.name&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#744c282</div>
+                                        <div class="message">Documentation/git-update-ref.txt: remove safety paragraphs
+
+Remove paragraphs which explain that using this command is safer than
+echoing the branch name into `HEAD`.
+
+Evoking the echo strategy is wrong now under the reftable backend since
+this file does not exist.  And the ref file backend majority user base
+use porcelain commands to manage `HEAD` unless they are intentionally
+poking at the implementation.
+
+Maybe this warning was relevant for the usage patterns when it was
+added[1] but now it just takes up space.
+
+† 1: 129056370ab (Add missing documentation., 2005-10-04)
+
+Signed-off-by: Kristoffer Haugsbakk &lt;code@khaugsbakk.name&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1b2dfb7</div>
+                                        <div class="message">Documentation/git-update-ref.txt: drop “flag”
+
+The other paragraphs on options say “With &lt;option&gt;,”.  Let’s be uniform.
+
+Also add missing word “that”.
+
+Signed-off-by: Kristoffer Haugsbakk &lt;code@khaugsbakk.name&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c32d4a8</div>
+                                        <div class="message">global: Fix duplicate word typos
+
+Used regex to find these typos:
+
+    (?&lt;!struct )(?&lt;=\s)([a-z]{1,}) \1(?=\s)
+
+Signed-off-by: Sven Strickroth &lt;email@cs-ware.de&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dab0b9e</div>
+                                        <div class="message">notes: teach the -e option to edit messages in editor
+
+Notes can be added to a commit using:
+	- "-m" to provide a message on the command line.
+	- -C to copy a note from a blob object.
+	- -F to read the note from a file.
+When these options are used, Git does not open an editor,
+it simply takes the content provided via these options and
+attaches it to the commit as a note.
+
+Improve flexibility to fine-tune the note before finalizing it
+by allowing the messages to be prefilled in the editor and edited
+after the messages have been provided through -[mF].
+
+Signed-off-by: Abraham Samuel Adekunle &lt;abrahamadekunle50@gmail.com&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bddfcce</div>
+                                        <div class="message">doc: document how uploadpack.allowAnySHA1InWant impact other allow options
+
+Document how setting of `uploadpack.allowAnySHA1InWant`
+influences other `uploadpack` options - `allowTipSHA1InWant`
+and `allowReachableSHA1InWant`.
+
+Signed-off-by: Piotr Szlazak &lt;piotr.szlazak@gmail.com&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#468a7e4</div>
+                                        <div class="message">credential-cache: treat ECONNABORTED like ECONNRESET
+
+On Cygwin, t0301 fails because "git credential-cache exit" returns a
+non-zero exit code. What's supposed to happen here is:
+
+  1. The client (the "credential-cache" invocation above) connects to a
+     previously-spawned credential-cache--daemon.
+
+  2. The client sends an "exit" command to the daemon.
+
+  3. The daemon unlinks the socket and then exits, closing the
+     descriptor back to the client.
+
+  4. The client sees EOF on the descriptor and exits successfully.
+
+That works on most platforms, and even _used_ to work on Cygwin. But
+that changed in Cygwin's ef95c03522 (Cygwin: select: Fix FD_CLOSE
+handling, 2021-04-06). After that commit, the client sees a read error
+with errno set to ECONNABORTED, and it reports the error and dies.
+
+It's not entirely clear if this is a Cygwin bug. It seems that calling
+fclose() on the filehandles pointing to the sockets is sufficient to
+avoid this error return, even though exiting should in general look the
+same from the client's perspective.
+
+However, we can't just call fclose() here. It's important in step 3
+above to unlink the socket before closing the descriptor to avoid the
+race mentioned by 7d5e9c9849 (credential-cache--daemon: clarify "exit"
+action semantics, 2016-03-18). The client will exit as soon as it sees
+the descriptor close, and the daemon may or may not have actually
+unlinked the socket by then. That makes test code like this:
+
+  git credential exit &amp;&amp;
+  test_path_is_missing .git-credential-cache
+
+racy.
+
+So we probably _could_ fix this by calling:
+
+  delete_tempfile(&amp;socket_file);
+  fclose(in);
+  fclose(out);
+
+before we exit(). Or by replacing the exit() with a return up the stack,
+in which case the fclose() happens as we unwind. But in that case we'd
+still need to call delete_tempfile() here to avoid the race.
+
+But simpler still is that we can notice that we already special-case
+ECONNRESET on the client side, courtesy of 1f180e5eb9 (credential-cache:
+interpret an ECONNRESET as an EOF, 2017-07-27). We can just do the same
+thing here (I suspect that prior to the Cygwin commit that introduced
+this problem, we were really just seeing ECONNRESET instead of
+ECONNABORTED, so the "new" problem is just the switch of the errno
+values).
+
+There's loads more debugging in this thread:
+
+  https://lore.kernel.org/git/9dc3e85f-a532-6cff-de11-1dfb2e4bc6b6@ramsayjones.plus.com/
+
+but I've tried to summarize the useful bits in this commit message.
+
+[jk: commit message]
+
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Ramsay Jones &lt;ramsay@ramsayjones.plus.com&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#80ebd91</div>
+                                        <div class="message">http: fix build error on FreeBSD
+
+The `result` parameter passed to `http_request_reauth()` may either
+point to a `struct strbuf` or a `FILE *`, where the `target` parameter
+tells us which of either it actually is. To accommodate for both types
+the pointer is a `void *`, which we then pass directly to functions
+without doing a cast.
+
+This is fine on most platforms, but it breaks on FreeBSD because
+`fileno()` is implemented as a macro that tries to directly access the
+`FILE *` structure.
+
+Fix this issue by storing the `FILE *` in a local variable before we
+pass it on to other functions.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#87ad2a9</div>
+                                        <div class="message">builtin/credential-cache: fix missing parameter for stub function
+
+When not compiling the credential cache we may use a stub function for
+`cmd_credential_cache()`. With commit 9b1cb5070f (builtin: add a
+repository parameter for builtin functions, 2024-09-13), we have added a
+new parameter to all of those top-level `cmd_*()` functions, and did
+indeed adapt the non-stubbed-out `cmd_credential_cache()`. But we didn't
+adapt the stubbed-out variant, so the code does not compile.
+
+Fix this by adding the missing parameter.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb0d76d</div>
+                                        <div class="message">t7300: work around platform-specific behaviour with long paths on MinGW
+
+Windows by default has a restriction in place to only allow paths up to
+260 characters. This restriction can nowadays be lifted by setting a
+registry key, but is still active by default.
+
+In t7300 we have one test that exercises the behaviour of git-clean(1)
+with such long paths. Interestingly enough, this test fails on my system
+that uses Windows 10 with mingw-w64 installed via MSYS2: instead of
+observing ENAMETOOLONG, we observe ENOENT. This behaviour is consistent
+across multiple different environments I have tried.
+
+I cannot say why exactly we observe a different error here, but I would
+not be surprised if this was either dependent on the Windows version,
+the version of MinGW, the current working directory of Git or any kind
+of combination of these.
+
+Work around the issue by handling both errors.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5f8af25</div>
+                                        <div class="message">t5500, t5601: skip tests which exercise paths with '[::1]' on Cygwin
+
+Parsing repositories which contain '[::1]' is broken on Cygwin. It seems
+as if Cygwin is confusing those as drive letter prefixes or something
+like this, but I couldn't deduce the actual root cause.
+
+Mark those tests as broken for now.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f74949f</div>
+                                        <div class="message">t3404: work around platform-specific behaviour on macOS 10.15
+
+Two of our tests in t3404 use indented HERE docs where leading tabs on
+some of the lines are actually relevant. The tabs do get removed though,
+and we try to fix this up by using sed(1) to replace leading tabs in the
+actual output, as well. But macOS 10.15 uses an oldish version of sed(1)
+that has BSD lineage, which does not understand "\t", and thus we fail
+to strip those leading tabs and fail the test.
+
+Address this issue by using `q_to_tab` such that we do not have to strip
+leading tabs from the actual output.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3acb1f7</div>
+                                        <div class="message">t1401: make invocation of tar(1) work with Win32-provided one
+
+Windows nowadays provides a tar(1) binary in "C:\Windows\system32". This
+version of tar(1) doesn't seem to handle the case where directory paths
+end with a trailing forward slash. And as we do that in t1401 the result
+is that the test fails.
+
+Drop the trailing slash. Other tests that use tar(1) work alright, this
+is the only instance where it has been failing.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b4b77ea</div>
+                                        <div class="message">t/lib-gpg: fix setup of GNUPGHOME in MinGW
+
+In "t/lib-gpg.sh" we set up the "GNUPGHOME" environment variable to
+point to a test-specific directory. This is done by using "$PWD/gpghome"
+as value, where "$PWD" is the current test's trash directory.
+
+This is broken for MinGW though because "$PWD" will use Windows-style
+paths that contain drive letters. What we really want in this context is
+a Unix-style path, which we can get by using `$(pwd)` instead. It is
+somewhat puzzling that nobody ever hit this issue, but it may easily be
+that nobody ever tests on Windows with GnuPG installed, which would make
+us skip those tests.
+
+Adapt the code accordingly to fix tests using this library.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b1f9e9</div>
+                                        <div class="message">t/lib-gitweb: test against the build version of gitweb
+
+When testing gitweb we set up the CGI script as "gitweb.perl", which is
+the source file of the build target "gitweb.cgi". This file doesn't have
+a patched shebang and still contains `++REPLACEMENT++` markers, but
+things generally work because we replace the configuration with our own
+test configuration.
+
+But this only works as long as "$GIT_BUILD_DIR" actually points to the
+source tree, because "gitweb.cgi" and "gitweb.perl" happen to sit next
+to each other. This is not the case though once you have out-of-tree
+builds like with CMake, where the source and built versions live in
+different directories. Consequently, "$GIT_BUILD_DIR/gitweb/gitweb.perl"
+won't exist there.
+
+While we could ask build systems with out-of-tree builds to instead set
+up GITWEB_TEST_INSTALLED, which allows us to override the location of
+the script, it goes against the spirit of this environment variable. We
+_don't_ want to test against an installed version, we want to use the
+version we have just built.
+
+Fix this by using "gitweb.cgi" instead. This means that you cannot run
+test scripts without building that file, but in general we do expect
+developers to build stuff before they test it anyway.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#df383b5</div>
+                                        <div class="message">t/test-lib: wire up NO_ICONV prerequisite
+
+The iconv library is used by Git to reencode files, commit messages and
+other things. As such it is a rather integral part, but given that many
+platforms nowadays use UTF-8 everywhere you can live without support for
+reencoding in many situations. It is thus optional to build Git with
+iconv, and some of our platforms wired up in "config.mak.uname" disable
+it. But while we support building without it, running our test suite
+with "NO_ICONV=Yes" causes many test failures.
+
+Wire up a new test prerequisite ICONV that gets populated via our
+GIT-BUILD-OPTIONS. Annotate failing tests accordingly.
+
+Note that this commit does not do a deep dive into every single test to
+assess whether the failure is expected or not. Most of the tests do
+smell like the expected kind of failure though.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ed7634e</div>
+                                        <div class="message">t/test-lib: fix quoting of TEST_RESULTS_SAN_FILE
+
+When assembling our LSAN_OPTIONS that configure the leak sanitizer we
+end up prepending the string with various different colon-separated
+options via calls to `prepend_var`. One of the settings we add is the
+path where the sanitizer should store logs, which can be an arbitrary
+filesystem path.
+
+Naturally, filesystem paths may contain whitespace characters. And while
+it does seem as if we were quoting the value, we use escaped quotes and
+consequently split up the value if it does contain spaces. This leads to
+the following error in t0000 when having a value with whitespaces:
+
+    .../t/test-lib.sh: eval: line 64: unexpected EOF while looking for matching `"'
+    ++ return 1
+    error: last command exited with $?=1
+    not ok 5 - subtest: 3 passing tests
+
+The error itself is a bit puzzling at first. The basic problem is that
+the code sees the leading escaped quote during eval, but because we
+truncate everything after the space character it doesn't see the
+trailing escaped quote and thus fails to parse the string.
+
+Properly quote the value to fix the issue while using single-quotes to
+quote the inner value passed to eval. The issue can be reproduced by
+t0000 with such a path that contains spaces.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#19c291e</div>
+                                        <div class="message">t3404: replace test with test_line_count()
+
+Refactor t3404 to replace instances of `test` with `test_line_count()`
+for checking line counts. This improves readability and aligns with Git's
+current test practices.
+
+Signed-off-by: Usman Akinyemi &lt;usmanakinyemi202@gmail.com&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c8fbae2</div>
+                                        <div class="message">t3404: avoid losing exit status with focus on `git show` and `git cat-file`
+
+The exit code of the preceding command in a pipe is disregarded. So
+if that preceding command is a Git command that fails, the test would
+not fail. Instead, by saving the output of that Git command to a file,
+and removing the pipe, we make sure the test will fail if that Git
+command fails. This particular patch focuses on all `git show` and
+some instances of `git cat-file`.
+
+Signed-off-by: Usman Akinyemi &lt;usmanakinyemi202@gmail.com&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2454970</div>
+                                        <div class="message">BreakingChanges: early adopter option
+
+Discussing the desire to make breaking changes, declaring that
+breaking changes are made at a certain version boundary, and
+recording these decisions in this document, are necessary but not
+sufficient.  We need to make sure that we can implement, test, and
+deploy such impactful changes.
+
+Earlier we considered to guard the breaking changes with a run-time
+check of the `feature.git&lt;version&gt;` configuration to allow brave
+users and developers to opt into them as early adoptors.  But the
+engineering cost to support such a run-time switch, covering new and
+disappearing git subcommands and how "git help" would adjust the
+documentation to the run-time switch, would be unrealistically high
+to be worth it.
+
+Formalize the mechanism based on a compile-time switch to allow
+early adopters to opt into the breaking change in a version of Git
+before the planned version for the breaking change.
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -602,142 +1029,6 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">js-refs-content-v6</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4f93e30</div>
-                                        <div class="message">ref: add symlink ref content check for files backend
-
-Besides the textual symref, we also allow symbolic links as the symref.
-So, we should also provide the consistency check as what we have done
-for textual symref. And also we consider deprecating writing the
-symbolic links. We first need to access whether symbolic links still
-be used. So, add a new fsck message "symlinkRef(INFO)" to tell the
-user be aware of this information.
-
-We have already introduced "files_fsck_symref_target". We should reuse
-this function to handle the symrefs which use legacy symbolic links. We
-should not check the trailing garbage for symbolic refs. Add a new
-parameter "symbolic_link" to disable some checks which should only be
-executed for textual symrefs.
-
-And we need to also generate the "referent" parameter for reusing
-"files_fsck_symref_target" by the following steps:
-
-1. Use "strbuf_add_real_path" to resolve the symlink and get the
-   absolute path "ref_content" which the symlink ref points to.
-2. Generate the absolute path "abs_gitdir" of "gitdir" and combine
-   "ref_content" and "abs_gitdir" to extract the relative path
-   "relative_referent_path".
-3. If "ref_content" is outside of "gitdir", we just set "referent" with
-   "ref_content". Instead, we set "referent" with
-   "relative_referent_path".
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9ca187a</div>
-                                        <div class="message">ref: check whether the target of the symref is a ref
-
-Ideally, we want to the users use "git symbolic-ref" to create symrefs
-instead of writing raw contents into the filesystem. However, "git
-symbolic-ref" is strict with the refname but not strict with the
-referent. For example, we can make the "referent" located at the
-"$(gitdir)/logs/aaa" and manually write the content into this where we
-can still successfully parse this symref by using "git rev-parse".
-
-  $ git init repo &amp;&amp; cd repo &amp;&amp; git commit --allow-empty -mx
-  $ git symbolic-ref refs/heads/test logs/aaa
-  $ echo $(git rev-parse HEAD) &gt; .git/logs/aaa
-  $ git rev-parse test
-
-We may need to add some restrictions for "referent" parameter when using
-"git symbolic-ref" to create symrefs because ideally all the
-nonpseudo-refs should be located under the "refs" directory and we may
-tighten this in the future.
-
-In order to tell the user we may tighten the above situation, create
-a new fsck message "symrefTargetIsNotARef" to notify the user that this
-may become an error in the future.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1bf36dd</div>
-                                        <div class="message">ref: add basic symref content check for files backend
-
-We have code that checks regular ref contents, but we do not yet check
-the contents of symbolic refs. By using "parse_loose_ref_content" for
-symbolic refs, we will get the information of the "referent".
-
-We do not need to check the "referent" by opening the file. This is
-because if "referent" exists in the file system, we will eventually
-check its correctness by inspecting every file in the "refs" directory.
-If the "referent" does not exist in the filesystem, this is OK as it is
-seen as the dangling symref.
-
-So we just need to check the "referent" string content. A regular ref
-could be accepted as a textual symref if it begins with "ref:", followed
-by zero or more whitespaces, followed by the full refname, followed only
-by whitespace characters. However, we always write a single SP after
-"ref:" and a single LF after the refname. It may seem that we should
-report a fsck error message when the "referent" does not apply above
-rules and we should not be so aggressive because third-party
-reimplementations of Git may have taken advantage of the looser syntax.
-Put it more specific, we accept the following contents:
-
-1. "ref: refs/heads/master   "
-2. "ref: refs/heads/master   \n  \n"
-3. "ref: refs/heads/master\n\n"
-
-When introducing the regular ref content checks, we created two fsck
-infos "refMissingNewline" and "trailingRefContent" which exactly
-represents above situations. So we will reuse these two fsck messages to
-write checks to info the user about these situations.
-
-But we do not allow any other trailing garbage. The followings are bad
-symref contents which will be reported as fsck error by "git-fsck(1)".
-
-1. "ref: refs/heads/master garbage\n"
-2. "ref: refs/heads/master \n\n\n garbage  "
-
-And we introduce a new "badReferentName(ERROR)" fsck message to report
-above errors by using "is_root_ref" and "check_refname_format" to check
-the "referent". Since both "is_root_ref" and "check_refname_format"
-don't work with whitespaces, we use the trimmed version of "referent"
-with these functions.
-
-In order to add checks, we will do the following things:
-
-1. Record the untrimmed length "orig_len" and untrimmed last byte
-   "orig_last_byte".
-2. Use "strbuf_rtrim" to trim the whitespaces or newlines to make sure
-   "is_root_ref" and "check_refname_format" won't be failed by them.
-3. Use "orig_len" and "orig_last_byte" to check whether the "referent"
-   misses '\n' at the end or it has trailing whitespaces or newlines.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -754,7 +1045,7 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~4 coding hours recorded
+                            ~5 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -796,17 +1087,17 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">git</span>
-                                <div class="bar" style="width: 60.83200000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">76%</span>
+                                <div class="bar" style="width: 64.12%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">80%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 18.824%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">24%</span>
+                                <div class="bar" style="width: 15.600000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">20%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">repo</span>
-                                <div class="bar" style="width: 0.344%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.27999999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -816,27 +1107,27 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 60.848000000000006%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">76%</span>
+                                <div class="bar" style="width: 64.096%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">80%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Text</span>
-                                <div class="bar" style="width: 11.479999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">14%</span>
+                                <div class="bar" style="width: 9.520000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">12%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">YAML</span>
-                                <div class="bar" style="width: 7.16%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 5.928%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">7%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Git</span>
-                                <div class="bar" style="width: 0.344%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.27999999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Other</span>
-                                <div class="bar" style="width: 0.064%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">Markdown</span>
+                                <div class="bar" style="width: 0.05600000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
