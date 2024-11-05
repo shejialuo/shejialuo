@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1293" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1147" class="">
     <defs>
         <style/>
     </defs>
@@ -902,133 +902,6 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">js-refs-content-v6</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#752f0ad</div>
-                                        <div class="message">ref: add symlink ref content check for files backend
-
-Besides the textual symref, we also allow symbolic links as the symref.
-So, we should also provide the consistency check as what we have done
-for textual symref. And also we consider deprecating writing the
-symbolic links. We first need to access whether symbolic links still
-be used. So, add a new fsck message "symlinkRef(INFO)" to tell the
-user be aware of this information.
-
-We have already introduced "files_fsck_symref_target". We should reuse
-this function to handle the symrefs which use legacy symbolic links. We
-should not check the trailing garbage for symbolic refs. Add a new
-parameter "symbolic_link" to disable some checks which should only be
-executed for textual symrefs.
-
-And we need to also generate the "referent" parameter for reusing
-"files_fsck_symref_target" by the following steps:
-
-1. Use "strbuf_add_real_path" to resolve the symlink and get the
-   absolute path "ref_content" which the symlink ref points to.
-2. Generate the absolute path "abs_gitdir" of "gitdir" and combine
-   "ref_content" and "abs_gitdir" to extract the relative path
-   "relative_referent_path".
-3. If "ref_content" is outside of "gitdir", we just set "referent" with
-   "ref_content". Instead, we set "referent" with
-   "relative_referent_path".
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d200f2</div>
-                                        <div class="message">ref: check whether the target of the symref is a ref
-
-Ideally, we want to the users use "git symbolic-ref" to create symrefs
-instead of writing raw contents into the filesystem. However, "git
-symbolic-ref" is strict with the refname but not strict with the
-referent. For example, we can make the "referent" located at the
-"$(gitdir)/logs/aaa" and manually write the content into this where we
-can still successfully parse this symref by using "git rev-parse".
-
-  $ git init repo &amp;&amp; cd repo &amp;&amp; git commit --allow-empty -mx
-  $ git symbolic-ref refs/heads/test logs/aaa
-  $ echo $(git rev-parse HEAD) &gt; .git/logs/aaa
-  $ git rev-parse test
-
-We may need to add some restrictions for "referent" parameter when using
-"git symbolic-ref" to create symrefs because ideally all the
-nonpseudo-refs should be located under the "refs" directory and we may
-tighten this in the future.
-
-In order to tell the user we may tighten the above situation, create
-a new fsck message "symrefTargetIsNotARef" to notify the user that this
-may become an error in the future.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">js-refs-content-v6</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a950b98</div>
-                                        <div class="message">ref: add symlink ref content check for files backend
-
-Besides the textual symref, we also allow symbolic links as the symref.
-So, we should also provide the consistency check as what we have done
-for textual symref. And also we consider deprecating writing the
-symbolic links. We first need to access whether symbolic links still
-be used. So, add a new fsck message "symlinkRef(INFO)" to tell the
-user be aware of this information.
-
-We have already introduced "files_fsck_symref_target". We should reuse
-this function to handle the symrefs which use legacy symbolic links. We
-should not check the trailing garbage for symbolic refs. Add a new
-parameter "symbolic_link" to disable some checks which should only be
-executed for textual symrefs.
-
-And we need to also generate the "referent" parameter for reusing
-"files_fsck_symref_target" by the following steps:
-
-1. Use "strbuf_add_real_path" to resolve the symlink and get the
-   absolute path "ref_content" which the symlink ref points to.
-2. Generate the absolute path "abs_gitdir" of "gitdir" and combine
-   "ref_content" and "abs_gitdir" to extract the relative path
-   "relative_referent_path".
-3. If "ref_content" is outside of "gitdir", we just set "referent" with
-   "ref_content". Instead, we set "referent" with
-   "relative_referent_path".
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1045,7 +918,7 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~5 coding hours recorded
+                            ~4 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1087,17 +960,17 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">git</span>
-                                <div class="bar" style="width: 64.12%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">80%</span>
+                                <div class="bar" style="width: 60.064%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">75%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 15.600000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">20%</span>
+                                <div class="bar" style="width: 19.584000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">24%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">repo</span>
-                                <div class="bar" style="width: 0.27999999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.35200000000000004%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -1107,27 +980,27 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 64.096%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">80%</span>
+                                <div class="bar" style="width: 60.032000000000004%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">75%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Text</span>
-                                <div class="bar" style="width: 9.520000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">12%</span>
+                                <div class="bar" style="width: 11.959999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">15%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">YAML</span>
-                                <div class="bar" style="width: 5.928%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">7%</span>
+                                <div class="bar" style="width: 7.448%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Git</span>
-                                <div class="bar" style="width: 0.27999999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.35200000000000004%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 0.05600000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.072%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
