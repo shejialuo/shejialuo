@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1147" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1461" class="">
     <defs>
         <style/>
     </defs>
@@ -33,6 +33,338 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 16 commits in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#facbe4f</div>
+                                        <div class="message">The eighth batch
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#02a2d57</div>
+                                        <div class="message">Merge branch 'jk/left-right-bitmap'
+
+When called with '--left-right' and '--use-bitmap-index', 'rev-list'
+will produce output without any left/right markers, which has been
+corrected.
+
+* jk/left-right-bitmap:
+  rev-list: skip bitmap traversal for --left-right</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1ee7dbd</div>
+                                        <div class="message">Merge branch 'ps/upgrade-clar'
+
+Buildfix and upgrade of Clar to a newer version.
+
+* ps/upgrade-clar:
+  cmake: set up proper dependencies for generated clar headers
+  cmake: fix compilation of clar-based unit tests
+  Makefile: extract script to generate clar declarations
+  Makefile: adjust sed command for generating "clar-decls.h"
+  t/unit-tests: update clar to 206accb</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#31fe139</div>
+                                        <div class="message">Merge branch 'cw/config-extensions'
+
+Centralize documentation for repository extensions into a single place.
+
+* cw/config-extensions:
+  doc: consolidate extensions in git-config documentation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a2ac8b0</div>
+                                        <div class="message">Merge branch 'kn/ci-clang-format-tidy'
+
+Updates the '.clang-format' to match project conventions.
+
+* kn/ci-clang-format-tidy:
+  clang-format: align consecutive macro definitions
+  clang-format: re-adjust line break penalties</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c14fa9a</div>
+                                        <div class="message">Merge branch 'kn/arbitrary-suffixes'
+
+Update the project's CodingGuidelines to discourage naming functions
+with a "_1()" suffix.
+
+* kn/arbitrary-suffixes:
+  CodingGuidelines: discourage arbitrary suffixes in function names</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#16a186f</div>
+                                        <div class="message">rev-list: skip bitmap traversal for --left-right
+
+Running:
+
+  git rev-list --left-right --use-bitmap-index one...two
+
+will produce output without any left-right markers, since the bitmap
+traversal returns only a single set of reachable commits. Instead we
+should refuse to use bitmaps here and produce the correct output using a
+traditional traversal.
+
+This is probably not the only remaining option that misbehaves with
+bitmaps, but it's particularly egregious in that it feels like it
+_could_ work. Doing two separate traversals for the left/right sides and
+then taking the symmetric set differences should yield the correct
+answer, but our traversal code doesn't know how to do that.
+
+It's not clear if naively doing two separate traversals would always be
+a performance win. A traditional traversal only needs to walk down to
+the merge base, but bitmaps always fill out the full reachability set.
+So depending on your bitmap coverage, we could end up walking old bits
+of history twice to fill out the same uninteresting bits on both sides.
+We'd also of course end up with a very large --boundary set, if the user
+asked for that.
+
+So this might or might not be something worth implementing later. But
+for now, let's make sure we don't produce the wrong answer if somebody
+tries it.
+
+The test covers this, but also the same thing with "--count" (which is
+what I originally tried in a real-world case). Ironically the
+try_bitmap_count() code already realizes that "--left-right" won't work
+there. But that just causes us to fall back to the regular bitmap
+traversal code, which itself doesn't handle counting (we produce a list
+of objects rather than a count).
+
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#be75cec</div>
+                                        <div class="message">CodingGuidelines: discourage arbitrary suffixes in function names
+
+We often name functions with arbitrary suffixes like `_1` as an
+extension of another existing function. This creates confusion and
+doesn't provide good clarity into the functions purpose. Let's document
+good function naming etiquette in our CodingGuidelines.
+
+Signed-off-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#19f5ce0</div>
+                                        <div class="message">doc: consolidate extensions in git-config documentation
+
+The `technical/repository-version.txt` document originally served as the
+master list for extensions, requiring that any new extensions be defined
+there. However, the `config/extensions.txt` file was introduced later
+and has since become the de facto location for describing extensions,
+with several extensions listed there but missing from
+`repository-version.txt`.
+
+This consolidates all extension definitions into `config/extensions.txt`,
+making it the authoritative source for extensions. The references in
+`repository-version.txt` are updated to point to `config/extensions.txt`,
+and cross-references to related documentation such as
+`gitrepository-layout[5]` and `git-config[1]` are added.
+
+Suggested-by: Junio C Hamano &lt;gitster@pobox.com&gt;
+Signed-off-by: Caleb White &lt;cdwhite3@pm.me&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#30bf9f0</div>
+                                        <div class="message">cmake: set up proper dependencies for generated clar headers
+
+The auto-generated headers used by clar are written at configure time
+and thus do not get regenerated automatically. Refactor the build
+recipes such that we use custom commands instead, which also has the
+benefit that we can reuse the same infrastructure as our Makefile.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a4f8a59</div>
+                                        <div class="message">cmake: fix compilation of clar-based unit tests
+
+The compilation of clar-based unit tests is broken because we do not
+add the binary directory into which we generate the "clar-decls.h" and
+"clar.suite" files as include directories. Instead, we accidentally set
+up the source directory as include directory.
+
+Fix this by including the binary directory instead of the source
+directory. Furthermore, set up the include directories as PUBLIC instead
+of PRIVATE such that they propagate from "unit-tests.lib" to the
+"unit-tests" executable, which needs to include the same directory.
+
+Reported-by: Ed Reel &lt;edreel@gmail.com&gt;
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#67f75df</div>
+                                        <div class="message">Makefile: extract script to generate clar declarations
+
+Extract the script to generate function declarations for the clar unit
+testing framework into a standalone script. This is done such that we
+can reuse it in other build systems.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a779c8e</div>
+                                        <div class="message">Makefile: adjust sed command for generating "clar-decls.h"
+
+This moves the end-of-line marker out of the captured group, matching
+the start-of-line marker and for some reason fixing generation of
+"clar-decls.h" on some older, more esoteric platforms.
+
+Signed-off-by: Alejandro R. Sedeño &lt;asedeno@mit.edu&gt;
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7d5f18a</div>
+                                        <div class="message">t/unit-tests: update clar to 206accb
+
+Update clar from:
+
+    - 1516124 (Merge pull request #97 from pks-t/pks-whitespace-fixes, 2024-08-15).
+
+To:
+
+    - 206accb (Merge pull request #108 from pks-t/pks-uclibc-without-wchar, 2024-10-21)
+
+This update includes a bunch of fixes and improvements that we have
+discussed in Git when initial support for clar was merged:
+
+  - There is a ".editorconfig" file now.
+
+  - Compatibility with Windows has been improved so that the clar
+    compiles on this platform without an issue. This has been tested
+    with Cygwin, MinGW and Microsoft Visual Studio.
+
+  - clar now uses CMake. This does not impact us at all as we wire up
+    the clar into our own build infrastructure anyway. This conversion
+    was done such that we can easily run CI jobs against Windows.
+
+  - Allocation failures are now checked for consistently.
+
+  - We now define feature test macros in "clar.c", which fixes
+    compilation on some platforms that didn't previously pull in
+    non-standard functions like lstat(3p) or strdup(3p). This was
+    reported by a user of OpenSUSE Leap.
+
+  - We stop using `struct timezone`, which is undefined behaviour
+    nowadays and results in a compilation error on some platforms.
+
+  - We now use the combination of mktemp(3) and mkdir(3) on SunOS, same
+    as we do on NonStop.
+
+  - We now support uClibc without support for &lt;wchar.h&gt;.
+
+The most important bits here are the improved platform compatibility
+with Windows, OpenSUSE, SunOS and uClibc.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7e785b8</div>
+                                        <div class="message">clang-format: align consecutive macro definitions
+
+We generally align consecutive macro definitions for better readability:
+
+  #define OUTPUT_ANNOTATE_COMPAT      (1U&lt;&lt;0)
+  #define OUTPUT_LONG_OBJECT_NAME     (1U&lt;&lt;1)
+  #define OUTPUT_RAW_TIMESTAMP        (1U&lt;&lt;2)
+  #define OUTPUT_PORCELAIN            (1U&lt;&lt;3)
+
+over
+
+  #define OUTPUT_ANNOTATE_COMPAT (1U&lt;&lt;0)
+  #define OUTPUT_LONG_OBJECT_NAME (1U&lt;&lt;1)
+  #define OUTPUT_RAW_TIMESTAMP (1U&lt;&lt;2)
+  #define OUTPUT_PORCELAIN (1U&lt;&lt;3)
+
+So let's add the rule in clang-format to follow this.
+
+Signed-off-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e9fa0f</div>
+                                        <div class="message">clang-format: re-adjust line break penalties
+
+In 42efde4c29 (clang-format: adjust line break penalties, 2017-09-29) we
+adjusted the line break penalties to really fine tune what we care about
+while doing line breaks. Modify some of those to be more inline with
+what we care about in the Git project now.
+
+We need to understand that the values set to penalties in
+'.clang-format' are relative to each other and do not hold any absolute
+value. The penalty arguments take an 'Unsigned' value, so we have some
+liberty over the values we can set.
+
+First, in that commit, we decided, that under no circumstances do we
+want to exceed 80 characters. This seems a bit too strict. We do
+overshoot this limit from time to time to prioritize readability. So
+let's reduce the value for 'PenaltyExcessCharacter' to 10. This means we
+that we add a penalty of 10 for each character that exceeds the column
+limit. By itself this is enough to restrict to column limit. Tuning
+other penalties in relation to this is what is important.
+
+The penalty `PenaltyBreakAssignment` talks about the penalty for
+breaking an assignment operator on to the next line. In our project, we
+are okay with this, so giving a value of 5, which is below the value for
+'PenaltyExcessCharacter' ensures that in the end, even 1 character over
+the column limit is not worth keeping an assignment on the same line.
+
+Similarly set the penalty for breaking before the first call parameter
+'PenaltyBreakBeforeFirstCallParameter' and the penalty for breaking
+comments 'PenaltyBreakComment' and the penalty for breaking string
+literals 'PenaltyBreakString' also to 5.
+
+Finally, we really care about not breaking the return type into its own
+line and we really care about not breaking before an open parenthesis.
+This avoids weird formatting like:
+
+   static const struct strbuf *
+          a_really_really_large_function_name(struct strbuf resolved,
+          const char *path, int flags)
+
+or
+
+   static const struct strbuf *a_really_really_large_function_name(
+   	    struct strbuf resolved, const char *path, int flags)
+
+to instead have something more readable like:
+
+   static const struct strbuf *a_really_really_large_function_name(struct strbuf resolved,
+                                                                   const char *path,
+                                                                   int flags)
+
+(note: the tabs here have been replaced by spaces for easier reading)
+
+This is done by bumping the values of 'PenaltyReturnTypeOnItsOwnLine'
+and 'PenaltyBreakOpenParenthesis' to 300. This is so that we can allow a
+few characters above the 80 column limit to make code more readable.
+
+Signed-off-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -918,13 +1250,13 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~5 coding hours recorded
+                            ~7 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            Working on Unknown Project
+                            Working on git
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -938,13 +1270,13 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/>
                             </svg>
-                            ~1 hours of coding per day
+                            ~2 hours of coding per day
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M0 2.75C0 1.784.784 1 1.75 1h12.5c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0114.25 15H1.75A1.75 1.75 0 010 13.25V2.75zm1.75-.25a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V2.75a.25.25 0 00-.25-.25H1.75zM7.25 8a.75.75 0 01-.22.53l-2.25 2.25a.75.75 0 11-1.06-1.06L5.44 8 3.72 6.28a.75.75 0 111.06-1.06l2.25 2.25c.141.14.22.331.22.53zm1.5 1.5a.75.75 0 000 1.5h3a.75.75 0 000-1.5h-3z"/>
                             </svg>
-                            Coding with Vim
+                            Coding with VS Code
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -959,19 +1291,19 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <h3>Projects activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
-                                <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 40.184%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">50%</span>
+                                <span class="name">git</span>
+                                <div class="bar" style="width: 48.808%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">61%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">git</span>
-                                <div class="bar" style="width: 34.088%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">43%</span>
+                                <span class="name">Unknown Project</span>
+                                <div class="bar" style="width: 27.304000000000002%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">34%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">luo_obsidian</span>
-                                <div class="bar" style="width: 5.728%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">7%</span>
+                                <div class="bar" style="width: 3.8880000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
                             </div>
                         </div>
                     </section>
@@ -980,28 +1312,28 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 34.08%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">43%</span>
+                                <div class="bar" style="width: 30.727999999999994%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">38%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Bash</span>
+                                <div class="bar" style="width: 16.848%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">21%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Mail</span>
-                                <div class="bar" style="width: 21.791999999999998%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">27%</span>
+                                <div class="bar" style="width: 14.808000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">19%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Text</span>
-                                <div class="bar" style="width: 12.943999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">16%</span>
+                                <div class="bar" style="width: 8.792%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">11%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 5.728%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">7%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">C++</span>
-                                <div class="bar" style="width: 3.224%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <div class="bar" style="width: 3.8880000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
                             </div>
                         </div>
                     </section>
