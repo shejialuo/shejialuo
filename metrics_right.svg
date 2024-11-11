@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1461" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="843" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}svg.large .largeable-column-fields{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.c .side{background-color:#58a6ff26}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -37,330 +37,299 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#20 Js refs content v6</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">shejialuo/git</span></div>
+                                    <div>11 files changed <span class="code">++693 --35</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 16 commits in
+                                        Pushed 8 commits in
                                         <span class="repo">shejialuo/git</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">js-refs-content-v7</span></div>
                                     <div class="commit">
-                                        <div class="sha">#facbe4f</div>
-                                        <div class="message">The eighth batch
+                                        <div class="sha">#bb6d7f3</div>
+                                        <div class="message">ref: add symlink ref content check for files backend
 
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+Besides the textual symref, we also allow symbolic links as the symref.
+So, we should also provide the consistency check as what we have done
+for textual symref. And also we consider deprecating writing the
+symbolic links. We first need to access whether symbolic links still
+be used. So, add a new fsck message "symlinkRef(INFO)" to tell the
+user be aware of this information.
+
+We have already introduced "files_fsck_symref_target". We should reuse
+this function to handle the symrefs which use legacy symbolic links. We
+should not check the trailing garbage for symbolic refs. Add a new
+parameter "symbolic_link" to disable some checks which should only be
+executed for textual symrefs.
+
+And we need to also generate the "referent" parameter for reusing
+"files_fsck_symref_target" by the following steps:
+
+1. Use "strbuf_add_real_path" to resolve the symlink and get the
+   absolute path "ref_content" which the symlink ref points to.
+2. Generate the absolute path "abs_gitdir" of "gitdir" and combine
+   "ref_content" and "abs_gitdir" to extract the relative path
+   "relative_referent_path".
+3. If "ref_content" is outside of "gitdir", we just set "referent" with
+   "ref_content". Instead, we set "referent" with
+   "relative_referent_path".
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#02a2d57</div>
-                                        <div class="message">Merge branch 'jk/left-right-bitmap'
+                                        <div class="sha">#c59d003</div>
+                                        <div class="message">ref: check whether the target of the symref is a ref
 
-When called with '--left-right' and '--use-bitmap-index', 'rev-list'
-will produce output without any left/right markers, which has been
-corrected.
+Ideally, we want to the users use "git symbolic-ref" to create symrefs
+instead of writing raw contents into the filesystem. However, "git
+symbolic-ref" is strict with the refname but not strict with the
+referent. For example, we can make the "referent" located at the
+"$(gitdir)/logs/aaa" and manually write the content into this where we
+can still successfully parse this symref by using "git rev-parse".
 
-* jk/left-right-bitmap:
-  rev-list: skip bitmap traversal for --left-right</div>
+  $ git init repo &amp;&amp; cd repo &amp;&amp; git commit --allow-empty -mx
+  $ git symbolic-ref refs/heads/test logs/aaa
+  $ echo $(git rev-parse HEAD) &gt; .git/logs/aaa
+  $ git rev-parse test
+
+We may need to add some restrictions for "referent" parameter when using
+"git symbolic-ref" to create symrefs because ideally all the
+nonpseudo-refs should be located under the "refs" directory and we may
+tighten this in the future.
+
+In order to tell the user we may tighten the above situation, create
+a new fsck message "symrefTargetIsNotARef" to notify the user that this
+may become an error in the future.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1ee7dbd</div>
-                                        <div class="message">Merge branch 'ps/upgrade-clar'
+                                        <div class="sha">#3006eb9</div>
+                                        <div class="message">ref: add basic symref content check for files backend
 
-Buildfix and upgrade of Clar to a newer version.
+We have code that checks regular ref contents, but we do not yet check
+the contents of symbolic refs. By using "parse_loose_ref_content" for
+symbolic refs, we will get the information of the "referent".
 
-* ps/upgrade-clar:
-  cmake: set up proper dependencies for generated clar headers
-  cmake: fix compilation of clar-based unit tests
-  Makefile: extract script to generate clar declarations
-  Makefile: adjust sed command for generating "clar-decls.h"
-  t/unit-tests: update clar to 206accb</div>
+We do not need to check the "referent" by opening the file. This is
+because if "referent" exists in the file system, we will eventually
+check its correctness by inspecting every file in the "refs" directory.
+If the "referent" does not exist in the filesystem, this is OK as it is
+seen as the dangling symref.
+
+So we just need to check the "referent" string content. A regular ref
+could be accepted as a textual symref if it begins with "ref:", followed
+by zero or more whitespaces, followed by the full refname, followed only
+by whitespace characters. However, we always write a single SP after
+"ref:" and a single LF after the refname. It may seem that we should
+report a fsck error message when the "referent" does not apply above
+rules and we should not be so aggressive because third-party
+reimplementations of Git may have taken advantage of the looser syntax.
+Put it more specific, we accept the following contents:
+
+1. "ref: refs/heads/master   "
+2. "ref: refs/heads/master   \n  \n"
+3. "ref: refs/heads/master\n\n"
+
+When introducing the regular ref content checks, we created two fsck
+infos "refMissingNewline" and "trailingRefContent" which exactly
+represents above situations. So we will reuse these two fsck messages to
+write checks to info the user about these situations.
+
+But we do not allow any other trailing garbage. The followings are bad
+symref contents which will be reported as fsck error by "git-fsck(1)".
+
+1. "ref: refs/heads/master garbage\n"
+2. "ref: refs/heads/master \n\n\n garbage  "
+
+And we introduce a new "badReferentName(ERROR)" fsck message to report
+above errors by using "is_root_ref" and "check_refname_format" to check
+the "referent". Since both "is_root_ref" and "check_refname_format"
+don't work with whitespaces, we use the trimmed version of "referent"
+with these functions.
+
+In order to add checks, we will do the following things:
+
+1. Record the untrimmed length "orig_len" and untrimmed last byte
+   "orig_last_byte".
+2. Use "strbuf_rtrim" to trim the whitespaces or newlines to make sure
+   "is_root_ref" and "check_refname_format" won't be failed by them.
+3. Use "orig_len" and "orig_last_byte" to check whether the "referent"
+   misses '\n' at the end or it has trailing whitespaces or newlines.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#31fe139</div>
-                                        <div class="message">Merge branch 'cw/config-extensions'
+                                        <div class="sha">#945322f</div>
+                                        <div class="message">ref: add more strict checks for regular refs
 
-Centralize documentation for repository extensions into a single place.
+We have already used "parse_loose_ref_contents" function to check
+whether the ref content is valid in files backend. However, by
+using "parse_loose_ref_contents", we allow the ref's content to end with
+garbage or without a newline.
 
-* cw/config-extensions:
-  doc: consolidate extensions in git-config documentation</div>
+Even though we never create such loose refs ourselves, we have accepted
+such loose refs. So, it is entirely possible that some third-party tools
+may rely on such loose refs being valid. We should not report an error
+fsck message at current. We should notify the users about such
+"curiously formatted" loose refs so that adequate care is taken before
+we decide to tighten the rules in the future.
+
+And it's not suitable either to report a warn fsck message to the user.
+We don't yet want the "--strict" flag that controls this bit to end up
+generating errors for such weirdly-formatted reference contents, as we
+first want to assess whether this retroactive tightening will cause
+issues for any tools out there. It may cause compatibility issues which
+may break the repository. So, we add the following two fsck infos to
+represent the situation where the ref content ends without newline or
+has trailing garbages:
+
+1. refMissingNewline(INFO): A loose ref that does not end with
+   newline(LF).
+2. trailingRefContent(INFO): A loose ref has trailing content.
+
+It might appear that we can't provide the user with any warnings by
+using FSCK_INFO. However, in "fsck.c::fsck_vreport", we will convert
+FSCK_INFO to FSCK_WARN and we can still warn the user about these
+situations when using "git refs verify" without introducing
+compatibility issues.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a2ac8b0</div>
-                                        <div class="message">Merge branch 'kn/ci-clang-format-tidy'
+                                        <div class="sha">#4e1add6</div>
+                                        <div class="message">ref: port git-fsck(1) regular refs check for files backend
 
-Updates the '.clang-format' to match project conventions.
+"git-fsck(1)" implicitly checks the ref content by passing the
+callback "fsck_handle_ref" to the "refs.c::refs_for_each_rawref".
+Then, it will check whether the ref content (eventually "oid")
+is valid. If not, it will report the following error to the user.
 
-* kn/ci-clang-format-tidy:
-  clang-format: align consecutive macro definitions
-  clang-format: re-adjust line break penalties</div>
+  error: refs/heads/main: invalid sha1 pointer 0000...
+
+And it will also report above errors when there are dangling symrefs
+in the repository wrongly. This does not align with the behavior of
+the "git symbolic-ref" command which allows users to create dangling
+symrefs.
+
+As we have already introduced the "git refs verify" command, we'd better
+check the ref content explicitly in the "git refs verify" command thus
+later we could remove these checks in "git-fsck(1)" and launch a
+subprocess to call "git refs verify" in "git-fsck(1)" to make the
+"git-fsck(1)" more clean.
+
+Following what "git-fsck(1)" does, add a similar check to "git refs
+verify". Then add a new fsck error message "badRefContent(ERROR)" to
+represent that a ref has an invalid content.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c14fa9a</div>
-                                        <div class="message">Merge branch 'kn/arbitrary-suffixes'
+                                        <div class="sha">#cb4669b</div>
+                                        <div class="message">ref: support multiple worktrees check for refs
 
-Update the project's CodingGuidelines to discourage naming functions
-with a "_1()" suffix.
+We have already set up the infrastructure to check the consistency for
+refs, but we do not support multiple worktrees. However, "git-fsck(1)"
+will check the refs of worktrees. As we decide to get feature parity
+with "git-fsck(1)", we need to set up support for multiple worktrees.
 
-* kn/arbitrary-suffixes:
-  CodingGuidelines: discourage arbitrary suffixes in function names</div>
+Because each worktree has its own specific refs, instead of just showing
+the users "refs/worktree/foo", we need to display the full name such as
+"worktrees/&lt;id&gt;/refs/worktree/foo". So we should know the id of the
+worktree to get the full name. Add a new parameter "struct worktree *"
+for "refs-internal.h::fsck_fn". Then change the related functions to
+follow this new interface.
+
+The "packed-refs" only exists in the main worktree, so we should only
+check "packed-refs" in the main worktree. Use "is_main_worktree" method
+to skip checking "packed-refs" in "packed_fsck" function.
+
+Then, enhance the "files-backend.c::files_fsck_refs_dir" function to add
+"worktree/&lt;id&gt;/" prefix when we are not in the main worktree.
+
+Last, add a new test to check the refname when there are multiple
+worktrees to exercise the code.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#16a186f</div>
-                                        <div class="message">rev-list: skip bitmap traversal for --left-right
+                                        <div class="sha">#5ea7d18</div>
+                                        <div class="message">ref: initialize ref name outside of check functions
 
-Running:
+We passes "refs_check_dir" to the "files_fsck_refs_name" function which
+allows it to create the checked ref name later. However, when we
+introduce a new check function, we have to allocate redundant memory and
+re-calculate the ref name. It's bad for us to allocate redundant memory
+and duplicate logic. Instead, we should allocate and calculate it only
+once and pass the ref name to the check functions.
 
-  git rev-list --left-right --use-bitmap-index one...two
+In order not to do repeat calculation, rename "refs_check_dir" to
+"refname". And in "files_fsck_refs_dir", create a new strbuf "refname",
+thus whenever we handle a new ref, calculate the name and call the check
+functions one by one.
 
-will produce output without any left-right markers, since the bitmap
-traversal returns only a single set of reachable commits. Instead we
-should refuse to use bitmaps here and produce the correct output using a
-traditional traversal.
-
-This is probably not the only remaining option that misbehaves with
-bitmaps, but it's particularly egregious in that it feels like it
-_could_ work. Doing two separate traversals for the left/right sides and
-then taking the symmetric set differences should yield the correct
-answer, but our traversal code doesn't know how to do that.
-
-It's not clear if naively doing two separate traversals would always be
-a performance win. A traditional traversal only needs to walk down to
-the merge base, but bitmaps always fill out the full reachability set.
-So depending on your bitmap coverage, we could end up walking old bits
-of history twice to fill out the same uninteresting bits on both sides.
-We'd also of course end up with a very large --boundary set, if the user
-asked for that.
-
-So this might or might not be something worth implementing later. But
-for now, let's make sure we don't produce the wrong answer if somebody
-tries it.
-
-The test covers this, but also the same thing with "--count" (which is
-what I originally tried in a real-world case). Ironically the
-try_bitmap_count() code already realizes that "--left-right" won't work
-there. But that just causes us to fall back to the regular bitmap
-traversal code, which itself doesn't handle counting (we produce a list
-of objects rather than a count).
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#be75cec</div>
-                                        <div class="message">CodingGuidelines: discourage arbitrary suffixes in function names
+                                        <div class="sha">#9efc83f</div>
+                                        <div class="message">ref: check the full refname instead of basename
 
-We often name functions with arbitrary suffixes like `_1` as an
-extension of another existing function. This creates confusion and
-doesn't provide good clarity into the functions purpose. Let's document
-good function naming etiquette in our CodingGuidelines.
+In "files-backend.c::files_fsck_refs_name", we validate the refname
+format by using "check_refname_format" to check the basename of the
+iterator with "REFNAME_ALLOW_ONELEVEL" flag.
 
-Signed-off-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#19f5ce0</div>
-                                        <div class="message">doc: consolidate extensions in git-config documentation
+However, this is a bad implementation. Although we doesn't allow a
+single "@" in ".git" directory, we do allow "refs/heads/@". So, we will
+report an error wrongly when there is a "refs/heads/@" ref by using one
+level refname "@".
 
-The `technical/repository-version.txt` document originally served as the
-master list for extensions, requiring that any new extensions be defined
-there. However, the `config/extensions.txt` file was introduced later
-and has since become the de facto location for describing extensions,
-with several extensions listed there but missing from
-`repository-version.txt`.
+Because we just check one level refname, we either cannot check the
+other parts of the full refname. And we will ignore the following
+errors:
 
-This consolidates all extension definitions into `config/extensions.txt`,
-making it the authoritative source for extensions. The references in
-`repository-version.txt` are updated to point to `config/extensions.txt`,
-and cross-references to related documentation such as
-`gitrepository-layout[5]` and `git-config[1]` are added.
+  "refs/heads/ new-feature/test"
+  "refs/heads/~new-feature/test"
 
-Suggested-by: Junio C Hamano &lt;gitster@pobox.com&gt;
-Signed-off-by: Caleb White &lt;cdwhite3@pm.me&gt;
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#30bf9f0</div>
-                                        <div class="message">cmake: set up proper dependencies for generated clar headers
+In order to fix the above problem, enhance "files_fsck_refs_name" to use
+the full name for "check_refname_format". Then, replace the tests which
+are related to "@" and add tests to exercise the above situations using
+for loop to avoid repetition.
 
-The auto-generated headers used by clar are written at configure time
-and thus do not get regenerated automatically. Refactor the build
-recipes such that we use custom commands instead, which also has the
-benefit that we can reuse the same infrastructure as our Makefile.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a4f8a59</div>
-                                        <div class="message">cmake: fix compilation of clar-based unit tests
-
-The compilation of clar-based unit tests is broken because we do not
-add the binary directory into which we generate the "clar-decls.h" and
-"clar.suite" files as include directories. Instead, we accidentally set
-up the source directory as include directory.
-
-Fix this by including the binary directory instead of the source
-directory. Furthermore, set up the include directories as PUBLIC instead
-of PRIVATE such that they propagate from "unit-tests.lib" to the
-"unit-tests" executable, which needs to include the same directory.
-
-Reported-by: Ed Reel &lt;edreel@gmail.com&gt;
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#67f75df</div>
-                                        <div class="message">Makefile: extract script to generate clar declarations
-
-Extract the script to generate function declarations for the clar unit
-testing framework into a standalone script. This is done such that we
-can reuse it in other build systems.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a779c8e</div>
-                                        <div class="message">Makefile: adjust sed command for generating "clar-decls.h"
-
-This moves the end-of-line marker out of the captured group, matching
-the start-of-line marker and for some reason fixing generation of
-"clar-decls.h" on some older, more esoteric platforms.
-
-Signed-off-by: Alejandro R. Sedeño &lt;asedeno@mit.edu&gt;
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d5f18a</div>
-                                        <div class="message">t/unit-tests: update clar to 206accb
-
-Update clar from:
-
-    - 1516124 (Merge pull request #97 from pks-t/pks-whitespace-fixes, 2024-08-15).
-
-To:
-
-    - 206accb (Merge pull request #108 from pks-t/pks-uclibc-without-wchar, 2024-10-21)
-
-This update includes a bunch of fixes and improvements that we have
-discussed in Git when initial support for clar was merged:
-
-  - There is a ".editorconfig" file now.
-
-  - Compatibility with Windows has been improved so that the clar
-    compiles on this platform without an issue. This has been tested
-    with Cygwin, MinGW and Microsoft Visual Studio.
-
-  - clar now uses CMake. This does not impact us at all as we wire up
-    the clar into our own build infrastructure anyway. This conversion
-    was done such that we can easily run CI jobs against Windows.
-
-  - Allocation failures are now checked for consistently.
-
-  - We now define feature test macros in "clar.c", which fixes
-    compilation on some platforms that didn't previously pull in
-    non-standard functions like lstat(3p) or strdup(3p). This was
-    reported by a user of OpenSUSE Leap.
-
-  - We stop using `struct timezone`, which is undefined behaviour
-    nowadays and results in a compilation error on some platforms.
-
-  - We now use the combination of mktemp(3) and mkdir(3) on SunOS, same
-    as we do on NonStop.
-
-  - We now support uClibc without support for &lt;wchar.h&gt;.
-
-The most important bits here are the improved platform compatibility
-with Windows, OpenSUSE, SunOS and uClibc.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e785b8</div>
-                                        <div class="message">clang-format: align consecutive macro definitions
-
-We generally align consecutive macro definitions for better readability:
-
-  #define OUTPUT_ANNOTATE_COMPAT      (1U&lt;&lt;0)
-  #define OUTPUT_LONG_OBJECT_NAME     (1U&lt;&lt;1)
-  #define OUTPUT_RAW_TIMESTAMP        (1U&lt;&lt;2)
-  #define OUTPUT_PORCELAIN            (1U&lt;&lt;3)
-
-over
-
-  #define OUTPUT_ANNOTATE_COMPAT (1U&lt;&lt;0)
-  #define OUTPUT_LONG_OBJECT_NAME (1U&lt;&lt;1)
-  #define OUTPUT_RAW_TIMESTAMP (1U&lt;&lt;2)
-  #define OUTPUT_PORCELAIN (1U&lt;&lt;3)
-
-So let's add the rule in clang-format to follow this.
-
-Signed-off-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5e9fa0f</div>
-                                        <div class="message">clang-format: re-adjust line break penalties
-
-In 42efde4c29 (clang-format: adjust line break penalties, 2017-09-29) we
-adjusted the line break penalties to really fine tune what we care about
-while doing line breaks. Modify some of those to be more inline with
-what we care about in the Git project now.
-
-We need to understand that the values set to penalties in
-'.clang-format' are relative to each other and do not hold any absolute
-value. The penalty arguments take an 'Unsigned' value, so we have some
-liberty over the values we can set.
-
-First, in that commit, we decided, that under no circumstances do we
-want to exceed 80 characters. This seems a bit too strict. We do
-overshoot this limit from time to time to prioritize readability. So
-let's reduce the value for 'PenaltyExcessCharacter' to 10. This means we
-that we add a penalty of 10 for each character that exceeds the column
-limit. By itself this is enough to restrict to column limit. Tuning
-other penalties in relation to this is what is important.
-
-The penalty `PenaltyBreakAssignment` talks about the penalty for
-breaking an assignment operator on to the next line. In our project, we
-are okay with this, so giving a value of 5, which is below the value for
-'PenaltyExcessCharacter' ensures that in the end, even 1 character over
-the column limit is not worth keeping an assignment on the same line.
-
-Similarly set the penalty for breaking before the first call parameter
-'PenaltyBreakBeforeFirstCallParameter' and the penalty for breaking
-comments 'PenaltyBreakComment' and the penalty for breaking string
-literals 'PenaltyBreakString' also to 5.
-
-Finally, we really care about not breaking the return type into its own
-line and we really care about not breaking before an open parenthesis.
-This avoids weird formatting like:
-
-   static const struct strbuf *
-          a_really_really_large_function_name(struct strbuf resolved,
-          const char *path, int flags)
-
-or
-
-   static const struct strbuf *a_really_really_large_function_name(
-   	    struct strbuf resolved, const char *path, int flags)
-
-to instead have something more readable like:
-
-   static const struct strbuf *a_really_really_large_function_name(struct strbuf resolved,
-                                                                   const char *path,
-                                                                   int flags)
-
-(note: the tabs here have been replaced by spaces for easier reading)
-
-This is done by bumping the values of 'PenaltyReturnTypeOnItsOwnLine'
-and 'PenaltyBreakOpenParenthesis' to 300. This is so that we can allow a
-few characters above the 80 column limit to make code more readable.
-
-Signed-off-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -372,422 +341,279 @@ Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 59 commits in
+                                        Pushed 8 commits in
                                         <span class="repo">shejialuo/git</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">js-refs-content-v7</span></div>
                                     <div class="commit">
-                                        <div class="sha">#dc6050f</div>
-                                        <div class="message">Documentation/git-update-ref.txt: demote symlink to last section
+                                        <div class="sha">#095a4e8</div>
+                                        <div class="message">ref: add symlink ref content check for files backend
 
-Move the discussion of file system symbolic links to a new “Notes”
-section (inspired by the one in git-symbolic-ref(1)) since this is
-mostly of historical note at this point, not something that is needed in
-the main section of the documentation.
+Besides the textual symref, we also allow symbolic links as the symref.
+So, we should also provide the consistency check as what we have done
+for textual symref. And also we consider deprecating writing the
+symbolic links. We first need to access whether symbolic links still
+be used. So, add a new fsck message "symlinkRef(INFO)" to tell the
+user be aware of this information.
 
-Signed-off-by: Kristoffer Haugsbakk &lt;code@khaugsbakk.name&gt;
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+We have already introduced "files_fsck_symref_target". We should reuse
+this function to handle the symrefs which use legacy symbolic links. We
+should not check the trailing garbage for symbolic refs. Add a new
+parameter "symbolic_link" to disable some checks which should only be
+executed for textual symrefs.
+
+And we need to also generate the "referent" parameter for reusing
+"files_fsck_symref_target" by the following steps:
+
+1. Use "strbuf_add_real_path" to resolve the symlink and get the
+   absolute path "ref_content" which the symlink ref points to.
+2. Generate the absolute path "abs_gitdir" of "gitdir" and combine
+   "ref_content" and "abs_gitdir" to extract the relative path
+   "relative_referent_path".
+3. If "ref_content" is outside of "gitdir", we just set "referent" with
+   "ref_content". Instead, we set "referent" with
+   "relative_referent_path".
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#744c282</div>
-                                        <div class="message">Documentation/git-update-ref.txt: remove safety paragraphs
+                                        <div class="sha">#1085572</div>
+                                        <div class="message">ref: check whether the target of the symref is a ref
 
-Remove paragraphs which explain that using this command is safer than
-echoing the branch name into `HEAD`.
+Ideally, we want to the users use "git symbolic-ref" to create symrefs
+instead of writing raw contents into the filesystem. However, "git
+symbolic-ref" is strict with the refname but not strict with the
+referent. For example, we can make the "referent" located at the
+"$(gitdir)/logs/aaa" and manually write the content into this where we
+can still successfully parse this symref by using "git rev-parse".
 
-Evoking the echo strategy is wrong now under the reftable backend since
-this file does not exist.  And the ref file backend majority user base
-use porcelain commands to manage `HEAD` unless they are intentionally
-poking at the implementation.
+  $ git init repo &amp;&amp; cd repo &amp;&amp; git commit --allow-empty -mx
+  $ git symbolic-ref refs/heads/test logs/aaa
+  $ echo $(git rev-parse HEAD) &gt; .git/logs/aaa
+  $ git rev-parse test
 
-Maybe this warning was relevant for the usage patterns when it was
-added[1] but now it just takes up space.
+We may need to add some restrictions for "referent" parameter when using
+"git symbolic-ref" to create symrefs because ideally all the
+nonpseudo-refs should be located under the "refs" directory and we may
+tighten this in the future.
 
-† 1: 129056370ab (Add missing documentation., 2005-10-04)
+In order to tell the user we may tighten the above situation, create
+a new fsck message "symrefTargetIsNotARef" to notify the user that this
+may become an error in the future.
 
-Signed-off-by: Kristoffer Haugsbakk &lt;code@khaugsbakk.name&gt;
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1b2dfb7</div>
-                                        <div class="message">Documentation/git-update-ref.txt: drop “flag”
+                                        <div class="sha">#d142507</div>
+                                        <div class="message">ref: add basic symref content check for files backend
 
-The other paragraphs on options say “With &lt;option&gt;,”.  Let’s be uniform.
+We have code that checks regular ref contents, but we do not yet check
+the contents of symbolic refs. By using "parse_loose_ref_content" for
+symbolic refs, we will get the information of the "referent".
 
-Also add missing word “that”.
+We do not need to check the "referent" by opening the file. This is
+because if "referent" exists in the file system, we will eventually
+check its correctness by inspecting every file in the "refs" directory.
+If the "referent" does not exist in the filesystem, this is OK as it is
+seen as the dangling symref.
 
-Signed-off-by: Kristoffer Haugsbakk &lt;code@khaugsbakk.name&gt;
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+So we just need to check the "referent" string content. A regular ref
+could be accepted as a textual symref if it begins with "ref:", followed
+by zero or more whitespaces, followed by the full refname, followed only
+by whitespace characters. However, we always write a single SP after
+"ref:" and a single LF after the refname. It may seem that we should
+report a fsck error message when the "referent" does not apply above
+rules and we should not be so aggressive because third-party
+reimplementations of Git may have taken advantage of the looser syntax.
+Put it more specific, we accept the following contents:
+
+1. "ref: refs/heads/master   "
+2. "ref: refs/heads/master   \n  \n"
+3. "ref: refs/heads/master\n\n"
+
+When introducing the regular ref content checks, we created two fsck
+infos "refMissingNewline" and "trailingRefContent" which exactly
+represents above situations. So we will reuse these two fsck messages to
+write checks to info the user about these situations.
+
+But we do not allow any other trailing garbage. The followings are bad
+symref contents which will be reported as fsck error by "git-fsck(1)".
+
+1. "ref: refs/heads/master garbage\n"
+2. "ref: refs/heads/master \n\n\n garbage  "
+
+And we introduce a new "badReferentName(ERROR)" fsck message to report
+above errors by using "is_root_ref" and "check_refname_format" to check
+the "referent". Since both "is_root_ref" and "check_refname_format"
+don't work with whitespaces, we use the trimmed version of "referent"
+with these functions.
+
+In order to add checks, we will do the following things:
+
+1. Record the untrimmed length "orig_len" and untrimmed last byte
+   "orig_last_byte".
+2. Use "strbuf_rtrim" to trim the whitespaces or newlines to make sure
+   "is_root_ref" and "check_refname_format" won't be failed by them.
+3. Use "orig_len" and "orig_last_byte" to check whether the "referent"
+   misses '\n' at the end or it has trailing whitespaces or newlines.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c32d4a8</div>
-                                        <div class="message">global: Fix duplicate word typos
+                                        <div class="sha">#75ea921</div>
+                                        <div class="message">ref: add more strict checks for regular refs
 
-Used regex to find these typos:
+We have already used "parse_loose_ref_contents" function to check
+whether the ref content is valid in files backend. However, by
+using "parse_loose_ref_contents", we allow the ref's content to end with
+garbage or without a newline.
 
-    (?&lt;!struct )(?&lt;=\s)([a-z]{1,}) \1(?=\s)
+Even though we never create such loose refs ourselves, we have accepted
+such loose refs. So, it is entirely possible that some third-party tools
+may rely on such loose refs being valid. We should not report an error
+fsck message at current. We should notify the users about such
+"curiously formatted" loose refs so that adequate care is taken before
+we decide to tighten the rules in the future.
 
-Signed-off-by: Sven Strickroth &lt;email@cs-ware.de&gt;
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+And it's not suitable either to report a warn fsck message to the user.
+We don't yet want the "--strict" flag that controls this bit to end up
+generating errors for such weirdly-formatted reference contents, as we
+first want to assess whether this retroactive tightening will cause
+issues for any tools out there. It may cause compatibility issues which
+may break the repository. So, we add the following two fsck infos to
+represent the situation where the ref content ends without newline or
+has trailing garbages:
+
+1. refMissingNewline(INFO): A loose ref that does not end with
+   newline(LF).
+2. trailingRefContent(INFO): A loose ref has trailing content.
+
+It might appear that we can't provide the user with any warnings by
+using FSCK_INFO. However, in "fsck.c::fsck_vreport", we will convert
+FSCK_INFO to FSCK_WARN and we can still warn the user about these
+situations when using "git refs verify" without introducing
+compatibility issues.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#dab0b9e</div>
-                                        <div class="message">notes: teach the -e option to edit messages in editor
+                                        <div class="sha">#3ce98a3</div>
+                                        <div class="message">ref: port git-fsck(1) regular refs check for files backend
 
-Notes can be added to a commit using:
-	- "-m" to provide a message on the command line.
-	- -C to copy a note from a blob object.
-	- -F to read the note from a file.
-When these options are used, Git does not open an editor,
-it simply takes the content provided via these options and
-attaches it to the commit as a note.
+"git-fsck(1)" implicitly checks the ref content by passing the
+callback "fsck_handle_ref" to the "refs.c::refs_for_each_rawref".
+Then, it will check whether the ref content (eventually "oid")
+is valid. If not, it will report the following error to the user.
 
-Improve flexibility to fine-tune the note before finalizing it
-by allowing the messages to be prefilled in the editor and edited
-after the messages have been provided through -[mF].
+  error: refs/heads/main: invalid sha1 pointer 0000...
 
-Signed-off-by: Abraham Samuel Adekunle &lt;abrahamadekunle50@gmail.com&gt;
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+And it will also report above errors when there are dangling symrefs
+in the repository wrongly. This does not align with the behavior of
+the "git symbolic-ref" command which allows users to create dangling
+symrefs.
+
+As we have already introduced the "git refs verify" command, we'd better
+check the ref content explicitly in the "git refs verify" command thus
+later we could remove these checks in "git-fsck(1)" and launch a
+subprocess to call "git refs verify" in "git-fsck(1)" to make the
+"git-fsck(1)" more clean.
+
+Following what "git-fsck(1)" does, add a similar check to "git refs
+verify". Then add a new fsck error message "badRefContent(ERROR)" to
+represent that a ref has an invalid content.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#bddfcce</div>
-                                        <div class="message">doc: document how uploadpack.allowAnySHA1InWant impact other allow options
+                                        <div class="sha">#9473a4d</div>
+                                        <div class="message">ref: support multiple worktrees check for refs
 
-Document how setting of `uploadpack.allowAnySHA1InWant`
-influences other `uploadpack` options - `allowTipSHA1InWant`
-and `allowReachableSHA1InWant`.
+We have already set up the infrastructure to check the consistency for
+refs, but we do not support multiple worktrees. However, "git-fsck(1)"
+will check the refs of worktrees. As we decide to get feature parity
+with "git-fsck(1)", we need to set up support for multiple worktrees.
 
-Signed-off-by: Piotr Szlazak &lt;piotr.szlazak@gmail.com&gt;
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+Because each worktree has its own specific refs, instead of just showing
+the users "refs/worktree/foo", we need to display the full name such as
+"worktrees/&lt;id&gt;/refs/worktree/foo". So we should know the id of the
+worktree to get the full name. Add a new parameter "struct worktree *"
+for "refs-internal.h::fsck_fn". Then change the related functions to
+follow this new interface.
+
+The "packed-refs" only exists in the main worktree, so we should only
+check "packed-refs" in the main worktree. Use "is_main_worktree" method
+to skip checking "packed-refs" in "packed_fsck" function.
+
+Then, enhance the "files-backend.c::files_fsck_refs_dir" function to add
+"worktree/&lt;id&gt;/" prefix when we are not in the main worktree.
+
+Last, add a new test to check the refname when there are multiple
+worktrees to exercise the code.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#468a7e4</div>
-                                        <div class="message">credential-cache: treat ECONNABORTED like ECONNRESET
+                                        <div class="sha">#cb2044c</div>
+                                        <div class="message">ref: initialize ref name outside of check functions
 
-On Cygwin, t0301 fails because "git credential-cache exit" returns a
-non-zero exit code. What's supposed to happen here is:
+We passes "refs_check_dir" to the "files_fsck_refs_name" function which
+allows it to create the checked ref name later. However, when we
+introduce a new check function, we have to allocate redundant memory and
+re-calculate the ref name. It's bad for us to allocate redundant memory
+and duplicate logic. Instead, we should allocate and calculate it only
+once and pass the ref name to the check functions.
 
-  1. The client (the "credential-cache" invocation above) connects to a
-     previously-spawned credential-cache--daemon.
+In order not to do repeat calculation, rename "refs_check_dir" to
+"refname". And in "files_fsck_refs_dir", create a new strbuf "refname",
+thus whenever we handle a new ref, calculate the name and call the check
+functions one by one.
 
-  2. The client sends an "exit" command to the daemon.
-
-  3. The daemon unlinks the socket and then exits, closing the
-     descriptor back to the client.
-
-  4. The client sees EOF on the descriptor and exits successfully.
-
-That works on most platforms, and even _used_ to work on Cygwin. But
-that changed in Cygwin's ef95c03522 (Cygwin: select: Fix FD_CLOSE
-handling, 2021-04-06). After that commit, the client sees a read error
-with errno set to ECONNABORTED, and it reports the error and dies.
-
-It's not entirely clear if this is a Cygwin bug. It seems that calling
-fclose() on the filehandles pointing to the sockets is sufficient to
-avoid this error return, even though exiting should in general look the
-same from the client's perspective.
-
-However, we can't just call fclose() here. It's important in step 3
-above to unlink the socket before closing the descriptor to avoid the
-race mentioned by 7d5e9c9849 (credential-cache--daemon: clarify "exit"
-action semantics, 2016-03-18). The client will exit as soon as it sees
-the descriptor close, and the daemon may or may not have actually
-unlinked the socket by then. That makes test code like this:
-
-  git credential exit &amp;&amp;
-  test_path_is_missing .git-credential-cache
-
-racy.
-
-So we probably _could_ fix this by calling:
-
-  delete_tempfile(&amp;socket_file);
-  fclose(in);
-  fclose(out);
-
-before we exit(). Or by replacing the exit() with a return up the stack,
-in which case the fclose() happens as we unwind. But in that case we'd
-still need to call delete_tempfile() here to avoid the race.
-
-But simpler still is that we can notice that we already special-case
-ECONNRESET on the client side, courtesy of 1f180e5eb9 (credential-cache:
-interpret an ECONNRESET as an EOF, 2017-07-27). We can just do the same
-thing here (I suspect that prior to the Cygwin commit that introduced
-this problem, we were really just seeing ECONNRESET instead of
-ECONNABORTED, so the "new" problem is just the switch of the errno
-values).
-
-There's loads more debugging in this thread:
-
-  https://lore.kernel.org/git/9dc3e85f-a532-6cff-de11-1dfb2e4bc6b6@ramsayjones.plus.com/
-
-but I've tried to summarize the useful bits in this commit message.
-
-[jk: commit message]
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Ramsay Jones &lt;ramsay@ramsayjones.plus.com&gt;
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#80ebd91</div>
-                                        <div class="message">http: fix build error on FreeBSD
+                                        <div class="sha">#82c5a7d</div>
+                                        <div class="message">ref: check the full refname instead of basename
 
-The `result` parameter passed to `http_request_reauth()` may either
-point to a `struct strbuf` or a `FILE *`, where the `target` parameter
-tells us which of either it actually is. To accommodate for both types
-the pointer is a `void *`, which we then pass directly to functions
-without doing a cast.
+In "files-backend.c::files_fsck_refs_name", we validate the refname
+format by using "check_refname_format" to check the basename of the
+iterator with "REFNAME_ALLOW_ONELEVEL" flag.
 
-This is fine on most platforms, but it breaks on FreeBSD because
-`fileno()` is implemented as a macro that tries to directly access the
-`FILE *` structure.
+However, this is a bad implementation. Although we doesn't allow a
+single "@" in ".git" directory, we do allow "refs/heads/@". So, we will
+report an error wrongly when there is a "refs/heads/@" ref by using one
+level refname "@".
 
-Fix this issue by storing the `FILE *` in a local variable before we
-pass it on to other functions.
+Because we just check one level refname, we either cannot check the
+other parts of the full refname. And we will ignore the following
+errors:
 
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#87ad2a9</div>
-                                        <div class="message">builtin/credential-cache: fix missing parameter for stub function
+  "refs/heads/ new-feature/test"
+  "refs/heads/~new-feature/test"
 
-When not compiling the credential cache we may use a stub function for
-`cmd_credential_cache()`. With commit 9b1cb5070f (builtin: add a
-repository parameter for builtin functions, 2024-09-13), we have added a
-new parameter to all of those top-level `cmd_*()` functions, and did
-indeed adapt the non-stubbed-out `cmd_credential_cache()`. But we didn't
-adapt the stubbed-out variant, so the code does not compile.
+In order to fix the above problem, enhance "files_fsck_refs_name" to use
+the full name for "check_refname_format". Then, replace the tests which
+are related to "@" and add tests to exercise the above situations using
+for loop to avoid repetition.
 
-Fix this by adding the missing parameter.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bb0d76d</div>
-                                        <div class="message">t7300: work around platform-specific behaviour with long paths on MinGW
-
-Windows by default has a restriction in place to only allow paths up to
-260 characters. This restriction can nowadays be lifted by setting a
-registry key, but is still active by default.
-
-In t7300 we have one test that exercises the behaviour of git-clean(1)
-with such long paths. Interestingly enough, this test fails on my system
-that uses Windows 10 with mingw-w64 installed via MSYS2: instead of
-observing ENAMETOOLONG, we observe ENOENT. This behaviour is consistent
-across multiple different environments I have tried.
-
-I cannot say why exactly we observe a different error here, but I would
-not be surprised if this was either dependent on the Windows version,
-the version of MinGW, the current working directory of Git or any kind
-of combination of these.
-
-Work around the issue by handling both errors.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f8af25</div>
-                                        <div class="message">t5500, t5601: skip tests which exercise paths with '[::1]' on Cygwin
-
-Parsing repositories which contain '[::1]' is broken on Cygwin. It seems
-as if Cygwin is confusing those as drive letter prefixes or something
-like this, but I couldn't deduce the actual root cause.
-
-Mark those tests as broken for now.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f74949f</div>
-                                        <div class="message">t3404: work around platform-specific behaviour on macOS 10.15
-
-Two of our tests in t3404 use indented HERE docs where leading tabs on
-some of the lines are actually relevant. The tabs do get removed though,
-and we try to fix this up by using sed(1) to replace leading tabs in the
-actual output, as well. But macOS 10.15 uses an oldish version of sed(1)
-that has BSD lineage, which does not understand "\t", and thus we fail
-to strip those leading tabs and fail the test.
-
-Address this issue by using `q_to_tab` such that we do not have to strip
-leading tabs from the actual output.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3acb1f7</div>
-                                        <div class="message">t1401: make invocation of tar(1) work with Win32-provided one
-
-Windows nowadays provides a tar(1) binary in "C:\Windows\system32". This
-version of tar(1) doesn't seem to handle the case where directory paths
-end with a trailing forward slash. And as we do that in t1401 the result
-is that the test fails.
-
-Drop the trailing slash. Other tests that use tar(1) work alright, this
-is the only instance where it has been failing.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b4b77ea</div>
-                                        <div class="message">t/lib-gpg: fix setup of GNUPGHOME in MinGW
-
-In "t/lib-gpg.sh" we set up the "GNUPGHOME" environment variable to
-point to a test-specific directory. This is done by using "$PWD/gpghome"
-as value, where "$PWD" is the current test's trash directory.
-
-This is broken for MinGW though because "$PWD" will use Windows-style
-paths that contain drive letters. What we really want in this context is
-a Unix-style path, which we can get by using `$(pwd)` instead. It is
-somewhat puzzling that nobody ever hit this issue, but it may easily be
-that nobody ever tests on Windows with GnuPG installed, which would make
-us skip those tests.
-
-Adapt the code accordingly to fix tests using this library.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6b1f9e9</div>
-                                        <div class="message">t/lib-gitweb: test against the build version of gitweb
-
-When testing gitweb we set up the CGI script as "gitweb.perl", which is
-the source file of the build target "gitweb.cgi". This file doesn't have
-a patched shebang and still contains `++REPLACEMENT++` markers, but
-things generally work because we replace the configuration with our own
-test configuration.
-
-But this only works as long as "$GIT_BUILD_DIR" actually points to the
-source tree, because "gitweb.cgi" and "gitweb.perl" happen to sit next
-to each other. This is not the case though once you have out-of-tree
-builds like with CMake, where the source and built versions live in
-different directories. Consequently, "$GIT_BUILD_DIR/gitweb/gitweb.perl"
-won't exist there.
-
-While we could ask build systems with out-of-tree builds to instead set
-up GITWEB_TEST_INSTALLED, which allows us to override the location of
-the script, it goes against the spirit of this environment variable. We
-_don't_ want to test against an installed version, we want to use the
-version we have just built.
-
-Fix this by using "gitweb.cgi" instead. This means that you cannot run
-test scripts without building that file, but in general we do expect
-developers to build stuff before they test it anyway.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#df383b5</div>
-                                        <div class="message">t/test-lib: wire up NO_ICONV prerequisite
-
-The iconv library is used by Git to reencode files, commit messages and
-other things. As such it is a rather integral part, but given that many
-platforms nowadays use UTF-8 everywhere you can live without support for
-reencoding in many situations. It is thus optional to build Git with
-iconv, and some of our platforms wired up in "config.mak.uname" disable
-it. But while we support building without it, running our test suite
-with "NO_ICONV=Yes" causes many test failures.
-
-Wire up a new test prerequisite ICONV that gets populated via our
-GIT-BUILD-OPTIONS. Annotate failing tests accordingly.
-
-Note that this commit does not do a deep dive into every single test to
-assess whether the failure is expected or not. Most of the tests do
-smell like the expected kind of failure though.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ed7634e</div>
-                                        <div class="message">t/test-lib: fix quoting of TEST_RESULTS_SAN_FILE
-
-When assembling our LSAN_OPTIONS that configure the leak sanitizer we
-end up prepending the string with various different colon-separated
-options via calls to `prepend_var`. One of the settings we add is the
-path where the sanitizer should store logs, which can be an arbitrary
-filesystem path.
-
-Naturally, filesystem paths may contain whitespace characters. And while
-it does seem as if we were quoting the value, we use escaped quotes and
-consequently split up the value if it does contain spaces. This leads to
-the following error in t0000 when having a value with whitespaces:
-
-    .../t/test-lib.sh: eval: line 64: unexpected EOF while looking for matching `"'
-    ++ return 1
-    error: last command exited with $?=1
-    not ok 5 - subtest: 3 passing tests
-
-The error itself is a bit puzzling at first. The basic problem is that
-the code sees the leading escaped quote during eval, but because we
-truncate everything after the space character it doesn't see the
-trailing escaped quote and thus fails to parse the string.
-
-Properly quote the value to fix the issue while using single-quotes to
-quote the inner value passed to eval. The issue can be reproduced by
-t0000 with such a path that contains spaces.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#19c291e</div>
-                                        <div class="message">t3404: replace test with test_line_count()
-
-Refactor t3404 to replace instances of `test` with `test_line_count()`
-for checking line counts. This improves readability and aligns with Git's
-current test practices.
-
-Signed-off-by: Usman Akinyemi &lt;usmanakinyemi202@gmail.com&gt;
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c8fbae2</div>
-                                        <div class="message">t3404: avoid losing exit status with focus on `git show` and `git cat-file`
-
-The exit code of the preceding command in a pipe is disregarded. So
-if that preceding command is a Git command that fails, the test would
-not fail. Instead, by saving the output of that Git command to a file,
-and removing the pipe, we make sure the test will fail if that Git
-command fails. This particular patch focuses on all `git show` and
-some instances of `git cat-file`.
-
-Signed-off-by: Usman Akinyemi &lt;usmanakinyemi202@gmail.com&gt;
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2454970</div>
-                                        <div class="message">BreakingChanges: early adopter option
-
-Discussing the desire to make breaking changes, declaring that
-breaking changes are made at a certain version boundary, and
-recording these decisions in this document, are necessary but not
-sufficient.  We need to make sure that we can implement, test, and
-deploy such impactful changes.
-
-Earlier we considered to guard the breaking changes with a run-time
-check of the `feature.git&lt;version&gt;` configuration to allow brave
-users and developers to opt into them as early adoptors.  But the
-engineering cost to support such a run-time switch, covering new and
-disappearing git subcommands and how "git help" would adjust the
-documentation to the run-time switch, would be unrealistically high
-to be worth it.
-
-Formalize the mechanism based on a compile-time switch to allow
-early adopters to opt into the breaking change in a version of Git
-before the planned version for the breaking change.
-
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -796,25 +622,16 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 22 commits in
-                                        <span class="repo">shejialuo/git</span>
+                                        Opened
+                                        <span class="issue">#22 Js refs content v7</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8d305fd</div>
-                                        <div class="message">Merge branch 'co/t6050-pipefix'
-
-Avoid losing exit status by having Git command being tested on the
-upstream side of a pipe.
-
-* co/t6050-pipefix:
-  t6050: avoid pipes with upstream Git commands</div>
-                                    </div>
+                                    <div> in <span class="repo">shejialuo/git</span></div>
+                                    <div>11 files changed <span class="code">++740 --62</span></div>
                                 </div>
                             </section>
                         </div>
@@ -822,414 +639,14 @@ upstream side of a pipe.
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 41 commits in
+                                        Created new
+                      branch
+                                        <span class="code">js-refs-content-v7</span>
+                                        in
                                         <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#41869f7</div>
-                                        <div class="message">t: fix typos
-
-Fix typos via codespell.
-
-Signed-off-by: Andrew Kreimer &lt;algonell@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#897124a</div>
-                                        <div class="message">t/helper: fix a typo
-
-Fix a typo in comments: bellow -&gt; below.
-
-Signed-off-by: Andrew Kreimer &lt;algonell@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#050e0ef</div>
-                                        <div class="message">t/perf: fix typos
-
-Fix typos via codespell.
-
-Signed-off-by: Andrew Kreimer &lt;algonell@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ca2746b</div>
-                                        <div class="message">t/unit-tests: fix typos
-
-Fix typos via codespell.
-
-Signed-off-by: Andrew Kreimer &lt;algonell@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f5deddd</div>
-                                        <div class="message">contrib: fix typos
-
-Fix typos via codespell.
-
-Signed-off-by: Andrew Kreimer &lt;algonell@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#54ee29c</div>
-                                        <div class="message">compat: fix typos
-
-Fix typos and grammar.
-
-Reported-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Andrew Kreimer &lt;algonell@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#631ddbb</div>
-                                        <div class="message">gitlab-ci: exercise Git on Windows
-
-Add jobs that exercise Git on Windows. Unfortunately, building and
-especially testing Git on Windows is inherently slower compared to other
-Unix-like systems, mostly because spawning processes is way slower. We
-thus use the same layout as we use in GitHub Actions, where we have one
-build job, and then pass on the resulting build artifacts to ten test
-jobs that split up the work across each other.
-
-Unfortunately, the GitLab runners for Windows machines are embarassingly
-slow by themselves. So while this strategy leads to around 20 minutes of
-build time in GitHub Actions, the same pipeline takes around an hour in
-GitLab CI. Still, having late coverage is certainly better than having
-none at all.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05a928a</div>
-                                        <div class="message">gitlab-ci: introduce stages and dependencies
-
-We're about to add a couple of jobs for Windows. As the Windows runners
-are quite slow, we will split those up across two stages: one stage to
-build the artifacts, and one stage that runs test slices in parallel.
-
-Introduce stages and "needs" dependencies for the preexisting jobs as a
-preparatory step. The stages will lead to a more natural representation
-of jobs in the UI, whereas the "needs" dependency ensures that jobs do
-not have to wait for all jobs in the preceding stage to finish.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b7a08e9</div>
-                                        <div class="message">ci: handle Windows-based CI jobs in GitLab CI
-
-We try to abstract away any differences between different CI platforms
-in "ci/lib.sh", such that knowledge specific to e.g. GitHub Actions or
-GitLab CI is neatly encapsulated in a single place. Next to some generic
-variables, we also set up some variables that are specific to the actual
-platform that the CI operates on, e.g. Linux or macOS.
-
-We do not yet support Windows runners on GitLab CI. Unfortunately, those
-systems do not use the same "CI_JOB_IMAGE" environment variable as both
-Linux and macOS do. Instead, we can use the "OS" variable, which should
-have a value of "Windows_NT" on Windows platforms.
-
-Handle the combination of "$OS,$CI_JOB_IMAGE" and introduce support for
-Windows.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#91839a8</div>
-                                        <div class="message">ci: create script to set up Git for Windows SDK
-
-In order to build and test Git, we have to first set up the Git for
-Windows SDK, which contains various required tools and libraries. The
-SDK is basically a clone of [1], but that repository is quite large due
-to all the binaries it contains. We thus use both shallow clones and
-sparse checkouts to speed up the setup. To handle this complexity we use
-a GitHub action that is hosted externally at [2].
-
-Unfortunately, this makes it rather hard to reuse the logic for CI
-platforms other than GitHub Actions. After chatting with Johannes
-Schindelin we came to the conclusion that it would be nice if the Git
-for Windows SDK would regularly publish releases that one can easily
-download and extract, thus moving all of the complexity into that single
-step. Like this, all that a CI job needs to do is to fetch and extract
-the resulting archive. This published release comes in the form of a new
-"ci-artifacts" tag that gets updated regularly [3].
-
-Implement a new script that knows how to fetch and extract that script
-and convert GitHub Actions to use it.
-
-[1]: https://github.com/git-for-windows/git-sdk-64/
-[2]: https://github.com/git-for-windows/setup-git-for-windows-sdk/
-[3]: https://github.com/git-for-windows/git-sdk-64/releases/tag/ci-artifacts/
-
-Helped-by: Johannes Schindelin &lt;johannes.schindelin@gmx.de&gt;
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#106834e</div>
-                                        <div class="message">t7300: work around platform-specific behaviour with long paths on MinGW
-
-Windows by default has a restriction in place to only allow paths up to
-260 characters. This restriction can nowadays be lifted by setting a
-registry key, but is still active by default.
-
-In t7300 we have one test that exercises the behaviour of git-clean(1)
-with such long paths. Interestingly enough, this test fails on my system
-that uses Windows 10 with mingw-w64 installed via MSYS2: instead of
-observing ENAMETOOLONG, we observe ENOENT. This behaviour is consistent
-across multiple different environments I have tried.
-
-I cannot say why exactly we observe a different error here, but I would
-not be surprised if this was either dependent on the Windows version,
-the version of MinGW, the current working directory of Git or any kind
-of combination of these.
-
-Work around the issue by handling both errors.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0c1a998</div>
-                                        <div class="message">submodule: correct remote name with fetch
-
-The code fetches the submodules remote based on the superproject remote name
-instead of the submodule remote name[1].
-
-Instead of grabbing the default remote of the superproject repository, ask
-the default remote of the submodule we are going to run 'git fetch' in.
-
-1. https://lore.kernel.org/git/ZJR5SPDj4Wt_gmRO@pweza/
-
-Signed-off-by: Daniel Black &lt;daniel@mariadb.org&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#08830ac</div>
-                                        <div class="message">worktree: add test for path handling in linked worktrees
-
-A failure scenario reported in an earlier patch series[1] that several
-`git worktree` subcommands failed or misbehaved when invoked from within
-linked worktrees that used relative paths.
-
-This adds a test that executes a `worktree prune` command inside both an
-internally and an externally linked worktree and asserts that the other
-worktree was not pruned.
-
-[1]: https://lore.kernel.org/git/CAPig+cQXFy=xPVpoSq6Wq0pxMRCjS=WbkgdO+3LySPX=q0nPCw@mail.gmail.com/
-
-Reported-by: Eric Sunshine &lt;sunshine@sunshineco.com&gt;
-Signed-off-by: Caleb White &lt;cdwhite3@pm.me&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#717af91</div>
-                                        <div class="message">worktree: link worktrees with relative paths
-
-Git currently stores absolute paths to both the main repository and
-linked worktrees. However, this causes problems when moving repositories
-or working in containerized environments where absolute paths differ
-between systems. The worktree links break, and users are required to
-manually execute `worktree repair` to repair them, leading to workflow
-disruptions. Additionally, mapping repositories inside of containerized
-environments renders the repository unusable inside the containers, and
-this is not repairable as repairing the worktrees inside the containers
-will result in them being broken outside the containers.
-
-To address this, this patch makes Git always write relative paths when
-linking worktrees. Relative paths increase the resilience of the
-worktree links across various systems and environments, particularly
-when the worktrees are self-contained inside the main repository (such
-as when using a bare repository with worktrees). This improves
-portability, workflow efficiency, and reduces overall breakages.
-
-Although Git now writes relative paths, existing repositories with
-absolute paths are still supported. There are no breaking changes
-to workflows based on absolute paths, ensuring backward compatibility.
-
-At a low level, the changes involve modifying functions in `worktree.c`
-and `builtin/worktree.c` to use `relative_path()` when writing the
-worktree’s `.git` file and the main repository’s `gitdir` reference.
-Instead of hardcoding absolute paths, Git now computes the relative path
-between the worktree and the repository, ensuring that these links are
-portable. Locations where these respective file are read have also been
-updated to properly handle both absolute and relative paths. Generally,
-relative paths are always resolved into absolute paths before any
-operations or comparisons are performed.
-
-Additionally, `repair_worktrees_after_gitdir_move()` has been introduced
-to address the case where both the `&lt;worktree&gt;/.git` and
-`&lt;repo&gt;/worktrees/&lt;id&gt;/gitdir` links are broken after the gitdir is
-moved (such as during a re-initialization). This function repairs both
-sides of the worktree link using the old gitdir path to reestablish the
-correct paths after a move.
-
-The `worktree.path` struct member has also been updated to always store
-the absolute path of a worktree. This ensures that worktree consumers
-never have to worry about trying to resolve the absolute path themselves.
-
-Signed-off-by: Caleb White &lt;cdwhite3@pm.me&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bb4a883</div>
-                                        <div class="message">worktree: refactor infer_backlink() to use *strbuf
-
-This lays the groundwork for the next patch, which needs the backlink
-returned from infer_backlink() as a `strbuf`. It seemed inefficient to
-convert from `strbuf` to `char*` and back to `strbuf` again.
-
-This refactors infer_backlink() to return an integer result and use a
-pre-allocated `strbuf` for the inferred backlink path, replacing the
-previous `char*` return type and improving efficiency.
-
-Signed-off-by: Caleb White &lt;cdwhite3@pm.me&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#58d8805</div>
-                                        <div class="message">Merge branch 'es/worktree-repair-copied' into cw/worktrees-relative
-
-* es/worktree-repair-copied:
-  worktree: repair copied repository and linked worktrees</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ecb5c43</div>
-                                        <div class="message">unpack-trees: detect mismatching number of cache-tree/index entries
-
-Same as the preceding commit, we unconditionally dereference the index's
-cache entries depending on the number of cache-tree entries, which can
-lead to a segfault when the cache-tree is corrupted. Fix this bug.
-
-This also makes t4058 pass with the leak sanitizer enabled.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2be7fc0</div>
-                                        <div class="message">cache-tree: detect mismatching number of index entries
-
-In t4058 we have some tests that exercise git-read-tree(1) when used
-with a tree that contains duplicate entries. While the expectation is
-that we fail, we ideally should fail gracefully without a segfault.
-
-But that is not the case: we never check that the number of entries in
-the cache-tree is less than or equal to the number of entries in the
-index. This can lead to an out-of-bounds read as we unconditionally
-access `istate-&gt;cache[idx]`, where `idx` is controlled by the number of
-cache-tree entries and the current position therein. The result is a
-segfault.
-
-Fix this segfault by adding a sanity check for the number of index
-entries before dereferencing them.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f11959</div>
-                                        <div class="message">cache-tree: refactor verification to return error codes
-
-The function `cache_tree_verify()` will `BUG()` whenever it finds that
-the cache-tree extension of the index is corrupt. The function is thus
-inherently untestable because the resulting call to `abort()` will be
-detected by our testing framework and labelled an error. And rightfully
-so: it shouldn't ever be possible to hit bugs, as they should indicate a
-programming error rather than corruption of on-disk state.
-
-Refactor the function to instead return error codes. This also ensures
-that the function can be used e.g. by git-fsck(1) without the whole
-process dying. Furthermore, this refactoring plugs some memory leaks
-when returning early by creating a common exit path.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#992f7a4</div>
-                                        <div class="message">worktree: repair copied repository and linked worktrees
-
-For each linked worktree, Git maintains two pointers: (1)
-&lt;repo&gt;/worktrees/&lt;id&gt;/gitdir which points at the linked worktree, and
-(2) &lt;worktree&gt;/.git which points back at &lt;repo&gt;/worktrees/&lt;id&gt;. Both
-pointers are absolute pathnames.
-
-Aside from manually manipulating those raw files, it is possible to
-easily "break" one or both pointers by ignoring the "git worktree move"
-command and instead manually moving a linked worktree, moving the
-repository, or moving both. The "git worktree repair" command was
-invented to handle this case by restoring these pointers to sane values.
-
-For the "repair" command, the "git worktree" manual page states:
-
-  Repair worktree administrative files, if possible, if they have
-  become corrupted or outdated due to external factors.
-
-The "if possible" clause was chosen deliberately to convey that the
-existing implementation may not be able to fix every possible breakage,
-and to imply that improvements may be made to handle other types of
-breakage.
-
-A recent problem report[*] illustrates a case in which "git worktree
-repair" not only fails to fix breakage, but actually causes breakage.
-Specifically, if a repository / main-worktree and linked worktrees are
-*copied* as a unit (rather than *moved*), then "git worktree repair" run
-in the copy leaves the copy untouched but botches the pointers in the
-original repository and the original worktrees.
-
-For instance, given this directory structure:
-
-  orig/
-    main/ (main-worktree)
-    linked/ (linked worktree)
-
-if "orig" is copied (not moved) to "dup", then immediately after the
-manual copy operation:
-
-  * orig/main/.git/worktrees/linked/gitdir points at orig/linked/.git
-  * orig/linked/.git points at orig/main/.git/worktrees/linked
-  * dup/main/.git/worktrees/linked/gitdir points at orig/linked/.git
-  * dup/linked/.git points at orig/main/.git/worktrees/linked
-
-So, dup/main thinks its linked worktree is orig/linked, and worktree
-dup/linked thinks its repository / main-worktree is orig/main.
-
-"git worktree repair" is reasonably simple-minded; it wants to trust
-valid-looking pointers, hence doesn't try to second-guess them. In this
-case, when validating dup/linked/.git, it finds a legitimate repository
-pointer, orig/main/.git/worktrees/linked, thus trusts that is correct,
-but does notice that gitdir in that directory doesn't point at
-dup/linked/.git, so it (incorrectly) _fixes_
-orig/main/.git/worktrees/linked/gitdir to point at dup/linked/.git.
-Similarly, when validating dup/main/.git/worktrees/linked/gitdir, it
-finds a legitimate worktree pointer, orig/linked/.git, but notices that
-its .git file doesn't point back at dup/main, thus (incorrectly) _fixes_
-orig/linked/.git to point at dup/main/.git/worktrees/linked. Hence, it
-has modified and broken the linkage between orig/main and orig/linked
-rather than fixing dup/main and dup/linked as expected.
-
-Fix this problem by also checking if a plausible .git/worktrees/&lt;id&gt;
-exists in the *current* repository -- not just in the repository pointed
-at by the worktree's .git file -- and comparing whether they are the
-same. If not, then it is likely because the repository / main-worktree
-and linked worktrees were copied, so prefer the discovered plausible
-pointer rather than the one from the existing .git file.
-
-[*]: https://lore.kernel.org/git/E1sr5iF-0007zV-2k@binarylane-bailey.stuart.id.au/
-
-Reported-by: Russell Stuart &lt;russell+git.vger.kernel.org@stuart.id.au&gt;
-Signed-off-by: Eric Sunshine &lt;sunshine@sunshineco.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -1250,7 +667,7 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~7 coding hours recorded
+                            ~9 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1262,7 +679,7 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                             </svg>
-                            Mostly coding in C
+                            Mostly coding in Bash
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -1292,18 +709,18 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">git</span>
-                                <div class="bar" style="width: 48.808%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">61%</span>
+                                <div class="bar" style="width: 53.712%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">67%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 27.304000000000002%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">34%</span>
+                                <div class="bar" style="width: 23.119999999999997%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">29%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">luo_obsidian</span>
-                                <div class="bar" style="width: 3.8880000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <div class="bar" style="width: 3.1679999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
                             </div>
                         </div>
                     </section>
@@ -1311,29 +728,29 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <h3>Language activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
-                                <span class="name">C</span>
-                                <div class="bar" style="width: 30.727999999999994%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">38%</span>
+                                <span class="name">Bash</span>
+                                <div class="bar" style="width: 28.488%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">36%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Bash</span>
-                                <div class="bar" style="width: 16.848%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">21%</span>
+                                <span class="name">C</span>
+                                <div class="bar" style="width: 20.336000000000002%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">25%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Mail</span>
-                                <div class="bar" style="width: 14.808000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">19%</span>
+                                <div class="bar" style="width: 12.064%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">15%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Text</span>
-                                <div class="bar" style="width: 8.792%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">11%</span>
+                                <div class="bar" style="width: 7.16%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 3.8880000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <div class="bar" style="width: 3.1679999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
                             </div>
                         </div>
                     </section>
