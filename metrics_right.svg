@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1243" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1592" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.chart-bars.horizontal .entry .name,.track .name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.audit.text{min-width:42px}.audit svg{margin:0}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.chart-bars.horizontal .entry .name,.track .name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}.added{color:#3fb950}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .contributions{display:flex;align-items:center;font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.contributors .contributions svg{fill:#0366d6;margin-left:4px;width:.8rem;height:.8rem}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -33,6 +33,378 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 52 commits in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e2f5d3b</div>
+                                        <div class="message">Documentation/git-update-ref.txt: add missing word
+
+Add missing word “that” in the phrase “after verifying that”, like
+what was done in 1b2dfb70504 (Documentation/git-update-ref.txt: drop
+“flag”, 2024-10-21)
+
+Signed-off-by: Kristoffer Haugsbakk &lt;code@khaugsbakk.name&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#18693d7</div>
+                                        <div class="message">Documentation/git-bundle.txt: fix word join typo
+
+Signed-off-by: Kristoffer Haugsbakk &lt;code@khaugsbakk.name&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#da91a90</div>
+                                        <div class="message">fast-import: disallow more path components
+
+Instead of just disallowing '.' and '..', make use of verify_path() to
+ensure that fast-import will disallow anything we wouldn't allow into
+the index, such as anything under .git/, .gitmodules as a symlink, or
+a dos drive prefix on Windows.
+
+Since a few fast-export and fast-import tests that tried to stress-test
+the correct handling of quoting relied on filenames that fail
+is_valid_win32_path(), such as spaces or periods at the end of filenames
+or backslashes within the filename, turn off core.protectNTFS for those
+tests to ensure they keep passing.
+
+Helped-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Elijah Newren &lt;newren@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2037ca8</div>
+                                        <div class="message">worktree: refactor `repair_worktree_after_gitdir_move()`
+
+This refactors `repair_worktree_after_gitdir_move()` to use the new
+`write_worktree_linking_files` function. It also preserves the
+relativity of the linking files; e.g., if an existing worktree used
+absolute paths then the repaired paths will be absolute (and visa-versa).
+`repair_worktree_after_gitdir_move()` is used to repair both sets of
+worktree linking files if the `.git` directory is moved during a
+re-initialization using `git init`.
+
+This also adds a test case for reinitializing a repository that has
+relative worktrees.
+
+Signed-off-by: Caleb White &lt;cdwhite3@pm.me&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e6df1ee</div>
+                                        <div class="message">worktree: add relative cli/config options to `repair` command
+
+This teaches the `worktree repair` command to respect the
+`--[no-]relative-paths` CLI option and `worktree.useRelativePaths`
+config setting. If an existing worktree with an absolute path is repaired
+with `--relative-paths`, the links will be replaced with relative paths,
+even if the original path was correct. This allows a user to covert
+existing worktrees between absolute/relative as desired.
+
+To simplify things, both linking files are written when one of the files
+needs to be repaired. In some cases, this fixes the other file before it
+is checked, in other cases this results in a correct file being written
+with the same contents.
+
+Signed-off-by: Caleb White &lt;cdwhite3@pm.me&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#298d291</div>
+                                        <div class="message">worktree: add relative cli/config options to `move` command
+
+This teaches the `worktree move` command to respect the
+`--[no-]relative-paths` CLI option and `worktree.useRelativePaths`
+config setting. If an existing worktree is moved with `--relative-paths`
+the new path will be relative (and visa-versa).
+
+Signed-off-by: Caleb White &lt;cdwhite3@pm.me&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b701634</div>
+                                        <div class="message">worktree: add relative cli/config options to `add` command
+
+This introduces the `--[no-]relative-paths` CLI option and
+`worktree.useRelativePaths` configuration setting to the `worktree add`
+command. When enabled these options allow worktrees to be linked using
+relative paths, enhancing portability across environments where absolute
+paths may differ (e.g., containerized setups, shared network drives).
+Git still creates absolute paths by default, but these options allow
+users to opt-in to relative paths if desired.
+
+The t2408 test file is removed and more comprehensive tests are
+written for the various worktree operations in their own files.
+
+Signed-off-by: Caleb White &lt;cdwhite3@pm.me&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4dac9e3</div>
+                                        <div class="message">worktree: add `write_worktree_linking_files()` function
+
+A new helper function, `write_worktree_linking_files()`, centralizes
+the logic for computing and writing either relative or absolute
+paths, based on the provided configuration. This function accepts
+`strbuf` pointers to both the worktree’s `.git` link and the
+repository’s `gitdir`, and then writes the appropriate path to each.
+The `relativeWorktrees` extension is automatically set when a worktree
+is linked with relative paths.
+
+Signed-off-by: Caleb White &lt;cdwhite3@pm.me&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5976310</div>
+                                        <div class="message">worktree: refactor infer_backlink return
+
+The previous round[1] was merged a bit early before reviewer feedback
+could be applied. This correctly indents a code block and updates the
+`infer_backlink` function to return `-1` on failure and strbuf.len on
+success.
+
+[1]: https://lore.kernel.org/git/20241007-wt_relative_paths-v3-0-622cf18c45eb@pm.me
+
+Signed-off-by: Caleb White &lt;cdwhite3@pm.me&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1860ba1</div>
+                                        <div class="message">worktree: add `relativeWorktrees` extension
+
+A new extension, `relativeWorktrees`, is added to indicate that at least
+one worktree in the repository has been linked with relative paths.
+This ensures older Git versions do not attempt to automatically prune
+worktrees with relative paths, as they would not not recognize the
+paths as being valid.
+
+Suggested-by: Junio C Hamano &lt;gitster@pobox.com&gt;
+Signed-off-by: Caleb White &lt;cdwhite3@pm.me&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d897f2c</div>
+                                        <div class="message">setup: correctly reinitialize repository version
+
+When reinitializing a repository, Git does not account for extensions
+other than `objectformat` and `refstorage` when determining the
+repository version. This can lead to a repository being downgraded to
+version 0 if extensions are set, causing Git future operations to fail.
+
+This patch teaches Git to check if other extensions are defined in the
+config to ensure that the repository version is set correctly.
+
+Signed-off-by: Caleb White &lt;cdwhite3@pm.me&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#168ebb7</div>
+                                        <div class="message">CodingGuidelines: a handful of error message guidelines
+
+It is more efficient to have something in the coding guidelines
+document to point at, when we want to review and comment on a new
+message in the codebase to make sure it "fits" in the set of
+existing messages.
+
+Let's write down established best practice we are aware of.
+
+Helped-by: Eric Sunshine &lt;sunshine@sunshineco.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#baa1591</div>
+                                        <div class="message">transport: propagate fsck configuration during bundle fetch
+
+When fetching directly from a bundle, fsck message severity
+configuration is not propagated to the underlying git-index-pack(1). It
+is only capable of enabling or disabling fsck checks entirely. This does
+not align with the fsck behavior for fetches through git-fetch-pack(1).
+
+Use the fsck config parsing from fetch-pack to populate fsck message
+severity configuration and wire it through to `unbundle()` to enable the
+same fsck verification as done through fetch-pack.
+
+Signed-off-by: Justin Tobler &lt;jltobler@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#05596e9</div>
+                                        <div class="message">fetch-pack: split out fsck config parsing
+
+When `fetch_pack_config()` is invoked, fetch-pack configuration is
+parsed from the config. As part of this operation, fsck message severity
+configuration is assigned to the `fsck_msg_types` global variable. This
+is optionally used to configure the downstream git-index-pack(1) when
+the `--strict` option is specified.
+
+The same parsed fsck message severity configuration is also needed
+outside of fetch-pack. Instead of exposing/relying on the existing
+global state, split out the fsck config parsing logic into
+`fetch_pack_fsck_config()` and expose it. In a subsequent commit, this
+is used to provide fsck configuration when invoking `unbundle()`.
+
+For `fetch_pack_fsck_config()` to discern between errors and unhandled
+config variables, the return code when `git_config_path()` errors is
+changed to a different value also indicating success. This frees up the
+previous return code to now indicate the provided config variable
+was unhandled. The behavior remains functionally the same.
+
+Signed-off-by: Justin Tobler &lt;jltobler@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#187574c</div>
+                                        <div class="message">bundle: support fsck message configuration
+
+If the `VERIFY_BUNDLE_FLAG` is set during `unbundle()`, the
+git-index-pack(1) spawned is configured with the `--fsck-options` flag
+to perform fsck verification. With this flag enabled, there is not a way
+to configure fsck message severity though.
+
+Extend the `unbundle_opts` type to store fsck message severity
+configuration and update `unbundle()` to conditionally append it to the
+`--fsck-objects` flag if provided. This enables `unbundle()` call sites
+to support optionally setting the severity for specific fsck messages.
+
+Signed-off-by: Justin Tobler &lt;jltobler@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#87c0100</div>
+                                        <div class="message">bundle: add bundle verification options type
+
+When `unbundle()` is invoked, fsck verification may be configured by
+passing the `VERIFY_BUNDLE_FSCK` flag. This mechanism allows fsck checks
+on the bundle to be enabled or disabled entirely. To facilitate more
+fine-grained fsck configuration, additional context must be provided to
+`unbundle()`.
+
+Introduce the `unbundle_opts` type, which wraps the existing
+`verify_bundle_flags`, to facilitate future extension of `unbundle()`
+configuration. Also update `unbundle()` and its call sites to accept
+this new options type instead of the flags directly. The end behavior is
+functionally the same, but allows for the set of configurable options to
+be extended. This is leveraged in a subsequent commit to enable fsck
+message severity configuration.
+
+Signed-off-by: Justin Tobler &lt;jltobler@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4a2790a</div>
+                                        <div class="message">fast-import: disallow "." and ".." path components
+
+If a user specified e.g.
+   M 100644 :1 ../some-file
+then fast-import previously would happily create a git history where
+there is a tree in the top-level directory named "..", and with a file
+inside that directory named "some-file".  The top-level ".." directory
+causes problems.  While git checkout will die with errors and fsck will
+report hasDotdot problems, the user is going to have problems trying to
+remove the problematic file.  Simply avoid creating this bad history in
+the first place.
+
+Signed-off-by: Elijah Newren &lt;newren@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#751d063</div>
+                                        <div class="message">fuzz: port fuzz-url-decode-mem from OSS-Fuzz
+
+Git's fuzz tests are run continuously as part of OSS-Fuzz [1]. Several
+additional fuzz tests have been contributed directly to OSS-Fuzz;
+however, these tests are vulnerable to bitrot because they are not built
+during Git's CI runs, and thus breaking changes are much less likely to
+be noticed by Git contributors.
+
+Port one of these tests back to the Git project:
+fuzz-url-decode-mem
+
+This test was originally written by Eric Sesterhenn as part of a
+security audit of Git [2]. It was then contributed to the OSS-Fuzz repo
+in commit c58ac4492 (Git fuzzing: uncomment the existing and add new
+targets. (#11486), 2024-02-21) by Jaroslav Lobačevski. I (Josh Steadmon)
+have verified with both Eric and Jaroslav that they're OK with moving
+this test to the Git project.
+
+[1] https://github.com/google/oss-fuzz
+[2] https://ostif.org/wp-content/uploads/2023/01/X41-OSTIF-Gitlab-Git-Security-Audit-20230117-public.pdf
+
+Co-authored-by: Jaroslav Lobačevski &lt;jarlob@gmail.com&gt;
+Co-authored-by: Josh Steadmon &lt;steadmon@google.com&gt;
+Signed-off-by: Josh Steadmon &lt;steadmon@google.com&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#72686d4</div>
+                                        <div class="message">fuzz: port fuzz-parse-attr-line from OSS-Fuzz
+
+Git's fuzz tests are run continuously as part of OSS-Fuzz [1]. Several
+additional fuzz tests have been contributed directly to OSS-Fuzz;
+however, these tests are vulnerable to bitrot because they are not built
+during Git's CI runs, and thus breaking changes are much less likely to
+be noticed by Git contributors.
+
+Port one of these tests back to the Git project:
+fuzz-parse-attr-line
+
+This test was originally written by Eric Sesterhenn as part of a
+security audit of Git [2]. It was then contributed to the OSS-Fuzz repo
+in commit c58ac4492 (Git fuzzing: uncomment the existing and add new
+targets. (#11486), 2024-02-21) by Jaroslav Lobačevski. I (Josh Steadmon)
+have verified with both Eric and Jaroslav that they're OK with moving
+this test to the Git project.
+
+[1] https://github.com/google/oss-fuzz
+[2] https://ostif.org/wp-content/uploads/2023/01/X41-OSTIF-Gitlab-Git-Security-Audit-20230117-public.pdf
+
+Co-authored-by: Jaroslav Lobačevski &lt;jarlob@gmail.com&gt;
+Co-authored-by: Josh Steadmon &lt;steadmon@google.com&gt;
+Signed-off-by: Josh Steadmon &lt;steadmon@google.com&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#966253d</div>
+                                        <div class="message">fuzz: port fuzz-credential-from-url-gently from OSS-Fuzz
+
+Git's fuzz tests are run continuously as part of OSS-Fuzz [1]. Several
+additional fuzz tests have been contributed directly to OSS-Fuzz;
+however, these tests are vulnerable to bitrot because they are not built
+during Git's CI runs, and thus breaking changes are much less likely to
+be noticed by Git contributors.
+
+Port one of these tests back to the Git project:
+fuzz-credential-from-url-gently
+
+This test was originally written by Eric Sesterhenn as part of a
+security audit of Git [2]. It was then contributed to the OSS-Fuzz repo
+in commit c58ac4492 (Git fuzzing: uncomment the existing and add new
+targets. (#11486), 2024-02-21) by Jaroslav Lobačevski. I (Josh Steadmon)
+have verified with both Eric and Jaroslav that they're OK with moving
+this test to the Git project.
+
+[1] https://github.com/google/oss-fuzz
+[2] https://ostif.org/wp-content/uploads/2023/01/X41-OSTIF-Gitlab-Git-Security-Audit-20230117-public.pdf
+
+Co-authored-by: Jaroslav Lobačevski &lt;jarlob@gmail.com&gt;
+Co-authored-by: Josh Steadmon &lt;steadmon@google.com&gt;
+Signed-off-by: Josh Steadmon &lt;steadmon@google.com&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -812,22 +1184,6 @@ Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      tag
-                                        <span class="code">v1.3.0</span>
-                                        in
-                                        <span class="repo">shejialuo/database-systems-complete-book-solutions</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -844,7 +1200,7 @@ Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~6 coding hours recorded
+                            ~8 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -886,18 +1242,23 @@ Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">git</span>
-                                <div class="bar" style="width: 74.024%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">93%</span>
+                                <div class="bar" style="width: 72.192%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">90%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">limmat</span>
-                                <div class="bar" style="width: 2.992%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">repo</span>
+                                <div class="bar" style="width: 3.104%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 2.984%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <div class="bar" style="width: 2.4719999999999995%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">limmat</span>
+                                <div class="bar" style="width: 2.232%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
                             </div>
                         </div>
                     </section>
@@ -906,27 +1267,27 @@ Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 73.99199999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">92%</span>
+                                <div class="bar" style="width: 72.352%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">90%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">conf</span>
+                                <div class="bar" style="width: 2.5120000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 2.992%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <div class="bar" style="width: 2.232%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">cfg</span>
-                                <div class="bar" style="width: 1.464%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">2%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Markdown</span>
-                                <div class="bar" style="width: 0.8079999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.096%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Text</span>
-                                <div class="bar" style="width: 0.608%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">Git</span>
+                                <div class="bar" style="width: 0.6719999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
