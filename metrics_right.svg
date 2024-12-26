@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="960" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="643" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.b .side{background-color:#9e91ff26}.contribution.c .side{background-color:#58a6ff26}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.audit svg{margin:0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -40,6 +40,99 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">shejialuo/shejialuo.github.io</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#27cec38</div>
+                                        <div class="message">Automated Commit by `hexo deploy`</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">shejialuo/hexo-blog</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0b5194b</div>
+                                        <div class="message">Finish 2024 summary</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">shejialuo/hexo-blog</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4b6835d</div>
+                                        <div class="message">Update package by npm audit fix</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">shejialuo/hexo-blog</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#19e3d83</div>
+                                        <div class="message">Bump hexo-renderer-dartsass from 1.0.0 to 1.1.0
+
+Bumps [hexo-renderer-dartsass](https://github.com/KentarouTakeda/hexo-renderer-dartsass) from 1.0.0 to 1.1.0.
+- [Release notes](https://github.com/KentarouTakeda/hexo-renderer-dartsass/releases)
+- [Commits](https://github.com/KentarouTakeda/hexo-renderer-dartsass/compare/1.0.0...1.1.0)
+
+---
+updated-dependencies:
+- dependency-name: hexo-renderer-dartsass
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 91 commits in
                                         <span class="repo">shejialuo/git</span>
                                     </div>
@@ -63,488 +156,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 27 commits in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f94bfa1</div>
-                                        <div class="message">log: --remerge-diff needs to keep around commit parents
-
-To show a remerge diff, the merge needs to be recreated. For that to
-work, the merge base(s) need to be found, which means that the commits'
-parents have to be traversed until common ancestors are found (if any).
-
-However, one optimization that hails all the way back to cb115748ec0d
-(Some more memory leak avoidance, 2006-06-17) is to release the commit's
-list of parents immediately after showing it _and to set that parent
-list to `NULL`_. This can break the merge base computation.
-
-This problem is most obvious when traversing the commits in reverse: In
-that instance, if a parent of a merge commit has been shown as part of
-the `git log` command, by the time the merge commit's diff needs to be
-computed, that parent commit's list of parent commits will have been set
-to `NULL` and as a result no merge base will be found (even if one
-should be found).
-
-Traversing commits in reverse is far from the only circumstance in which
-this problem occurs, though. There are many avenues to traversing at
-least one commit in the revision walk that will later be part of a merge
-base computation, for example when not even walking any revisions in
-`git show &lt;merge1&gt; &lt;merge2&gt;` where `&lt;merge1&gt;` is part of the commit
-graph between the parents of `&lt;merge2&gt;`.
-
-Another way to force a scenario where a commit is traversed before it
-has to be traversed again as part of a merge base computation is to
-start with two revisions (where the first one is reachable from the
-second but not in a first-parent ancestry) and show the commit log with
-`--topo-order` and `--first-parent`.
-
-Let's fix this by special-casing the `remerge_diff` mode, similar to
-what we did with reflogs in f35650dff6a4 (log: do not free parents when
-walking reflog, 2017-07-07).
-
-Signed-off-by: Johannes Schindelin &lt;johannes.schindelin@gmx.de&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dd1072d</div>
-                                        <div class="message">bundle: remove unneeded code
-
-The changes in commit c06793a4ed (allow git-bundle to create bottomless
-bundle, 2007-08-08) ensure annotated tags are properly preserved when
-creating a bundle using a revision range operation.
-
-At the time the range notation would peel the ends to their
-corresponding commit, meaning ref v2.0 would point to the v2.0^0 commit.
-So the above workaround was introduced. This code looks up the ref
-before it's written to the bundle, and if the ref doesn't point to the
-object we expect (for tags this would be a tag object), we skip the ref
-from the bundle. Instead, when the ref is a tag that's the positive end
-of the range (e.g. v2.0 from the range "v1.0..v2.0"), then that ref is
-written to the bundle instead.
-
-Later, in 895c5ba3c1 (revision: do not peel tags used in range notation,
-2013-09-19), the behavior of parsing ranges was changed and the problem
-was fixed at the cause. But the workaround in bundle.c was not reverted.
-
-Now it seems this workaround can cause a race condition. git-bundle(1)
-uses setup_revisions() to parse the input into `struct rev_info`. Later,
-in write_bundle_refs(), it uses this info to write refs to the bundle.
-As mentioned at this point each ref is looked up again and checked
-whether it points to the object we expect. If not, the ref is not
-written to the bundle. But, when creating a bundle in a heavy traffic
-repository (a repo with many references, and frequent ref updates) it's
-possible a branch ref was updated between setup_revisions() and
-write_bundle_refs() and thus the extra check causes the ref to be
-skipped.
-
-The workaround was originally added to deal with tags, but the code path
-also gets hit by non-tag refs, causing this race condition. Because it's
-no longer needed, remove it and fix the possible race condition.
-
-Signed-off-by: Toon Claes &lt;toon@iotcl.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8525e92</div>
-                                        <div class="message">Document HOME environment variable
-
-Git documentation refers to $HOME and $XDG_CONFIG_HOME often, but does
-not specify how or where these values come from on Windows where neither
-is set by default. The new documentation reflects the behavior of
-setup_windows_environment() in compat/mingw.c.
-
-Signed-off-by: Alejandro Barreto &lt;alejandro.barreto@ni.com&gt;
-Signed-off-by: M Hickford &lt;mirth.hickford@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6c915c3</div>
-                                        <div class="message">fetch: do not ask for HEAD unnecessarily
-
-In 3f763ddf28 (fetch: set remote/HEAD if it does not exist,
-2024-11-22), git-fetch learned to opportunistically set $REMOTE/HEAD
-when fetching by always asking for remote HEAD, in the hope that it
-will help setting refs/remotes/&lt;name&gt;/HEAD if missing.
-
-But it is not needed to always ask for remote HEAD.  When we are
-fetching from a remote, for which we have remote-tracking branches,
-we do need to know about HEAD.  But if we are doing one-shot fetch,
-e.g.,
-
-  $ git fetch --tags https://github.com/git/git
-
-we do not even know what sub-hierarchy of refs/remotes/&lt;remote&gt;/
-we need to adjust the remote HEAD for.  There is no need to ask for
-HEAD in such a case.
-
-Incidentally, because the unconditional request to list "HEAD"
-affected the number of ref-prefixes requested in the ls-remote
-request, this affected how the requests for tags are added to the
-same ls-remote request, breaking "git fetch --tags $URL" performed
-against a URL that is not configured as a remote.
-
-Reported-by: Josh Steadmon &lt;steadmon@google.com&gt;
-[jc: tests are also borrowed from Josh's patch]
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e02082c</div>
-                                        <div class="message">Merge branch 'bf/set-head-symref' into js/set-head-symref-fix
-
-* bf/set-head-symref:
-  fetch set_head: handle mirrored bare repositories
-  fetch: set remote/HEAD if it does not exist
-  refs: add create_only option to refs_update_symref_extended
-  refs: add TRANSACTION_CREATE_EXISTS error
-  remote set-head: better output for --auto
-  remote set-head: refactor for readability
-  refs: atomically record overwritten ref in update_symref
-  refs: standardize output of refs_read_symbolic_ref
-  t/t5505-remote: test failure of set-head
-  t/t5505-remote: set default branch to main</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#012bc56</div>
-                                        <div class="message">remote set-head: set followRemoteHEAD to "warn" if "always"
-
-When running "remote set-head" manually it is unlikely, that the user
-would actually like to have "fetch" always update the remote/HEAD. On
-the contrary, it is more likely, that the user would expect remote/HEAD
-to stay the way they manually set it, and just forgot about having
-"followRemoteHEAD" set to "always".
-
-When "followRemoteHEAD" is set to "always" make running "remote
-set-head" change the config to "warn".
-
-Signed-off-by: Bence Ferdinandy &lt;bence@ferdinandy.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9e2b700</div>
-                                        <div class="message">fetch set_head: add warn-if-not-$branch option
-
-Currently if we want to have a remote/HEAD locally that is different
-from the one on the remote, but we still want to get a warning if remote
-changes HEAD, our only option is to have an indiscriminate warning with
-"follow_remote_head" set to "warn". Add a new option
-"warn-if-not-$branch", where $branch is a branch name we do not wish to
-get a warning about. If the remote HEAD is $branch do not warn,
-otherwise, behave as "warn".
-
-E.g. let's assume, that our remote origin has HEAD
-set to "master", but locally we have "git remote set-head origin seen".
-Setting 'remote.origin.followRemoteHEAD = "warn"' will always print
-a warning, even though the remote has not changed HEAD from "master".
-Setting 'remote.origin.followRemoteHEAD = "warn-if-not-master" will
-squelch the warning message, unless the remote changes HEAD from
-"master". Note, that should the remote change HEAD to "seen" (which we
-have locally), there will still be no warning.
-
-Improve the advice message in report_set_head to also include silencing
-the warning message with "warn-if-not-$branch".
-
-Signed-off-by: Bence Ferdinandy &lt;bence@ferdinandy.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ad739f5</div>
-                                        <div class="message">fetch set_head: move warn advice into advise_if_enabled
-
-Advice about what to do when getting a warning is typed out explicitly
-twice and is printed as regular output. The output is also tested for.
-Extract the advice message into a single place and use a wrapper
-function, so if later the advice is made more chatty the signature only
-needs to be changed in once place. Remove the testing for the advice
-output in the tests.
-
-Signed-off-by: Bence Ferdinandy &lt;bence@ferdinandy.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b7f7d16</div>
-                                        <div class="message">fetch: add configuration for set_head behaviour
-
-In the current implementation, if refs/remotes/$remote/HEAD does not
-exist, running fetch will create it, but if it does exist it will not do
-anything, which is a somewhat safe and minimal approach. Unfortunately,
-for users who wish to NOT have refs/remotes/$remote/HEAD set for any
-reason (e.g. so that `git rev-parse origin` doesn't accidentally point
-them somewhere they do not want to), there is no way to remove this
-behaviour. On the other side of the spectrum, users may want fetch to
-automatically update HEAD or at least give them a warning if something
-changed on the remote.
-
-Introduce a new setting, remote.$remote.followRemoteHEAD with four
-options:
-
-    - "never": do not ever do anything, not even create
-    - "create": the current behaviour, now the default behaviour
-    - "warn": print a message if remote and local HEAD is different
-    - "always": silently update HEAD on every change
-
-Signed-off-by: Bence Ferdinandy &lt;bence@ferdinandy.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#761e62a</div>
-                                        <div class="message">Merge branch 'bf/set-head-symref' into bf/fetch-set-head-config
-
-* bf/set-head-symref:
-  fetch set_head: handle mirrored bare repositories
-  fetch: set remote/HEAD if it does not exist
-  refs: add create_only option to refs_update_symref_extended
-  refs: add TRANSACTION_CREATE_EXISTS error
-  remote set-head: better output for --auto
-  remote set-head: refactor for readability
-  refs: atomically record overwritten ref in update_symref
-  refs: standardize output of refs_read_symbolic_ref
-  t/t5505-remote: test failure of set-head
-  t/t5505-remote: set default branch to main</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b1b713f</div>
-                                        <div class="message">fetch set_head: handle mirrored bare repositories
-
-When adding a remote to bare repository with "git remote add --mirror",
-running fetch will fail to update HEAD to the remote's HEAD, since it
-does not know how to handle bare repositories. On the other hand HEAD
-already has content, since "git init --bare" has already set HEAD to
-whatever is the default branch set for the user. Unless this - by chance
-- is the same as the remote's HEAD, HEAD will be pointing to a bad
-symref. Teach set_head to handle bare repositories, by overwriting HEAD
-so it mirrors the remote's HEAD.
-
-Note, that in this case overriding the local HEAD reference is
-necessary, since HEAD will exist before fetch can be run, but this
-should not be an issue, since the whole purpose of --mirror is to be an
-exact mirror of the remote, so following any changes to HEAD makes
-sense.
-
-Also note, that although "git remote set-head" also fails when trying to
-update the remote's locally tracked HEAD in a mirrored bare repository,
-the usage of the command does not make much sense after this patch:
-fetch will update the remote HEAD correctly, and setting it manually to
-something else is antithetical to the concept of mirroring.
-
-Signed-off-by: Bence Ferdinandy &lt;bence@ferdinandy.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f763dd</div>
-                                        <div class="message">fetch: set remote/HEAD if it does not exist
-
-When cloning a repository remote/HEAD is created, but when the user
-creates a repository with git init, and later adds a remote, remote/HEAD
-is only created if the user explicitly runs a variant of "remote
-set-head". Attempt to set remote/HEAD during fetch, if the user does not
-have it already set. Silently ignore any errors.
-
-Signed-off-by: Bence Ferdinandy &lt;bence@ferdinandy.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9963746</div>
-                                        <div class="message">refs: add create_only option to refs_update_symref_extended
-
-Allow the caller to specify that it only wants to update the symref if
-it does not already exist. Silently ignore the error from the
-transaction API if the symref already exists.
-
-Signed-off-by: Bence Ferdinandy &lt;bence@ferdinandy.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ed2f6f8</div>
-                                        <div class="message">refs: add TRANSACTION_CREATE_EXISTS error
-
-Currently there is only one special error for transaction, for when
-there is a naming conflict, all other errors are dumped under a generic
-error. Add a new special error case for when the caller requests the
-reference to be updated only when it does not yet exist and the
-reference actually does exist.
-
-Signed-off-by: Bence Ferdinandy &lt;bence@ferdinandy.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dfe86fa</div>
-                                        <div class="message">remote set-head: better output for --auto
-
-Currently, set-head --auto will print a message saying "remote/HEAD set
-to branch", which implies something was changed.
-
-Change the output of --auto, so the output actually reflects what was
-done: a) set a previously unset HEAD, b) change HEAD because remote
-changed or c) no updates. As edge cases, if HEAD is changed from
-a previous symbolic reference that was not a remote branch, explicitly
-call attention to this fact, and also notify the user if the previous
-reference was not a symbolic reference.
-
-Signed-off-by: Bence Ferdinandy &lt;bence@ferdinandy.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f07c45</div>
-                                        <div class="message">remote set-head: refactor for readability
-
-Make two different readability refactors:
-
-Rename strbufs "buf" and "buf2" to something more explanatory.
-
-Instead of calling get_main_ref_store(the_repository) multiple times,
-call it once and store the result in a new refs variable. Although this
-change probably offers some performance benefits, the main purpose is to
-shorten the line lengths of function calls using this variable.
-
-Signed-off-by: Bence Ferdinandy &lt;bence@ferdinandy.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d842cd1</div>
-                                        <div class="message">refs: atomically record overwritten ref in update_symref
-
-When updating a symref with update_symref it's currently not possible to
-know for sure what was the previous value that was overwritten. Extend
-refs_update_symref under a new function name, to record the value after
-the ref has been locked if the caller of refs_update_symref_extended
-requests it via a new variable in the function call. Make the return
-value of the function notify the caller, if the previous value was
-actually not a symbolic reference. Keep the original refs_update_symref
-function with the same signature, but now as a wrapper around
-refs_update_symref_extended.
-
-Signed-off-by: Bence Ferdinandy &lt;bence@ferdinandy.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8102d10</div>
-                                        <div class="message">refs: standardize output of refs_read_symbolic_ref
-
-When the symbolic reference we want to read with refs_read_symbolic_ref
-is actually not a symbolic reference, the files and the reftable
-backends return different values (1 and -1 respectively). Standardize
-the returned values so that 0 is success, -1 is a generic error and -2
-is that the reference was actually non-symbolic.
-
-Signed-off-by: Bence Ferdinandy &lt;bence@ferdinandy.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2fd5555</div>
-                                        <div class="message">t/t5505-remote: test failure of set-head
-
-The test coverage was missing a test for the failure branch of remote
-set-head auto's output. Add the missing text and while we are at it,
-correct a small grammatical mistake in the error's output ("setup" is
-the noun, "set up" is the verb).
-
-Signed-off-by: Bence Ferdinandy &lt;bence@ferdinandy.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#54d820d</div>
-                                        <div class="message">t/t5505-remote: set default branch to main
-
-Consider the bare repository called "mirror" in the test. Running `git
-remote add --mirror -f origin ../one` will not change HEAD, consequently
-if init.defaultBranch is not the same as what HEAD in the remote
-("one"), HEAD in "mirror" will be pointing to a non-existent reference.
-Hence if "mirror" is used as a remote by yet another repository,
-ls-remote will not show HEAD. On the other hand, if init.defaultBranch
-happens to match HEAD in "one", then ls-remote will show HEAD.
-
-Since the "ci/run-build-and-tests.sh" script globally exports
-GIT_TEST_DEFAULT_INITIAL_BRANCH_NAME=main for some (but not all) jobs,
-there may be a drift in some tests between how the test repositories are
-set up in the CI and during local testing, if the test itself uses
-"master" as default instead of "main". In particular, this happens in
-t5505-remote.sh. This issue does not manifest currently, as the test
-does not do any remote HEAD manipulation where this would come up, but
-should such things be added, a locally passing test would break the CI
-and vice-versa.
-
-Set GIT_TEST_DEFAULT_INITIAL_BRANCH_NAME=main in t5505-remote to be
-consistent with the CI.
-
-Signed-off-by: Bence Ferdinandy &lt;bence@ferdinandy.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shejialuo/OS-Configuration</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dadcaca</div>
-                                        <div class="message">Update installed file in ArchLinux
-
-pacman -Qe &gt; installed</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shejialuo/OS-Configuration</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ae49936</div>
-                                        <div class="message">Update ArchLinux and Android</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shejialuo/dotfiles</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fbe8274</div>
-                                        <div class="message">Update dunst update</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -561,7 +172,7 @@ pacman -Qe &gt; installed</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~8 coding hours recorded
+                            ~6 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -603,18 +214,23 @@ pacman -Qe &gt; installed</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">git</span>
-                                <div class="bar" style="width: 46.824000000000005%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">59%</span>
+                                <div class="bar" style="width: 28.072000000000003%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">35%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">hexo-blog</span>
+                                <div class="bar" style="width: 26.192%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">33%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 24.119999999999997%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">30%</span>
+                                <div class="bar" style="width: 14.887999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">19%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">repo</span>
-                                <div class="bar" style="width: 9.056000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">11%</span>
+                                <div class="bar" style="width: 10.847999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">14%</span>
                             </div>
                         </div>
                     </section>
@@ -623,28 +239,28 @@ pacman -Qe &gt; installed</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 42.696%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">53%</span>
+                                <div class="bar" style="width: 27.927999999999997%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">35%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Mail</span>
-                                <div class="bar" style="width: 12.232%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">15%</span>
+                                <span class="name">Markdown</span>
+                                <div class="bar" style="width: 26.192%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">33%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">conf</span>
-                                <div class="bar" style="width: 9.328%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">12%</span>
+                                <div class="bar" style="width: 11.015999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">14%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 5.888%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">7%</span>
+                                <div class="bar" style="width: 7.448%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Bash</span>
-                                <div class="bar" style="width: 4.096%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <span class="name">cfg</span>
+                                <div class="bar" style="width: 5.103999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
                             </div>
                         </div>
                     </section>
