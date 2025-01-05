@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="610" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1143" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.categories{justify-content:space-around;margin-top:4px}.categories,.category,.track{display:flex;align-items:center}.category{flex-direction:column;flex:1 1 0}.track{justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -37,183 +37,968 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 8 commits in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">js-packed-ref-content-v1</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2e6fdc4</div>
+                                        <div class="message">packed-backend: create "fsck_packed_ref_entry" to store parsing info
+
+We have already check whether the oid hash is correct by using
+`parse_oid_hex_algop`. However, we doesn't check whether the oid points
+to the correct type of the object. It may seem that we could do this
+when we are parsing the raw "packed-refs" file. But this is impossible.
+Let's analysis why.
+
+We will use "parse_object" function to get the "struct object". However,
+this function will eventually call the "create_snapshot" and
+"next_record" function in "packed-backend.c". If there is anything
+wrong, it will die the program. And we don't want to die the program
+during the check.
+
+So, we should store the information in the parsing process. And if there
+is nothing wrong in the parsing process, we could continue to check
+things. So, create "fsck_packed_ref_entry" to do this.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e8016f4</div>
+                                        <div class="message">ref: add "packed-refs" entry consistency check
+
+"packed-backend.c::next_record" will parse the ref entry to check the
+consistency. This function has already checked the following things:
+
+1. Parse the main line of the ref entry, if the oid is not correct. It
+   will die the program. And then it will check whether the next
+   character of the oid is space. Then it will check whether the refname
+   is correct.
+2. If the next line starts with '^', it will continue to parse the oid
+   of the peeled oid content and check whether the last character is
+   '\n'.
+
+We can iterate each line by using the "packed_fsck_ref_unterminated_line"
+function. Then, create a new fsck message "badPackedRefEntry(ERROR)" to
+report to the user when something is wrong.
+
+Create two new functions "packed_fsck_ref_main_line" and
+"packed_fsck_ref_peeled_line" for case 1 and case 2 respectively. Last,
+update the unit test to exercise the code.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e0f9248</div>
+                                        <div class="message">ref: check whether the refname contains NULL binaries in "packed-refs"
+
+We have already implemented the header consistency check for the raw
+"packed-refs" file. Before we implement the consistency check for each
+ref entry, let's analysis [1] which reports that "git fsck" cannot
+detect some binary zeros.
+
+"packed-backend.c::next_record" will use "check_refname_format" to check
+the consistency of the refname. If it is not OK, the program will die.
+So, we already have the code path and we must miss out something.
+
+We use the following code to get the refname:
+
+    strbuf_add(&amp;iter-&gt;refname_buf, p, eol - p);
+    iter-&gt;base.refname = iter-&gt;refname_buf.buf
+
+In the above code, `p` is the start pointer of the refname and `eol` is
+the next newline pointer. We calculate the length of the refname by
+subtracting the two pointers. Then we add the memory range between `p`
+and `eol` to get the refname.
+
+However, if there are some NULL binaries in the memory range between `p`
+and `eol`, we will see the refname as a valid ref name as long as the
+memory range between `p` and the first occurred NULL binary is valid.
+
+In order to catch above corruption, create a new function
+"refname_contains_null" by checking whether the "refname.len" equals to
+the length of the raw string pointer "refname.buf". If not equal, there
+must be some NULL binaries in the refname.
+
+Use this function in "next_record" function to die the program if
+"refname_contains_null" returns true.
+
+[1] https://lore.kernel.org/git/6cfee0e4-3285-4f18-91ff-d097da9de737@rd10.de/
+
+Reported-by: R. Diez &lt;rdiez-temp3@rd10.de&gt;
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1b0fbf1</div>
+                                        <div class="message">ref: add "packed-refs" header consistency check
+
+In "packed-backend.c::create_snapshot", if there is a header (the line
+which starts with '#'), we will check whether the line starts with "#
+pack-refs with:". As we are going to implement the header consistency
+check, we should port this check into "packed_fsck".
+
+However, the above check is not enough, this is because "git pack-refs"
+will always write "PACKED_REFS_HEADER" which is a constant string to the
+"packed-refs" file. So, we should check the following things for the
+header.
+
+1. If the header does not exist, we may report an error to the user
+   because it should exist, but we do allow no header in "packed-refs"
+   file. So, create a new fsck message "packedRefMissingHeader(INFO)" to
+   warn the user and also keep compatibility.
+2. If the header content does not start with "# packed-ref with:", we
+   should report an error just like what "create_snapshot" does. So,
+   create a new fsck message "badPackedRefHeader(ERROR)" for this.
+3. If the header content is not the same as the constant string
+   "PACKED_REFS_HEADER", ideally, we should report an error to the user.
+   However, we allow other contents as long as the header content starts
+   with "# packed-ref with:". To keep compatibility, create a new fsck
+   message "unknownPackedRefHeader(INFO)" to warn about this. We may
+   tighten this rule in the future.
+
+In order to achieve the following checks, read the "packed-refs" file
+via "strbuf_read_file". Like what "create_snapshot" and other functions
+do, we could split the line by finding the next newline in the buf. If
+we cannot find a newline, this is an error.
+
+So, create a function "packed_fsck_ref_next_line" to find the next
+newline and if there is no such newline, use
+"packedRefEntryNotTerminated(INFO)" to report an error to the user.
+
+Then, parse the first line to apply the above three checks. Update the
+test to excise the code.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bc27a30</div>
+                                        <div class="message">ref: check whether the "packed-refs" is regular
+
+Although "git-fsck(1)" and "packed-backend.c" will check some
+consistency and correctness of "packed-refs" file, they never check the
+filetype of the "packed-refs". The user should always use "git
+packed-refs" command to create the raw regular "packed-refs" file, so we
+need to explicitly check this in "git refs verify".
+
+Use "lstat" to check the file mode. If we cannot check the file status,
+this is OK because there is a chance that there is no "packed-refs" in
+the repo.
+
+Reuse "FSCK_MSG_BAD_REF_FILETYPE" fsck message id to report the error to
+the user if "packed-refs" is not a regular file.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5f53ab6</div>
+                                        <div class="message">ref: avoid checking object type when packed-backend is broken
+
+We have used "parse_object" to check whether the object type is correct.
+However, because "parse_object" will call "create_snapshot" and
+"next_record" method, if there is something wrong with packed-backend,
+when checking the consistency of the file system, the program will die.
+
+It's bad to just die the program because we want to report the problems
+as many as possible. We should avoid checking object type when
+packed-backend is broken. So, we should first check the consistency of
+the packed-backend then for files-backend.
+
+Add a new flag "check_object_type" in "fsck_options", when there is
+anything wrong in the packed-backend, set this flag to 0 to avoid
+checking object type in the later checks.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#de7b08e</div>
+                                        <div class="message">builtin/refs.h: get worktrees without reading head info
+
+In "packed-backend.c", there are some functions such as "create_snapshot"
+and "next_record" which would check the correctness of the content of
+the "packed-ref" file. When anything is bad, the program will die.
+
+It may seem that we have nothing relevant to above feature, because we
+are going to read and parse the raw "packed-ref" file without creating
+the snapshot and using the ref iterator to check the consistency.
+
+However, when using "get_worktrees" in "builtin/refs", we will parse the
+head information. If the referent of the "HEAD" is inside the
+"packed-ref", we will call "create_snapshot" and "next_record" functions
+to parse the "packed-ref" to get the head information. And if there are
+something wrong, the program will die.
+
+Although this behavior has no hurt for the program, it will
+short-circuit the program. When the users execute "git refs verify" or
+"git fsck", we don't want to simply die the program but rather show the
+warnings or errors as many as possible to info the users. So, we should
+avoiding reading the head info.
+
+Fortunately, in 465a22b338 (worktree: skip reading HEAD when repairing
+worktrees, 2023-12-29), we have introduced a function
+"get_worktrees_internal" which allows us to get worktrees without
+reading head info.
+
+Create a new exposed function "get_worktrees_without_reading_head", then
+replace the "get_worktrees" in "builtin/refs" with the new created
+function.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a6238e</div>
+                                        <div class="message">ref: add object check for regular ref
+
+Although we use "parse_loose_ref_content" to check whether the object id
+is correct, we never parse it into the "struct object" structure thus we
+ignore checking whether there is a real object existing in the repo and
+whether the object type is correct.
+
+Use "parse_object" to parse the oid for the regular ref content. If the
+object does not exist, report the error to the user by reusing the fsck
+message "BAD_REF_CONTENT".
+
+Then, we need to check the type of the object. Unlike "git-fsck(1)"
+which only report "not a commit" error when the ref is a branch. We will
+check whether tags point to either annotated tag object or commit
+object. For other refs, we check that they could only point to commit
+object.
+
+Last, update the test to exercise the code.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#27 ref: add object check for regular ref</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">shejialuo/git</span></div>
+                                    <div>2 files changed <span class="code">++95 --10</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">js-packed-ref-content-v1</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f6090d9</div>
+                                        <div class="message">packed-backend: create "fsck_packed_ref_entry" to store parsing info
+
+We have already check whether the oid hash is correct by using
+`parse_oid_hex_algop`. However, we doesn't check whether the oid points
+to the correct type of the object. It may seem that we could do this
+when we are parsing the raw "packed-refs" file. But this is impossible.
+Let's analysis why.
+
+We will use "parse_object" function to get the "struct object". However,
+this function will eventually call the "create_snapshot" and
+"next_record" function in "packed-backend.c". If there is anything
+wrong, it will die the program. And we don't want to die the program
+during the check.
+
+So, we should store the information in the parsing process. And if there
+is nothing wrong in the parsing process, we could continue to check
+things. So, create "fsck_packed_ref_entry" to do this.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9e44654</div>
+                                        <div class="message">packed-backend: add ref entry consistency check
+
+"packed-backend.c::next_record" will parse the ref entry to check the
+consistency. This function has already checked the following things:
+
+1. Parse the main line of the ref entry, if the oid is not correct. It
+   will die the program. And then it will check whether the next
+   character of the oid is space. Then it will check whether the refname
+   is correct.
+2. If the next line starts with '^', it will continue to parse the oid
+   of the peeled oid content and check whether the last character is
+   '\n'.
+
+We can iterate each line by using the "packed_fsck_ref_unterminated_line"
+function. Then, create a new fsck message "badPackedRefEntry(ERROR)" to
+report to the user when something is wrong.
+
+Create two new functions "packed_fsck_ref_main_line" and
+"packed_fsck_ref_peeled_line" for case 1 and case 2 respectively. Last,
+update the unit test to exercise the code.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#606053e</div>
+                                        <div class="message">packed-backend: check whether the refname contains NULL binaries
+
+We have already implemented the header consistency check for the raw
+"packed-refs" file. Before we implement the consistency check for each
+ref entry, let's analysis [1] which reports that "git fsck" cannot
+detect some binary zeros.
+
+"packed-backend.c::next_record" will use "check_refname_format" to check
+the consistency of the refname. If it is not OK, the program will die.
+So, we already have the code path and we must miss out something.
+
+We use the following code to get the refname:
+
+    strbuf_add(&amp;iter-&gt;refname_buf, p, eol - p);
+    iter-&gt;base.refname = iter-&gt;refname_buf.buf
+
+In the above code, `p` is the start pointer of the refname and `eol` is
+the next newline pointer. We calculate the length of the refname by
+subtracting the two pointers. Then we add the memory range between `p`
+and `eol` to get the refname.
+
+However, if there are some NULL binaries in the memory range between `p`
+and `eol`, we will see the refname as a valid ref name as long as the
+memory range between `p` and the first occurred NULL binary is valid.
+
+In order to catch above corruption, create a new function
+"refname_contains_null" by checking whether the "refname.len" equals to
+the length of the raw string pointer "refname.buf". If not equal, there
+must be some NULL binaries in the refname.
+
+Use this function in "next_record" function to die the program if
+"refname_contains_null" returns true.
+
+[1] https://lore.kernel.org/git/6cfee0e4-3285-4f18-91ff-d097da9de737@rd10.de/
+
+Reported-by: R. Diez &lt;rdiez-temp3@rd10.de&gt;
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d68bf24</div>
+                                        <div class="message">packed-backend: add header consistency check
+
+In "packed-backend.c::create_snapshot", if there is a header (the line
+which starts with '#'), we will check whether the line starts with "#
+pack-refs with:". As we are going to implement the header consistency
+check, we should port this check into "packed_fsck".
+
+However, the above check is not enough, this is because "git pack-refs"
+will always write "PACKED_REFS_HEADER" which is a constant string to the
+"packed-refs" file. So, we should check the following things for the
+header.
+
+1. If the header does not exist, we may report an error to the user
+   because it should exist, but we do allow no header in "packed-refs"
+   file. So, create a new fsck message "packedRefMissingHeader(INFO)" to
+   warn the user and also keep compatibility.
+2. If the header content does not start with "# packed-ref with:", we
+   should report an error just like what "create_snapshot" does. So,
+   create a new fsck message "badPackedRefHeader(ERROR)" for this.
+3. If the header content is not the same as the constant string
+   "PACKED_REFS_HEADER", ideally, we should report an error to the user.
+   However, we allow other contents as long as the header content starts
+   with "# packed-ref with:". To keep compatibility, create a new fsck
+   message "unknownPackedRefHeader(INFO)" to warn about this. We may
+   tighten this rule in the future.
+
+In order to achieve the following checks, read the "packed-refs" file
+via "strbuf_read_file". Like what "create_snapshot" and other functions
+do, we could split the line by finding the next newline in the buf. If
+we cannot find a newline, this is an error.
+
+So, create a function "packed_fsck_ref_next_line" to find the next
+newline and if there is no such newline, use
+"packedRefEntryNotTerminated(INFO)" to report an error to the user.
+
+Then, parse the first line to apply the above three checks. Update the
+test to excise the code.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#527d65c</div>
+                                        <div class="message">packed-backend: check whether the "packed-refs" is regular
+
+Although "git-fsck(1)" and "packed-backend.c" will check some
+consistency and correctness of "packed-refs" file, they never check the
+filetype of the "packed-refs". The user should always use "git
+packed-refs" command to create the raw regular "packed-refs" file, so we
+need to explicitly check this in "git refs verify".
+
+Use "lstat" to check the file mode. If we cannot check the file status,
+this is OK because there is a chance that there is no "packed-refs" in
+the repo.
+
+Reuse "FSCK_MSG_BAD_REF_FILETYPE" fsck message id to report the error to
+the user if "packed-refs" is not a regular file.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#16a29fc</div>
+                                        <div class="message">builtin/refs.h: get worktrees without reading head info
+
+In "packed-backend.c", there are some functions such as "create_snapshot"
+and "next_record" which would check the correctness of the content of
+the "packed-ref" file. When anything is bad, the program will die.
+
+It may seem that we have nothing relevant to above feature, because we
+are going to read and parse the raw "packed-ref" file without creating
+the snapshot and using the ref iterator to check the consistency.
+
+However, when using "get_worktrees" in "builtin/refs", we will parse the
+head information. If the referent of the "HEAD" is inside the
+"packed-ref", we will call "create_snapshot" and "next_record" functions
+to parse the "packed-ref" to get the head information. And if there are
+something wrong, the program will die.
+
+Although this behavior has no hurt for the program, it will
+short-circuit the program. When the users execute "git refs verify" or
+"git fsck", we don't want to simply die the program but rather show the
+warnings or errors as many as possible to info the users. So, we should
+avoiding reading the head info.
+
+Fortunately, in 465a22b338 (worktree: skip reading HEAD when repairing
+worktrees, 2023-12-29), we have introduced a function
+"get_worktrees_internal" which allows us to get worktrees without
+reading head info.
+
+Create a new exposed function "get_worktrees_without_reading_head", then
+replace the "get_worktrees" in "builtin/refs" with the new created
+function.
+
+Also by this, when we are checking the consistency for files backend
+such as "parse_object", we rely on the correctness of the packed-ref
+backend. So, we should firstly check the packed-ref backend. Change the
+order in "files_fsck" function.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#651a7b3</div>
+                                        <div class="message">ref: add object check for regular ref
+
+Although we use "parse_loose_ref_content" to check whether the object id
+is correct, we never parse it into the "struct object" structure thus we
+ignore checking whether there is a real object existing in the repo and
+whether the object type is correct.
+
+Use "parse_object" to parse the oid for the regular ref content. If the
+object does not exist, report the error to the user by reusing the fsck
+message "BAD_REF_CONTENT".
+
+Then, we need to check the type of the object. Unlike "git-fsck(1)"
+which only report "not a commit" error when the ref is a branch. We will
+check whether tags point to either annotated tag object or commit
+object. For other refs, we check that they could only point to commit
+object.
+
+Last, update the test to exercise the code.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 35 commits in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#526c0a8</div>
+                                        <div class="message">index-pack: work around LSan threading race with barrier
+
+We sometimes get false positives from our linux-leaks CI job because of
+a race in LSan itself. The problem is that one thread is still
+initializing its stack in LSan's code (and allocating memory to do so)
+while anothe thread calls die(), taking down the whole process and
+triggering a leak check.
+
+The problem is described in more detail in 993d38a066 (index-pack: spawn
+threads atomically, 2024-01-05), which tried to fix it by pausing worker
+threads until all calls to pthread_create() had completed. But that's
+not enough to fix the problem, because the LSan setup code runs in the
+threads themselves. So even though pthread_create() has returned, we
+have no idea if all threads actually finished their setup before letting
+any of them do real work.
+
+We can fix that by using a barrier inside the threads themselves,
+waiting for all of them to hit the start of their main function before
+any of them proceed.
+
+You can test for the race by running:
+
+  make SANITIZE=leak THREAD_BARRIER_PTHREAD=YesOnLinux
+  cd t
+  ./t5309-pack-delta-cycles.sh --stress
+
+which fails quickly before this patch, and should run indefinitely
+without it.
+
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7d0037b</div>
+                                        <div class="message">thread-utils: introduce optional barrier type
+
+One thread primitive we don't yet support is a barrier: it waits for all
+threads to reach a synchronization point before letting any of them
+continue. This would be useful for avoiding the LSan race we see in
+index-pack (and other places) by having all threads complete their
+initialization before any of them start to do real work.
+
+POSIX introduced a pthread_barrier_t in 2004, which does what we want.
+But if we want to rely on it:
+
+  1. Our Windows pthread emulation would need a new set of wrapper
+     functions. There's a Synchronization Barrier primitive there, which
+     was introduced in Windows 8 (which is old enough for us to depend
+     on).
+
+  2. macOS (and possibly other systems) has pthreads but not
+     pthread_barrier_t. So there we'd have to implement our own barrier
+     based on the mutex and cond primitives.
+
+Those are do-able, but since we only care about avoiding races in our
+LSan builds, there's an easier way: make it a noop on systems without a
+native pthread barrier.
+
+This patch introduces a "maybe_thread_barrier" API. The clunky name
+(rather than just using pthread_barrier directly) should hopefully clue
+people in that on some systems it will do nothing. It's wired to a
+Makefile knob which has to be triggered manually, and we enable it for
+the linux-leaks CI jobs (since we know we'll have it there).
+
+There are some other possible options:
+
+  - we could turn it on all the time for Linux systems based on uname.
+    But we really only care about it for LSan builds, and there is no
+    need to add extra code to regular builds.
+
+  - we could turn it on only for LSan builds. But that would break
+    builds on non-Linux platforms (like macOS) that otherwise should
+    support sanitizers.
+
+  - we could trigger only on the combination of Linux and LSan together.
+    This isn't too hard to do, but the uname check isn't completely
+    accurate. It is really about what your libc supports, and non-glibc
+    systems might not have it (though at least musl seems to).
+
+    So we'd risk breaking builds on those systems, which would need to
+    add a new knob. Though the upside would be that running local "make
+    SANITIZE=leak test" would be protected automatically.
+
+And of course none of this protects LSan runs from races on systems
+without pthread barriers. It's probably OK in practice to protect only
+our CI jobs, though. The race is rare-ish and most leak-checking happens
+through CI.
+
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ca9d60f</div>
+                                        <div class="message">Revert "index-pack: spawn threads atomically"
+
+This reverts commit 993d38a0669a8056d496797516e743e26b6b8b54.
+
+That commit was trying to solve a race between LSan setting up the
+threads stack and another thread calling exit(), by making sure that all
+pthread_create() calls have finished before doing any work that might
+trigger the exit().
+
+But that isn't sufficient. The setup code actually runs in the
+individual threads themselves, not in the spawning thread's call to
+pthread_create(). So while it may have improved the race a bit, you can
+still trigger it pretty quickly with:
+
+  make SANITIZE=leak
+  cd t
+  ./t5309-pack-delta-cycles.sh --stress
+
+Let's back out that failed attempt so we can try again.
+
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d601aee</div>
+                                        <div class="message">test-lib: use individual lsan dir for --stress runs
+
+When storing output in test-results/, we usually give each numbered run
+in a --stress set its own output file. But we don't do that for storing
+LSan logs, so something like:
+
+  ./t0003-attributes.sh --stress
+
+will have many scripts simultaneously creating, writing to, and deleting
+the test-results/t0003-attributes.leak directory. This can cause logs
+from one run to be attributed to another, spurious failures when
+creation and deletion race, and so on.
+
+This has always been broken, but nobody noticed because it's rare to do
+a --stress run with LSan (since the point is for the code to run quickly
+many times in order to hit races). But if you're trying to find a race
+in the leak sanitizing code, it makes sense to use these together.
+
+We can fix it by using $TEST_RESULTS_BASE, which already incorporates
+the stress job suffix.
+
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1e78120</div>
+                                        <div class="message">t-reftable-merged: handle realloc errors
+
+Check reallocation errors in unit tests, like everywhere else.
+
+Signed-off-by: René Scharfe &lt;l.s.r@web.de&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e4981ed</div>
+                                        <div class="message">reftable: handle realloc error in parse_names()
+
+Check the final reallocation for adding the terminating NULL and handle
+it just like those in the loop.  Simply use REFTABLE_ALLOC_GROW instead
+of keeping the REFTABLE_REALLOC_ARRAY call and adding code to preserve
+the original pointer value around it.
+
+Signed-off-by: René Scharfe &lt;l.s.r@web.de&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2cca185</div>
+                                        <div class="message">reftable: fix allocation count on realloc error
+
+When realloc(3) fails, it returns NULL and keeps the original allocation
+intact.  REFTABLE_ALLOC_GROW overwrites both the original pointer and
+the allocation count variable in that case, simultaneously leaking the
+original allocation and misrepresenting the number of storable items.
+
+parse_names() avoids the leak by keeping the original pointer if
+reallocation fails, but still increase the allocation count in such a
+case as if it succeeded.  That's OK, because the error handling code
+just frees everything and doesn't look at names_cap anymore.
+
+reftable_buf_add() does the same, but here it is a problem as it leaves
+the reftable_buf in a broken state, with -&gt;alloc being roughly twice as
+big as the actually allocated memory, allowing out-of-bounds writes in
+subsequent calls.
+
+Reimplement REFTABLE_ALLOC_GROW to avoid leaks, keep allocation counts
+in sync and still signal failures to callers while avoiding code
+duplication in callers.  Make it an expression that evaluates to 0 if no
+reallocation is needed or it succeeded and 1 on failure while keeping
+the original pointer and allocation counter values.
+
+Adjust REFTABLE_ALLOC_GROW_OR_NULL to the new calling convention for
+REFTABLE_ALLOC_GROW, but keep its support for non-size_t alloc variables
+for now.
+
+Signed-off-by: René Scharfe &lt;l.s.r@web.de&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8db127d</div>
+                                        <div class="message">reftable: avoid leaks on realloc error
+
+When realloc(3) fails, it returns NULL and keeps the original allocation
+intact.  REFTABLE_ALLOC_GROW overwrites both the original pointer and
+the allocation count variable in that case, simultaneously leaking the
+original allocation and misrepresenting the number of storable items.
+
+parse_names() and reftable_buf_add() avoid leaking by restoring the
+original pointer value on failure, but all other callers seem to be OK
+with losing the old allocation.  Add a new variant of the macro,
+REFTABLE_ALLOC_GROW_OR_NULL, which plugs the leak and zeros the
+allocation counter.  Use it for those callers.
+
+Signed-off-by: René Scharfe &lt;l.s.r@web.de&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5419445</div>
+                                        <div class="message">Documentation: wire up sanity checks for Meson
+
+Wire up sanity checks for Meson to verify that no man pages are missing.
+This check is similar to the same check we already have for our tests.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d8af27d</div>
+                                        <div class="message">t/Makefile: make "check-meson" work with Dash
+
+The "check-meson" target uses process substitution to check whether
+extracted contents from "meson.build" match expected contents. Process
+substitution is unportable though and thus the target will fail when
+using for example Dash.
+
+Fix this by writing data into a temporary directory.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7a3136e</div>
+                                        <div class="message">meson: install static files for HTML documentation
+
+Now that we generate man pages, articles and user manual with Meson the
+only thing that is still missing in an installation of HTML documents is
+a couple of static files. Wire these up to finalize Meson's support for
+generating HTML documentation.
+
+Diffing an installation that uses our Makefile with an installation that
+uses Meson only surfaces a couple of discepancies now:
+
+  - Meson doesn't install "everyday.html" and "git-remote-helpers.html".
+    These files are marked as obsolete and don't contain any useful
+    information anymore: they simply point to their modern equivalents.
+
+  - Meson doesn't install "*.txt" files when asking for HTML docs. I'm
+    not sure why our Makefiles do this in the first place, and it does
+    seem like the resulting installation is fully functional even
+    without those files.
+
+Other than that, both layout and file contents are the exact same.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bcf7ede</div>
+                                        <div class="message">meson: generate articles
+
+While the Meson build system already knows to generate man pages and our
+user manual, it does not yet generate the random assortment of articles
+that we have. Plug this gap.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8922506</div>
+                                        <div class="message">Documentation: refactor "howto-index.sh" for out-of-tree builds
+
+The "howto-index.sh" is used to generate an index of our how-to docs. It
+receives as input the paths to these documents, which would typically be
+relative to the "Documentation/" directory in Makefile-based builds. In
+an out-of-tree build though it will get relative that may be rooted
+somewhere else entirely.
+
+The file paths do end up in the generated index, and the expectation is
+that they should always start with "howto/". But for out-of-tree builds
+we would populate it with the paths relative to the build directory,
+which is wrong.
+
+Fix the issue by using `$(basename "$file")` to generate the path. While
+at it, move the script into "howto/" to align it with the location of
+the comparable "api-index.sh" script.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#88e08b9</div>
+                                        <div class="message">Documentation: refactor "api-index.sh" for out-of-tree builds
+
+The "api-index.sh" script generates an index of API-related
+documentation. The script does not handle out-of-tree builds and thus
+cannot be used easily by Meson.
+
+Refactor it to be independent of locations by both accepting a source
+directory where the API docs live as well as a path to an output file.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ae0b339</div>
+                                        <div class="message">meson: generate user manual
+
+Our documentation contains a user manual that gives people a short
+introduction to Git. Our Makefile knows to generate the manual into
+three different formats: an HTML page, a PDF and an info page. The Meson
+build instructions don't yet generate any of these.
+
+While wiring up all these formats I hit a couple of road blocks with how
+we generate our info pages. Even though I eventually resolved these, it
+made me question whether anybody actually uses info pages in the first
+place. Checking through a couple of downstream consumers I couldn't find
+a single user of either the info pages nor of our PDF manual in Arch
+Linux, Debian, Fedora, Ubuntu, FreeBSD or OpenBSDFedora. So it's rather
+safe to assume that there aren't really any users out there, and thus
+the added complexity does not seem worth it.
+
+Wire up support for building the user manual in HTML format and
+conciously skip over the other two formats. This is basically a form of
+silent deprecation: if people out there use the other two formats they
+will eventually complain about them missing in Meson, which means we can
+wire them up at a later point. If they don't we can phase out these
+formats eventually.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#851ecc4</div>
+                                        <div class="message">Documentation: inline user-manual.conf
+
+When generating our user manual we set up a bit of extra configuration
+compared to our normal configuration. This is done by having an extra
+"user-manual.conf" file that Asciidoc seems to pull in automatically due
+to matching filenames with "user-manual.txt". This dependency is quite
+hidden though and thus easy to miss. Furthermore, it seems that Asciidoc
+does not know to pull it in for out-of-tree builds where we use relative
+paths.
+
+The setup in AsciiDoctor is somewhat different: instead of having two
+sets of configuration, we condition the use of manual-specific configs
+based on whether the document type is "book". And as we only build our
+user manual with that type this is sufficient.
+
+Use the same trick for our user manual by inlining the configuration
+into "asciidoc.conf.in" and making it conditional on whether or not
+"doctype-book" is defined.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0696ebe</div>
+                                        <div class="message">meson: generate HTML pages for all man page categories
+
+When generating HTML pages for our man pages we only generate them for
+category 1 in Meson, which are the pages corresponding to our built-in
+commands. I cannot tell why I added this filter though: our Makefile
+installs all man pages, so a Meson-based build misses out on many of
+them.
+
+Fix this by removing the filter.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b885400</div>
+                                        <div class="message">meson: fix generation of merge tools
+
+Our buildsystems generate a list of diff and merge tools that ultimately
+end up in our documentation. And while Meson does wire up the logic, it
+tries to use the TOOL_MODE environment variable to set up the mode. This
+is wrong though: the mode is set via an argument that we have fixed to
+'diff' mode by accident.
+
+Fix this such that merge tools are properly generated.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a8bd34</div>
+                                        <div class="message">meson: properly wire up dependencies for our docs
+
+A couple of Meson documentation targets use `meson.current_source_dir()`
+to resolve inputs. This has the downside that it does not automagically
+make Meson track these inputs as a dependency. After all, string
+arguments really can be anything, even if they happen to match an actual
+filesystem path.
+
+Adapt these build targets to instead use inputs.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d838d82</div>
+                                        <div class="message">meson: wire up support for AsciiDoctor
+
+While our Makefile supports both Asciidoc and AsciiDoctor, our Meson
+build instructions only support the former. Wire up support for the
+latter, as well.
+
+Our Makefile always favors Asciidoc, but Meson will automatically figure
+out which of both to use based on whether they are installed or not. To
+keep compatibility with our Makefile it favors Asciidoc over Asciidoctor
+in case both are available.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
                                         Starred
                                         <span class="repo">pks-t/cgdb</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">js-packed-ref-content-v1</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#741cc32</div>
-                                        <div class="message">packed-ref: add ref entry consistency check
-
-"packed-backend.c::next_record" will parse the ref entry to check the
-consistency. This function has already checked the following things:
-
-1. Parse the main line of the ref entry, if the oid is not correct. It
-   will die the program. And then it will check whether the next
-   character of the oid is space. Then it will check whether the refname
-   is correct.
-2. If the next line starts with '^', it will continue to parse the oid
-   of the peeled oid content and check whether the last character is
-   '\n'.
-
-We can iterate each line by using the "packed_fsck_ref_unterminated_line"
-function. Then, create a new fsck message "badPackedRefEntry(ERROR)" to
-report to the user when something is wrong.
-
-Create two new functions "packed_fsck_ref_main_line" and
-"packed_fsck_ref_peeled_line" for case 1 and case 2 respectively. Last,
-update the unit test to exercise the code.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">js-packed-ref-content-v1</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f352422</div>
-                                        <div class="message">packed-ref: add ref entry consistency check
-
-"packed-backend.c::next_record" will parse the ref entry to check the
-consistency. This function has already checked the following things:
-
-1. Parse the main line of the ref entry, if the oid is not correct. It
-   will die the program. And then it will check whether the next
-   character of the oid is space. Then it will check whether the refname
-   is correct.
-2. If the next line starts with '^', it will continue to parse the oid
-   of the peeled oid content and check whether the last character is
-   '\n'.
-
-We can iterate each line by using the "packed_fsck_ref_unterminated_line"
-function. Then, create a new fsck message "badPackedRefEntry(ERROR)" to
-report to the user when something is wrong.
-
-Create two new functions "packed_fsck_ref_main_line" and
-"packed_fsck_ref_peeled_line" for case 1 and case 2 respectively. Last,
-update the unit test to exercise the code.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">js-packed-ref-content-v1</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d34bb40</div>
-                                        <div class="message">packed-ref: add ref entry consistency check
-
-"packed-backend.c::next_record" will parse the ref entry to check the
-consistency. This function has already checked the following things:
-
-1. Parse the main line of the ref entry, if the oid is not correct. It
-   will die the program. And then it will check whether the next
-   character of the oid is space. Then it will check whether the refname
-   is correct.
-2. If the next line starts with '^', it will continue to parse the oid
-   of the peeled oid content and check whether the last character is
-   '\n'.
-
-We can iterate each line by using the "packed_fsck_ref_unterminated_line"
-function. Then, create a new fsck message "badPackedRefEntry(ERROR)" to
-report to the user when something is wrong.
-
-Create two new functions "packed_fsck_ref_main_line" and
-"packed_fsck_ref_peeled_line" for case 1 and case 2 respectively. Last,
-update the unit test to exercise the code.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">js-packed-ref-content-v1</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#84cb711</div>
-                                        <div class="message">packed-ref: add ref entry consistency check
-
-"packed-backend.c::next_record" will parse the ref entry to check the
-consistency. This function has already checked the following things:
-
-1. Parse the main line of the ref entry, if the oid is not correct. It
-   will die the program. And then it will check whether the next
-   character of the oid is space. Then it will check whether the refname
-   is correct.
-2. If the next line starts with '^', it will continue to parse the oid
-   of the peeled oid content and check whether the last character is
-   '\n'.
-
-We can iterate each line by using the "packed_fsck_ref_unterminated_line"
-function. Then, create a new fsck message "badPackedRefEntry(ERROR)" to
-report to the user when something is wrong.
-
-Create two new functions "packed_fsck_ref_main_line" and
-"packed_fsck_ref_peeled_line" for case 1 and case 2 respectively. Last,
-update the unit test to exercise the code.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -234,7 +1019,7 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~23 coding hours recorded
+                            ~26 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -276,23 +1061,23 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">git</span>
-                                <div class="bar" style="width: 72.112%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">90%</span>
+                                <div class="bar" style="width: 70.232%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">88%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">PSC_JOB</span>
-                                <div class="bar" style="width: 3.96%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <span class="name">ms_test_executor</span>
+                                <div class="bar" style="width: 5.696%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">7%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">repo</span>
-                                <div class="bar" style="width: 3.7439999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <div class="bar" style="width: 3.488%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 0.184%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">0%</span>
+                                <div class="bar" style="width: 0.584%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
                             </div>
                         </div>
                     </section>
@@ -301,27 +1086,27 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 63.112%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">79%</span>
+                                <div class="bar" style="width: 61.304%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">77%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Bash</span>
-                                <div class="bar" style="width: 6.143999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 6.071999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">8%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C++</span>
-                                <div class="bar" style="width: 3.4799999999999995%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <div class="bar" style="width: 5.12%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">conf</span>
-                                <div class="bar" style="width: 3.3520000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.944%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Text</span>
-                                <div class="bar" style="width: 1.736%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.496%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                         </div>
