@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="627" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1008" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.keyword{color:#b44418}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.category,.chart-bars .entry{display:flex;flex-direction:column;align-items:center}.category{flex:1 1 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.keyword,.token.symbol{color:#b44418}.token.char,.token.regex,.token.string{color:#2777aa}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -33,6 +33,382 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 66 commits in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fc16eb3</div>
+                                        <div class="message">Git 2.45.3
+
+Signed-off-by: Johannes Schindelin &lt;johannes.schindelin@gmx.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#99cb64c</div>
+                                        <div class="message">Sync with 2.44.3
+
+* maint-2.44:
+  Git 2.44.3
+  Git 2.43.6
+  Git 2.42.4
+  Git 2.41.3
+  Git 2.40.4
+  credential: disallow Carriage Returns in the protocol by default
+  credential: sanitize the user prompt
+  credential_format(): also encode &lt;host&gt;[:&lt;port&gt;]
+  t7300: work around platform-specific behaviour with long paths on MinGW
+  compat/regex: fix argument order to calloc(3)
+  mingw: drop bogus (and unneeded) declaration of `_pgmptr`
+  ci: remove 'Upload failed tests' directories' step from linux32 jobs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2f323bb</div>
+                                        <div class="message">Git 2.44.3
+
+Signed-off-by: Johannes Schindelin &lt;johannes.schindelin@gmx.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1479961</div>
+                                        <div class="message">Sync with 2.43.6
+
+* maint-2.43:
+  Git 2.43.6
+  Git 2.42.4
+  Git 2.41.3
+  Git 2.40.4
+  credential: disallow Carriage Returns in the protocol by default
+  credential: sanitize the user prompt
+  credential_format(): also encode &lt;host&gt;[:&lt;port&gt;]
+  t7300: work around platform-specific behaviour with long paths on MinGW
+  compat/regex: fix argument order to calloc(3)
+  mingw: drop bogus (and unneeded) declaration of `_pgmptr`
+  ci: remove 'Upload failed tests' directories' step from linux32 jobs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#664d4fa</div>
+                                        <div class="message">Git 2.43.6
+
+Signed-off-by: Johannes Schindelin &lt;johannes.schindelin@gmx.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c39c2d2</div>
+                                        <div class="message">Sync with 2.42.4
+
+* maint-2.42:
+  Git 2.42.4
+  Git 2.41.3
+  Git 2.40.4
+  credential: disallow Carriage Returns in the protocol by default
+  credential: sanitize the user prompt
+  credential_format(): also encode &lt;host&gt;[:&lt;port&gt;]
+  t7300: work around platform-specific behaviour with long paths on MinGW
+  compat/regex: fix argument order to calloc(3)
+  mingw: drop bogus (and unneeded) declaration of `_pgmptr`
+  ci: remove 'Upload failed tests' directories' step from linux32 jobs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#54ddf17</div>
+                                        <div class="message">Git 2.42.4
+
+Signed-off-by: Johannes Schindelin &lt;johannes.schindelin@gmx.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#102e0e6</div>
+                                        <div class="message">Sync with 2.41.3
+
+* maint-2.41:
+  Git 2.41.3
+  Git 2.40.4
+  credential: disallow Carriage Returns in the protocol by default
+  credential: sanitize the user prompt
+  credential_format(): also encode &lt;host&gt;[:&lt;port&gt;]
+  t7300: work around platform-specific behaviour with long paths on MinGW
+  compat/regex: fix argument order to calloc(3)
+  mingw: drop bogus (and unneeded) declaration of `_pgmptr`
+  ci: remove 'Upload failed tests' directories' step from linux32 jobs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6fd641a</div>
+                                        <div class="message">Git 2.41.3
+
+Signed-off-by: Johannes Schindelin &lt;johannes.schindelin@gmx.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#676cdde</div>
+                                        <div class="message">Sync with 2.40.4
+
+* maint-2.40:
+  Git 2.40.4
+  credential: disallow Carriage Returns in the protocol by default
+  credential: sanitize the user prompt
+  credential_format(): also encode &lt;host&gt;[:&lt;port&gt;]
+  t7300: work around platform-specific behaviour with long paths on MinGW
+  compat/regex: fix argument order to calloc(3)
+  mingw: drop bogus (and unneeded) declaration of `_pgmptr`
+  ci: remove 'Upload failed tests' directories' step from linux32 jobs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#54a3711</div>
+                                        <div class="message">Git 2.40.4
+
+Signed-off-by: Johannes Schindelin &lt;johannes.schindelin@gmx.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0875613</div>
+                                        <div class="message">Merge branch 'disallow-control-characters-in-credential-urls-by-default'
+
+This addresses two vulnerabilities:
+
+- CVE-2024-50349:
+
+	Printing unsanitized URLs when asking for credentials made the
+	user susceptible to crafted URLs (e.g. in recursive clones) that
+	mislead the user into typing in passwords for trusted sites that
+	would then be sent to untrusted sites instead.
+
+- CVE-2024-52006
+
+	Git may pass on Carriage Returns via the credential protocol to
+	credential helpers which use line-reading functions that
+	interpret said Carriage Returns as line endings, even though Git
+	did not intend that.
+
+Signed-off-by: Johannes Schindelin &lt;johannes.schindelin@gmx.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b01b9b8</div>
+                                        <div class="message">credential: disallow Carriage Returns in the protocol by default
+
+While Git has documented that the credential protocol is line-based,
+with newlines as terminators, the exact shape of a newline has not been
+documented.
+
+From Git's perspective, which is firmly rooted in the Linux ecosystem,
+it is clear that "a newline" means a Line Feed character.
+
+However, even Git's credential protocol respects Windows line endings
+(a Carriage Return character followed by a Line Feed character, "CR/LF")
+by virtue of using `strbuf_getline()`.
+
+There is a third category of line endings that has been used originally
+by MacOS, and that is respected by the default line readers of .NET and
+node.js: bare Carriage Returns.
+
+Git cannot handle those, and what is worse: Git's remedy against
+CVE-2020-5260 does not catch when credential helpers are used that
+interpret bare Carriage Returns as newlines.
+
+Git Credential Manager addressed this as CVE-2024-50338, but other
+credential helpers may still be vulnerable. So let's not only disallow
+Line Feed characters as part of the values in the credential protocol,
+but also disallow Carriage Return characters.
+
+In the unlikely event that a credential helper relies on Carriage
+Returns in the protocol, introduce an escape hatch via the
+`credential.protectProtocol` config setting.
+
+This addresses CVE-2024-52006.
+
+Signed-off-by: Johannes Schindelin &lt;johannes.schindelin@gmx.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7725b81</div>
+                                        <div class="message">credential: sanitize the user prompt
+
+When asking the user interactively for credentials, we want to avoid
+misleading them e.g. via control sequences that pretend that the URL
+targets a trusted host when it does not.
+
+While Git learned, over the course of the preceding commits, to disallow
+URLs containing URL-encoded control characters by default, credential
+helpers are still allowed to specify values very freely (apart from Line
+Feed and NUL characters, anything is allowed), and this would allow,
+say, a username containing control characters to be specified that would
+then be displayed in the interactive terminal prompt asking the user for
+the password, potentially sending those control characters directly to
+the terminal. This is undesirable because control characters can be used
+to mislead users to divulge secret information to untrusted sites.
+
+To prevent such an attack vector, let's add a `git_prompt()` that forces
+the displayed text to be sanitized, i.e. displaying question marks
+instead of control characters.
+
+Note: While this commit's diff changes a lot of `user@host` strings to
+`user%40host`, which may look suspicious on the surface, there is a good
+reason for that: this string specifies a user name, not a
+&lt;username&gt;@&lt;hostname&gt; combination! In the context of t5541, the actual
+combination looks like this: `user%40@127.0.0.1:5541`. Therefore, these
+string replacements document a net improvement introduced by this
+commit, as `user@host@127.0.0.1` could have left readers wondering where
+the user name ends and where the host name begins.
+
+Hinted-at-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Johannes Schindelin &lt;johannes.schindelin@gmx.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c903985</div>
+                                        <div class="message">credential_format(): also encode &lt;host&gt;[:&lt;port&gt;]
+
+An upcoming change wants to sanitize the credential password prompt
+where a URL is displayed that may potentially come from a `.gitmodules`
+file. To this end, the `credential_format()` function is employed.
+
+To sanitize the host name (and optional port) part of the URL, we need a
+new mode of the `strbuf_add_percentencode()` function because the
+current mode is both too strict and too lenient: too strict because it
+encodes `:`, `[` and `]` (which should be left unencoded in
+`&lt;host&gt;:&lt;port&gt;` and in IPv6 addresses), and too lenient because it does
+not encode invalid host name characters `/`, `_` and `~`.
+
+So let's introduce and use a new mode specifically to encode the host
+name and optional port part of a URI, leaving alpha-numerical
+characters, periods, colons and brackets alone and encoding all others.
+
+This only leads to a change of behavior for URLs that contain invalid
+host names.
+
+Signed-off-by: Johannes Schindelin &lt;johannes.schindelin@gmx.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#062d9fb</div>
+                                        <div class="message">Merge branch 'backport-github-actions-fixes'
+
+The planet keeps revolving, and CI definitions (even old ones) need to
+be kept up to date, even if they worked unchanged before (because now
+they don't).
+
+Signed-off-by: Johannes Schindelin &lt;johannes.schindelin@gmx.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#83b08eb</div>
+                                        <div class="message">t7300: work around platform-specific behaviour with long paths on MinGW
+
+Windows by default has a restriction in place to only allow paths up to
+260 characters. This restriction can nowadays be lifted by setting a
+registry key, but is still active by default.
+
+In t7300 we have one test that exercises the behaviour of git-clean(1)
+with such long paths. Interestingly enough, this test fails on my system
+that uses Windows 10 with mingw-w64 installed via MSYS2: instead of
+observing ENAMETOOLONG, we observe ENOENT. This behaviour is consistent
+across multiple different environments I have tried.
+
+I cannot say why exactly we observe a different error here, but I would
+not be surprised if this was either dependent on the Windows version,
+the version of MinGW, the current working directory of Git or any kind
+of combination of these.
+
+Work around the issue by handling both errors.
+
+[Backported from 106834e34a2 (t7300: work around platform-specific
+behaviour with long paths on MinGW, 2024-10-09).]
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;
+Signed-off-by: Johannes Schindelin &lt;johannes.schindelin@gmx.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7e6073d</div>
+                                        <div class="message">compat/regex: fix argument order to calloc(3)
+
+Windows compiler suddenly started complaining that calloc(3) takes
+its arguments in &lt;nmemb, size&gt; order.  Indeed, there are many calls
+that has their arguments in a _wrong_ order.
+
+Fix them all.
+
+A sample breakage can be seen at
+
+  https://github.com/git/git/actions/runs/9046793153/job/24857988702#step:4:272
+
+[Backported from f01301aabe1 (compat/regex: fix argument order to
+calloc(3), 2024-05-11).]
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;
+Signed-off-by: Johannes Schindelin &lt;Johannes.Schindelin@gmx.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d82887</div>
+                                        <div class="message">
+                                            mingw: drop bogus (and unneeded) declaration of `_pgmptr`
+
+In 08809c09aa13 (mingw: add a helper function to attach GDB to the
+current process, 2020-02-13), I added a declaration that was not needed.
+Back then, that did not matter, but now that the declaration of that
+symbol was changed in mingw-w64's headers, it causes the following
+compile error:
+
+      CC compat/mingw.o
+  compat/mingw.c: In function 'open_in_gdb':
+  compat/mingw.c:35:9: error: function declaration isn't a prototype [-Werror=strict-prototypes]
+     35 |         extern char *_pgmptr;
+        |         ^~~~~~
+  In file included from C:/git-sdk-64/usr/src/git/build-installers/mingw64/lib/gcc/x86_64-w64-mingw32/14.1.0/include/mm_malloc.h:27,
+                   from C:/git-sdk-64/usr/src/git/build-installers/mingw64/lib/gcc/x86_64-w64-mingw32/14.1.0/include/xmmintrin.h:34,
+                   from C:/git-sdk-64/usr/src/git/build-installers/mingw64/lib/gcc/x86_64-w64-mingw32/14.1.0/include/immintrin.h:31,
+                   from C:/git-sdk-64/usr/src/git/build-installers/mingw64/lib/gcc/x86_64-w64-mingw32/14.1.0/include/x86intrin.h:32,
+                   from C:/git-sdk-64/usr/src/git/build-installers/mingw64/include/winnt.h:1658,
+                   from C:/git-sdk-64/usr/src/git/build-installers/mingw64/include/minwindef.h:163,
+                   from C:/git-sdk-64/usr/src/git/build-installers/mingw64/include/windef.h:9,
+                   from C:/git-sdk-64/usr/src/git/build-installers/mingw64/include/windows.h:69,
+                   from C:/git-sdk-64/usr/src/git/build-installers/mingw64/include/winsock2.h:23,
+                   from compat/../git-compat-util.h:215,
+                   from compat/mingw.c
+                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                            compat/mingw.c:35:22: error: '__p__pgmptr' redeclared without dllimport attribute: previous dllimport ignored [-Werror=attributes]
+     35 |         extern char *_pgmptr;
+        |                      ^~~~~~~
+
+Let's just drop the declaration and get rid of this compile error.
+
+[Backported from 3c295c87c25 (mingw: drop bogus (and unneeded)
+declaration of `_pgmptr`, 2024-06-19).]
+
+Signed-off-by: Johannes Schindelin &lt;johannes.schindelin@gmx.de&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;
+Signed-off-by: Johannes Schindelin &lt;johannes.schindelin@gmx.de&gt;
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0d606d8</div>
+                                        <div class="message">ci: remove 'Upload failed tests' directories' step from linux32 jobs
+
+Linux32 jobs seem to be getting:
+
+    Error: This request has been automatically failed because it uses a
+    deprecated version of `actions/upload-artifact: v1`. Learn more:
+    https://github.blog/changelog/2024-02-13-deprecation-notice-v1-and-v2-of-the-artifact-actions/
+
+before doing anything useful.  For now, disable the step.
+
+Ever since actions/upload-artifact@v1 got disabled, mentioning the
+offending version of it seems to stop anything from happening.  At
+least this should run the same build and test.
+
+See
+
+    https://github.com/git/git/actions/runs/10780030750/job/29894867249
+
+for example.
+
+[Backported from 90f2c7240cc (ci: remove 'Upload failed tests'
+directories' step from linux32 jobs, 2024-09-09).]
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;
+Signed-off-by: Johannes Schindelin &lt;johannes.schindelin@gmx.de&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -161,7 +537,7 @@ bot.api.SetVersion(version="3.9.12")
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~4 coding hours recorded
+                            ~5 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -203,13 +579,23 @@ bot.api.SetVersion(version="3.9.12")
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 77.62400000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">97%</span>
+                                <div class="bar" style="width: 57.903999999999996%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">72%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">git</span>
+                                <div class="bar" style="width: 15.88%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">20%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">repo</span>
+                                <div class="bar" style="width: 4.648%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">PSC_JOB</span>
-                                <div class="bar" style="width: 2.376%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
+                                <div class="bar" style="width: 1.5759999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                         </div>
                     </section>
@@ -218,28 +604,28 @@ bot.api.SetVersion(version="3.9.12")
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Mail</span>
-                                <div class="bar" style="width: 40.544000000000004%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">51%</span>
+                                <div class="bar" style="width: 33.239999999999995%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">42%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">C</span>
+                                <div class="bar" style="width: 15.768%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">20%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 20.816%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">26%</span>
+                                <div class="bar" style="width: 13.799999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">17%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Text</span>
-                                <div class="bar" style="width: 10.415999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">13%</span>
+                                <div class="bar" style="width: 7.016%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">gp</span>
-                                <div class="bar" style="width: 4.976%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">Other</span>
+                                <div class="bar" style="width: 4.696%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">C++</span>
-                                <div class="bar" style="width: 3.2319999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
                             </div>
                         </div>
                     </section>
