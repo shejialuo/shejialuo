@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1010" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="827" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.stackoverflow{margin-left:38px}.stackoverflow .entry{margin:4px 0 12px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.constant{color:#b44418}.token.number,.token.string{color:#2777aa}.token.tag{color:#48428a}.token.builtin{color:#106cbc}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -33,6 +33,130 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 9 commits in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#58b5801</div>
+                                        <div class="message">The sixth batch
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#81309f4</div>
+                                        <div class="message">Merge branch 'jc/show-index-h-update'
+
+Doc and short-help text for "show-index" has been clarified to
+stress that the command reads its data from the standard input.
+
+* jc/show-index-h-update:
+  show-index: the short help should say the command reads from its input</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bdd1988</div>
+                                        <div class="message">Merge branch 'ja/doc-notes-markup-updates'
+
+Doc mark-up updates.
+
+* ja/doc-notes-markup-updates:
+  doc: convert git-notes to new documentation format</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ecba2c1</div>
+                                        <div class="message">Merge branch 'sk/strlen-returns-size_t'
+
+Code clean-up.
+
+* sk/strlen-returns-size_t:
+  date.c: Fix type missmatch warings from msvc</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dccd9c5</div>
+                                        <div class="message">Merge branch 'ja/doc-restore-markup-update'
+
+Doc mark-up updates.
+
+* ja/doc-restore-markup-update:
+  doc: convert git-restore to new style format</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#69666e6</div>
+                                        <div class="message">doc: convert git-restore to new style format
+
+- Switch the synopsis to a 'synopsis' block which will
+  automatically format placeholders in italics and keywords in
+  monospace
+
+- Use _&lt;placeholder&gt;_ instead of &lt;placeholder&gt; in the description
+
+- Use backticks for keywords and more complex option
+descriptions. The new rendering engine will apply synopsis rules to
+these spans.
+
+While at it, also convert an option description to imperative mood.
+
+Signed-off-by: Jean-Noël Avila &lt;jn.avila@free.fr&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#77b2d29</div>
+                                        <div class="message">doc: convert git-notes to new documentation format
+
+- Switch the synopsis to a synopsis block which will automatically
+  format placeholders in italics and keywords in monospace
+- Use _&lt;placeholder&gt;_ instead of &lt;placeholder&gt; in the description
+- Use `backticks` for keywords and more complex option
+descriptions. The new rendering engine will apply synopsis rules to
+these spans.
+
+Signed-off-by: Jean-Noël Avila &lt;jn.avila@free.fr&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d11d003</div>
+                                        <div class="message">date.c: Fix type missmatch warings from msvc
+
+Fix compiler warings from msvc in date.c for value truncation from 64
+bit to 32 bit integers.
+
+Also switch from int to size_t for all variables with result of strlen()
+which cannot become negative.
+
+Signed-off-by: Sören Krecker &lt;soekkle@freenet.de&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#49edce4</div>
+                                        <div class="message">show-index: the short help should say the command reads from its input
+
+The short help text given by "git show-index -h" says
+
+    $ git show-index -h
+    usage: git show-index [--object-format=&lt;hash-algorithm&gt;]
+
+        --[no-]object-format &lt;hash-algorithm&gt;
+                              specify the hash algorithm to use
+
+The command takes a pack .idx file from its standard input.  The
+user has to _know_ this, as there is no indication from this output.
+
+Give a hint that the data to work on is fed from its standard input.
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -325,484 +449,6 @@ path, or by type.
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 55 commits in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#aae2b43</div>
-                                        <div class="message">t/unit-tests: handle dashes in test suite filenames
-
-"generate-clar-decls.sh" script is designed to extract function
-signatures that match a specific pattern derived from the unit test
-file's name. The script does not know to massage file names with dashes,
-which will make it search for functions that look like, for example,
-`test_mem-pool_*`. Having dashes in function names is not allowed
-though, so these patterns won't ever match a legal function name.
-
-Adapt script to translate dashes (`-`) in test suite filenames to
-underscores (`_`) to correctly extract the function signatures and run
-the corresponding tests. This will be used by subsequent commits which
-follows the same construct.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Seyi Kuforiji &lt;kuforiji98@gmail.com&gt;
-Acked-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f66d142</div>
-                                        <div class="message">builtin: send usage() help text to standard output
-
-Using the show_usage_and_exit_if_asked() helper we introduced
-earlier, fix callers of usage() that want to show the help text when
-explicitly asked by the end-user.  The help text now goes to the
-standard output stream for them.
-
-These are the bog standard "if we got only '-h', then that is a
-request for help" callers.  Their
-
-	if (argc == 2 &amp;&amp; !strcmp(argv[1], "-h"))
-		usage(message);
-
-are simply replaced with
-
-	show_usage_and_exit_if_asked(argc, argv, message);
-
-With this, the built-ins tested by t0012 all send their help text to
-their standard output stream, so the check in t0012 that was half
-tightened earlier is now fully tightened to insist on standard error
-stream being empty.
-
-Acked-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a36a822</div>
-                                        <div class="message">oddballs: send usage() help text to standard output
-
-Using the show_usage_if_asked() helper we introduced earlier, fix
-callers of usage() that want to show the help text when explicitly
-asked by the end-user.  The help text now goes to the standard
-output stream for them.
-
-The callers in this step are oddballs in that their invocations of
-usage() are *not* guarded by
-
-	if (argc == 2 &amp;&amp; !strcmp(argv[1], "-h")
-		usage(...);
-
-There are (unnecessarily) being clever ones that do things like
-
-	if (argc != 2 || !strcmp(argv[1], "-h")
-		usage(...);
-
-to say "I know I take only one argument, so argc != 2 is always an
-error regardless of what is in argv[].  Ah, by the way, even if argc
-is 2, "-h" is a request for usage text, so we do the same".
-
-Some like "git var -h" just do not treat "-h" any specially, and let
-it take the same error code paths as a parameter error.
-
-Now we cannot do the same, so these callers are rewrittin to do the
-show_usage_and_exit_if_asked() first and then handle the usage error
-the way they used to.
-
-Acked-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b821c99</div>
-                                        <div class="message">builtins: send usage_with_options() help text to standard output
-
-Using the show_usage_with_options_if_asked() helper we introduced
-earlier, fix callers of usage_with_options() that want to show the
-help text when explicitly asked by the end-user.  The help text now
-goes to the standard output stream for them.
-
-The test in t7600 for "git merge -h" may want to be retired, as the
-same is covered by t0012 already, but it is specifically testing that
-the "-h" option gets a response even with a corrupt index file, so
-for now let's leave it there.
-
-Acked-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0148fd8</div>
-                                        <div class="message">usage: add show_usage_if_asked()
-
-Some commands call usage() when they are asked to give the help
-message with "git cmd -h", but this has the same problem as we
-fixed with callers of usage_with_options() for the same purpose.
-
-Introduce a helper function that captures the common pattern
-
-	if (argc == 2 &amp;&amp; !strcmp(argv[1], "-h"))
-		usage(usage);
-
-and replaces it with
-
-	show_usage_if_asked(argc, argv, usage);
-
-to help correct these code paths.
-
-Note that this helper function still exits with status 129, and
-t0012 insists on it.  After converting all the mistaken callers of
-usage_with_options() to call this new helper, we may want to address
-it---the end user is asking us to give the help text, and we are
-doing exactly as asked, so there is no reason to exit with non-zero
-status.
-
-Helped-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1782abd</div>
-                                        <div class="message">parse-options: add show_usage_with_options_if_asked()
-
-Many commands call usage_with_options() when they are asked to give
-the help message, but it sends the help text to the standard error
-stream.  When the user asked for it with "git cmd -h", the help
-message is the primary output from the command, hence we should send
-it to the standard output stream, instead.
-
-Introduce a helper function that captures the common pattern
-
-	if (argc == 2 &amp;&amp; !strcmp(argv[1], "-h"))
-		usage_with_options(usage, options);
-
-and replaces it with
-
-	show_usage_with_options_if_asked(argc, argv, usage, options);
-
-to help correct code paths.
-
-Note that this helper function still exits with status 129, and
-t0012 insists on it.  After converting all the mistaken callers of
-usage_with_options() to call this new helper, we may want to address
-it---the end user is asking us to give the help text, and we are
-doing exactly as asked, so there is no reason to exit with non-zero
-status.
-
-Suggested-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e4c0a14</div>
-                                        <div class="message">t0012: optionally check that "-h" output goes to stdout
-
-For most commands, "git foo -h" will send the help output to stdout, as
-this is what parse-options.c does. But some commands send it to stderr
-instead. This is usually because they call usage_with_options(), and
-should be switched to show_usage_help_and_exit_if_asked().
-
-Currently t0012 is permissive and allows either behavior. We'd like it
-to eventually enforce that help goes to stdout, and teaching it to do so
-identifies the commands that need to be changed. But during the
-transition period, we don't want to enforce that for most test runs.
-
-So let's introduce a flag that will let most test runs use the
-permissive behavior, and people interested in converting commands can
-run:
-
-  GIT_TEST_HELP_MUST_BE_STDOUT=1 ./t0012-help.sh
-
-to see the failures. Eventually (when all builtins have been converted)
-we'll remove this flag entirely and always check the strict behavior.
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4ad47d2</div>
-                                        <div class="message">gitcli: document that command line trumps config and env
-
-We centrally explain that "--no-whatever" is the way to countermand
-the "--whatever" option.  Explain that a configured default and the
-value specified by an environment variable can be overridden by the
-corresponding command line option, too.
-
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;
-Acked-by: brian m. carlson &lt;sandals@crustytoothpaste.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8454b42</div>
-                                        <div class="message">meson: wire up the git-subtree(1) command
-
-Wire up the git-subtree(1) command, which is part of "contrib/". Note
-that we have to move around the exact location where we include the
-"contrib/" subdirectory so that it comes after building the docs so that
-we have access to some of the common functionality.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#07892da</div>
-                                        <div class="message">meson: introduce build option for contrib
-
-We unconditionally wire up building command completion present in the
-"contrib/" directory. This may or may not be what users want, and we
-don't provide a way to disable it.
-
-Introduce a new "contrib" build option. This option is introduced as an
-array so that users can manually pick which exact features they want to
-include from the "contrib" directory. By default, we build and install
-shell completions, which is a commonly used feature and also the current
-default.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d4cd75f</div>
-                                        <div class="message">contrib/subtree: fix building docs
-
-In a38edab7c8 (Makefile: generate doc versions via GIT-VERSION-GEN,
-2024-12-06), we have refactored how we build our documentation by
-injecting the Git version into the Asciidoc and AsciiDoctor config
-files instead of doing so via arguments. As such, the original config
-files were removed, where the expectation is that they get generated via
-`GIT-VERSION-GEN` now.
-
-Whie the git-subtree(1) command part of "contrib/" also builds docs
-using these same config files, its Makefile wasn't adjusted accordingly
-and thus building the docs is broken.
-
-Fix this by using `GIT-VERSION-GEN` to generate those files.
-
-Reported-by: Renato Botelho &lt;garga@FreeBSD.org&gt;
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#49b2992</div>
-                                        <div class="message">connect: address -Wsign-compare warnings
-
-Most of the warnings were about loop variables being declared as ints
-with a condition using a size_t, whereby switching the variable to
-size_t fixes the warning.
-
-One other case was comparing the result of strlen to an int passed
-as an argument, which turns out could just as well be passed as a
-size_t, albeit trickling to other functions.
-
-Signed-off-by: Mike Hommey &lt;mh@glandium.org&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1dca492</div>
-                                        <div class="message">meson: fix missing deps for technical articles
-
-We need an explicit `depends: documentation_deps` so that all of our
-Documentation targets know they require asciidoc.conf. This shows up
-as parallel build failures with it not yet being available.
-
-Other targets look OK already.
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;
-Acked-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4771501</div>
-                                        <div class="message">meson: ensure correct version-def.h is used
-
-To build the libgit-version library, Meson first generates
-`version-def.h` in the build directory. Then it compiles `version.c`
-into a library. During compilation, Meson tells to include both the
-build directory and the project root directory.
-
-However, when the user previously has compiled Git using Make, they will
-have a `version-def.h` file in project root directory as well. Because
-`version-def.h` is included in `version.c` using the #include directive
-with double quotes, some preprocessors will look for the header file in
-the same directory as the source file. This will cause compilation of
-`version.c` ran by Meson to include `version-def.h` previously made by
-Make, which might be out of date.
-
-To explicitly tell the preprocessor which `version-def.h` to use, pass
-the absolute path of this file as macro GIT_VERSION_H to the
-preprocessor using option `-D` and have `version.c` `#include
-GIT_VERSION_H`. To remain working with other build systems than Meson,
-include "version-def.h" if that macro is not defined.
-
-Co-authored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Toon Claes &lt;toon@iotcl.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#191f0c8</div>
-                                        <div class="message">object-name: be more strict in parsing describe-like output
-
-From Documentation/revisions.txt:
-    '&lt;describeOutput&gt;', e.g. 'v1.7.4.2-679-g3bee7fb'::
-      Output from `git describe`; i.e. a closest tag, optionally
-      followed by a dash and a number of commits, followed by a dash, a
-      'g', and an abbreviated object name.
-which means that output of the format
-    ${REFNAME}-${INTEGER}-g${HASH}
-should parse to fully expanded ${HASH}.  This is fine.  However, we
-currently don't validate any of ${REFNAME}-${INTEGER}, we only parse
--g${HASH} and assume the rest is valid.  That is problematic, since it
-breaks things like
-
-    git cat-file -p branchname:path/to/file/named/i-gaffed
-
-which, when commit (or tree or blob) affed exists, will not return us
-information about the file we are looking for but will instead
-erroneously tell us about object affed.
-
-A few additional notes:
-  - This is a slight backward incompatibility break, because we used
-    to allow ${GARBAGE}-g${HASH} as a way to spell ${HASH}.  However,
-    a backward incompatible break is necessary, because there is no
-    other way for someone to be more specific and disambiguate that they
-    want the blob master:path/to/who-gabbed instead of the object abbed.
-  - There is a possibility that check_refname_format() rules change in
-    the future.  However, we can only realistically loosen the rules
-    for what that function accepts rather than tighten.  If we were to
-    tighten the rules, some real world repositories may already have
-    refnames that suddenly become unacceptable and we break those
-    repositories.  As such, any describe-like syntax of the form
-    ${VALID_FOR_A_REFNAME}-${INTEGER}-g${HASH} that is valid with the
-    changes in this commit will remain valid in the future.
-  - The fact that check_refname_format() rules could loosen in the
-    future is probably also an important reason to make this change.  If
-    the rules loosen, there might be additional cases within
-    ${GARBAGE}-g${HASH} that become ambiguous in the future.  While
-    abbreviated hashes can be disambiguated by abbreviating less, it may
-    well be that these alternative object names have no way of being
-    disambiguated (much like pathnames cannot be).  Accepting all random
-    ${GARBAGE} thus makes it difficult for us to allow future
-    extensions to object naming.
-
-So, tighten up the parsing to make sure ${REFNAME} and ${INTEGER} are
-present in the string, and would be considered a valid ref and
-non-negative integer.
-
-Also, add a few tests for git describe using object names of the form
-    ${REVISION_NAME}${MODIFIERS}
-since an early version of this patch failed on constructs like
-    git describe v2.48.0-rc2-161-g6c2274cdbc^0
-
-Reported-by: Gabriel Amaral &lt;gabriel-amaral@github.com&gt;
-Signed-off-by: Elijah Newren &lt;newren@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#71e19a0</div>
-                                        <div class="message">object-name: fix resolution of object names containing curly braces
-
-Given a branch name of 'foo{bar', commands like
-
-    git cat-file -p foo{bar:README.md
-
-should succeed (assuming that branch had a README.md file, of course).
-However, the change in cce91a2caef9 (Change 'master@noon' syntax to
-'master@{noon}'., 2006-05-19) presumed that curly braces would always
-come after an '@' or '^' and be paired, causing e.g. 'foo{bar:README.md'
-to entirely miss the ':' and assume there's no object being referenced.
-In short, git would report:
-
-    fatal: Not a valid object name foo{bar:README.md
-
-Change the parsing to only make the assumption of paired curly braces
-immediately after either a '@' or '^' character appears.
-
-Add tests for this, as well as for a few other test cases that initial
-versions of this patch broke:
-  * 'foo@@{...}'
-  * 'foo^{/${SEARCH_TEXT_WITH_COLON}}:${PATH}'
-
-Note that we'd prefer not duplicating the special logic for "@^" characters
-here, because if get_oid_basic() or interpret_nth_prior_checkout() or
-get_oid_basic() or similar gain extra methods of using curly braces,
-then the logic in get_oid_with_context_1() would need to be updated as
-well.  But it's not clear how to refactor all of these to have a simple
-common callpoint with the specialized logic.
-
-Reported-by: Gabriel Amaral &lt;gabriel-amaral@github.com&gt;
-Helped-by: Michael Haggerty &lt;mhagger@github.com&gt;
-Signed-off-by: Elijah Newren &lt;newren@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#76baf97</div>
-                                        <div class="message">instaweb: fix ip binding for the python http.server
-
-`git instaweb -d python` should bind the server to 0.0.0.0, while
-`git instaweb -d python -l` should bind the server to 127.0.0.1.
-
-The code had them backwards by mistake since 2eb14bb2d4
-(git-instaweb: add Python builtin http.server support, 2019-01-28).
-
-Signed-off-by: Alecs King &lt;alecsk@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a90ff40</div>
-                                        <div class="message">docs: discuss caching personal access tokens
-
-Describe problems storing personal access tokens in git-credential-cache
-and suggest alternatives.
-
-Research suggests that many users are confused about this:
-
-&gt; the point of passwords is that (ideally) you memorise them [so]
-&gt; they're never stored anywhere in plain text. Yet GitHub's personal
-&gt; access token system seems to basically force you to store the token in
-&gt; plain text?
-
-https://stackoverflow.com/questions/46645843/where-to-store-my-git-personal-access-token#comment89963004_46645843
-Signed-off-by: M Hickford &lt;mirth.hickford@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cf5b827</div>
-                                        <div class="message">docs: list popular credential helpers
-
-git-credential-store saves credentials unencrypted on disk. It is the
-least secure choice of credential helper. Nevertheless, it appears
-several times more popular than any other credential helper [1].
-
-Inform users about more secure alternatives.
-
-[1] https://stackoverflow.com/questions/35942754/how-can-i-save-username-and-password-in-git
-
-Signed-off-by: M Hickford &lt;mirth.hickford@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0b43274</div>
-                                        <div class="message">credential-cache: respect authtype capability
-
-Previously, credential-cache populated authtype regardless whether
-"get" request had authtype capability. As documented in
-git-credential.txt, authtype "should not be sent unless the appropriate
-capability ... is provided".
-
-Add test. Without this change, the test failed because "credential fill"
-printed an incomplete credential with only protocol and host attributes
-(the unexpected authtype attribute was discarded by credential.c).
-
-Signed-off-by: M Hickford &lt;mirth.hickford@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -819,7 +465,7 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~7 coding hours recorded
+                            ~8 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -845,7 +491,7 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M0 2.75C0 1.784.784 1 1.75 1h12.5c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0114.25 15H1.75A1.75 1.75 0 010 13.25V2.75zm1.75-.25a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V2.75a.25.25 0 00-.25-.25H1.75zM7.25 8a.75.75 0 01-.22.53l-2.25 2.25a.75.75 0 11-1.06-1.06L5.44 8 3.72 6.28a.75.75 0 111.06-1.06l2.25 2.25c.141.14.22.331.22.53zm1.5 1.5a.75.75 0 000 1.5h3a.75.75 0 000-1.5h-3z"/>
                             </svg>
-                            Coding with VS Code
+                            Coding with Vim
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -861,18 +507,18 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">git</span>
-                                <div class="bar" style="width: 47.480000000000004%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">59%</span>
+                                <div class="bar" style="width: 46.096%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">58%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 32.272000000000006%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">40%</span>
+                                <div class="bar" style="width: 32.656%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">41%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">repo</span>
-                                <div class="bar" style="width: 0.248%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">0%</span>
+                                <div class="bar" style="width: 1.248%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                         </div>
                     </section>
@@ -881,27 +527,27 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 35.912%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">45%</span>
+                                <div class="bar" style="width: 33.327999999999996%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">42%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Mail</span>
-                                <div class="bar" style="width: 31.039999999999996%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">39%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">gitrebase</span>
-                                <div class="bar" style="width: 4.4479999999999995%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">6%</span>
+                                <div class="bar" style="width: 31.6%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">40%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Bash</span>
-                                <div class="bar" style="width: 3.664%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <div class="bar" style="width: 4.96%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">gitrebase</span>
+                                <div class="bar" style="width: 4.704%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Diff</span>
-                                <div class="bar" style="width: 2.416%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.08%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                         </div>
