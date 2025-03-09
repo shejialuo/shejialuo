@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.c .side{background-color:#58a6ff26}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.c .side{background-color:#58a6ff26}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.constant{color:#b44418}.token.string{color:#2777aa}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -33,6 +33,476 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 83 commits in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6f3fbed</div>
+                                        <div class="message">environment: move access to "core.hooksPath" into repo settings
+
+The "core.hooksPath" setting is stored in a global variable and
+populated via the `git_default_core_config`. This may cause issues in
+the case where one is handling multiple different repositories in a
+single process with different values for that config key, as we may or
+may not see the correct value in that case. Furthermore, global state
+blocks our path towards libification.
+
+Refactor the code so that we instead store the value in `struct
+repo_settings`. The value is computed as-needed and cached. The result
+should be functionally the same as there aren't ever any code paths
+where we'd execute hooks outside the context of a repository.
+
+Note that this requires us to change the passed-in repository in the
+`repo_git_path()` family of functions to be non-constant, as we call
+`adjust_git_path()` there.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b411ed6</div>
+                                        <div class="message">repo-settings: introduce function to clear struct
+
+We don't provide a way to clear a `struct repo_settings`, and instead
+open-code this in `repo_clear()`. This is mixing up concerns and means
+that developers have to touch multiple files whenever they add a new
+field to the structure in case the associated resources need to be
+released.
+
+Provide a new `repo_settings_clear()` function to improve this.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#88dd321</div>
+                                        <div class="message">path: drop `git_path()` in favor of `repo_git_path()`
+
+Remove `git_path()` in favor of the `repo_git_path()` family of
+functions, which makes the implicit dependency on `the_repository` go
+away.
+
+Note that `git_path()` returned a string allocated via `get_pathname()`,
+which uses a rotating set of statically allocated buffers. Consequently,
+callers didn't have to free the returned string. The same isn't true for
+`repo_common_path()`, so we also have to add logic to free the returned
+strings.
+
+This refactoring also allows us to remove `repo_common_pathv()` as well
+as `get_pathname()` from the public interface.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8ee018d</div>
+                                        <div class="message">rerere: let `rerere_path()` write paths into a caller-provided buffer
+
+Same as with `get_worktree_git_dir()` a couple of commits ago, the
+`rerere_path()` function returns paths that need not be free'd by the
+caller because `git_path()` internally uses `get_pathname()`.
+
+Refactor the function to instead accept a caller-provided buffer that
+the path will be written into, passing on ownership to the caller. This
+refactoring prepares us for the removal of `git_path()`.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1495850</div>
+                                        <div class="message">t/unit-tests: convert oidtree test to use clar test framework
+
+Adapt oidtree test script to clar framework by using clar assertions
+where necessary. `cl_parse_any_oid()` ensures the hash algorithm is set
+before parsing. This prevents issues from an uninitialized or invalid
+hash algorithm.
+
+Introduce 'test_oidtree__initialize` handles the to set up of the global
+oidtree variable and `test_oidtree__cleanup` frees the oidtree when all
+tests are completed.
+
+With this change, `check_each` stops at the first error encountered,
+making it easier to address it.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Seyi Kuforiji &lt;kuforiji98@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#69bc044</div>
+                                        <div class="message">t/unit-tests: convert oidmap test to use clar test framework
+
+Adapt oidmap test script to clar framework by using clar assertions
+where necessary. `cl_parse_any_oid()` ensures the hash algorithm is set
+before parsing. This prevents issues from an uninitialized or invalid
+hash algorithm.
+
+Introduce 'test_oidmap__initialize` handles the to set up of the global
+oidmap map with predefined key-value pairs, and `test_oidmap__cleanup`
+frees the oidmap and its entries when all tests are completed.
+
+The test loops through all entries to detect multiple errors. With this
+change, it stops at the first error encountered, making it easier to
+address it.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Seyi Kuforiji &lt;kuforiji98@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#869a1ed</div>
+                                        <div class="message">t/unit-tests: convert oid-array test to use clar test framework
+
+Adapt oid-array test script to clar framework by using clar assertions
+where necessary. Remove descriptions from macros to reduce
+redundancy, and move test input arrays to global scope for reuse across
+multiple test functions. Introduce `test_oid_array__initialize()` to
+explicitly initialize the hash algorithm.
+
+These changes streamline the test suite, making individual tests
+self-contained and reducing redundant code.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Seyi Kuforiji &lt;kuforiji98@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a16a2ee</div>
+                                        <div class="message">t/unit-tests: implement clar specific oid helper functions
+
+`get_oid_arbitrary_hex()` and `init_hash_algo()` are both required for
+oid-related tests to run without errors. In the current implementation,
+both functions are defined and declared in the
+`t/unit-tests/lib-oid.{c,h}` which is utilized by oid-related tests in
+the homegrown unit tests structure.
+
+Adapt functions in lib-oid.{c,h} to use clar. Both these functions
+become available for oid-related test files implemented using the clar
+testing framework, which requires them. This will be used by subsequent
+commits.
+
+Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Seyi Kuforiji &lt;kuforiji98@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#36463e3</div>
+                                        <div class="message">promisor-remote: check advertised name or URL
+
+A previous commit introduced a "promisor.acceptFromServer" configuration
+variable with only "None" or "All" as valid values.
+
+Let's introduce "KnownName" and "KnownUrl" as valid values for this
+configuration option to give more choice to a client about which
+promisor remotes it might accept among those that the server advertised.
+
+In case of "KnownName", the client will accept promisor remotes which
+are already configured on the client and have the same name as those
+advertised by the client. This could be useful in a corporate setup
+where servers and clients are trusted to not switch names and URLs, but
+where some kind of control is still useful.
+
+In case of "KnownUrl", the client will accept promisor remotes which
+have both the same name and the same URL configured on the client as the
+name and URL advertised by the server. This is the most secure option,
+so it should be used if possible.
+
+Signed-off-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d460267</div>
+                                        <div class="message">Add 'promisor-remote' capability to protocol v2
+
+When a server S knows that some objects from a repository are available
+from a promisor remote X, S might want to suggest to a client C cloning
+or fetching the repo from S that C may use X directly instead of S for
+these objects.
+
+Note that this could happen both in the case S itself doesn't have the
+objects and borrows them from X, and in the case S has the objects but
+knows that X is better connected to the world (e.g., it is in a
+$LARGEINTERNETCOMPANY datacenter with petabit/s backbone connections)
+than S. Implementation of the latter case, which would require S to
+omit in its response the objects available on X, is left for future
+improvement though.
+
+Then C might or might not, want to get the objects from X. If S and C
+can agree on C using X directly, S can then omit objects that can be
+obtained from X when answering C's request.
+
+To allow S and C to agree and let each other know about C using X or
+not, let's introduce a new "promisor-remote" capability in the
+protocol v2, as well as a few new configuration variables:
+
+  - "promisor.advertise" on the server side, and:
+  - "promisor.acceptFromServer" on the client side.
+
+By default, or if "promisor.advertise" is set to 'false', a server S will
+not advertise the "promisor-remote" capability.
+
+If S doesn't advertise the "promisor-remote" capability, then a client C
+replying to S shouldn't advertise the "promisor-remote" capability
+either.
+
+If "promisor.advertise" is set to 'true', S will advertise its promisor
+remotes with a string like:
+
+  promisor-remote=&lt;pr-info&gt;[;&lt;pr-info&gt;]...
+
+where each &lt;pr-info&gt; element contains information about a single
+promisor remote in the form:
+
+  name=&lt;pr-name&gt;[,url=&lt;pr-url&gt;]
+
+where &lt;pr-name&gt; is the urlencoded name of a promisor remote and
+&lt;pr-url&gt; is the urlencoded URL of the promisor remote named &lt;pr-name&gt;.
+
+For now, the URL is passed in addition to the name. In the future, it
+might be possible to pass other information like a filter-spec that the
+client may use when cloning from S, or a token that the client may use
+when retrieving objects from X.
+
+It is C's responsibility to arrange how it can reach X though, so pieces
+of information that are usually outside Git's concern, like proxy
+configuration, must not be distributed over this protocol.
+
+It might also be possible in the future for "promisor.advertise" to have
+other values. For example a value like "onlyName" could prevent S from
+advertising URLs, which could help in case C should use a different URL
+for X than the URL S is using. (The URL S is using might be an internal
+one on the server side for example.)
+
+By default or if "promisor.acceptFromServer" is set to "None", C will
+not accept to use the promisor remotes that might have been advertised
+by S. In this case, C will not advertise any "promisor-remote"
+capability in its reply to S.
+
+If "promisor.acceptFromServer" is set to "All" and S advertised some
+promisor remotes, then on the contrary, C will accept to use all the
+promisor remotes that S advertised and C will reply with a string like:
+
+  promisor-remote=&lt;pr-name&gt;[;&lt;pr-name&gt;]...
+
+where the &lt;pr-name&gt; elements are the urlencoded names of all the
+promisor remotes S advertised.
+
+In a following commit, other values for "promisor.acceptFromServer" will
+be implemented, so that C will be able to decide the promisor remotes it
+accepts depending on the name and URL it received from S. So even if
+that name and URL information is not used much right now, it will be
+needed soon.
+
+Helped-by: Taylor Blau &lt;me@ttaylorr.com&gt;
+Helped-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#07242c2</div>
+                                        <div class="message">path: drop `git_common_path()` in favor of `repo_common_path()`
+
+Remove `git_common_path()` in favor of the `repo_common_path()` family
+of functions, which makes the implicit dependency on `the_repository` go
+away.
+
+Note that `git_common_path()` used to return a string allocated via
+`get_pathname()`, which uses a rotating set of statically allocated
+buffers. Consequently, callers didn't have to free the returned string.
+The same isn't true for `repo_common_path()`, so we also have to add
+logic to free the returned strings.
+
+This refactoring also allows us to remove `repo_common_pathv()` from the
+public interface.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8e4710f</div>
+                                        <div class="message">worktree: return allocated string from `get_worktree_git_dir()`
+
+The `get_worktree_git_dir()` function returns a string constant that
+does not need to be free'd by the caller. This string is computed for
+three different cases:
+
+  - If we don't have a worktree we return a path into the Git directory.
+    The returned string is owned by `the_repository`, so there is no
+    need for the caller to free it.
+
+  - If we have a worktree, but no worktree ID then the caller requests
+    the main worktree. In this case we return a path into the common
+    directory, which again is owned by `the_repository` and thus does
+    not need to be free'd.
+
+  - In the third case, where we have an actual worktree, we compute the
+    path relative to "$GIT_COMMON_DIR/worktrees/". This string does not
+    need to be released either, even though `git_common_path()` ends up
+    allocating memory. But this doesn't result in a memory leak either
+    because we write into a buffer returned by `get_pathname()`, which
+    returns one out of four static buffers.
+
+We're about to drop `git_common_path()` in favor of `repo_common_path()`,
+which doesn't use the same mechanism but instead returns an allocated
+string owned by the caller. While we could adapt `get_worktree_git_dir()`
+to also use `get_pathname()` and print the derived common path into that
+buffer, the whole schema feels a lot like premature optimization in this
+context. There are some callsites where we call `get_worktree_git_dir()`
+in a loop that iterates through all worktrees. But none of these loops
+seem to be even remotely in the hot path, so saving a single allocation
+there does not feel worth it.
+
+Refactor the function to instead consistently return an allocated path
+so that we can start using `repo_common_path()` in a subsequent commit.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3859e39</div>
+                                        <div class="message">path: drop `git_path_buf()` in favor of `repo_git_path_replace()`
+
+Remove `git_path_buf()` in favor of `repo_git_path_replace()`. The
+latter does essentially the same, with the only exception that it does
+not rely on `the_repository` but takes the repo as separate parameter.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bba59f5</div>
+                                        <div class="message">path: drop `git_pathdup()` in favor of `repo_git_path()`
+
+Remove `git_pathdup()` in favor of `repo_git_path()`. The latter does
+essentially the same, with the only exception that it does not rely on
+`the_repository` but takes the repo as separate parameter.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7f17900</div>
+                                        <div class="message">path: drop unused `strbuf_git_path()` function
+
+The `strbuf_git_path()` function isn't used anywhere, and neither should
+it grow any callers because it depends on `the_repository`. Remove it.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f5c714e</div>
+                                        <div class="message">path: refactor `repo_submodule_path()` family of functions
+
+As explained in an earlier commit, we're refactoring path-related
+functions to provide a consistent interface for computing paths into the
+commondir, gitdir and worktree. Refactor the "submodule" family of
+functions accordingly.
+
+Note that in contrast to the other `repo_*_path()` families, we have to
+pass in the repository as a non-constant pointer. This is because we end
+up calling `repo_read_gitmodules()` deep down in the callstack, which
+may end up modifying the repository.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f946789</div>
+                                        <div class="message">submodule: refactor `submodule_to_gitdir()` to accept a repo
+
+The `submodule_to_gitdir()` function implicitly uses `the_repository` to
+resolve submodule paths. Refactor the function to instead accept a repo
+as parameter to remove the dependency on global state.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#93a8cfa</div>
+                                        <div class="message">path: refactor `repo_worktree_path()` family of functions
+
+As explained in an earlier commit, we're refactoring path-related
+functions to provide a consistent interface for computing paths into the
+commondir, gitdir and worktree. Refactor the "worktree" family of
+functions accordingly.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bdfc07b</div>
+                                        <div class="message">path: refactor `repo_git_path()` family of functions
+
+As explained in an earlier commit, we're refactoring path-related
+functions to provide a consistent interface for computing paths into the
+commondir, gitdir and worktree. Refactor the "gitdir" family of
+functions accordingly.
+
+Note that the `repo_git_pathv()` function is converted into an internal
+implementation detail. It is only used to implement `the_repository`
+compatibility shims and will eventually be removed from the public
+interface.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#70a16ff</div>
+                                        <div class="message">path: refactor `repo_common_path()` family of functions
+
+The functions provided by the "path" subsystem to derive repository
+paths for the commondir, gitdir, worktrees and submodules are quite
+inconsistent. Some functions have a `strbuf_` prefix, others have
+different return values, some don't provide a variant working on top of
+`strbuf`s.
+
+We're thus about to refactor all of these family of functions so that
+they follow a common pattern:
+
+  - `repo_*_path()` returns an allocated string.
+
+  - `repo_*_path_append()` appends the path to the caller-provided
+    buffer while returning a constant pointer to the buffer. This
+    clarifies whether the buffer is being appended to or rewritten,
+    which otherwise wasn't immediately obvious.
+
+  - `repo_*_path_replace()` replaces contents of the buffer with the
+    computed path, again returning a pointer to the buffer contents.
+
+The returned constant pointer isn't being used anywhere yet, but it will
+be used in subsequent commits. Its intent is to allow calling patterns
+like the following somewhat contrived example:
+
+    if (!stat(&amp;st, repo_common_path_replace(repo, &amp;buf, ...)) &amp;&amp;
+        !unlink(repo_common_path_replace(repo, &amp;buf, ...)))
+            ...
+
+Refactor the commondir family of functions accordingly and adapt all
+callers.
+
+Note that `repo_common_pathv()` is converted into an internal
+implementation detail. It is only used to implement `the_repository`
+compatibility shims and will eventually be removed from the public
+interface.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -174,390 +644,6 @@ updates:
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 54 commits in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#89be7d2</div>
-                                        <div class="message">builtin/refs: add '--no-reflog' flag to drop reflogs
-
-The "git refs migrate" subcommand converts the backend used for ref
-storage. It always migrates reflog data as well as refs. Introduce an
-option to exclude reflogs from migration, allowing them to be discarded
-when they are unnecessary.
-
-This is particularly useful in server-side repositories, where reflogs
-are typically not expected. However, some repositories may still have
-them due to historical reasons, such as bugs, misconfigurations, or
-administrative decisions to enable reflogs for debugging. In such
-repositories, it would be optimal to drop reflogs during the migration.
-
-To address this, introduce the '--no-reflog' flag, which prevents reflog
-migration. When this flag is used, reflogs from the original reference
-backend are migrated. Since only the new reference backend remains in
-the repository, all previous reflogs are permanently discarded.
-
-Helped-by: Junio C Hamano &lt;gitster@pobox.com&gt;
-Helped-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#63a597d</div>
-                                        <div class="message">ci: exercise credential helpers
-
-Wire up credential helpers in our CI runs so that we can rest assured
-that they compile and (if tests are available) function correctly.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#235fe77</div>
-                                        <div class="message">ci: fix propagating UTF-8 test locale in musl-based Meson job
-
-The musl-based Meson job is supposed to explicitly specify the UTF-8
-locale used for testing, which has been introduced with 84bb5eeace7 (ci:
-switch linux-musl to use Meson, 2025-01-28). That commit had two issues
-though:
-
-  - We continue to refer to "linux-musl", even though the job has been
-    renamed in the same commit to "linux-musl-meson".
-
-  - We use the wrong option name to specify the locale. This was not
-    noticed though due to the first issue.
-
-Fix both of these issues by fixing both the job and option naems.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cf7ee48</div>
-                                        <div class="message">agent: advertise OS name via agent capability
-
-As some issues that can happen with a Git client can be operating system
-specific, it can be useful for a server to know which OS a client is
-using. In the same way it can be useful for a client to know which OS
-a server is using.
-
-Our current agent capability is in the form of "package/version" (e.g.,
-"git/1.8.3.1"). Let's extend it to include the operating system name (os)
-i.e in the form "package/version-os" (e.g., "git/1.8.3.1-Linux").
-
-Including OS details in the agent capability simplifies implementation,
-maintains backward compatibility, avoids introducing a new capability,
-encourages adoption across Git-compatible software, and enhances
-debugging by providing complete environment information without affecting
-functionality. The operating system name is retrieved using the 'sysname'
-field of the `uname(2)` system call or its equivalent.
-
-However, there are differences between `uname(1)` (command-line utility)
-and `uname(2)` (system call) outputs on Windows. These discrepancies
-complicate testing on Windows platforms. For example:
-  - `uname(1)` output: MINGW64_NT-10.0-20348.3.4.10-87d57229.x86_64\
-  .2024-02-14.20:17.UTC.x86_64
-  - `uname(2)` output: Windows.10.0.20348
-
-On Windows, uname(2) is not actually system-supplied but is instead
-already faked up by Git itself. We could have overcome the test issue
-on Windows by implementing a new `uname` subcommand in `test-tool`
-using uname(2), but except uname(2), which would be tested against
-itself, there would be nothing platform specific, so it's just simpler
-to disable the tests on Windows.
-
-Mentored-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
-Signed-off-by: Usman Akinyemi &lt;usmanakinyemi202@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c1d6628</div>
-                                        <div class="message">meson: wire up static analysis via Coccinelle
-
-Wire up static analysis via Coccinelle via a new test target
-"coccicheck". This target can be executed via `meson compile coccicheck`
-and generates the semantic patch for us.
-
-Note that we don't hardcode the list of source and header files that
-shall be analyzed, and instead use git-ls-files(1) to find them for us.
-This is because we also want to analyze files that may not get built on
-the current platform, so finding all sources at configure time is easier
-than introducing a new variable that tracks all sources, including those
-which aren't being built.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e9e924e</div>
-                                        <div class="message">meson: wire up git-contacts(1)
-
-Wire up the build for git-contacts(1) in Meson.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1cee22e</div>
-                                        <div class="message">meson: wire up credential helpers
-
-We've got a couple of credential helpers in "contrib/credential", all
-of which aren't yet wired up via Meson. Do so.
-
-Note that ideally, we'd also wire up t0303 to be executed with each of
-the credential helpers to verify their functionality. Unfortunately
-though, none of them pass the test suite right now, so this is left for
-a future change.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f22889</div>
-                                        <div class="message">contrib/credential: fix compilation of "osxkeychain" helper
-
-The "osxkeychain" helper does not compile due to a warning generated by
-the unused `argc` parameter. Fix the warning by checking for the minimum
-number of required arguments explicitly in the least restrictive way
-possible.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a47b873</div>
-                                        <div class="message">
-                                            contrib/credential: fix compiling "libsecret" helper
-
-The "libsecret" credential helper does not compile when developer
-warnings are enabled due to three warnings:
-
-    - contrib/credential/libsecret/git-credential-libsecret.c:78
-                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                            missing initializer for field ‘reserved’ of ‘SecretSchema’
-      [-Werror=missing-field-initializers]. This issue is fixed by using
-      designated initializers.
-
-    - contrib/credential/libsecret/git-credential-libsecret.c:171:43:
-      comparison of integer expressions of different signedness: ‘int’
-      and ‘guint’ {aka ‘unsigned int’} [-Werror=sign-compare]. This
-      issue is fixed by using an unsigned variable to iterate through
-      the string vector.
-
-    - contrib/credential/libsecret/git-credential-libsecret.c:420:14:
-      unused parameter ‘argc’ [-Werror=unused-parameter]. This issue is
-      fixed by checking the number of arguments, but in the least
-      restrictive way possible.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;
-                                        </div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f8d95a3</div>
-                                        <div class="message">contrib/credential: fix compilation of wincred helper with MSVC
-
-The git-credential-wincred helper does not compile on Windows with
-Microsoft Visual Studio because of our use of `__attribute__()`, which
-its compiler doesn't support. While the rest of our codebase would know
-to handle this because we redefine the macro in "compat/msvc.h", this
-stub isn't available here because we don't include "git-compat-util.h"
-in the first place.
-
-Fix the issue by making the attribute depend on the `_MSC_VER`
-preprocessor macro.
-
-Signed-off-by: M Hickford &lt;mirth.hickford@gmail.com&gt;
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd21e6e</div>
-                                        <div class="message">contrib/credential: fix "netrc" tests with out-of-tree builds
-
-Tests of the "netrc" credential helper aren't prepared to handle
-out-of-tree builds:
-
-  - They expect the "test.pl" script to be located relative to the build
-    directory, even though it is located in the source directory.
-
-  - They expect the built "git-credential-netrc" helper to be located
-    relative to the "test.pl" file, evne though it is loated in the
-    build directory.
-
-This works alright as long as source and build directories are the same,
-but starts to break apart with Meson.
-
-Fix these first issue by using the new "GIT_SOURCE_DIR" variable to
-locate the test script itself. And fix the second issue by introducing a
-new environment variable "CREDENTIAL_NETRC_PATH" that can be set for
-out-of-tree builds to locate the built credential helper.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c582364</div>
-                                        <div class="message">GIT-BUILD-OPTIONS: propagate project's source directory
-
-A couple of our tests require knowledge around where to find the
-project's source directory in order to locate files required for the
-test itself. Until now we have been wiring these up ad-hoc via new,
-specialized variables catered to the specific usecase. This is quite
-awkward though, as every test that potentially needs to locate paths
-relative to the source directory needs to grow another variable.
-
-Introduce a new "GIT_SOURCE_DIR" variable into GIT-BUILD-OPTIONS to stop
-this proliferation. Remove existing variables that can be derived from
-it.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#15ff206</div>
-                                        <div class="message">t5701: add setup test to remove side-effect dependency
-
-Currently, the "test capability advertisement" test creates some files
-with expected content which are used by other tests below it.
-
-To remove that side-effect from this test, let's split up part of
-it into a "setup"-type test which creates the files with expected content
-which gets reused by multiple tests. This will be useful in a following
-commit.
-
-Mentored-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
-Signed-off-by: Usman Akinyemi &lt;usmanakinyemi202@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6aa09fd</div>
-                                        <div class="message">version: extend get_uname_info() to hide system details
-
-Currently, get_uname_info() function provides the full OS information.
-In a following commit, we will need it to provide only the OS name.
-
-Let's extend it to accept a "full" flag that makes it switch between
-providing full OS information and providing only the OS name.
-
-We may need to refactor this function in the future if an
-`osVersion.format` is added.
-
-Mentored-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
-Signed-off-by: Usman Akinyemi &lt;usmanakinyemi202@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a78d61</div>
-                                        <div class="message">version: refactor get_uname_info()
-
-Some code from "builtin/bugreport.c" uses uname(2) to get system
-information.
-
-Let's refactor this code into a new get_uname_info() function, so
-that we can reuse it in a following commit.
-
-Mentored-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
-Signed-off-by: Usman Akinyemi &lt;usmanakinyemi202@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cdfd081</div>
-                                        <div class="message">version: refactor redact_non_printables()
-
-The git_user_agent_sanitized() function performs some sanitizing to
-avoid special characters being sent over the line and possibly messing
-up with the protocol or with the parsing on the other side.
-
-Let's extract this sanitizing into a new redact_non_printables() function,
-as we will want to reuse it in a following patch.
-
-For now the new redact_non_printables() function is still static as
-it's only needed locally.
-
-While at it, let's use strbuf_detach() to explicitly detach the string
-contained by the 'buf' strbuf.
-
-Mentored-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
-Signed-off-by: Usman Akinyemi &lt;usmanakinyemi202@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0c124cb</div>
-                                        <div class="message">version: replace manual ASCII checks with isprint() for clarity
-
-Since the isprint() function checks for printable characters, let's
-replace the existing hardcoded ASCII checks with it. However, since
-the original checks also handled spaces, we need to account for spaces
-explicitly in the new check.
-
-Mentored-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
-Signed-off-by: Usman Akinyemi &lt;usmanakinyemi202@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b07dd90</div>
-                                        <div class="message">merge-recursive: optimize time complexity for process_renames
-
-Avoid O(n^2) complexity in `process_renames()` when building a sorted
-`string_list` by constructing it unsorted and sorting it afterward,
-reducing the complexity to O(n log n).
-
-Signed-off-by: Meet Soni &lt;meetsoni3017@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#af8fc7b</div>
-                                        <div class="message">rebase -i: reword empty commit after fast-forward
-
-When rebase rewords a commit it picks the commit and then runs "git
-commit --amend" to reword it. When the commit is picked the sequencer
-tries to reuse existing commits by fast-forwarding if the parents are
-unchanged. Rewording an empty commit that has been fast-forwarded fails
-because "git commit --amend" is called without "--allow-empty". This
-happens because when a commit is fast-forwarded the logic that checks
-whether we should pass "--allow-empty" is skipped. Fix this by always
-passing "--allow-empty" when rewording a commit. This is safe because we
-are amending a commit that has already been picked so if it had become
-empty when it was picked we'd have already returned an error.
-
-As "git commit" will happily create empty merge commits without
-"--allow-empty" we do not need to pass that flag when rewording merge
-commits.
-
-Signed-off-by: Phillip Wood &lt;phillip.wood@dunelm.org.uk&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#72f1ddf</div>
-                                        <div class="message">Merge branch 'ps/build-meson-fixes' into ps/build-meson-fixes-0130
-
-* ps/build-meson-fixes:
-  ci: wire up Visual Studio build with Meson
-  ci: raise error when Meson generates warnings
-  meson: fix compilation with Visual Studio
-  meson: make the CSPRNG backend configurable
-  meson: wire up fuzzers
-  meson: wire up generation of distribution archive
-  meson: wire up development environments
-  meson: fix dependencies for generated headers
-  meson: populate project version via GIT-VERSION-GEN
-  GIT-VERSION-GEN: allow running without input and output files
-  GIT-VERSION-GEN: simplify computing the dirty marker</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -574,7 +660,7 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~6 coding hours recorded
+                            ~10 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -594,7 +680,7 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/>
                             </svg>
-                            ~1 hours of coding per day
+                            ~2 hours of coding per day
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -616,23 +702,23 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">PSC_JOB</span>
-                                <div class="bar" style="width: 58.57599999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">73%</span>
+                                <div class="bar" style="width: 65.49600000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">82%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 14.016%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">18%</span>
+                                <div class="bar" style="width: 9.991999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">12%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">linux-6.8</span>
-                                <div class="bar" style="width: 4.6000000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">6%</span>
+                                <div class="bar" style="width: 2.8000000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">git</span>
-                                <div class="bar" style="width: 2.808%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <div class="bar" style="width: 1.7120000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                         </div>
                     </section>
@@ -641,28 +727,28 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C++</span>
-                                <div class="bar" style="width: 45.952%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">57%</span>
+                                <div class="bar" style="width: 62.76%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">78%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Mail</span>
-                                <div class="bar" style="width: 12.224%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">15%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Markdown</span>
-                                <div class="bar" style="width: 11.92%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">15%</span>
+                                <div class="bar" style="width: 7.440000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 5.760000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">7%</span>
+                                <div class="bar" style="width: 3.6799999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Markdown</span>
+                                <div class="bar" style="width: 1.816%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 2.808%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <div class="bar" style="width: 1.7120000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                         </div>
                     </section>
