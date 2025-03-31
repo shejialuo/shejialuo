@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="926" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="643" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}svg.large .largeable-column-fields{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.c .side{background-color:#58a6ff26}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -41,673 +41,74 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">shejialuo/shejialuo.github.io</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#32e9c69</div>
+                                        <div class="message">Automated Commit by `hexo deploy`</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">shejialuo/hexo-blog</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#133fbac</div>
+                                        <div class="message">Update mutt usage</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">shejialuo/OS-Configuration</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ec68617</div>
+                                        <div class="message">Update dotfiles submodule</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">shejialuo/dotfiles</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5a4add9</div>
-                                        <div class="message">picom: don't handle i3-lock
-
-We should not handle i3-lock for picom. Add the rule to do the following
-things:
-
-1. Do not blur "i3-lock".
-2. Do not set any transparency.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 33 commits in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#db58d5a</div>
-                                        <div class="message">builtin/verify-commit: stop using `the_repository`
-
-Remove the_repository global variable in favor of the repository
-argument that gets passed in "builtin/verify-commit.c".
-
-When `-h` is passed to the command outside a Git repository, the
-`run_builtin()` will call the `cmd_verify_commit()` function with `repo`
-set to NULL and then early in the function, `parse_options()` call will
-give the options help and exit.
-
-Pass the repository available in the calling context to `verify_commit()`
-to remove it's dependency on the global `the_repository` variable.
-
-Mentored-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
-Signed-off-by: Usman Akinyemi &lt;usmanakinyemi202@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#43a8391</div>
-                                        <div class="message">builtin/verify-tag: stop using `the_repository`
-
-Remove the_repository global variable in favor of the repository
-argument that gets passed in "builtin/verify-tag.c".
-
-When `-h` is passed to the command outside a Git repository, the
-`run_builtin()` will call the `cmd_verify_tag()` function with `repo` set
-to NULL and then early in the function, `parse_options()` call will give
-the options help and exit.
-
-Mentored-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
-Signed-off-by: Usman Akinyemi &lt;usmanakinyemi202@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f29f199</div>
-                                        <div class="message">config: teach repo_config to allow `repo` to be NULL
-
-The `repo` value can be NULL if a builtin command is run outside
-any repository. The current implementation of `repo_config()` will
-fail if `repo` is NULL.
-
-If the `repo` is NULL the `repo_config()` can ignore the repository
-configuration but it should read the other configuration sources like
-the system-side configuration instead of failing.
-
-Teach the `repo_config()` to allow `repo` to be NULL by calling the
-`read_very_early_config()` which read config but only enumerate system
-and global settings.
-
-This will be useful in the following commits.
-
-Suggested-by: Junio C Hamano &lt;gitster@pobox.com&gt;
-Mentored-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
-Signed-off-by: Usman Akinyemi &lt;usmanakinyemi202@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3adba40</div>
-                                        <div class="message">merge-ort: fix slightly overzealous assertion for rename-to-self
-
-merge-ort has a number of sanity checks on the file it is processing in
-process_renames().  One of these sanity checks was slightly overzealous
-because it indirectly assumed that a renamed file always ended up at a
-different path than where it started.  That is normally an entirely fair
-assumption, but directory rename detection can make things interesting.
-
-As a quick refresher, if one side of history renames directory A/ -&gt; B/,
-and the other side of history adds new files to A/, then directory
-rename detection notices and suggests moving those new files to B/.  A
-similar thing is done for paths renamed into A/, causing them to be
-transitively renamed into B/.  But, if the file originally came from B/,
-then this can end up causing a file to be renamed back to itself.
-
-It turns out the rest of the code following this assertion handled the
-case fine; the assertion was just an extra sanity check, not a rigid
-precondition.  Therefore, simply adjust the assertion to pass under this
-special case as well.
-
-Signed-off-by: Elijah Newren &lt;newren@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#98a1a00</div>
-                                        <div class="message">t6423: add a testcase causing a failed assertion in process_renames
-
-If one side of history renames a directory A/ -&gt; B/, and the other side
-of history adds new files to A/, then directory rename detection notices
-and moves or suggests moving those new files to B/.  A similar thing is
-done for paths renamed into A/, causing them to be transitively renamed
-into B/.  But, if the file originally came from B/, then this can end up
-causing a file to be renamed back to itself.  merge-ort crashes under
-this special case, due to a slightly overzealous assertion:
-
-    git: merge-ort.c:3051: process_renames: Assertion `source_deleted || oldinfo-&gt;filemask &amp; old_sidemask' failed.
-    Aborted (core dumped)
-
-Add a testcase demonstrating this.
-
-Signed-off-by: Dmitry Goncharov &lt;dgoncharov@users.sf.net&gt;
-[en: Instead of adding a new testsuite, place it near similar tests in
- t6423, adjusting to match the style of those tests.  Tweak the commit
- message to not repeat the entire testcase, but just describe the bug.
- Also update the line number in the error message.]
-Signed-off-by: Elijah Newren &lt;newren@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#10e8a93</div>
-                                        <div class="message">refs.c: stop matching non-directory prefixes in exclude patterns
-
-In the packed-refs backend, our implementation of '--exclude' (dating
-back to 59c35fac54 (refs/packed-backend.c: implement jump lists to avoid
-excluded pattern(s), 2023-07-10)) considers, for example:
-
-    $ git for-each-ref --exclude=refs/heads/ba
-
-to exclude "refs/heads/bar", "refs/heads/baz", and so on.
-
-The files backend, which does not implement '--exclude' (and relies on
-the caller to cull out results that don't match) naturally will
-enumerate "refs/heads/bar" and so on.
-
-So in the above example, 'for-each-ref' will try and see if
-"refs/heads/ba" matches "refs/heads/bar" (since the files backend simply
-enumerated every loose reference), and, realizing that it does not
-match, output the reference as expected. (A caller that did want to
-exclude "refs/heads/bar" and "refs/heads/baz" might instead run "git
-for-each-ref --exclude='refs/heads/ba*'").
-
-This can lead to strange behavior, like seeing a different set of
-references advertised via 'upload-pack' depending on what set of
-references were loose versus packed.
-
-So there is a subtle bug with '--exclude' which is that in the
-packed-refs backend we will consider "refs/heads/bar" to be a pattern
-match against "refs/heads/ba" when we shouldn't. Likewise, the reftable
-backend (which in this case is bug-compatible with the packed backend)
-exhibits the same broken behavior.
-
-There are a few ways to fix this. One is to tighten the rules in
-cmp_record_to_refname(), which is used to determine the start/end-points
-of the jump list used by the packed backend. In this new "strict" mode,
-the comparison function would handle the case where we've reached the
-end of the pattern by introducing a new check like so:
-
-    while (1) {
-        if (*r1 == '\n')
-            return *r2 ? -1 : 0;
-        if (!*r2)
-            if (strict &amp;&amp; *r1 != '/')        /* &lt;- here */
-                return 1;
-            return start ? 1 : -1;
-        if (*r1 != *r2)
-            return (unsigned char)*r1 &lt; (unsigned char)*r2 ? -1 : +1;
-        r1++;
-        r2++;
-    }
-
-(eliding out the rest of cmp_record_to_refname()). Equivalently, we
-could teach refs/packed-backend::populate_excluded_jump_list() to append
-a trailing '/' if one does not already exist, forcing an exclude pattern
-like "refs/heads/ba" to only match "refs/heads/ba/abc" and so forth.
-
-But since the same problem exists in reftable, we can fix both at once
-by performing this pre-processing step one layer up in refs.c at the
-common entrypoint for the two, which is 'refs_ref_iterator_begin()'.
-
-Since that solution is both the simplest and only requires modification
-in one spot, let's normalize exclude patterns so that they end with a
-trailing slash. This causes us to unify the behavior between all three
-backends.
-
-There is some minor test fallout in the "overlapping excluded regions"
-test, which happens to use 'refs/ba' as an exclude pattern, and expects
-references under the "refs/heads/bar/*" and "refs/heads/baz/*"
-hierarchies to be excluded from the results.
-
-But that test fallout is expected, because the test was codifying the
-buggy behavior to begin with, and should have never been written that
-way. Split that into its own test (since the range is no longer
-overlapping under the stricter interpretation of --exclude patterns
-presented here). Create a new test which does have overlapping
-regions by using a refs/heads/bar/4/... hierarchy and excluding both
-"refs/heads/bar" and "refs/heads/bar/4".
-
-Reported-by: SURA &lt;surak8806@gmail.com&gt;
-Helped-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#27be76b</div>
-                                        <div class="message">refs.c: remove empty '--exclude' patterns
-
-In 59c35fac54 (refs/packed-backend.c: implement jump lists to avoid
-excluded pattern(s), 2023-07-10), the packed-refs backend learned how to
-construct "jump lists" to avoid enumerating sections of the packed-refs
-file that we know the caller is going to throw out anyway.
-
-This process works by finding the start- and end-points (that is, where
-in the packed-refs file corresponds to the range we're going to ignore)
-for each exclude pattern, then constructing a jump list based on that.
-At enumeration time we'll consult the jump list to skip past everything
-in the range(s) found in the previous step, saving time when excluding a
-large portion of references.
-
-But when there is a --exclude pattern which is just the empty string,
-the behavior is a little funky. When we try and exclude the empty
-string, the matched range covers the entire packed-refs file, meaning
-that we won't output any packed references. But the empty pattern
-doesn't actually match any references to begin with! For example, on my
-copy of git.git I can do:
-
-    $ git for-each-ref '' | wc -l
-    0
-
-So "git for-each-ref --exclude=''" shouldn't actually remove anything
-from the output, and ought to be equivalent to "git for-each-ref". But
-it's not, and in fact:
-
-    $ git for-each-ref | wc -l
-    2229
-    $ git for-each-ref --exclude='' | wc -l
-    480
-
-But why does the '--exclude' version output only some of the references
-in the repository? Here's a hint:
-
-    $ find .git/refs -type f | wc -l
-    480
-
-Indeed, because the files backend doesn't implement[^1] the same jump
-list concept as the packed backend we get the correct result for the
-loose references, but none of the packed references.
-
-Since the empty string exclude pattern doesn't match anything, we can
-discard them before the packed-refs backend has a chance to even see it
-(and likewise for reftable, which also implements a similar concept
-since 1869525066 (refs/reftable: wire up support for exclude patterns,
-2024-09-16)).
-
-This approach (copying only some of the patterns into a strvec at the
-refs.c layer) may seem heavy-handed, but it's setting us up to fix
-another bug in the following commit where the fix will involve modifying
-the incoming patterns.
-
-[^1]: As noted in 59c35fac54. We technically could avoid opening and
-  enumerating the contents of, for e.g., "$GIT_DIR/refs/heads/foo/" if
-  we knew that we were excluding anything under the 'refs/heads/foo'
-  hierarchy. But the --exclude stuff is all best-effort anyway, since
-  the caller is expected to cull out any results that they don't want.
-
-Noticed-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cf15095</div>
-                                        <div class="message">builtin/diff-pairs: allow explicit diff queue flush
-
-The diffs queued from git-diff-pairs(1) are flushed when stdin is
-closed. To enable greater flexibility, allow control over when the diff
-queue is flushed by writing a single NUL byte on stdin between input
-file pairs. Diff output between flushes is separated by a single NUL
-byte.
-
-Signed-off-by: Justin Tobler &lt;jltobler@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5bd10b2</div>
-                                        <div class="message">builtin: introduce diff-pairs command
-
-Through git-diff(1), a single diff can be generated from a pair of blob
-revisions directly. Unfortunately, there is not a mechanism to compute
-batches of specific file pair diffs in a single process. Such a feature
-is particularly useful on the server-side where diffing between a large
-set of changes is not feasible all at once due to timeout concerns.
-
-To facilitate this, introduce git-diff-pairs(1) which acts as a backend
-passing its NUL-terminated raw diff format input from stdin through diff
-machinery to produce various forms of output such as patch or raw.
-
-The raw format was originally designed as an interchange format and
-represents the contents of the diff_queued_diff list making it possible
-to break the diff pipeline into separate stages. For example,
-git-diff-tree(1) can be used as a frontend to compute file pairs to
-queue and feed its raw output to git-diff-pairs(1) to compute patches.
-With this, batches of diffs can be progressively generated without
-having to recompute renames or retrieve object context. Something like
-the following:
-
-	git diff-tree -r -z -M $old $new |
-	git diff-pairs -p -z
-
-should generate the same output as `git diff-tree -p -M`. Furthermore,
-each line of raw diff formatted input can also be individually fed to a
-separate git-diff-pairs(1) process and still produce the same output.
-
-Based-on-patch-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Justin Tobler &lt;jltobler@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c8a8e04</div>
-                                        <div class="message">diff: add option to skip resolving diff statuses
-
-By default, `diffcore_std()` resolves the statuses for queued diff file
-pairs by calling `diff_resolve_rename_copy()`. If status information is
-already manually set, invoking `diffcore_std()` may change the status
-value.
-
-Introduce the `skip_resolving_statuses` diff option that prevents
-`diffcore_std()` from resolving file pair statuses when enabled.
-
-Signed-off-by: Justin Tobler &lt;jltobler@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7c67d2a</div>
-                                        <div class="message">diff: return diff_filepair from diff queue helpers
-
-The `diff_addremove()` and `diff_change()` functions set up and queue
-diffs, but do not return the `diff_filepair` added to the queue. In a
-subsequent commit, modifications to `diff_filepair` need to occur in
-certain cases after being queued.
-
-Since the existing `diff_addremove()` and `diff_change()` are also used
-for callbacks in `diff_options` as types `add_remove_fn_t` and
-`change_fn_t`, modifying the existing function signatures requires
-further changes. The diff options for pruning use `file_add_remove()`
-and `file_change()` where file pairs do not even get queued. Thus,
-separate functions are implemented instead.
-
-Split out the queuing operations into `diff_queue_addremove()` and
-`diff_queue_change()` which also return a handle to the queued
-`diff_filepair`. Both `diff_addremove()` and `diff_change()` are
-reimplemented as thin wrappers around the new functions.
-
-Signed-off-by: Justin Tobler &lt;jltobler@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c1cf918</div>
-                                        <div class="message">builtin/fsck: add `git refs verify` child process
-
-At now, we have already implemented the ref consistency checks for both
-"files-backend" and "packed-backend". Although we would check some
-redundant things, it won't cause trouble. So, let's integrate it into
-the "git-fsck(1)" command to get feedback from the users. And also by
-calling "git refs verify" in "git-fsck(1)", we make sure that the new
-added checks don't break.
-
-Introduce a new function "fsck_refs" that initializes and runs a child
-process to execute the "git refs verify" command. In order to provide
-the user interface create a progress which makes the total task be 1.
-It's hard to know how many loose refs we will check now. We might
-improve this later.
-
-Then, introduce the option to allow the user to disable checking ref
-database consistency. Put this function in the very first execution
-sequence of "git-fsck(1)" due to that we don't want the existing code of
-"git-fsck(1)" which would implicitly check the consistency of refs to
-die the program.
-
-Last, update the test to exercise the code.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e1c9548</div>
-                                        <div class="message">packed-backend: check whether the "packed-refs" is sorted
-
-When there is a "sorted" trait in the header of the "packed-refs" file,
-it means that each entry is sorted increasingly by comparing the
-refname. We should add checks to verify whether the "packed-refs" is
-sorted in this case.
-
-Update the "packed_fsck_ref_header" to know whether there is a "sorted"
-trail in the header. It may seem that we could record all refnames
-during the parsing process and then compare later. However, this is not
-a good design due to the following reasons:
-
-1. Because we need to store the state across the whole checking
-   lifetime, we would consume a lot of memory if there are many entries
-   in the "packed-refs" file.
-2. We cannot reuse the existing compare function "cmp_packed_ref_records"
-   which cause repetition.
-
-Because "cmp_packed_ref_records" needs an extra parameter "struct
-snaphost", extract the common part into a new function
-"cmp_packed_ref_records" to reuse this function to compare.
-
-Then, create a new function "packed_fsck_ref_sorted" to parse the file
-again and user the new fsck message "packedRefUnsorted(ERROR)" to report
-to the user if the file is not sorted.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e6ba4c0</div>
-                                        <div class="message">packed-backend: add "packed-refs" entry consistency check
-
-"packed-backend.c::next_record" will parse the ref entry to check the
-consistency. This function has already checked the following things:
-
-1. Parse the main line of the ref entry to inspect whether the oid is
-   not correct. Then, check whether the next character is oid. Then
-   check the refname.
-2. If the next line starts with '^', it would continue to parse the
-   peeled oid and check whether the last character is '\n'.
-
-As we decide to implement the ref consistency check for "packed-refs",
-let's port these two checks and update the test to exercise the code.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5637d55</div>
-                                        <div class="message">packed-backend: check whether the refname contains NUL characters
-
-"packed-backend.c::next_record" will use "check_refname_format" to check
-the consistency of the refname. If it is not OK, the program will die.
-However, it is reported in [1], we cannot catch some corruption. But we
-already have the code path and we must miss out something.
-
-We use the following code to get the refname:
-
-    strbuf_add(&amp;iter-&gt;refname_buf, p, eol - p);
-    iter-&gt;base.refname = iter-&gt;refname_buf.buf
-
-In the above code, `p` is the start pointer of the refname and `eol` is
-the next newline pointer. We calculate the length of the refname by
-subtracting the two pointers. Then we add the memory range between `p`
-and `eol` to get the refname.
-
-However, if there are some NUL characters in the memory range between `p`
-and `eol`, we will see the refname as a valid ref name as long as the
-memory range between `p` and first occurred NUL character is valid.
-
-In order to catch above corruption, create a new function
-"refname_contains_nul" by searching the first NUL character. If it is
-not at the end of the string, there must be some NUL characters in the
-refname.
-
-Use this function in "next_record" function to die the program if
-"refname_contains_nul" returns true.
-
-[1] https://lore.kernel.org/git/6cfee0e4-3285-4f18-91ff-d097da9de737@rd10.de/
-
-Reported-by: R. Diez &lt;rdiez-temp3@rd10.de&gt;
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c92e7e1</div>
-                                        <div class="message">packed-backend: add "packed-refs" header consistency check
-
-In "packed-backend.c::create_snapshot", if there is a header (the line
-which starts with '#'), we will check whether the line starts with "#
-pack-refs with: ". However, we need to consider other situations and
-discuss whether we need to add checks.
-
-1. If the header does not exist, we should not report an error to the
-   user. This is because in older Git version, we never write header in
-   the "packed-refs" file. Also, we do allow no header in "packed-refs"
-   in runtime.
-2. If the header content does not start with "# packed-ref with: ", we
-   should report an error just like what "create_snapshot" does. So,
-   create a new fsck message "badPackedRefHeader(ERROR)" for this.
-3. If the header content is not the same as the constant string
-   "PACKED_REFS_HEADER". This is expected because we make it extensible
-   intentionally and runtime "create_snapshot" won't complain about
-   unknown traits. In order to align with the runtime behavior. There is
-   no need to report.
-
-As we have analyzed, we only need to check the case 2 in the above. In
-order to do this, use "open_nofollow" function to get the file
-descriptor and then read the "packed-refs" file via "strbuf_read". Like
-what "create_snapshot" and other functions do, we could split the line
-by finding the next newline in the buffer. When we cannot find a
-newline, we could report an error.
-
-So, create a function "packed_fsck_ref_next_line" to find the next
-newline and if there is no such newline, use
-"packedRefEntryNotTerminated(ERROR)" to report an error to the user.
-
-Then, parse the first line to apply the checks. Update the test to
-exercise the code.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5155797</div>
-                                        <div class="message">packed-backend: check if header starts with "# pack-refs with: "
-
-We always write a space after "# pack-refs with:" but we don't align
-with this rule in the "create_snapshot" method where we would check
-whether header starts with "# pack-refs with:". It might seem that we
-should undoubtedly tighten this rule, however, we don't have any
-technical documentation about this and there is a possibility that we
-would break the compatibility for other third-party libraries.
-
-By investigating influential third-party libraries, we could conclude
-how these libraries handle the header of "packed-refs" file:
-
-1. libgit2 is fine and always writes the space. It also expects the
-   whitespace to exist.
-2. JGit does not expect th header to have a trailing space, but expects
-   the "peeled" capability to have a leading space, which is mostly
-   equivalent because that capability is typically the first one we
-   write. It always writes the space.
-3. gitoxide expects the space t exist and writes it.
-4. go-git doesn't create the header by default.
-
-As many third-party libraries expect a single space after "# pack-refs
-with:", if we forget to write the space after the colon,
-"create_snapshot" won't catch this. And we would break other
-re-implementations. So, we'd better tighten the rule by checking whether
-the header starts with "# pack-refs with: ".
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cfea2f2</div>
-                                        <div class="message">packed-backend: check whether the "packed-refs" is regular file
-
-Although "git-fsck(1)" and "packed-backend.c" will check some
-consistency and correctness of "packed-refs" file, they never check the
-filetype of the "packed-refs". Let's verify that the "packed-refs" has
-the expected filetype, confirming it is created by "git pack-refs"
-command.
-
-We could use "open_nofollow" wrapper to open the raw "packed-refs" file.
-If the returned "fd" value is less than 0, we could check whether the
-"errno" is "ELOOP" to report an error to the user. And then we use
-"fstat" to check whether the "packed-refs" file is a regular file.
-
-Reuse "FSCK_MSG_BAD_REF_FILETYPE" fsck message id to report the error to
-the user if "packed-refs" is not a regular file.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fdf3820</div>
-                                        <div class="message">builtin/refs: get worktrees without reading head information
-
-In "packed-backend.c", there are some functions such as "create_snapshot"
-and "next_record" which would check the correctness of the content of
-the "packed-ref" file. When anything is bad, the program will die.
-
-It may seem that we have nothing relevant to above feature, because we
-are going to read and parse the raw "packed-ref" file without creating
-the snapshot and using the ref iterator to check the consistency.
-
-However, when using "get_worktrees" in "builtin/refs", we would parse
-the "HEAD" information. If the referent of the "HEAD" is inside the
-"packed-ref", we will call "create_snapshot" function to parse the
-"packed-ref" to get the information. No matter whether the entry of
-"HEAD" in "packed-ref" is correct, "create_snapshot" would call
-"verify_buffer_safe" to check whether there is a newline in the last
-line of the file. If not, the program will die.
-
-Although this behavior has no harm for the program, it will
-short-circuit the program. When the users execute "git refs verify" or
-"git fsck", we should avoid reading the head information, which may
-execute the read operation in packed backend with stricter checks to die
-the program. Instead, we should continue to check other parts of the
-"packed-refs" file completely.
-
-Fortunately, in 465a22b338 (worktree: skip reading HEAD when repairing
-worktrees, 2023-12-29), we have introduced a function
-"get_worktrees_internal" which allows us to get worktrees without
-reading head information.
-
-Create a new exposed function "get_worktrees_without_reading_head", then
-replace the "get_worktrees" in "builtin/refs" with the new created
-function.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#320f206</div>
-                                        <div class="message">t0602: use subshell to ensure working directory unchanged
-
-For every test, we would execute the command "cd repo" in the first but
-we never execute the command "cd .." to restore the working directory.
-However, it's either not a good idea use above way. Because if any test
-fails between "cd repo" and "cd ..", the "cd .." will never be reached.
-And we cannot correctly restore the working directory.
-
-Let's use subshell to ensure that the current working directory could be
-restored to the correct path.
-
-Mentored-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Mentored-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">Keyitdev/sddm-astronaut-theme</span>
+                                        <div class="sha">#58103a0</div>
+                                        <div class="message">feat: update default application configuration</div>
                                     </div>
                                 </div>
                             </section>
@@ -720,34 +121,14 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">shejialuo/OS-Configuration</span>
+                                        <span class="repo">shejialuo/dotfiles</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#eaef444</div>
-                                        <div class="message">ArchLinux: clean the unused and outdated packages</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shejialuo/OS-Configuration</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0e1aed2</div>
-                                        <div class="message">ArchLinux: clean no used development packages</div>
+                                        <div class="sha">#ceda3f5</div>
+                                        <div class="message">gitconfig: fix tab issue</div>
                                     </div>
                                 </div>
                             </section>
@@ -768,7 +149,7 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~22 coding hours recorded
+                            ~19 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -788,13 +169,13 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/>
                             </svg>
-                            ~4 hours of coding per day
+                            ~3 hours of coding per day
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M0 2.75C0 1.784.784 1 1.75 1h12.5c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0114.25 15H1.75A1.75 1.75 0 010 13.25V2.75zm1.75-.25a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V2.75a.25.25 0 00-.25-.25H1.75zM7.25 8a.75.75 0 01-.22.53l-2.25 2.25a.75.75 0 11-1.06-1.06L5.44 8 3.72 6.28a.75.75 0 111.06-1.06l2.25 2.25c.141.14.22.331.22.53zm1.5 1.5a.75.75 0 000 1.5h3a.75.75 0 000-1.5h-3z"/>
                             </svg>
-                            Coding with VS Code
+                            Coding with Vim
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -810,28 +191,28 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 29.744%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">37%</span>
+                                <div class="bar" style="width: 39.367999999999995%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">49%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">OS-Configuration</span>
-                                <div class="bar" style="width: 29.248000000000005%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">37%</span>
+                                <div class="bar" style="width: 22.36%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">28%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">git</span>
-                                <div class="bar" style="width: 20.063999999999997%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">25%</span>
+                                <div class="bar" style="width: 16.496000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">21%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">sddm-astronaut-theme</span>
-                                <div class="bar" style="width: 0.44000000000000006%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">hexo-blog</span>
+                                <div class="bar" style="width: 0.8800000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">database-systems-complete-book-solutions</span>
-                                <div class="bar" style="width: 0.2%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">0%</span>
+                                <span class="name">sddm-astronaut-theme</span>
+                                <div class="bar" style="width: 0.496%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
                             </div>
                         </div>
                     </section>
@@ -840,28 +221,28 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 18.208000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 18.016%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">23%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 15.968%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">20%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">JSON</span>
-                                <div class="bar" style="width: 11.728000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 11.815999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">15%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Vim Script</span>
-                                <div class="bar" style="width: 8.16%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">10%</span>
+                                <span class="name">conf</span>
+                                <div class="bar" style="width: 7.271999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Bash</span>
-                                <div class="bar" style="width: 4.848%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">6%</span>
+                                <span class="name">INI</span>
+                                <div class="bar" style="width: 7.048000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">JSON</span>
+                                <div class="bar" style="width: 5.936%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">7%</span>
                             </div>
                         </div>
                     </section>
