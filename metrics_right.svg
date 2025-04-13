@@ -961,18 +961,13 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">git</span>
-                                <div class="bar" style="width: 62.872%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">79%</span>
+                                <div class="bar" style="width: 63.696%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">80%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 13.600000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">17%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">luo_obsidian</span>
-                                <div class="bar" style="width: 3.528%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <div class="bar" style="width: 16.304%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">20%</span>
                             </div>
                         </div>
                     </section>
@@ -981,27 +976,27 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 58.488%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">73%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">conf</span>
-                                <div class="bar" style="width: 4.4559999999999995%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">6%</span>
+                                <div class="bar" style="width: 59.10399999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">74%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Mail</span>
-                                <div class="bar" style="width: 4.24%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <div class="bar" style="width: 6.5120000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">8%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Markdown</span>
-                                <div class="bar" style="width: 3.432%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <span class="name">conf</span>
+                                <div class="bar" style="width: 4.664%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Bash</span>
-                                <div class="bar" style="width: 3.3600000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.5119999999999996%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">sshconfig</span>
+                                <div class="bar" style="width: 3.4240000000000004%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                         </div>
