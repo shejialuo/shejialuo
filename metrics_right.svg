@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1283" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="966" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.c .side{background-color:#58a6ff26}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.c .side{background-color:#58a6ff26}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -33,6 +33,46 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">shejialuo/shejialuo.github.io</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1e9c943</div>
+                                        <div class="message">Automated Commit by `hexo deploy`</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">shejialuo/hexo-blog</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#adbd047</div>
+                                        <div class="message">Update</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -399,510 +439,6 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 70 commits in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bbd831c</div>
-                                        <div class="message">meson: don't install git-pack-redundant(1) docs with breaking changes
-
-When breaking changes are enabled we continue to install documentation
-of the git-pack-redundant(1) command even though it is completely
-disabled and thus inaccessible. Improve this by only installing the
-documentation in case breaking changes aren't enabled.
-
-Based-on-patch-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#24a3f30</div>
-                                        <div class="message">meson: don't compile git-pack-redundant(1) with breaking changes
-
-We continue to compile the git-pack-redundant(1) builtin with Meson when
-breaking changes are enabled even though we ultimately don't expose this
-command at all. This is mostly harmless, but given that the intent of
-the build option is to be as close as possible to the state where the
-breaking change has been fully implemented this isn't optimal either.
-
-Improve the situation by not compiling the builtin when breaking changes
-are enabled.
-
-Based-on-patch-by: Phillip Wood &lt;phillip.wood123@gmail.com&gt;
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7208d84</div>
-                                        <div class="message">meson: define WITH_BREAKING_CHANGES when enabling breaking changes
-
-While Meson already supports the `-Dbreaking_changes=true` option, it
-only wires up the build option that propagates into the tests. The build
-option is only used for our tests to enable the `WITH_BREAKING_CHANGES`
-prerequisite though, and does not influence the code that is actually
-being built.
-
-The omission went unnoticed because we only have tests right now that
-get disabled when breaking changes are enabled, but not the other way
-round. In other words, we don't have any tests that verify that breaking
-changes behave as expected.
-
-Fix the build issue by setting the `WITH_BREAKING_CHANGES` preprocessor
-macro when breaking changes are enabled. Note that the `libgit_c_args`
-array is defined after the current spot where we handle the option, so
-to not have multiple sites where we handle it we instead move it after
-the array has been defined.
-
-Based-on-patch-by: Phillip Wood &lt;phillip.wood123@gmail.com&gt;
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5337dad</div>
-                                        <div class="message">dir.h: remove duplicate forward declaration of struct repository
-
-The `struct repository;` forward declaration appears twice in `dir.h`:
-once at line 10 and again at line 46. This duplication is unnecessary
-and likely unintentional.
-
-Removing the second declaration has no impact on compilation, as verified
-by a clean build.
-
-Signed-off-by: Abhijeetsingh Meena &lt;abhijeet040403@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d9cb0e6</div>
-                                        <div class="message">fast-export, fast-import: add support for signed-commits
-
-fast-export has a --signed-tags= option that controls how to handle tag
-signatures.  However, there is no equivalent for commit signatures; it
-just silently strips the signature out of the commit (analogously to
---signed-tags=strip).
-
-While signatures are generally problematic for fast-export/fast-import
-(because hashes are likely to change), if they're going to support tag
-signatures, there's no reason to not also support commit signatures.
-
-So, implement a --signed-commits= option that mirrors the --signed-tags=
-option.
-
-On the fast-export side, try to be as much like signed-tags as possible,
-in both implementation and in user-interface.  This will change the
-default behavior to '--signed-commits=abort' from what is now
-'--signed-commits=strip'.  In order to provide an escape hatch for users
-of third-party tools that call fast-export and do not yet know of the
---signed-commits= option, add an environment variable
-'FAST_EXPORT_SIGNED_COMMITS_NOABORT=1' that changes the default to
-'--signed-commits=warn-strip'.
-
-Signed-off-by: Luke Shumaker &lt;lukeshu@datawire.io&gt;
-Signed-off-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dda9bff</div>
-                                        <div class="message">fast-export: do not modify memory from get_commit_buffer
-
-fast-export's helper function find_encoding() takes a `const char *`, but
-modifies that memory despite the `const`.  Ultimately, this memory came
-from get_commit_buffer(), and you're not supposed to modify the memory
-that you get from get_commit_buffer().
-
-So, get rid of find_encoding() in favor of commit.h:find_commit_header(),
-which gives back a string length, rather than mutating the memory to
-insert a '\0' terminator.
-
-Because find_commit_header() detects the "\n\n" string that separates the
-headers and the commit message, move the call to be above the
-`message = strstr(..., "\n\n")` call.  This helps readability, and allows
-for the value of `encoding` to be used for a better value of "..." so that
-the same memory doesn't need to be checked twice.  Introduce a
-`commit_buffer_cursor` variable to avoid writing an awkward
-`encoding ? encoding + encoding_len : committer_end` expression.
-
-Signed-off-by: Luke Shumaker &lt;lukeshu@datawire.io&gt;
-Signed-off-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#87f2a91</div>
-                                        <div class="message">git-fast-export.adoc: clarify why 'verbatim' may not be a good idea
-
-Signed-off-by: Luke Shumaker &lt;lukeshu@datawire.io&gt;
-Signed-off-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3b24d86</div>
-                                        <div class="message">fast-export: rename --signed-tags='warn' to 'warn-verbatim'
-
-The --signed-tags= option takes one of five arguments specifying how to
-handle signed tags during export.  Among these arguments, 'strip' is to
-'warn-strip' as 'verbatim' is to 'warn' (the unmentioned argument is
-'abort', which stops the fast-export process entirely).  That is,
-signatures are either stripped or copied verbatim while exporting, with
-or without a warning.
-
-Match the pattern and rename 'warn' to 'warn-verbatim' to make it clear
-that it instructs fast-export to copy signatures verbatim.
-
-To maintain backwards compatibility, 'warn' is still recognized as
-deprecated synonym of 'warn-verbatim'.
-
-Signed-off-by: Luke Shumaker &lt;lukeshu@datawire.io&gt;
-Signed-off-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#73ca6d2</div>
-                                        <div class="message">fast-export: fix missing whitespace after switch
-
-"Documentation/CodingGuidelines" says that there should be whitespaces
-around operators like 'if', 'switch', 'for', etc.
-
-Let's fix this in "builtin/fast-export.c".
-
-Signed-off-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d007dc2</div>
-                                        <div class="message">git-fast-import.adoc: add missing LF in the BNF
-
-Signed-off-by: Luke Shumaker &lt;lukeshu@datawire.io&gt;
-Signed-off-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2bfd3b3</div>
-                                        <div class="message">decorate: fix sign comparison warnings
-
-There are multiple instances where ints have been initialized with
-values of unsigned ints, and where negative values don't mean anything.
-When such ints are compared with unsigned ints, it causes sign comparison
-warnings.
-
-Also, some of these are used just as stand-ins for their initial
-values, never being modified, thus obscuring the specific conditions
-under which certain operations happen.
-
-Replace int with unsigned int for 2 variables, and replace the
-intermediate variables with their initial values for 2 other variables.
-
-Signed-off-by: Arnav Bhate &lt;bhatearnav@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c702dd4</div>
-                                        <div class="message">fetch: use ref prefix list to skip ls-refs
-
-In git-fetch we have an optimization to avoid issuing an ls-refs command
-to the server if we don't care about the value of any refs (e.g.,
-because we are fetching exact object ids), saving a round-trip to the
-server. This comes from e70a3030e7 (fetch: do not list refs if fetching
-only hashes, 2018-09-27).
-
-It uses an explicit flag "must_list_refs" to decide when we need to do
-so. That was needed back then, because the list of ref-prefixes was not
-always complete. If it was empty, it did not necessarily mean that we
-were not interested in any refs). But that is no longer the case; an
-empty list of prefixes means that we truly do not care about any refs.
-
-And so rather than an explicit flag, we can just check whether we are
-interested in any ref prefixes. This simplifies the code slightly, as
-there is now a single source of truth for the decision.
-
-It also fixes a bug in / optimizes a very unlikely case, which is:
-
-  git fetch $remote ^foo $oid
-
-I.e., a negative refspec combined with an exact oid fetch. This is
-somewhat nonsense, in that there are no positive refspecs mentioning
-refs to countermand with the negative one. But we should be able to do
-this without issuing an ls-refs command (excluding "foo" from the empty
-set will obviously still be the empty set).
-
-However, the current code does not do so. The negative refspec is not
-counted as a noop in un-setting the must_list_refs flag (hardly the
-fault of e70a3030e7, as negative refspecs did not appear until much
-later). But by using the prefix list as a source of truth, this
-naturally just works; the negative refspec does not add a prefix to ask
-about, and hence does not trigger the ls-refs call.
-
-This is esoteric enough that I didn't bother adding a test. The real
-value here is in the code simplification.
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#20010b8</div>
-                                        <div class="message">fetch: avoid ls-refs only to ask for HEAD symref update
-
-When we fetch from a configured remote, we may try to update the local
-refs/remotes/&lt;origin&gt;/HEAD, and so we ask the server to advertise its
-HEAD to us.
-
-But if we aren't otherwise asking about any refs at all, then we know
-this HEAD update can never happen! To consider a new value for HEAD,
-the set_head() function uses guess_remote_head(). And even if it sees an
-explicit symref value for HEAD, it will only report that as a match if
-we also saw that remote ref advertised, and it mapped to a local
-tracking ref via get_fetch_map().
-
-In other words, a fetch like this:
-
-  git fetch origin $exact_oid:refs/heads/foo
-
-can never update HEAD, because we will never have fetched (nor even see
-the advertisement for) the ref that HEAD points to.
-
-Currently the command above will still call ls-refs to ask about the
-HEAD, even though it is pointless. This patch teaches it to skip the
-ls-refs call entirely in this case, which avoids a round-trip to the
-server.
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#095bc13</div>
-                                        <div class="message">fetch: stop protecting additions to ref-prefix list
-
-When using the ref-prefix feature of protocol v2, a client which sends
-no prefixes at all will get the full advertisement. And so the code in
-git-fetch was historically loose about setting up that list based on our
-refspecs. There were cases where we needed to know about some refs, so
-we just didn't add anything to the ref-prefix list.
-
-And hence further code, like that for tag-following and updating
-origin/HEAD, had to be careful about adding to an empty list. E.g., see
-the bug fixed by bd52d9a058 (fetch: fix following tags when fetching
-specific OID, 2025-03-07).
-
-But the previous commit removed the last such case, and now we know an
-empty ref-prefix list (at least inside git-fetch's do_fetch() function)
-means that we really don't need to see any refs. So we can drop those
-extra conditionals.
-
-This simplifies the code a little. But it also means that some cases can
-now use ref prefixes when they would not otherwise. As the test shows,
-fetching an exact oid into a local ref can now avoid enumerating all of
-the refs. The refspec itself doesn't need to know about any remote refs,
-and the tag auto-following can just ask about refs/tags/.
-
-The same is true for asking about HEAD to update the local origin/HEAD.
-I didn't add a test for that yet, though, as we can optimize it even
-further.
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#625ed92</div>
-                                        <div class="message">fetch: ask server to advertise HEAD for config-less fetch
-
-If we're not given any refspecs (either on the command line or via
-config) and we have no branch merge config, then we fetch the remote
-HEAD into our local FETCH_HEAD. In that case we do not send any
-ref-prefix option to the server at all, and we see the full
-advertisement.
-
-But this is sub-optimal. We only care about HEAD, so we can just ask
-for that, and ignore all of the other refs.
-
-The new test demonstrates a case where we see fewer refs (in this case
-only one less, but in theory we could be ignoring millions of them).
-
-This also removes the only case where we care about seeing some refs
-from the other side, but don't add anything to the ref_prefixes list.
-Cleaning this up means one less maintenance burden. Before this patch,
-any code which wanted to add to the list had to make sure the list was
-not empty, since an empty list meant "ask for everything". Now it really
-means "we are not interested in any refs".
-
-This should let us optimize a few more cases in subsequent patches.
-
-Note that we'll add "HEAD" to the list of prefixes, and later code for
-updating "refs/remotes/&lt;remote&gt;/HEAD" may likewise do so. In theory this
-could cause duplicates in the list, but in practice these can't both
-trigger. We hit our new case only if there are no refspecs, and the
-"&lt;remote&gt;/HEAD" feature is enabled only when we are fetching from a
-remote with configured refspecs. We could be defensive with a flag, but
-it didn't seem worth it to me (the absolute worse case is a useless
-redundant ref-prefix line sent to the server).
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#36b12c3</div>
-                                        <div class="message">refspec_ref_prefixes(): clean up refspec_item logic
-
-The point of refspec_ref_prefixes() is to look over the set of refspecs
-and set up an appropriate list of "ref-prefix" strings to send to the
-server.
-
-The logic for handling individual refspec_items has some confusing bits.
-The final part of our if/else cascade checks this:
-
-  else if (item-&gt;src &amp;&amp; !item-&gt;exact_sha1)
-	prefix = item-&gt;src;
-
-But we know that "item-&gt;exact_sha1" can never be true, because earlier
-we did:
-
-  if (item-&gt;exact_sha1 || item-&gt;negative)
-	continue;
-
-This is due to 6c301adb0a (fetch: do not pass ref-prefixes for fetch by
-exact SHA1, 2018-05-31), which added the continue. So it is tempting to
-remove the extra exact_sha1 at the end of the cascade, leaving the one
-at the top of the loop.
-
-But I don't think that's quite right. The full cascade is:
-
-  if (rs-&gt;fetch == REFSPEC_FETCH)
-	prefix = item-&gt;src;
-  else if (item-&gt;dst)
-	prefix = item-&gt;dst;
-  else if (item-&gt;src &amp;&amp; !item-&gt;exact_sha1)
-	prefix = item-&gt;src;
-
-which all comes from 6373cb598e (refspec: consolidate ref-prefix
-generation logic, 2018-05-16). That first "if" is supposed to handle
-fetches, where we care about the source name, since that is coming from
-the server. And the rest should be for pushes, where we care about the
-destination, since that's the name the server will use. And we get that
-either explicitly from "dst" (for something like "foo:bar") or
-implicitly from the source (a refspec like "foo" is treated as
-"foo:foo").
-
-But how should exact_sha1 interact with those? For a fetch, exact_sha1
-always means we do not care about sending a name to the server (there is
-no server refname at all). But pushing an exact sha1 should still care
-about the destination on the server! It is only if we have to fall back
-to the implicit source that we need to care if it is a real ref (though
-arguably such a push does not even make sense; where would the server
-store it?).
-
-So I think that 6c301adb0a "broke" the push case by always skipping
-exact_sha1 items, even though a push should only care about the
-destination.
-
-Of course this is all completely academic. We have still not implemented
-a v2 push protocol, so even though we do call this function for pushes,
-we'd never actually send these ref-prefix lines.
-
-However, given the effort I spent to figure out what was going on here,
-and the overlapping exact_sha1 checks, I'd like to rewrite this to
-preemptively fix the bug, and hopefully make it less confusing.
-
-This splits the "if" at the top-level into fetch vs push, and then each
-handles exact_sha1 appropriately itself. The check for negative refspecs
-remains outside of either (there is no protocol support for them, so we
-never send them to the server, but rather use them only to reduce the
-advertisement we receive).
-
-The resulting behavior should be identical for fetches, but hopefully
-sets us up better for a potential future v2 push.
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#821d8f2</div>
-                                        <div class="message">t5516: beef up exact-oid ref prefixes test
-
-Commit 6c301adb0a (fetch: do not pass ref-prefixes for fetch by exact
-SHA1, 2018-05-31) added a test that fetching an exact oid with the v2
-protocol works. Originally it failed without the code change from that
-commit, because fetch failed with "no matching remote head".
-
-That changed in 0177565148 (transport: do not list refs if possible,
-2018-09-27), which made fetch more forgiving of this case.
-
-But that now meant the test passes even without its fix! So let's also
-have it check the packet listing to make sure we did not ask for the
-bogus prefix (ultimately this is less important than whether the command
-fails, since it's just an optimization, but we should make sure not to
-regress it).
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6ea26f3</div>
-                                        <div class="message">t5516: drop NEEDSWORK about v2 reachability behavior
-
-When this test was added in 6c301adb0a (fetch: do not pass ref-prefixes
-for fetch by exact SHA1, 2018-05-31), there was still some uncertainty
-about the v2 protocol's looser behavior with serving objects that are
-not directly pointed at by a ref.
-
-At this point that behavior is well established, and I do not think we
-would ever change v2 to match the v0 behavior (and if we did,
-remembering to update this test is the least of our concerns).
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2de68c0</div>
-                                        <div class="message">t5516: prefer "oid" to "sha1" in some test titles
-
-These old tests refer to object ids as "sha1". These days we prefer
-the more algorithm-agnostic "oid".
-
-There are a few more tests that mention sha1 in the title and also use
-it in variables throughout the test. I've left them for now, as changing
-them is more involved (and they're linked to the allowTipSHA1InWant
-config, which as a v0-only thing actually is always sha1).
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#09781e3</div>
-                                        <div class="message">t5702: fix typo in test name
-
-Signed-off-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shejialuo/dotfiles</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#93da829</div>
-                                        <div class="message">vim: don't use signcolumn</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -919,19 +455,19 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~4 coding hours recorded
+                            ~3 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            Working on git
+                            Working on hexo-blog
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                             </svg>
-                            Mostly coding in C
+                            Mostly coding in Markdown
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -939,7 +475,7 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/>
                             </svg>
-                            ~2 hours of coding per day
+                            ~1 hours of coding per day
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -960,14 +496,19 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <h3>Projects activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
-                                <span class="name">git</span>
-                                <div class="bar" style="width: 64.264%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">80%</span>
+                                <span class="name">hexo-blog</span>
+                                <div class="bar" style="width: 54.28%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">68%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 15.736%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">20%</span>
+                                <div class="bar" style="width: 24.2%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">30%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">git</span>
+                                <div class="bar" style="width: 1.512%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                         </div>
                     </section>
@@ -975,29 +516,29 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <h3>Language activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
-                                <span class="name">C</span>
-                                <div class="bar" style="width: 57.608000000000004%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">72%</span>
+                                <span class="name">Markdown</span>
+                                <div class="bar" style="width: 54.28%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">68%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">conf</span>
-                                <div class="bar" style="width: 6.76%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Bash</span>
-                                <div class="bar" style="width: 5.096%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">6%</span>
+                                <div class="bar" style="width: 10.4%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">13%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">sshconfig</span>
-                                <div class="bar" style="width: 4.96%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">6%</span>
+                                <div class="bar" style="width: 7.624%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">10%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Mail</span>
-                                <div class="bar" style="width: 3.0079999999999996%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <div class="bar" style="width: 4.6240000000000006%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">JSON</span>
+                                <div class="bar" style="width: 1.552%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                         </div>
                     </section>
