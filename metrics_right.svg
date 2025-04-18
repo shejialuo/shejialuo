@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.c .side{background-color:#58a6ff26}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.deleted{color:#da3633}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -33,6 +33,384 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 212 commits in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3262a53</div>
+                                        <div class="message">reftable: ignore file-in-use errors when unlink(3p) fails on Windows
+
+Unlinking a file may fail on Windows systems when the file is still held
+open by another process. This is incompatible with POSIX semantics and
+by extension with Git's assumed semantics when unlinking files, which
+is that files can be unlinked regardless of whether they are still open
+or not. To counteract this incompatibility, we have some custom error
+handling in the `mingw_unlink()` wrapper that first retries the deletion
+with some delay, and then asks the user whether we should continue to
+retry.
+
+While this logic might be sensible in many callsites throughout Git, it
+is less when used in the reftable library. We only use unlink(3) there
+to delete tables which aren't referenced anymore, and the code is very
+aware of the limitations on Windows. As such, all calls to unlink(3p)
+don't perform any error checking at all and are fine with the call
+failing.
+
+Instead, the library provides the `reftable_stack_clean()` function,
+which Git knows to execute in git-pack-refs(1) after compacting a stack.
+The effect of this function is that all stale tables will eventually get
+deleted once they aren't kept open anymore.
+
+So while we're fine with unlink(3p) failing, the Windows-emulation of
+that function will still perform several sleeps and ultimately end up
+asking the user:
+
+    $ git pack-refs
+    Unlink of file 'C:/temp/jgittest/jgit/.git/reftable/0x000000000002-0x000000000004-50486d0e.ref' failed. Should I try again? (y/n) n
+    Unlink of file 'C:/temp/jgittest/jgit/.git/reftable/0x000000000002-0x000000000004-50486d0e.ref' failed. Should I try again? (y/n) n
+    Unlink of file 'C:/temp/jgittest/jgit/.git/reftable/0x000000000002-0x000000000004-50486d0e.ref' failed. Should I try again? (y/n) n
+
+It even asks multiple times, which is doubly annoying and puzzling to
+the user:
+
+  1. It asks when trying to delete the old file after having written the
+     compacted stack.
+
+  2. It asks when reloading the stack, where it will try to unlink
+     now-unreferenced tables.
+
+  3. It asks when calling `reftable_stack_clean()`, where it will try to
+     unlink now-stale tables.
+
+Fix the issue by making it possible to disable this behaviour with a
+preprocessor define. As "git-compat-util.h" is only included from
+"system.h", and given that "system.h" is only ever included by headers
+and code that are internal to the reftable library, we can set that
+macro in this header without impacting anything else but the reftable
+library.
+
+Reported-by: Christian Reich &lt;Zottelbart@t-online.de&gt;
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#507595e</div>
+                                        <div class="message">Merge branch 'ps/reftable-sans-compat-util' into ps/reftable-windows-unlink-fix
+
+* ps/reftable-sans-compat-util:
+  Makefile: skip reftable library for Coccinelle
+  reftable: decouple from Git codebase by pulling in "compat/posix.h"
+  git-compat-util.h: split out POSIX-emulating bits
+  compat/mingw: split out POSIX-related bits
+  reftable/basics: introduce `REFTABLE_UNUSED` annotation
+  reftable/basics: stop using `SWAP()` macro
+  reftable/stack: stop using `sleep_millisec()`
+  reftable/system: introduce `reftable_rand()`
+  reftable/reader: stop using `ARRAY_SIZE()` macro
+  reftable/basics: provide wrappers for big endian conversion
+  reftable/basics: stop using `st_mult()` in array allocators
+  reftable: stop using `BUG()` in trivial cases
+  reftable/record: don't `BUG()` in `reftable_record_cmp()`
+  reftable/record: stop using `BUG()` in `reftable_record_init()`
+  reftable/record: stop using `COPY_ARRAY()`
+  reftable/blocksource: stop using `xmmap()`
+  reftable/stack: stop using `write_in_full()`
+  reftable/stack: stop using `read_in_full()`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8f6a2db</div>
+                                        <div class="message">Makefile: skip reftable library for Coccinelle
+
+The reftable library does not use any of the common helpers that the Git
+project has. Consequently, most of the rules that we have in Coccinelle
+do not apply to the library at all and may even generate false positives
+when a pattern can be converted to use a Git helper function.
+
+Exclude reftable library sources from being checked by Coccinelle to
+avoid such false positives.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6af23ac</div>
+                                        <div class="message">reftable: decouple from Git codebase by pulling in "compat/posix.h"
+
+The reftable library includes "git-compat-util.h" in order to get a
+POSIX-like programming environment that papers over various differences
+between platforms. The header also brings with it a couple of helpers
+specific to the Git codebase though, and over time we have started to
+use these helpers in the reftable library, as well.
+
+This makes it very hard to use the reftable library as a standalone
+library without the rest of the Git codebase, so other libraries like
+e.g. libgit2 cannot easily use it. But now that we have removed all
+calls to Git-specific functionality and have split out "compat/posix.h"
+as a separate header we can address this.
+
+Stop including "git-compat-util.h" and instead include "compat/posix.h"
+to finalize the decoupling of the reftable library from the rest of the
+Git codebase. The only bits which remain specific to Git are "system.h"
+and "system.c", which projects will have to provide.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#75a044f</div>
+                                        <div class="message">git-compat-util.h: split out POSIX-emulating bits
+
+The "git-compat-util.h" header is a treasure trove of various bits and
+pieces used throughout the project. It basically mixes two different
+things into one:
+
+  - Providing a POSIX-like interface even on platforms that aren't
+    POSIX-compliant.
+
+  - Providing low-level functionality that is specific to Git.
+
+This intermixing is a bit of a problem for the reftable library as we
+don't want to recreate the POSIX-like interface there. But neither do we
+want to pull in the Git-specific functionality, as it is otherwise quite
+easy to start depending on the Git codebase again.
+
+Split out a new header "compat/posix.h" that only contains the bits and
+pieces relevant for the emulation of POSIX, which we will start using in
+the next commit.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0b960a5</div>
+                                        <div class="message">compat/mingw: split out POSIX-related bits
+
+Split out POSIX-related bits from "compat/mingw.h" and "compat/msvc.h".
+This is in preparation for splitting up "git-compat-utils.h" into a
+header that provides POSIX-compatibility and a header that provides
+common wrappers used by the Git project.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f93b2a0</div>
+                                        <div class="message">reftable/basics: introduce `REFTABLE_UNUSED` annotation
+
+Introduce the `REFTABLE_UNUSED` annotation and replace all existing
+users of `UNUSED` in the reftable library to use the new macro instead.
+
+Note that we unconditionally define `MAYBE_UNUSED` in the exact same
+way, so doing so unconditionally for `REFTABLE_UNUSED` should be fine,
+too.
+
+Suggested-by: Toon Claes &lt;toon@iotcl.com&gt;
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f8ed12d</div>
+                                        <div class="message">reftable/basics: stop using `SWAP()` macro
+
+Stop using `SWAP()` macro in favor of an open-coded variant of it. Note
+that this also requires us to open-code the build assert that `SWAP()`
+itself uses to verify that the size of both variables matches.
+
+This is done to reduce our dependency on the Git codebase.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#10f2935</div>
+                                        <div class="message">reftable/stack: stop using `sleep_millisec()`
+
+Refactor our use of `sleep_millisec()` by open-coding it with poll(3p),
+which is the current implementation of this function. Ideally, we'd use
+a more direct way to sleep, but there is no equivalent to sleep(3p) that
+would accept milliseconds as input.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#712f6cf</div>
+                                        <div class="message">reftable/system: introduce `reftable_rand()`
+
+Introduce a new system-level `reftable_rand()` function that generates a
+single unsigned integer for us. The implementation of this function is
+to be provided by the calling codebase, which allows us to more easily
+hook into pre-seeded random number generators.
+
+Adapt the two callsites where we generated random data.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#01a587d</div>
+                                        <div class="message">reftable/reader: stop using `ARRAY_SIZE()` macro
+
+We have a single user of the `ARRAY_SIZE()` macro in the reftable
+reader. Drop its use to reduce our dependence on the Git codebase.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e676694</div>
+                                        <div class="message">reftable/basics: provide wrappers for big endian conversion
+
+We're using a mixture of big endian conversion functions provided by
+both the reftable library, but also by the Git codebase. Refactor the
+code so that we exclusively use reftable-provided wrappers in order to
+untangle us from the Git codebase.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e3ea71</div>
+                                        <div class="message">reftable/basics: stop using `st_mult()` in array allocators
+
+We're using `st_mult()` as part of our macro helpers that allocate
+arrays. This is bad due two two reasons:
+
+  - `st_mult()` causes us to die in case the multiplication overflows.
+
+  - `st_mult()` ties us to the Git codebase.
+
+Refactor the code to instead detect overflows manually and return an
+error in such cases.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#445f9f4</div>
+                                        <div class="message">reftable: stop using `BUG()` in trivial cases
+
+Stop using `BUG()` in the remaining trivial cases that we still have in
+the reftable library. Instead of aborting the program, we'll now bubble
+up a `REFTABLE_API_ERROR` to indicate misuse of the calling conventions.
+
+Note that in both `reftable_reader_{inc,dec}ref()` we simply stop
+calling `BUG()` altogether. The only situation where the counter should
+be zero is when the structure has already been free'd anyway, so we
+would run into undefined behaviour regardless of whether we try to abort
+the program or not.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6f6127d</div>
+                                        <div class="message">reftable/record: don't `BUG()` in `reftable_record_cmp()`
+
+The reftable library aborts with a bug in case `reftable_record_cmp()`
+is invoked with two records of differing types. This would cause the
+program to die without the caller being able to handle the error, which
+is not something we want in the context of library code. And it ties us
+to the Git codebase.
+
+Refactor the code such that `reftable_record_cmp()` returns an error
+code separate from the actual comparison result. This requires us to
+also adapt some callers up the callchain in a similar fashion.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9d9fac0</div>
+                                        <div class="message">reftable/record: stop using `BUG()` in `reftable_record_init()`
+
+We're aborting the program via `BUG()` in case `reftable_record_init()`
+was invoked with an unknown record type. This is bad because we may now
+die in library code, and because it makes us depend on the Git codebase.
+
+Refactor the code such that `reftable_record_init()` can return an error
+code to the caller. Adapt any callers accordingly.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a967966</div>
+                                        <div class="message">reftable/record: stop using `COPY_ARRAY()`
+
+Drop our use of `COPY_ARRAY()`, replacing it with an open-coded variant
+thereof. This is done to reduce our dependency on the Git library.
+
+While at it, guard the whole array copy logic so that we only copy it in
+case there actually is anything to be copied. Otherwise, we may end up
+trying to allocate a zero-sized array, which will return a NULL pointer
+and thus cause us to return an `REFTABLE_OUT_OF_MEMORY_ERROR`.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#70afa6f</div>
+                                        <div class="message">reftable/blocksource: stop using `xmmap()`
+
+We use `xmmap()` to map reftables into memory. This function has two
+problems:
+
+  - It causes us to die in case the mmap fails.
+
+  - It ties us to the Git codebase.
+
+Refactor the code to use mmap(3p) instead with manual error checking.
+Note that this function may not be the system-provided mmap(3p), but may
+point to our `git_mmap()` wrapper that emulates the syscall on systems
+that do not have mmap(3p) available.
+
+Fix `reftable_block_source_from_file()` to properly bubble up the error
+code in case the map(3p) call fails.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e31db89</div>
+                                        <div class="message">reftable/stack: stop using `write_in_full()`
+
+Similar to the preceding commit, drop our use of `write_in_full()` and
+implement a new wrapper `reftable_write_full()` that handles this logic
+for us. This is done to reduce our dependency on the Git library.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cb3e368</div>
+                                        <div class="message">reftable/stack: stop using `read_in_full()`
+
+There is a single callsite of `read_in_full()` in the reftable library.
+Open-code the function to reduce our dependency on the Git library.
+
+Note that we only partially port over the logic from `read_in_full()`
+and its underlying `xread()` helper. Most importantly, the latter also
+knows to handle `EWOULDBLOCK` via `handle_nonblock()`. This logic is
+irrelevant for us though because the reftable library never sets the
+`O_NONBLOCK` option in the first place.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -107,338 +485,6 @@ So, instead of applications, should we also mention that we don't allow this for
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 43 commits in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#cee95f2</div>
-                                        <div class="message">t/t5329-pack-objects-cruft.sh: evict 'repack'-related tests
-
-The cruft pack feature has two primary test scripts which exercise
-various parts of it, which are:
-
-  - t5329-pack-objects-cruft.sh
-  - t7704-repack-cruft.sh
-
-The former is designed to test low-level pack generation mechanics at
-the 'git pack-objects --cruft'-level, which is plumbing. The latter, on
-the other hand, is designed to test the user-facing behavior through
-'git repack --cruft', which is porcelain (under the "ancillary
-manipulators" sub-section).
-
-At some point a handful of tests which should have been added to the
-latter script were instead written to the former. This isn't a huge
-deal, but rectifying it is straightforward. Move a handful of
-'repack'-related tests out of t5329 and into their rightful home in
-t7704.
-
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;
-Acked-by: Elijah Newren &lt;newren@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c000918</div>
-                                        <div class="message">pseudo-merge.h: fix a typo
-
-The comment added in 7252d9a036 (pseudo-merge: implement support for
-finding existing merges, 2024-05-23) misspells 'bitmap' as 'bitamp'.
-
-Correct that so that we no longer have any stray "bitamps" lurking
-throughout the tree:
-
-    $ git grep -ci bitamp | wc -l
-    0
-
-Noticed-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;
-Acked-by: Elijah Newren &lt;newren@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee89f7c</div>
-                                        <div class="message">ci/github: add missing 'CI_JOB_IMAGE' env variable
-
-The CI setups of GitLab and GitHub use a common dependency management
-script 'ci/install-dependencies.sh'. The script install the necessary
-packages based on a combination of the "$distro" and "$jobname" env
-variables.
-
-The "$distro" variable is derived from the "CI_JOB_IMAGE" env variable
-set by the CI configs. In the GitHub CI config, some of the jobs are
-missing this variable. For the 'Documentation' job which depends on
-'meson' being installed, this raises an error since the 'meson'
-dependency is never installed.
-
-Fix this by adding the 'CI_JOB_IMAGE' variable to all missing jobs. We
-don't add it the windows jobs, since they manager their dependency as
-part of the CI config and no further dependency management is needed.
-
-Signed-off-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b39932</div>
-                                        <div class="message">doc: apply new format to git-branch man page
-
-- Switch the synopsis to a synopsis block which automatically
-  formats placeholders in italics and keywords in monospace
-- Use _&lt;placeholder&gt;_ instead of &lt;placeholder&gt; in the description
-- Use `backticks` for keywords and more complex option
-descriptions. The new rendering engine applies synopsis rules to
-these spans.
-
-Possible values for some variables, that were mentioned in the description
-prose, are now made into enumerated list.
-
-Signed-off-by: Jean-Noël Avila &lt;jn.avila@free.fr&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e1b81f5</div>
-                                        <div class="message">completion: take into account the formatting backticks for options
-
-With the modern formatting of the manpages, the options and commands are now
-backticked in their definition lists. This patch updates the generation of
-the completion list to take into account this new format.
-
-The script `generate-configlist.sh` is updated to get rid of extraneous
-commands and fit everything in a single sed script.
-
-Signed-off-by: Jean-Noël Avila &lt;jn.avila@free.fr&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d39f04b</div>
-                                        <div class="message">index-pack, unpack-objects: restore missing -&gt;init_fn
-
-Commit 0578f1e66a ("global: adapt callers to use generic hash context helpers")
-accidentally removed `-&gt;init_fn`, which is required for OpenSSL 3+ SHA1.
-
-This fixes the following error on fetch:
-  fatal: fetch-pack: invalid index-pack output
-
-Signed-off-by: Jensen Huang &lt;hmz007@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2c0dcb9</div>
-                                        <div class="message">promisor-remote: compare remote names case sensitively
-
-Because the "[remote "nick"] fetch = ..." configuration variables
-have the nickname in the second part, the nicknames are case
-sensitive, unlike the first and the third component (i.e.
-"remote.origin.fetch" and "Remote.origin.FETCH" are the same thing,
-but "remote.Origin.fetch" and "remote.origin.fetch" are different).
-
-Let's follow the way Git works in general and compare the remote
-names case sensitively when processing advertised remotes.
-
-Signed-off-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#caed258</div>
-                                        <div class="message">promisor-remote: fix possible issue when no URL is advertised
-
-In the 'KnownUrl' case, in should_accept_remote(), let's check that
-`remote_url` is not NULL before we use strcmp() to compare it with
-the local URL. This could avoid crashes if a server starts to not
-advertise any URL in the future.
-
-If `remote_url` is NULL, we should reject the URL. Let's also warn in
-this case because we warn otherwise when a remote is rejected to try
-to help diagnose things at the end of the function.
-
-And while we are checking that remote_url is not NULL and warning if
-it is, it makes sense to also help diagnose the case where remote_url
-is empty.
-
-Also while at it, let's spell "URL" with uppercase letters in all the
-warnings.
-
-Signed-off-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b059339</div>
-                                        <div class="message">promisor-remote: fix segfault when remote URL is missing
-
-Using strvec_push() to push `NULL` into a 'strvec' results in a
-segfault, because `xstrdup(NULL)` crashes.
-
-So when an URL is missing from the config, let's not push the remote
-name and URL into the 'strvec's.
-
-While at it, let's also not push them in case the URL is empty. It's
-just not worth the trouble and it's consistent with how Git otherwise
-treats missing and empty URLs in the same way.
-
-Note that in case of missing or empty URL, Git uses the remote name to
-fetch, which can work if the remote is on the same filesystem. So
-configurations where the client, server and remote are all on the same
-filesystem may need URLs to be configured even if they are the same as
-the remote names. But this is a rare case, and the work around is easy
-enough.
-
-We leave improving the strvec API and/or xstrdup() for a future
-separate effort.
-
-While at it, let's also use git_config_get_string_tmp() instead of
-git_config_get_string() to simplify memory management.
-
-Helped-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9e05fbe</div>
-                                        <div class="message">t5710: arrange to delete the client before cloning
-
-If `test_when_finished "rm -rf client"` is run after we clone, it
-will not run if the clone failed, so the "client" directory might
-not be removed at the end of the test.
-
-`git clone` does try to remove the directory when it fails, but
-let's be safe and try to protect against possibly weird clone
-failures by moving `test_when_finished "rm -rf client"` before
-the clone. It just makes more sense this way around.
-
-Signed-off-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ae85116</div>
-                                        <div class="message">docs: add BreakingChanges to TECH_DOCS target
-
-When BreakingChanges.txt was added in 57ec9254eb9 (docs: introduce
-document to announce breaking changes, 2024-06-14) there was no
-corresponding change to the Makefile to build it. Fix that by adding it
-to the TECH_DOCS target.
-
-Signed-off-by: Phillip Wood &lt;phillip.wood@dunelm.org.uk&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee434e1</div>
-                                        <div class="message">pack-refs doc: fix indentation for --exclude
-
-Separate the paragraphs in the description of `--exclude` with a `+`
-rather than an empty line to indent the whole description rather than
-just the first paragraph.
-
-Signed-off-by: Phillip Wood &lt;phillip.wood@dunelm.org.uk&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#26d76ca</div>
-                                        <div class="message">doc: restore: remove note on --patch w/ pathspecs
-
-This note was added to the restore command docs in 46e91b663b
-(checkout: split part of it to new command 'restore', 2019-04-25),
-but it is now inaccurate. The underlying builtin `add -i` implementation,
-made default in 0527ccb1b5 (add -i: default to the built-in implementation,
-2021-11-30), supports pathspecs, so `git restore -p &lt;pathspec&gt;...` has
-worked for all users since then. I bisected to verify this was the commit
-that added support.
-
-Signed-off-by: Adam Johnson &lt;me@adamj.eu&gt;
-Acked-by: Johannes Schindelin &lt;johannes.schindelin@gmx.de&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#77f32ba</div>
-                                        <div class="message">Merge branch 'tb/multi-cruft-pack-refresh-fix' into tb/combine-cruft-below-size
-
-* tb/multi-cruft-pack-refresh-fix:
-  builtin/pack-objects.c: freshen objects from existing cruft packs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#de3dec1</div>
-                                        <div class="message">name-rev: remove "--stdin" support
-
-As part of Git 3.0, remove the hidden synonym for "--annotate-stdin"
-for real.  As this does not change the fact that it used to be
-called "--stdin" in older version of Git, keep that passage in the
-documentation for "--annotate-stdin".
-
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b0db798</div>
-                                        <div class="message">t6120: further modernize
-
-There is absolutely no reason why a pattern given to grep to find
-'warning: --stdin is deprecated' must be quoted within a pair of
-single quotes, or the pattern to look for the literal string as ERE.
-
-Quote the test body with a pair of single quotes like everybody
-else, and quote the needle string in a pair of double quotes.  Also
-use test_grep instead of "grep -E".
-
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a733ec8</div>
-                                        <div class="message">t6120: avoid hiding "git" exit status
-
-A handful of tests invoke "git" on the upstream side of a pipe,
-hiding its exit status.  Correct them.
-
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#926d18e</div>
-                                        <div class="message">t: introduce WITH_BREAKING_CHANGES prerequisite
-
-Earlier c5bc9a7f (Makefile: wire up build option for deprecated
-features, 2025-01-22) made an unfortunate decision to introduce the
-WITHOUT_BREAKING_CHANGES prerequisite to perform tests that ensure
-the historical behaviour that may be different from what we will
-have in the future.  It would inevitably invite double-negation when
-we need to add tests to ensure the behaviour we want to have in the
-future.
-
-Introduce WITH_BREAKING_CHANGES prerequisite and replace the
-existing uses of WITHOUT_BREAKING_CHANGES prerequisite.  To catch
-any future topics that add more uses of WITHOUT_BREAKING_CHANGES,
-mark it as a removed prerequisite.
-
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c24d55</div>
-                                        <div class="message">t: extend test_lazy_prereq
-
-Allow test_lazy_prereq script to signal a programming error by
-exiting with status 125 (like how bisect scripts do).  This is used
-to signal a deprecated-and-then-removed prerequisite that should
-never be used in tests anymore.
-
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ab362fc</div>
-                                        <div class="message">t: document test_lazy_prereq
-
-The t/README file talked about test_set_prereq but lacked
-explanation on test_lazy_prereq, which is a more modern way to
-define prerequisites.
-
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -455,19 +501,19 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~3 coding hours recorded
+                            ~5 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            Working on hexo-blog
+                            Working on git
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                             </svg>
-                            Mostly coding in Markdown
+                            Mostly coding in C
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -496,19 +542,19 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <h3>Projects activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
+                                <span class="name">git</span>
+                                <div class="bar" style="width: 40.919999999999995%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">51%</span>
+                            </div>
+                            <div class="entry">
                                 <span class="name">hexo-blog</span>
-                                <div class="bar" style="width: 54.10399999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">68%</span>
+                                <div class="bar" style="width: 27.024%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">34%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 24.128%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">30%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">git</span>
-                                <div class="bar" style="width: 1.7679999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">2%</span>
+                                <div class="bar" style="width: 12.048000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">15%</span>
                             </div>
                         </div>
                     </section>
@@ -516,29 +562,29 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <h3>Language activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
+                                <span class="name">C</span>
+                                <div class="bar" style="width: 36.288%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">45%</span>
+                            </div>
+                            <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 54.10399999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">68%</span>
+                                <div class="bar" style="width: 27.024%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">34%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">conf</span>
-                                <div class="bar" style="width: 10.368000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">13%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">sshconfig</span>
-                                <div class="bar" style="width: 7.6%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">10%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Mail</span>
-                                <div class="bar" style="width: 4.608%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.175999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">JSON</span>
-                                <div class="bar" style="width: 1.552%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">2%</span>
+                                <span class="name">sshconfig</span>
+                                <div class="bar" style="width: 3.8%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Makefile</span>
+                                <div class="bar" style="width: 3.0719999999999996%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
                             </div>
                         </div>
                     </section>
