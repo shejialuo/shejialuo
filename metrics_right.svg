@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="926" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="643" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}svg.large .largeable-column-fields{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -33,6 +33,70 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">use-mmap-for-packed-refs</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#be1e9e2</div>
+                                        <div class="message">packed-backend: use mmap when opening large "packed-refs" file
+
+We use "strbuf_read" to read the content of "packed-refs". However, this
+is a bad practice which would consume a lot of memory usage if there are
+multiple processes reading large "packed-refs".
+
+As we have introduced two helper functions "allocate_snapshot_buffer"
+and "munmap_snapshot_if_temporary", we could simply call these functions
+to use mmap mechanism.
+
+Suggested-by: Jeff King &lt;peff@peff.net&gt;
+Suggested-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#de14615</div>
+                                        <div class="message">packed-backend: extract munmap operation for `MMAP_TEMPORARY`
+
+"create_snapshot" would try to munmap the file when the "mmap_strategy"
+is "MMAP_TEMPORARY". We also need to do this operation when checking the
+consistency of the "packed-refs" file.
+
+Create a new function "munmap_snapshot_if_temporary" to do above and
+change "create_snapshot" to align with the behavior.
+
+Suggested-by: Jeff King &lt;peff@peff.net&gt;
+Suggested-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#852e8a6</div>
+                                        <div class="message">packed-backend: extract snapshot allocation in `load_contents`
+
+"load_contents" would choose which way to load the content of the
+"packed-refs". However, we cannot directly use this function when
+checking the consistency due to we don't want to open the file. And we
+also need to reuse the logic to avoid causing repetition.
+
+Let's create a new helper function "allocate_snapshot_buffer" to extract
+the snapshot allocation logic in "load_contents" and update the
+"load_contents" to align with the behavior.
+
+Suggested-by: Jeff King &lt;peff@peff.net&gt;
+Suggested-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -131,422 +195,6 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 73 commits in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f6d8550</div>
-                                        <div class="message">filter-branch: stop depending on Perl
-
-While git-filter-branch(1) is written as a shell script, the
-`--state-branch` feature depends on Perl to save and extract the object
-ID mappings. This can lead to subtle breakage though:
-
-  - We execute `perl` directly without respecting the `PERL_PATH`
-    configured by the distribution. As such, it may happen that we use
-    the wrong version of Perl.
-
-  - We install the script unchanged even if Perl isn't available at all
-    on the system, so using `--state-branch` would lead to failure
-    altogether in that case.
-
-Fix this by dropping Perl and instead implementing the feature with
-shell scripting exclusively.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#55f7879</div>
-                                        <div class="message">Merge branch 'ps/test-wo-perl-prereq' into ps/fewer-perl
-
-* ps/test-wo-perl-prereq:
-  t5703: refactor test to not depend on Perl
-  t5316: refactor `max_chain()` to not depend on Perl
-  t0210: refactor trace2 scrubbing to not use Perl
-  t0021: refactor `generate_random_characters()` to not depend on Perl
-  t/lib-httpd: refactor "one-time-perl" CGI script to not depend on Perl
-  t/lib-t6000: refactor `name_from_description()` to not depend on Perl
-  t/lib-gpg: refactor `sanitize_pgp()` to not depend on Perl
-  t: refactor tests depending on Perl for textconv scripts
-  t: refactor tests depending on Perl to print data
-  t: refactor tests depending on Perl substitution operator
-  t: refactor tests depending on Perl transliteration operator
-  Makefile: stop requiring Perl when running tests
-  meson: stop requiring Perl when tests are enabled
-  t: adapt existing PERL prerequisites
-  t: introduce PERL_TEST_HELPERS prerequisite
-  t: adapt `test_readlink()` to not use Perl
-  t: adapt `test_copy_bytes()` to not use Perl
-  t: adapt character translation helpers to not use Perl
-  t: refactor environment sanitization to not use Perl
-  t: skip chain lint when PERL_PATH is unset</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a4d746</div>
-                                        <div class="message">Merge branch 'es/meson-build-skip-coccinelle' into kn/meson-hdr-check
-
-* es/meson-build-skip-coccinelle:
-  meson: disable coccinelle configuration when building from a tarball</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e001118</div>
-                                        <div class="message">reftable/table: move printing logic into test helper
-
-The logic to print individual blocks in a table is hosted in the
-reftable library. This is only the case due to historical reasons though
-because users of the library had no interfaces to read blocks one by
-one. Otherwise, printing individual blocks has no place in the reftable
-library given that the format will not be generic in the first place.
-
-We have now grown a public interface to iterate through blocks contained
-in a table, and thus we can finally move the logic to print them into
-the test helper.
-
-Move over the logic and refactor it accordingly. Note that the iterator
-also trivially allows us to access index sections, which we previously
-didn't print at all. This omission wasn't intentional though, so start
-dumping those sections as well so that we can assert that indices are
-written as expected.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0f8ee94</div>
-                                        <div class="message">reftable/constants: make block types part of the public interface
-
-Now that reftable blocks can be read individually via the public
-interface it becomes necessary for callers to be able to distinguish the
-different types of blocks. Expose the relevant constants.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da89659</div>
-                                        <div class="message">reftable/table: introduce iterator for table blocks
-
-Introduce a new iterator that allows the caller to iterate through all
-blocks contained in a table. This gives users more fine-grained control
-over how exactly those blocks are being read and exposes information to
-callers that was previously inaccessible.
-
-This iterator will be required by a future patch series that adds
-consistency checks for the reftable backend. In addition to that though
-we will also reimplement `reftable_table_print_blocks()` on top of this
-new iterator in a subsequent commit.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c8cbe85</div>
-                                        <div class="message">reftable/table: add `reftable_table` to the public interface
-
-The `reftable_table` interface is an internal implementation detail that
-callers have no access to. Having direct access to this structure is
-important though for a subsequent patch series that will implement
-consistency checks for the reftable backend.
-
-Move the structure into "reftable-table.h" so that it part of the public
-interface.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#50d8459</div>
-                                        <div class="message">reftable/block: expose a generic iterator over reftable records
-
-Expose a generic iterator over reftable records and expose it via the
-public interface. Together with an upcoming iterator for reftable blocks
-contained in a table this will allow users to trivially iterate through
-blocks and their respective records individually.
-
-This functionality will be used to implement consistency checks for the
-reftable backend, which requires more fine-grained control over how we
-read data.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6da48a5</div>
-                                        <div class="message">reftable/block: make block iterators reseekable
-
-Refactor the block iterators so that initialization and seeking are
-different from one another. This makes the iterator trivially reseekable
-by storing the pointer to the block at initialization time, which we can
-then reuse on every seek.
-
-This refactoring prepares the code for exposing a `reftable_iterator`
-interface for blocks in a subsequent commit. Callsites are adjusted
-accordingly.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#156d79c</div>
-                                        <div class="message">reftable/block: store block pointer in the block iterator
-
-The block iterator requires access to a bunch of data from the
-underlying `reftable_block` that it is iterating over. This data is
-stored by copying over relevant data into a separate set of variables.
-This has multiple downsides:
-
-  - We require more storage space than necessary. This is more of a
-    theoretical issue as we shouldn't ever have many blocks.
-
-  - We have to perform more bookkeeping, and the variable names are
-    inconsistent across the two data structures. This can lead to some
-    confusion.
-
-  - The lifetime of the block iterator is tied to the block anyway, but
-    we hide that a bit by only storing pointers pointing into the block.
-
-There isn't really any good reason why we rip out parts of the block
-instead of storing a pointer to the block itself.
-
-Refactor the code to do so. Despite being simpler, it also allows us to
-decouple the lifetime of the block iterator from seeking in a subsequent
-commit.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#655e18d</div>
-                                        <div class="message">reftable/block: create public interface for reading blocks
-
-While users of the reftable library wouldn't generally require access to
-individual blocks in a reftable table, there are valid usecases where
-one may require low-level access to them. One such upcoming usecase in
-the Git codebase is to implement consistency checks for the reftable
-library where we want to verify each block individually.
-
-Create a public interface for reading blocks. The interface isn't yet
-complete and lacks e.g. a way to read individual records from a block.
-Such missing functionality will be backfilled in subsequent commits.
-
-Note that this change also requires us to expose `reftable_buf`, which
-is used by the `reftable_block_first_key()` function.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ce76cec</div>
-                                        <div class="message">git-zlib: use `struct z_stream_s` instead of typedef
-
-Throughout the Git codebase we're using the typedeffed version of
-`z_stream`, which maps to `struct z_stream_s`. By using a typedef
-instead of the struct it becomes somewhat harder to predeclare the
-symbol so that headers depending on the struct can do so without having
-to pull in "zlib-compat.h".
-
-We don't yet have users that would really care about this: the only
-users that declare `z_stream` as a pointer are in "reftable/block.h",
-which is a header that is internal to the reftable library. But in the
-next step we're going to expose the `struct reftable_block` publicly,
-and that struct does contain a pointer to `z_stream`. And as the public
-header shouldn't depend on "reftable/system.h", which is an internal
-implementation detail, we won't have the typedef for `z_stream` readily
-available.
-
-Prepare for this change by using `struct z_stream_s` throughout our code
-base. In case zlib-ng is used we use a define to map from `z_stream_s`
-to `zng_stream_s`.
-
-Drop the pre-declaration of `struct z_stream` while at it. This struct
-does not exist in the first place, and the declaration wasn't needed
-because "reftable/block.h" already includes "reftable/basics.h" which
-transitively includes "reftable/system.h" and thus "git-zlib.h".
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#12a9aa8</div>
-                                        <div class="message">reftable/block: rename `block_reader` to `reftable_block`
-
-The `block_reader` structure is used to access parsed data of a reftable
-block. The structure is currently treated as an internal implementation
-detail and not exposed via our public interfaces. The functionality
-provided by the structure is useful to external users of the reftable
-library though, for example when implementing consistency checks that
-need to scan through the blocks manually.
-
-Rename the structure to `reftable_block` now that the name has been made
-available in the preceding commit. This name is in line with the naming
-schema used for other data structures like `reftable_table` in that it
-describes the underlying entity that it provides access to.
-
-The new data structure isn't yet exposed via the public interface, which
-is left for a subsequent commit.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2b3362c</div>
-                                        <div class="message">reftable/block: rename `block` to `block_data`
-
-The `reftable_block` structure associates a byte slice with a block
-source. As such it only holds the data of a reftable block without
-actually encoding any of the details for how to access that data.
-
-Rename the structure to instead be called `reftable_block_data`. Besides
-clarifying that this really only holds data, it also allows us to rename
-the `reftable_block_reader` to `reftable_block` in the next commit, as
-this is the structure that actually encapsulates access to the reftable
-blocks.
-
-Rename the `struct reftable_block_reader::block` member accordingly.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd88831</div>
-                                        <div class="message">reftable/table: move reading block into block reader
-
-The logic to read blocks from a reftable is scattered across both the
-table and the block subsystems. Besides causing somewhat fuzzy
-responsibilities, it also means that we have to awkwardly pass around
-the ownership of blocks between the subsystems.
-
-Refactor the code so that we stop passing the block when initializing a
-reader, but instead by passing in the block source plus the offset at
-which we're supposed to read a block. Like this, the ownership of the
-block itself doesn't need to get handed over as the block reader is the
-one owning the block right from the start.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ba620d2</div>
-                                        <div class="message">reftable/block: simplify how we track restart points
-
-Restart points record the location of reftable records that do not use
-prefix compression and are used to perform a binary search inside of a
-block. These restart points are encoded at the end of a block, between
-the record data and the footer of a table.
-
-The block structure contains three different variables related to these
-restart points:
-
-  - The block length contains the length of the reftable block up to the
-    restart points.
-
-  - The restart count contains the number of restart points contained in
-    the block.
-
-  - The restart bytes variable tracks where the restart point data
-    begins.
-
-Tracking all three of these variables is unnecessary though as the data
-can be derived from one another: the block length without restart points
-is the exact same as the offset of the restart count data, which we
-already track via the `restart_bytes` data.
-
-Refactor the code so that we track the location of restart bytes not as
-a pointer, but instead as an offset. This allows us to trivially get rid
-of the `block_len` variable as described above. This avoids having the
-confusing `block_len` variable and allows us to do less bookkeeping
-overall.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1ac4e5e</div>
-                                        <div class="message">reftable/blocksource: consolidate code into a single file
-
-The code that implements block sources is distributed across a couple of
-files. Consolidate all of it into "reftable/blocksource.c" and its
-accompanying header so that it is easier to locate and more self
-contained.
-
-While at it, rename some of the functions to have properly scoped names.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b648bd6</div>
-                                        <div class="message">reftable/reader: rename data structure to "table"
-
-The `struct reftable_reader` subsystem encapsulates a table that has
-been read from the disk. As such, the current name of that structure is
-somewhat hard to understand as it only talks about the fact that we read
-something from disk, without really giving an indicator _what_ that is.
-
-Furthermore, this naming schema doesn't really fit well into how the
-other structures are named: `reftable_merged_table`, `reftable_stack`,
-`reftable_block` and `reftable_record` are all named after what they
-encapsulate.
-
-Rename the subsystem to `reftable_table`, which directly gives a hint
-that the data structure is about handling the individual tables part of
-the stack.
-
-While this change results in a lot of churn, it prepares for us exposing
-the APIs to third-party callers now that the reftable library is a
-standalone library that can be linked against by other projects.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6dcc05f</div>
-                                        <div class="message">reftable: fix formatting of the license header
-
-The license headers used across the reftable library doesn't follow our
-typical coding style for multi-line comments. Fix it.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c7c4e5e</div>
-                                        <div class="message">Merge branch 'ps/reftable-sans-compat-util' into ps/reftable-api-revamp
-
-* ps/reftable-sans-compat-util:
-  Makefile: skip reftable library for Coccinelle
-  reftable: decouple from Git codebase by pulling in "compat/posix.h"
-  git-compat-util.h: split out POSIX-emulating bits
-  compat/mingw: split out POSIX-related bits
-  reftable/basics: introduce `REFTABLE_UNUSED` annotation
-  reftable/basics: stop using `SWAP()` macro
-  reftable/stack: stop using `sleep_millisec()`
-  reftable/system: introduce `reftable_rand()`
-  reftable/reader: stop using `ARRAY_SIZE()` macro
-  reftable/basics: provide wrappers for big endian conversion
-  reftable/basics: stop using `st_mult()` in array allocators
-  reftable: stop using `BUG()` in trivial cases
-  reftable/record: don't `BUG()` in `reftable_record_cmp()`
-  reftable/record: stop using `BUG()` in `reftable_record_init()`
-  reftable/record: stop using `COPY_ARRAY()`
-  reftable/blocksource: stop using `xmmap()`
-  reftable/stack: stop using `write_in_full()`
-  reftable/stack: stop using `read_in_full()`</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -563,7 +211,7 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~4 coding hours recorded
+                            ~5 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -605,13 +253,18 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">git</span>
-                                <div class="bar" style="width: 65.50399999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">82%</span>
+                                <div class="bar" style="width: 61.64%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">77%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 14.496%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">18%</span>
+                                <div class="bar" style="width: 18.224%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">23%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">repo</span>
+                                <div class="bar" style="width: 0.136%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
                             </div>
                         </div>
                     </section>
@@ -620,27 +273,27 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 53.16%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">66%</span>
+                                <div class="bar" style="width: 45.704%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">57%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Mail</span>
-                                <div class="bar" style="width: 14.496%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">18%</span>
+                                <div class="bar" style="width: 18.224%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">23%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Diff</span>
-                                <div class="bar" style="width: 6.352%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
+                                <div class="bar" style="width: 9.144%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">11%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">gitrebase</span>
-                                <div class="bar" style="width: 2.928%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.504%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Bash</span>
-                                <div class="bar" style="width: 2.304%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.752%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                         </div>
