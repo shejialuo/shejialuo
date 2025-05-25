@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="693" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="961" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.deleted{color:#da3633}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.label,.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;border-radius:32px;font-size:12px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}.project .items{padding-left:11px}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .label{padding-left:0;display:flex;align-items:center}.contributors .label img{margin-left:0}.contributors .contributions{display:flex;align-items:center;font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.contributors .contributions svg{fill:#0366d6;margin-left:4px;width:.8rem;height:.8rem}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.constant{color:#b44418}.token.builtin{color:#106cbc}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -33,6 +33,463 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 46 commits in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2744646</div>
+                                        <div class="message">oidmap: rename oidmap_free() to oidmap_clear()
+
+This function does not free the oidmap struct itself; it just drops all
+items from the map (using hashmap_clear_() internally). It should be
+called oidmap_clear(), per CodingGuidelines.
+
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7291c2b</div>
+                                        <div class="message">pack-bitmap: fix memory leak if `load_bitmap_entries_v1` failed
+
+In pack-bitmap.c:load_bitmap_entries_v1, the function `read_bitmap_1`
+allocates a bitmap and reads index data into it. However, if any of
+the validation checks following the allocation fail, the allocated bitmap
+is not freed, resulting in a memory leak. To avoid this, the validation
+checks should be performed before the bitmap is allocated.
+
+Signed-off-by: Lidong Yan &lt;502024330056@smail.nju.edu.cn&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1970333</div>
+                                        <div class="message">reftable: fix perf regression when reading blocks of unwanted type
+
+In fd888311fbc (reftable/table: move reading block into block reader,
+2025-04-07), we have refactored how reftable blocks are read so that
+most of the logic is contained in the "block.c" subsystem itself. Most
+importantly, the whole logic to read the data itself is now contained in
+that subsystem.
+
+This change caused a significant performance regression though when
+reading blocks that aren't of the specific type one is searching for:
+
+    Benchmark 1: update-ref: create 100k refs (revision = fd888311fbc~)
+      Time (mean ± σ):      2.171 s ±  0.028 s    [User: 1.189 s, System: 0.977 s]
+      Range (min … max):    2.117 s …  2.206 s    10 runs
+
+    Benchmark 2: update-ref: create 100k refs (revision = fd888311fbc)
+      Time (mean ± σ):      3.418 s ±  0.030 s    [User: 2.371 s, System: 1.037 s]
+      Range (min … max):    3.377 s …  3.473 s    10 runs
+
+    Summary
+      update-ref: create 100k refs (revision = fd888311fbc~) ran
+        1.57 ± 0.02 times faster than update-ref: create 100k refs (revision = fd888311fbc)
+
+The root caute of the performance regression is that we changed when
+exactly blocks of an uninteresting type are being discarded. Previous to
+the refactoring in the mentioned commit we'd load the block data, read
+its type, notice that it's not the wanted type and discard the block.
+After the commit though we don't discard the block immediately, but we
+fully decode it only to realize that it's not the desired type. We then
+discard the block again, but have already performed a bunch of pointless
+work.
+
+Fix the regression by making `reftable_block_init()` return early in
+case the block is not of the desired type. This fixes the performance
+hit:
+
+    Benchmark 1: update-ref: create 100k refs (revision = HEAD~)
+      Time (mean ± σ):      2.712 s ±  0.018 s    [User: 1.990 s, System: 0.716 s]
+      Range (min … max):    2.682 s …  2.741 s    10 runs
+
+    Benchmark 2: update-ref: create 100k refs (revision = HEAD)
+      Time (mean ± σ):      1.670 s ±  0.012 s    [User: 0.991 s, System: 0.676 s]
+      Range (min … max):    1.652 s …  1.693 s    10 runs
+
+    Summary
+      update-ref: create 100k refs (revision = HEAD) ran
+        1.62 ± 0.02 times faster than update-ref: create 100k refs (revision = HEAD~)
+
+Note that the baseline performance is lower than in the original due to
+a couple of unrelated performance improvements that have landed since
+the original commit.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e5dd0a0</div>
+                                        <div class="message">builtin/am: fix memory leak in `split_mail_stgit_series`
+
+In builtin/am.c:split_mail_stgit_series, if `fopen` failed,
+`series_dir_buf` allocated by `xstrdup` will leak. Add `free` in
+`!fp` if branch will prevent the leak.
+
+Signed-off-by: Lidong Yan &lt;502024330056@smail.nju.edu.cn&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bac220e</div>
+                                        <div class="message">t1001: replace 'test -f' with 'test_path_is_file'
+
+'test_path_is_file' is a modern path checking method in Git's development.
+ Replace the basic shell command 'test -f' with this approach.
+
+Signed-off-by: Rodrigo Carvalho &lt;rodrigorsdc@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#91db6c7</div>
+                                        <div class="message">reftable/writer: fix memory leak when `writer_index_hash()` fails
+
+In reftable/writer.c:writer_index_hash(), if `reftable_buf_add` failed,
+key allocated by `reftable_malloc` will not be insert into `obj_index_tree`
+thus leaks. Simple add reftable_free(key) will solve this problem.
+
+Signed-off-by: Lidong Yan &lt;502024330056@smail.nju.edu.cn&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c8e752e</div>
+                                        <div class="message">reftable/writer: fix memory leak when `padded_write()` fails
+
+In reftable/writer.c:padded_write(), if w-&gt;writer failed, zeroed
+allocated in `reftable_calloc` will leak. w-&gt;writer could be
+`reftable_write_data` in reftable/stack.c, and could fail due to
+some write error. Simply add reftable_free(zeroed) will solve this
+problem.
+
+Signed-off-by: Lidong Yan &lt;502024330056@smail.nju.edu.cn&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#880146a</div>
+                                        <div class="message">Makefile: avoid constant rebuilds with compilation database
+
+Many contributors to software use a Language Server Protocol
+implementation to allow their editor to learn structural information
+about the code they write and provide additional features, such as
+jumping to the declaration or definition of a function or type.  In C,
+the usual implementation is clangd, which requires compiling with clang.
+
+Because C and C++ projects lack a standard file system layout and build
+system, unlike languages such as Rust and Go, clangd requires a
+compilation database to be generated by the clang compiler in order to
+pass the proper compilation flags and discover all of the files
+necessary to make the LSP work.  This is done by setting
+GENERATE_COMPILATION_DATABASE to "yes".
+
+However, when that's enabled and the user runs "make" a second time,
+all of the files are re-compiled, which is inconvenient for contributors
+to Git, since it makes small changes or rebases recompile the entirety
+of the codebase.  This happens because the directory holding the
+compilation database is updated anytime an object is built, so its
+modification date will always be newer than the first object built.
+
+To solve this, use the same trick we do just above for the .depend
+directory and filter the compilation database directory out if it
+already exists, which avoids making it a target to be built.
+
+Signed-off-by: brian m. carlson &lt;sandals@crustytoothpaste.net&gt;
+Helped-by: Philippe Blain &lt;levraiphilippeblain@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5dbaec6</div>
+                                        <div class="message">sequencer: rework reflog message handling
+
+It has been reported that "git rebase --rebase-merges" can create
+corrupted reflog entries like
+
+    e9c962f2ea0 HEAD@{8}: &lt;binary&gt;�: Merged in &lt;branch&gt; (pull request #4441)
+
+This is due to a use-after-free bug that happens because
+reflog_message() uses a static `struct strbuf` and is not called to
+update the current reflog message stored in `ctx-&gt;reflog_message` when
+creating the merge. This means `ctx-&gt;reflog_message` points to a stale
+reflog message that has been freed by subsequent call to
+reflog_message() by a command such as `reset` that used the return value
+directly rather than storing the result in `ctx-&gt;reflog_message`.
+
+Fix this by creating the reflog message nearer to where the commit is
+created and storing it in a local variable which is passed as an
+additional parameter to run_git_commit() rather than storing the message
+in `struct replay_ctx`. This makes it harder to forget to call
+`reflog_message()` before creating a commit and using a variable with a
+narrower scope means that a stale value cannot carried across a from one
+iteration of the loop to the next which should prevent any similar
+use-after-free bugs in the future.
+
+A existing test is modified to demonstrate that merges are now created
+with the correct reflog message.
+
+Reported-by: Kristoffer Haugsbakk &lt;code@khaugsbakk.name&gt;
+Signed-off-by: Phillip Wood &lt;phillip.wood@dunelm.org.uk&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7472721</div>
+                                        <div class="message">sequencer: move reflog message functions
+
+In the next commit these functions will be called from pick_one_commit()
+so move them above that function to avoid a forward declaration.
+
+Signed-off-by: Phillip Wood &lt;phillip.wood@dunelm.org.uk&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ba998f6</div>
+                                        <div class="message">docs: add credential helper for outlook and gmail in OAuth list of helpers
+
+This commit adds the `git-credential-outlook` and `git-credential-gmail`
+helpers to the list of OAuth helpers.
+
+Signed-off-by: Aditya Garg &lt;gargaditya08@live.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d6c63a7</div>
+                                        <div class="message">docs: improve send-email documentation
+
+OAuth2.0 is a new authentication method that is being used by many email
+providers, including Outlook and Gmail. Recently, the Authen::SASL perl
+module has been updated to support OAuth2.0 authentication, thus making
+the git-send-email script be able to use this authentication method as
+well. So lets improve the documentation to reflect this change.
+
+I also had a hard time finding a reliable OAuth2.0 access token
+generator for Outlook and Gmail. So I added a link to the such
+generators which I developed myself after seaching through lots of code
+and API documentation to make things easier for others.
+
+Signed-off-by: Aditya Garg &lt;gargaditya08@live.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8adee0c</div>
+                                        <div class="message">send-mail: improve checks for valid_fqdn
+
+The current implementation of a valid Fully Qualified Domain Name
+is not that strict. It just checks whether it has a dot (.) and
+if using macOS, it should not end with .local. As per RFC1035[1],
+from what I understood, the following checks need to be done:
+
+- The domain must contain atleast one dot
+- Each label (separated by dots) must be 1-63 characters long
+- Labels must start and end with an alphanumeric character
+- Labels can contain alphanumeric characters and hyphens
+
+Here are some examples of valid and invalid labels:
+
+'example.com',          # Valid
+'sub.example.com',      # Valid
+'my-domain.org',        # Valid
+'localhost',            # Invalid (no dot)
+'MacBook..',            # Invalid (double dots)
+'-example.com',         # Invalid (starts with a hyphen)
+'example-.com',         # Invalid (ends with a hyphen)
+'example..com',         # Invalid (double dots)
+'example',              # Invalid (no TLD)
+'example.local',        # Invalid on macOS
+'valid-domain.co.uk',   # Valid
+'123.example.com',      # Valid
+'example.com.',         # Invalid (trailing dot)
+'toolonglabeltoolonglabeltoolonglabeltoolonglabeltoolonglabeltoolonglabel.com', # Invalid (label &gt; 63 chars)
+
+Due to current implementation, I was not able to send emails from
+Ubuntu. Upon debugging, I found that the SMTP domain being passed
+to Outlook's servers was not valid.
+
+Net::SMTP=GLOB(0x5db4351225f8)&gt;&gt;&gt; EHLO MacBook..
+Net::SMTP=GLOB(0x5db4351225f8)&lt;&lt;&lt; 501 5.5.4 Invalid domain name
+Net::SMTP=GLOB(0x5db4351225f8)&gt;&gt;&gt; HELO MacBook..
+
+Notice that an invalid domain name "MacBook.." is sent by git-send-email.
+We have a fallback code that checks output from Net::Domain::domainname()
+or asking domain method of an Net::SMTP instance to detect a misconfigured
+hostname and replace it with fallback "localhost.localdomain", but the
+valid_fqdn apparently is failing to say "MacBook.." is not a valid fqdn.
+
+With this patch, the rule used in valid_fqdn is tightened, the beginning
+part of the SMTP exchange looked like this:
+
+Net::SMTP=GLOB(0x58c8af71e930)&gt;&gt;&gt; EHLO localhost.localdomain
+Net::SMTP=GLOB(0x58c8af71e930)&lt;&lt;&lt; 250-PN4P287CA0064.outlook.office365.com Hello
+
+[1]: https://datatracker.ietf.org/doc/html/rfc1035
+
+Signed-off-by: Aditya Garg &lt;gargaditya08@live.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a34fef8</div>
+                                        <div class="message">scalar reconfigure: add --maintenance=&lt;mode&gt; option
+
+When users want to enable the latest and greatest configuration options
+recommended by Scalar after a Git upgrade, 'scalar reconfigure --all' is
+a great option that iterates over all repos in the multi-valued
+'scalar.repos' config key.
+
+However, this feature previously forced users to enable background
+maintenance. In some environments this is not preferred.
+
+Add a new --maintenance=&lt;mode&gt; option to 'scalar reconfigure' that
+provides options for enabling (default), disabling, or leaving
+background maintenance config as-is.
+
+Helped-by: Junio C Hamano &lt;gitster@pobox.com&gt;
+Signed-off-by: Derrick Stolee &lt;stolee@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#882ce0c</div>
+                                        <div class="message">scalar clone: add --no-maintenance option
+
+When creating a new enlistment via 'scalar clone', the default is to set
+up situations that work for most user scenarios. Background maintenance
+is one of those highly-recommended options for most users.
+
+However, when using 'scalar clone' to create an enlistment in a
+different situation, such as prepping a VM image, it may be valuable to
+disable background maintenance so the manual maintenance steps do not
+get blocked by concurrent background maintenance activities.
+
+Add a new --no-maintenance option to 'scalar clone'.
+
+Signed-off-by: Derrick Stolee &lt;stolee@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9816e24</div>
+                                        <div class="message">scalar register: add --no-maintenance option
+
+When registering a repository with Scalar to get the latest opinionated
+configuration, the 'scalar register' command will also set up background
+maintenance. This is a recommended feature for most user scenarios.
+
+However, this is not always recommended in some scenarios where
+background modifications may interfere with foreground activities.
+Specifically, setting up a clone for use in automation may require doing
+certain maintenance steps in the foreground that could become blocked by
+concurrent background maintenance operations.
+
+Allow the user to specify --no-maintenance to 'scalar register'. This
+requires updating the method prototype for register_dir(), so use the
+default of enabling this value when otherwise specified.
+
+Signed-off-by: Derrick Stolee &lt;stolee@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c428216</div>
+                                        <div class="message">scalar: customize register_dir()'s behavior
+
+In advance of adding a --[no-]maintenance option to several 'scalar'
+subcommands, extend the register_dir() method to include an option for
+how it should handle background maintenance.
+
+It's important that we understand the context of toggle_maintenance()
+that will enable _or disable_ maintenance depending on its input value.
+Add a doc comment with this information.
+
+Similarly, update register_dir() to either enable maintenance or leave
+it alone.
+
+Signed-off-by: Derrick Stolee &lt;stolee@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#184abdc</div>
+                                        <div class="message">ci(win+Meson): build in Release mode
+
+When the `win+Meson` job was added to Git's CI, modeled after the
+`win+vs` job, it overlooked that the latter built the Git artifacts in
+release mode.
+
+The reason for this is that there is code in `compat/mingw.c` that turns
+on the modal assertion dialogs in debug mode, which are very useful when
+debugging interactively (as they offer to attach Visual Studio's
+debugger), but they are scarcely useful in CI builds (where that modal
+dialog would sit around, waiting for a human being to see and deal with
+it, which obviously won't ever happen).
+
+This problem was not realized immediately because of a separate bug: the
+`win+Meson` job erroneously built using the `gcc` that is in the `PATH`
+by default on hosted GitHub Actions runners. Since that bug was fixed by
+switching to `--vsenv`, though, the t7001-mv test consistently timed out
+after six hours in the CI builds on GitHub, quite often, and wasting
+build minutes without any benefit in return.
+
+The reason for this timeout was a symptom of aforementioned debug mode
+problem, where the test case 'nonsense mv triggers assertion failure and
+partially updated index' in t7001-mv triggered an assertion.
+
+I originally proposed this here patch to address the timeouts in CI
+builds. The Git project decided to address this timeout differently,
+though: by fixing the bug that the t7001-mv test case demonstrated. This
+does not address the debug mode problem, though, as an `assert()` call
+could be triggered in other ways in CI, and it should still not cause
+the CI build to hang but should cause Git to error out instead. To avoid
+having to accept this here patch, it was then proposed to replace all
+`assert()` calls in Git's code base by `BUG()` calls. This might be
+reasonable for independent reasons, but it obviously still does not
+address the debug mode problem, as `assert()` calls could be easily
+re-introduced by mistake, and besides, Git has a couple of dependencies
+that all may have their own `assert()` calls (which are then safely
+outside the control of the Git project to remove), therefore this here
+patch is still needed.
+
+Signed-off-by: Johannes Schindelin &lt;johannes.schindelin@gmx.de&gt;
+Acked-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+[jc: rebased on 'maint' to enable fast-tracking the change down]
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#435b076</div>
+                                        <div class="message">bundle-uri: add test for bundle-uri clones with tags
+
+The change to the bundle-uri unbundling refspec now includes tags, so this
+adds a very, very simple test to make sure that tags in a bundle are
+properly added to the cloned repository and will be included in ref
+negotiation with the subsequent fetch.
+
+Signed-off-by: Scott Chacon &lt;schacon@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c858c64</div>
+                                        <div class="message">bundle-uri: copy all bundle references ino the refs/bundle space
+
+When downloading bundles via the bundle-uri functionality, we only copy the
+references from refs/heads into the refs/bundle space. I'm not sure why this
+refspec is hardcoded to be so limited, but it makes the ref negotiation on
+the subsequent fetch suboptimal, since it won't use objects that are
+referenced outside of the current heads of the bundled repository.
+
+This change to copy everything in refs/ in the bundle to refs/bundles/
+significantly helps the subsequent fetch, since nearly all the references
+are now included in the negotiation.
+
+The update to the bundle-uri unbundling refspec puts all the heads from a
+bundle file into refs/bundle/heads instead of directly into refs/bundle/ so
+the tests also need to be updated to look in the new heirarchy.
+
+Signed-off-by: Scott Chacon &lt;schacon@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -113,85 +570,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">js-string-list-enhance-v2</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b059e10</div>
-                                        <div class="message">u-string-list: move "remove duplicates" test to "u-string-list.c"
-
-We use "test-tool string-list remove_duplicates" to test the
-"string_list_remove_duplicates" function. As we have introduced the unit
-test, we'd better remove the logic from shell script to C program to
-improve test speed and readability.
-
-As all the tests in shell script are removed, let's just delete the
-"t0063-string-list.sh" and update the "meson.build" file to align with
-this change.
-
-Also we could simply remove "DISABLE_SIGN_COMPARE_WARNINGS" due to we
-have already deleted related code.
-
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#787bb09</div>
-                                        <div class="message">u-string-list: move "filter string" test to "u-string-list.c"
-
-We use "test-tool string-list filter" to test the "filter_string_list"
-function. As we have introduced the unit test, we'd better remove the
-logic from shell script to C program to improve test speed and
-readability.
-
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6716780</div>
-                                        <div class="message">u-string-list: move "test_split_in_place" to "u-string-list.c"
-
-We use "test-tool string-list split_in_place" to test the
-"string_list_split_in_place" function. As we have introduced the unit
-test, we'd better remove the logic from shell script to C program to
-improve test speed and readability.
-
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2258af8</div>
-                                        <div class="message">u-string-list: move "test_split" into "u-string-list.c"
-
-We rely on "test-tool string-list" command to test the functionality of
-the "string-list". However, as we have introduced clar test framework,
-we'd better move the shell script into C program to improve speed and
-readability.
-
-Create a new file "u-string-list.c" under "t/unit-tests", then update
-the Makefile and "meson.build" to build the file. And let's first move
-"test_split" into unit test and gradually convert the shell script into
-C program.
-
-In order to create `string_list` easily by simply specifying strings in
-the function call, create "t_vcreate_string_list_dup" function to do
-this.
-
-Then port the shell script tests to C program and remove unused
-"test-tool" code and tests.
-
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -208,19 +586,19 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~8 coding hours recorded
+                            ~7 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            Working on git
+                            Working on Unknown Project
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                             </svg>
-                            Mostly coding in C
+                            Mostly coding in Markdown
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -234,7 +612,7 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M0 2.75C0 1.784.784 1 1.75 1h12.5c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0114.25 15H1.75A1.75 1.75 0 010 13.25V2.75zm1.75-.25a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V2.75a.25.25 0 00-.25-.25H1.75zM7.25 8a.75.75 0 01-.22.53l-2.25 2.25a.75.75 0 11-1.06-1.06L5.44 8 3.72 6.28a.75.75 0 111.06-1.06l2.25 2.25c.141.14.22.331.22.53zm1.5 1.5a.75.75 0 000 1.5h3a.75.75 0 000-1.5h-3z"/>
                             </svg>
-                            Coding with VS Code
+                            Coding with Vim
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -249,29 +627,29 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                         <h3>Projects activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
-                                <span class="name">git</span>
-                                <div class="bar" style="width: 38.160000000000004%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">48%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">hexo-blog</span>
-                                <div class="bar" style="width: 16%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">20%</span>
-                            </div>
-                            <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 15.112000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">19%</span>
+                                <div class="bar" style="width: 40.52799999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">51%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">OS-Configuration</span>
-                                <div class="bar" style="width: 8.576%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">11%</span>
+                                <div class="bar" style="width: 17.912000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">22%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">hexo-blog</span>
+                                <div class="bar" style="width: 17.848%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">22%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">homebrew</span>
-                                <div class="bar" style="width: 2.16%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.408%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">git</span>
+                                <div class="bar" style="width: 1.3119999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                         </div>
                     </section>
@@ -279,29 +657,29 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                         <h3>Language activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
-                                <span class="name">C</span>
-                                <div class="bar" style="width: 34.048%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">43%</span>
-                            </div>
-                            <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 23.736%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">30%</span>
+                                <div class="bar" style="width: 34.808%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">44%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">conf</span>
-                                <div class="bar" style="width: 7.151999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 15.792%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">20%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">TOML</span>
+                                <div class="bar" style="width: 13.200000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">17%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Bash</span>
+                                <div class="bar" style="width: 3.6399999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 2.664%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">INI</span>
-                                <div class="bar" style="width: 2.4719999999999995%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
+                                <div class="bar" style="width: 3.0079999999999996%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
                             </div>
                         </div>
                     </section>
