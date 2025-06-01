@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="961" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1244" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.label,.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;border-radius:32px;font-size:12px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}.project .items{padding-left:11px}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .label{padding-left:0;display:flex;align-items:center}.contributors .label img{margin-left:0}.contributors .contributions{display:flex;align-items:center;font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.contributors .contributions svg{fill:#0366d6;margin-left:4px;width:.8rem;height:.8rem}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.constant{color:#b44418}.token.string{color:#2777aa}.token.builtin{color:#106cbc}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}svg.large .largeable-column-fields{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.label,.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;border-radius:32px;font-size:12px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.chart-bars.horizontal .entry .name,.track .name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}.added{color:#3fb950}.project .items{padding-left:11px}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .label{padding-left:0;display:flex;align-items:center}.contributors .label img{margin-left:0}.contributors .contributions{display:flex;align-items:center;font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.contributors .contributions svg{fill:#0366d6;margin-left:4px;width:.8rem;height:.8rem}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.constant{color:#b44418}.token.string{color:#2777aa}.token.builtin{color:#106cbc}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -33,6 +33,340 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">js-fix-worktree-refs</span>
+                                        in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 118 commits in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9cad4a9</div>
+                                        <div class="message">gitk: do not hard-code color of search results in commit list
+
+A global variable exists that holds the color name used to highlight
+search results everywhere, except that in the commit list the color
+is still hard-coded to "yellow". Use the global variable there as well.
+
+Signed-off-by: Alexander Ogorodov &lt;bnfour@bnfour.net&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#86ddd58</div>
+                                        <div class="message">packed-backend: mmap large "packed-refs" file during fsck
+
+During fsck, we use "strbuf_read" to read the content of "packed-refs"
+without using mmap mechanism. This is a bad practice which would consume
+more memory than using mmap mechanism. Besides, as all code paths in
+"packed-backend.c" use this way, we should make "fsck" align with the
+current codebase.
+
+As we have introduced the helper function "allocate_snapshot_buffer", we
+can simply use this function to use mmap mechanism.
+
+Suggested-by: Jeff King &lt;peff@peff.net&gt;
+Suggested-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a0dee3f</div>
+                                        <div class="message">packed-backend: extract snapshot allocation in `load_contents`
+
+"load_contents" would choose which way to load the content of the
+"packed-refs". However, we cannot directly use this function when
+checking the consistency due to we don't want to open the file. And we
+also need to reuse the logic to avoid causing repetition.
+
+Let's create a new helper function "allocate_snapshot_buffer" to extract
+the snapshot allocation logic in "load_contents" and update the
+"load_contents" to align with the behavior.
+
+Suggested-by: Jeff King &lt;peff@peff.net&gt;
+Suggested-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#784cecc</div>
+                                        <div class="message">packed-backend: fsck should warn when "packed-refs" file is empty
+
+We assume the "packed-refs" won't be empty and instead has at least one
+line in it (even when there are no refs packed, there is the file header
+line). Because there is no terminating LF in the empty file, we will
+report "packedRefEntryNotTerminated(ERROR)" to the user.
+
+However, the runtime code paths would accept an empty "packed-refs"
+file, for example, "create_snapshot" would simply return the "snapshot"
+without checking the content of "packed-refs". So, we should skip
+checking the content of "packed-refs" when it is empty during fsck.
+
+After 694b7a1999 (repack_without_ref(): write peeled refs in the
+rewritten file, 2013-04-22), we would always write a header into the
+"packed-refs" file. So, versions of Git that are not too ancient never
+write such an empty "packed-refs" file.
+
+As an empty file often indicates a sign of a filesystem-level issue, the
+way we want to resolve this inconsistency is not make everybody totally
+silent but notice and report the anomaly.
+
+Let's create a "FSCK_INFO" message id "EMPTY_PACKED_REFS_FILE" to report
+to the users that "packed-refs" is empty.
+
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9f27318</div>
+                                        <div class="message">gitk: place file name arguments after options in msgfmt call
+
+The build process fails in POSIXLY_CORRECT mode:
+
+  $ gitk@master:1005&gt; POSIXLY_CORRECT=1 make
+      * new Tcl/Tk interpreter location
+      GEN gitk-wish
+  Generating catalog po/zh_cn.msg
+  msgfmt --statistics --tcl po/zh_cn.po -l zh_cn -d po/
+  msgfmt: --tcl requires a "-l locale" specification
+  Try 'msgfmt --help' for more information.
+  make: *** [Makefile:76: po/zh_cn.msg] Error 1
+
+The reason is that option arguments cannot occur after the first
+non-option argument. Move the file name last.
+
+Reported-by: Nathan Royce &lt;nroycea+kernel@gmail.com&gt;
+Signed-off-by: Johannes Sixt &lt;j6t@kdbg.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8bf062d</div>
+                                        <div class="message">git-gui: wire up support for the Meson build system
+
+The Git project has started to wire up Meson as a build system in Git
+v2.48.0. Wire up support for Meson in "git-gui" so that we can trivially
+include it as a subproject in Git.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d821fc6</div>
+                                        <div class="message">git-gui: stop including GIT-VERSION-FILE file
+
+The "GITGUI_VERSION" variable is made available by generating and
+including the "GIT-VERSION-FILE" file. Its value has been used in
+various build steps, but in the preceding commits we have refactored
+those to instead source the "GIT-VERSION-FILE" directly. As a result,
+the variable is now only used in a single recipe, and this use can be
+trivially replaced with sed(1).
+
+Refactor the recipe to do so and stop including "GIT-VERSION-FILE" to
+simplify the build process.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#28a8e5c</div>
+                                        <div class="message">git-gui: extract script to generate macOS app
+
+Extract script to generate the macOS app. This change allows us to reuse
+the build logic with the Meson build system.
+
+Note that as part of this change we also modify the TKEXECUTABLE
+variable to track its full path. Like this we don't have to propagate
+both the TKEXECUTABLE and TKFRAMEWORK variables into the script, and the
+basename can be trivially computed from TKEXECUTABLE anyway.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#743e1cb</div>
+                                        <div class="message">git-gui: extract script to generate macOS wrapper
+
+Extract script to generate the macOS wrapper for git-gui. This change
+allows us to reuse the build logic with the Meson build system.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2cc5b0f</div>
+                                        <div class="message">git-gui: extract script to generate "tclIndex"
+
+Extract script to generate "tclIndex". This change allows us to reuse
+the build logic with the Meson build system.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#854e883</div>
+                                        <div class="message">git-gui: extract script to generate "git-gui"
+
+Extract script to generate "git-gui". This change allows us to reuse the
+build logic with the Meson build system.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3e656a4</div>
+                                        <div class="message">git-gui: drop no-op GITGUI_SCRIPT replacement
+
+The value of the GITGUI_SCRIPT variable is only used in a single place
+as part of an sed(1) script that massages the "git-gui.sh" script.
+Interestingly, this specific replacement does seem to be a no-op: we
+replace "^ argv0=$$0" with " argv=$(GITGUI_SCRIPT)", which has a value
+of "$$0". The result would thus be completely unchanged.
+
+Drop the replacement and its variable.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#caf5fbe</div>
+                                        <div class="message">git-gui: make output of GIT-VERSION-GEN source'able
+
+The output of GIT-VERSION-GEN can be sourced by our Makefile to make the
+version available there. The output has a couple of spaces around the
+equals sign, which is perfectly valid for parsing it in our Makefile.
+But in subsequent steps we'll also want to source the file in a couple
+of newly-introduced shell scripts, but having spaces around variable
+assignments is invalid there.
+
+Prepare for this step by dropping the spaces surrounding the equals
+sign. Like this, we can easily use the same file both in our Makefile
+and in shell scripts.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3ef470f</div>
+                                        <div class="message">git-gui: prepare GIT-VERSION-GEN for out-of-tree builds
+
+The GIT-VERSION-GEN unconditionally writes version information into the
+source directory in the form of the "GIT-VERSION-FILE". We are about to
+introduce the Meson build system though, which enforces out-of-tree
+builds by default, and in that context we cannot continue to write
+version information into the source tree.
+
+Prepare the script for out-of-tree builds by treating the source
+directory different from the output file.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3271d2e</div>
+                                        <div class="message">git-gui: replace GIT-GUI-VARS with GIT-GUI-BUILD-OPTIONS
+
+The GIT-GUI-VARS file is used to track whether any of our build options
+has changed. Unfortunately, the format of that file does not allow us to
+propagate those build options to other scripts. But as we are about to
+introduce support for the Meson build system, we will extract a couple
+of scripts to deduplicate core build logic across Makefiles and Meson.
+With this refactoring, it will become necessary to make build options
+more widely accessible.
+
+Replace GIT-GUI-VARS with a new GIT-GUI-BUILD-OPTIONS file that is being
+populated from a template. This file can easily be sourced from build
+scripts in subsequent steps.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#20e4e9a</div>
+                                        <div class="message">git-var doc: fix usage of $ENV_VAR vs ENV_VAR
+
+When refering to environment variables in the documentation, use the
+ENV_VARIABLE format instead of $ENV_VARIABLE. The latter is used in the
+documentation to refer to the actual value of the variable, not the name
+of the variable.
+
+Signed-off-by: Jean-Noël Avila &lt;jn.avila@free.fr&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7e7f47a</div>
+                                        <div class="message">git-verify-* doc: update mark-up of synopsis option descriptions
+
+To unify mark-up used in our documentation to a newer convention,
+started by 22293895 (doc: apply synopsis simplification on git-clone
+and git-init, 2024-09-24), update the documentation pages for 'git
+verify-commit', 'git verify-tag', and 'git verify-pack' to
+
+ * use [synopsis], not [verse] in the SYNOPSIS section
+ * enclose `--option=&lt;value&gt;` in backquotes
+ * do not describe non-option arguments in the OPTIONS section
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;
+Helped-by: Jean-Noël Avila &lt;jn.avila@free.fr&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#914c549</div>
+                                        <div class="message">git-{var,write-tree} docs: update mark-up of synopsis option descriptions
+
+To unify mark-up used in our documentation to a newer convention,
+started by 22293895 (doc: apply synopsis simplification on git-clone
+and git-init, 2024-09-24), update the documentation for 'git var' and
+'git write-tree' to
+
+ * use [synopsis], not [verse] in the SYNOPSIS section
+ * enclose `--option=&lt;value&gt;` in backquotes
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;
+Helped-by: Jean-Noël Avila &lt;jn.avila@free.fr&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#88ce8df</div>
+                                        <div class="message">git-daemon doc: update mark-up of synopsis option descriptions
+
+To unify mark-up used in our documentation to a newer convention,
+started by 22293895 (doc: apply synopsis simplification on git-clone
+and git-init, 2024-09-24), update the documentation of 'git daemon'
+to
+
+ * use [synopsis], not [verse] in the SYNOPSIS section
+ * enclose `--option=&lt;value&gt;` in backquotes
+
+Also, split '--[no-]option' into '--option' and '--no-option'
+to make it easier to grep for them.
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;
+Helped-by: Jean-Noël Avila &lt;jn.avila@free.fr&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#daa364c</div>
+                                        <div class="message">gitk: Legacy widgets doesn't have combobox
+
+Use "proc makedroplist" function to support combobox on legacy widgets
+mode. "proc makedroplist" uses "ttk::combobox" for themed mode, and uses
+"tk_optionMenu" for legacy mode to get rid of the problem.
+
+Signed-off-by: YOKOTA Hiroshi &lt;yokota.hgml@gmail.com&gt;
+Signed-off-by: Johannes Sixt &lt;j6t@kdbg.org&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -527,46 +861,6 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shejialuo/OS-Configuration</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0b46205</div>
-                                        <div class="message">feat: use "clash-meta" to avoid security</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shejialuo/dotfiles</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#175bb26</div>
-                                        <div class="message">i3: goldendict float by default</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -583,7 +877,7 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~9 coding hours recorded
+                            ~7 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -625,22 +919,22 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 72.104%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">90%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">OS-Configuration</span>
-                                <div class="bar" style="width: 7.168000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 68.67999999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">86%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">git</span>
-                                <div class="bar" style="width: 0.44000000000000006%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 10.264%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">13%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">OS-Configuration</span>
+                                <div class="bar" style="width: 0.696%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">chezmoi</span>
-                                <div class="bar" style="width: 0.288%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.36000000000000004%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -650,28 +944,28 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Bash</span>
-                                <div class="bar" style="width: 37.672000000000004%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">47%</span>
+                                <div class="bar" style="width: 50.199999999999996%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">63%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">conf</span>
-                                <div class="bar" style="width: 14.856%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">19%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">TOML</span>
-                                <div class="bar" style="width: 10.808%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">14%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Markdown</span>
-                                <div class="bar" style="width: 7.448%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 10.784%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">13%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Mail</span>
-                                <div class="bar" style="width: 5.752000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">7%</span>
+                                <div class="bar" style="width: 9.28%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">12%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">C</span>
+                                <div class="bar" style="width: 4.271999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">sh</span>
+                                <div class="bar" style="width: 3.6399999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
                             </div>
                         </div>
                     </section>
