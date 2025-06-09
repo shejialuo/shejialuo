@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="893" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="926" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}svg.large .largeable-column-fields{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.b .side{background-color:#9e91ff26}.contribution.c .side{background-color:#58a6ff26}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -29,6 +29,339 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">shejialuo/dotfiles</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#aaf46c1</div>
+                                        <div class="message">macos: update aerospace and sketchybar configuration</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 42 commits in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d5b3c38</div>
+                                        <div class="message">fsck: ignore missing "refs" directory for linked worktrees
+
+"git refs verify" doesn't work if there are worktrees created on Git
+v2.43.0 or older versions. These versions don't automatically create the
+"refs" directory, causing the error:
+
+    error: cannot open directory .git/worktrees/&lt;worktree name&gt;/refs:
+    No such file or directory
+
+Since 8f4c00de95 (builtin/worktree: create refdb via ref backend,
+2024-01-08), we automatically create the "refs" directory for new
+worktrees. And in 7c78d819e6 (ref: support multiple worktrees check for
+refs, 2024-11-20), we assume that all linked worktrees have this
+directory and would wrongly report an error to the user, thus
+introducing compatibility issue.
+
+Check for ENOENT errno before reporting directory access errors for
+linked worktrees to maintain backward compatibility.
+
+Reported-by: Kristoffer Haugsbakk &lt;code@khaugsbakk.name&gt;
+Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b07857f</div>
+                                        <div class="message">A bit more before -rc1
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3624591</div>
+                                        <div class="message">Merge branch 'wk/sparse-checkout-doc-fix'
+
+Doc update.
+
+* wk/sparse-checkout-doc-fix:
+  doc: sparse-checkout: use consistent inline list style</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bbe8a37</div>
+                                        <div class="message">Merge branch 'jc/signed-fast-export-is-experimental'
+
+Mark a new feature added during this cycle as experimental and fix
+its default so that existing users of the fast-export command is
+not broken.
+
+* jc/signed-fast-export-is-experimental:
+  fast-export: --signed-commits is experimental</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4f91e60</div>
+                                        <div class="message">Merge branch 'ja/doc-synopsis-style'
+
+Doc mark-up fixes.
+
+* ja/doc-synopsis-style:
+  doc: convert git-switch manpage to new synopsis style
+  doc: convert git-mergetool options to new synopsis style
+  doc: convert git-mergetool manpage to new synopsis style
+  doc: switch merge config description to new synopsis format
+  doc: convert merge strategies to synopsis format
+  doc: merge-options.adoc remove a misleading double negation
+  doc: convert merge options to new synopsis format
+  doc: convert git-merge manpage to new style
+  doc: convert git-checkout manpage to new style</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d584219</div>
+                                        <div class="message">config.mak.uname: update settings for OpenBSD
+
+OpenBSD requires DIR_HAS_BSD_GROUP_SEMANTICS.
+
+OpenBSD has never had the BSD sysctl KERN_PROC_PATHNAME nor
+does it support or use the /proc filesystem.
+
+OpenBSD has had strcasestr() since 3.8. OpenBSD has had memmem()
+since 5.4.
+
+Signed-off-by: Brad Smith &lt;brad@comstyle.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#35c1d59</div>
+                                        <div class="message">builtin/gc: correct physical memory detection for OpenBSD / NetBSD
+
+OpenBSD / NetBSD use HW_PHYSMEM64 to detect the amount of physical
+memory in a system. HW_PHYSMEM will not provide the correct amount
+on a system with &gt;=4GB of memory.
+
+Signed-off-by: Brad Smith &lt;brad@comstyle.com&gt;
+Reviewed-by: Collin Funk &lt;collin.funk1@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#23d30ea</div>
+                                        <div class="message">doc: column: fix blank lines around block delimiters
+
+227c4f33a03 (doc: add a blank line around block delimiters,
+2025-03-09) added blank lines around block delimiters as a
+defensive measure.  For each block you had to mind the con-
+text (like the commit says):
+
+• Top-level: just add blank lines
+• Block: use list continuation (+)
+
+But list continuation was used here at the top level, which
+results in literal `+` in the output formats.
+
+Acked-by: Jean-Noël Avila &lt;jn.avila@free.fr&gt;
+Signed-off-by: Kristoffer Haugsbakk &lt;code@khaugsbakk.name&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7f1a09d</div>
+                                        <div class="message">thread-utils.c: detect online CPU count on OpenBSD / NetBSD
+
+OpenBSD / NetBSD use HW_NCPUONLINE to detect the online CPU
+count. OpenBSD ships with SMT disabled on X86 systems so
+HW_NCPU would provide double the number of CPUs as opposed
+to the proper online count.
+
+Signed-off-by: Brad Smith &lt;brad@comstyle.com&gt;
+Reviewed-by: Collin Funk &lt;collin.funk1@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cea9f55</div>
+                                        <div class="message">doc: sparse-checkout: use consistent inline list style
+
+Fix this inline list to use a single style, namely numeric, instead of
+`(1)` followed by `(b)`.
+
+Signed-off-by: Wonuk Kim &lt;kimww0306@gmail.com&gt;
+Acked-by: Kristoffer Haugsbakk &lt;kristofferhaugsbakk@fastmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0b4c6ba</div>
+                                        <div class="message">fast-export: --signed-commits is experimental
+
+As the design of signature handling is still being discussed, it is
+likely that the data stream produced by the code in Git 2.50 would
+have to be changed in such a way that is not backward compatible.
+
+Mark the feature as experimental and discourge its use for now.
+
+Also flip the default on the generation side to "strip"; users of
+existing versions would not have passed --signed-commits=strip and
+will be broken by this change if the default is made to abort, and
+will be encouraged by the error message to produce data stream with
+future breakage guarantees by passing --signed-commits option.
+
+As we tone down the default behaviour, we no longer need the
+FAST_EXPORT_SIGNED_COMMITS_NOABORT environment variable, which was
+not discoverable enough.
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b983aaa</div>
+                                        <div class="message">doc: convert git-switch manpage to new synopsis style
+
+- Switch the synopsis to a synopsis block which will automatically
+  format placeholders in italics and keywords in monospace
+- Use _&lt;placeholder&gt;_ instead of &lt;placeholder&gt; in the description
+- Use `backticks` for keywords and more complex option
+descriptions. The new rendering engine will apply synopsis rules to
+these spans.
+
+Signed-off-by: Jean-Noël Avila &lt;jn.avila@free.fr&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d30c5cc</div>
+                                        <div class="message">doc: convert git-mergetool options to new synopsis style
+
+- Use _&lt;placeholder&gt;_ instead of &lt;placeholder&gt; in the description
+- Use `backticks` for keywords and more complex option
+descriptions. The new rendering engine will apply synopsis rules to
+these spans.
+
+Signed-off-by: Jean-Noël Avila &lt;jn.avila@free.fr&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1654396</div>
+                                        <div class="message">doc: convert git-mergetool manpage to new synopsis style
+
+- Switch the synopsis to a synopsis block which will automatically
+  format placeholders in italics and keywords in monospace
+- Use _&lt;placeholder&gt;_ instead of &lt;placeholder&gt; in the description
+- Use `backticks` for keywords and more complex option
+descriptions. The new rendering engine will apply synopsis rules to
+these spans.
+
+Signed-off-by: Jean-Noël Avila &lt;jn.avila@free.fr&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#90a837a</div>
+                                        <div class="message">doc: switch merge config description to new synopsis format
+
+- Use _&lt;placeholder&gt;_ instead of &lt;placeholder&gt; in the description
+- Use `backticks` for keywords and more complex option
+descriptions. The new rendering engine will apply synopsis rules to
+these spans.
+
+Additionally, a list of option possible values has been reformatted as a
+standalone definition list.
+
+Signed-off-by: Jean-Noël Avila &lt;jn.avila@free.fr&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#179f877</div>
+                                        <div class="message">doc: convert merge strategies to synopsis format
+
+- Switch the synopsis to a synopsis block which will automatically
+  format placeholders in italics and keywords in monospace
+- Use _&lt;placeholder&gt;_ instead of &lt;placeholder&gt; in the description
+- Use `backticks` for keywords and more complex option
+descriptions. The new rendering engine will apply synopsis rules to
+these spans.
+
+Signed-off-by: Jean-Noël Avila &lt;jn.avila@free.fr&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cbbb3b2</div>
+                                        <div class="message">doc: merge-options.adoc remove a misleading double negation
+
+Signed-off-by: Jean-Noël Avila &lt;jn.avila@free.fr&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5f32132</div>
+                                        <div class="message">doc: convert merge options to new synopsis format
+
+- Use _&lt;placeholder&gt;_ instead of &lt;placeholder&gt; in the description
+- Use `backticks` for keywords and more complex option
+descriptions. The new rendering engine will apply synopsis rules to
+these spans.
+
+Signed-off-by: Jean-Noël Avila &lt;jn.avila@free.fr&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#13d5331</div>
+                                        <div class="message">doc: convert git-merge manpage to new style
+
+- Switch the synopsis to a synopsis block which will automatically
+  format placeholders in italics and keywords in monospace
+- Use _&lt;placeholder&gt;_ instead of &lt;placeholder&gt; in the description
+- Use `backticks` for keywords and more complex option
+descriptions. The new rendering engine will apply synopsis rules to
+these spans.
+
+In order to avoid breaking the format on '&lt;&lt;&lt;&lt;&lt;&lt;' and '&gt;&gt;&gt;&gt;&gt;' lines
+by applying the synopsis rules to these spans, they are formatted using '+'
+signs instead of '`' signs.
+
+Signed-off-by: Jean-Noël Avila &lt;jn.avila@free.fr&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d26ec1</div>
+                                        <div class="message">doc: convert git-checkout manpage to new style
+
+- Switch the synopsis to a synopsis block which will automatically
+  format placeholders in italics and keywords in monospace
+- Use _&lt;placeholder&gt;_ instead of &lt;placeholder&gt; in the description
+- Use `backticks` for keywords and more complex option
+descriptions. The new rendering engine will apply synopsis rules to
+these spans.
+
+Signed-off-by: Jean-Noël Avila &lt;jn.avila@free.fr&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#39 fsck: ignore missing "refs" directory for linked worktrees</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">shejialuo/git</span></div>
+                                    <div>2 files changed <span class="code">++20 --0</span></div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -62,357 +395,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">js-fix-worktree-refs</span>
-                                        in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 118 commits in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9cad4a9</div>
-                                        <div class="message">gitk: do not hard-code color of search results in commit list
-
-A global variable exists that holds the color name used to highlight
-search results everywhere, except that in the commit list the color
-is still hard-coded to "yellow". Use the global variable there as well.
-
-Signed-off-by: Alexander Ogorodov &lt;bnfour@bnfour.net&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#86ddd58</div>
-                                        <div class="message">packed-backend: mmap large "packed-refs" file during fsck
-
-During fsck, we use "strbuf_read" to read the content of "packed-refs"
-without using mmap mechanism. This is a bad practice which would consume
-more memory than using mmap mechanism. Besides, as all code paths in
-"packed-backend.c" use this way, we should make "fsck" align with the
-current codebase.
-
-As we have introduced the helper function "allocate_snapshot_buffer", we
-can simply use this function to use mmap mechanism.
-
-Suggested-by: Jeff King &lt;peff@peff.net&gt;
-Suggested-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a0dee3f</div>
-                                        <div class="message">packed-backend: extract snapshot allocation in `load_contents`
-
-"load_contents" would choose which way to load the content of the
-"packed-refs". However, we cannot directly use this function when
-checking the consistency due to we don't want to open the file. And we
-also need to reuse the logic to avoid causing repetition.
-
-Let's create a new helper function "allocate_snapshot_buffer" to extract
-the snapshot allocation logic in "load_contents" and update the
-"load_contents" to align with the behavior.
-
-Suggested-by: Jeff King &lt;peff@peff.net&gt;
-Suggested-by: Patrick Steinhardt &lt;ps@pks.im&gt;
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#784cecc</div>
-                                        <div class="message">packed-backend: fsck should warn when "packed-refs" file is empty
-
-We assume the "packed-refs" won't be empty and instead has at least one
-line in it (even when there are no refs packed, there is the file header
-line). Because there is no terminating LF in the empty file, we will
-report "packedRefEntryNotTerminated(ERROR)" to the user.
-
-However, the runtime code paths would accept an empty "packed-refs"
-file, for example, "create_snapshot" would simply return the "snapshot"
-without checking the content of "packed-refs". So, we should skip
-checking the content of "packed-refs" when it is empty during fsck.
-
-After 694b7a1999 (repack_without_ref(): write peeled refs in the
-rewritten file, 2013-04-22), we would always write a header into the
-"packed-refs" file. So, versions of Git that are not too ancient never
-write such an empty "packed-refs" file.
-
-As an empty file often indicates a sign of a filesystem-level issue, the
-way we want to resolve this inconsistency is not make everybody totally
-silent but notice and report the anomaly.
-
-Let's create a "FSCK_INFO" message id "EMPTY_PACKED_REFS_FILE" to report
-to the users that "packed-refs" is empty.
-
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f27318</div>
-                                        <div class="message">gitk: place file name arguments after options in msgfmt call
-
-The build process fails in POSIXLY_CORRECT mode:
-
-  $ gitk@master:1005&gt; POSIXLY_CORRECT=1 make
-      * new Tcl/Tk interpreter location
-      GEN gitk-wish
-  Generating catalog po/zh_cn.msg
-  msgfmt --statistics --tcl po/zh_cn.po -l zh_cn -d po/
-  msgfmt: --tcl requires a "-l locale" specification
-  Try 'msgfmt --help' for more information.
-  make: *** [Makefile:76: po/zh_cn.msg] Error 1
-
-The reason is that option arguments cannot occur after the first
-non-option argument. Move the file name last.
-
-Reported-by: Nathan Royce &lt;nroycea+kernel@gmail.com&gt;
-Signed-off-by: Johannes Sixt &lt;j6t@kdbg.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8bf062d</div>
-                                        <div class="message">git-gui: wire up support for the Meson build system
-
-The Git project has started to wire up Meson as a build system in Git
-v2.48.0. Wire up support for Meson in "git-gui" so that we can trivially
-include it as a subproject in Git.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d821fc6</div>
-                                        <div class="message">git-gui: stop including GIT-VERSION-FILE file
-
-The "GITGUI_VERSION" variable is made available by generating and
-including the "GIT-VERSION-FILE" file. Its value has been used in
-various build steps, but in the preceding commits we have refactored
-those to instead source the "GIT-VERSION-FILE" directly. As a result,
-the variable is now only used in a single recipe, and this use can be
-trivially replaced with sed(1).
-
-Refactor the recipe to do so and stop including "GIT-VERSION-FILE" to
-simplify the build process.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#28a8e5c</div>
-                                        <div class="message">git-gui: extract script to generate macOS app
-
-Extract script to generate the macOS app. This change allows us to reuse
-the build logic with the Meson build system.
-
-Note that as part of this change we also modify the TKEXECUTABLE
-variable to track its full path. Like this we don't have to propagate
-both the TKEXECUTABLE and TKFRAMEWORK variables into the script, and the
-basename can be trivially computed from TKEXECUTABLE anyway.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#743e1cb</div>
-                                        <div class="message">git-gui: extract script to generate macOS wrapper
-
-Extract script to generate the macOS wrapper for git-gui. This change
-allows us to reuse the build logic with the Meson build system.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2cc5b0f</div>
-                                        <div class="message">git-gui: extract script to generate "tclIndex"
-
-Extract script to generate "tclIndex". This change allows us to reuse
-the build logic with the Meson build system.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#854e883</div>
-                                        <div class="message">git-gui: extract script to generate "git-gui"
-
-Extract script to generate "git-gui". This change allows us to reuse the
-build logic with the Meson build system.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3e656a4</div>
-                                        <div class="message">git-gui: drop no-op GITGUI_SCRIPT replacement
-
-The value of the GITGUI_SCRIPT variable is only used in a single place
-as part of an sed(1) script that massages the "git-gui.sh" script.
-Interestingly, this specific replacement does seem to be a no-op: we
-replace "^ argv0=$$0" with " argv=$(GITGUI_SCRIPT)", which has a value
-of "$$0". The result would thus be completely unchanged.
-
-Drop the replacement and its variable.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#caf5fbe</div>
-                                        <div class="message">git-gui: make output of GIT-VERSION-GEN source'able
-
-The output of GIT-VERSION-GEN can be sourced by our Makefile to make the
-version available there. The output has a couple of spaces around the
-equals sign, which is perfectly valid for parsing it in our Makefile.
-But in subsequent steps we'll also want to source the file in a couple
-of newly-introduced shell scripts, but having spaces around variable
-assignments is invalid there.
-
-Prepare for this step by dropping the spaces surrounding the equals
-sign. Like this, we can easily use the same file both in our Makefile
-and in shell scripts.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3ef470f</div>
-                                        <div class="message">git-gui: prepare GIT-VERSION-GEN for out-of-tree builds
-
-The GIT-VERSION-GEN unconditionally writes version information into the
-source directory in the form of the "GIT-VERSION-FILE". We are about to
-introduce the Meson build system though, which enforces out-of-tree
-builds by default, and in that context we cannot continue to write
-version information into the source tree.
-
-Prepare the script for out-of-tree builds by treating the source
-directory different from the output file.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3271d2e</div>
-                                        <div class="message">git-gui: replace GIT-GUI-VARS with GIT-GUI-BUILD-OPTIONS
-
-The GIT-GUI-VARS file is used to track whether any of our build options
-has changed. Unfortunately, the format of that file does not allow us to
-propagate those build options to other scripts. But as we are about to
-introduce support for the Meson build system, we will extract a couple
-of scripts to deduplicate core build logic across Makefiles and Meson.
-With this refactoring, it will become necessary to make build options
-more widely accessible.
-
-Replace GIT-GUI-VARS with a new GIT-GUI-BUILD-OPTIONS file that is being
-populated from a template. This file can easily be sourced from build
-scripts in subsequent steps.
-
-Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#20e4e9a</div>
-                                        <div class="message">git-var doc: fix usage of $ENV_VAR vs ENV_VAR
-
-When refering to environment variables in the documentation, use the
-ENV_VARIABLE format instead of $ENV_VARIABLE. The latter is used in the
-documentation to refer to the actual value of the variable, not the name
-of the variable.
-
-Signed-off-by: Jean-Noël Avila &lt;jn.avila@free.fr&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e7f47a</div>
-                                        <div class="message">git-verify-* doc: update mark-up of synopsis option descriptions
-
-To unify mark-up used in our documentation to a newer convention,
-started by 22293895 (doc: apply synopsis simplification on git-clone
-and git-init, 2024-09-24), update the documentation pages for 'git
-verify-commit', 'git verify-tag', and 'git verify-pack' to
-
- * use [synopsis], not [verse] in the SYNOPSIS section
- * enclose `--option=&lt;value&gt;` in backquotes
- * do not describe non-option arguments in the OPTIONS section
-
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;
-Helped-by: Jean-Noël Avila &lt;jn.avila@free.fr&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#914c549</div>
-                                        <div class="message">git-{var,write-tree} docs: update mark-up of synopsis option descriptions
-
-To unify mark-up used in our documentation to a newer convention,
-started by 22293895 (doc: apply synopsis simplification on git-clone
-and git-init, 2024-09-24), update the documentation for 'git var' and
-'git write-tree' to
-
- * use [synopsis], not [verse] in the SYNOPSIS section
- * enclose `--option=&lt;value&gt;` in backquotes
-
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;
-Helped-by: Jean-Noël Avila &lt;jn.avila@free.fr&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#88ce8df</div>
-                                        <div class="message">git-daemon doc: update mark-up of synopsis option descriptions
-
-To unify mark-up used in our documentation to a newer convention,
-started by 22293895 (doc: apply synopsis simplification on git-clone
-and git-init, 2024-09-24), update the documentation of 'git daemon'
-to
-
- * use [synopsis], not [verse] in the SYNOPSIS section
- * enclose `--option=&lt;value&gt;` in backquotes
-
-Also, split '--[no-]option' into '--option' and '--no-option'
-to make it easier to grep for them.
-
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;
-Helped-by: Jean-Noël Avila &lt;jn.avila@free.fr&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#daa364c</div>
-                                        <div class="message">gitk: Legacy widgets doesn't have combobox
-
-Use "proc makedroplist" function to support combobox on legacy widgets
-mode. "proc makedroplist" uses "ttk::combobox" for themed mode, and uses
-"tk_optionMenu" for legacy mode to get rid of the problem.
-
-Signed-off-by: YOKOTA Hiroshi &lt;yokota.hgml@gmail.com&gt;
-Signed-off-by: Johannes Sixt &lt;j6t@kdbg.org&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#34 Js string list enhance v1</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">shejialuo/git</span></div>
-                                    <div>6 files changed <span class="code">++253 --256</span></div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -429,19 +411,19 @@ Signed-off-by: Johannes Sixt &lt;j6t@kdbg.org&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~5 coding hours recorded
+                            ~6 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            Working on git
+                            Working on Unknown Project
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                             </svg>
-                            Mostly coding in Mail
+                            Mostly coding in TOML
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -470,23 +452,28 @@ Signed-off-by: Johannes Sixt &lt;j6t@kdbg.org&gt;</div>
                         <h3>Projects activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
+                                <span class="name">Unknown Project</span>
+                                <div class="bar" style="width: 29.951999999999998%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">37%</span>
+                            </div>
+                            <div class="entry">
                                 <span class="name">git</span>
-                                <div class="bar" style="width: 35.63999999999999%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">45%</span>
+                                <div class="bar" style="width: 27.096%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">34%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">compile_commands_generator</span>
-                                <div class="bar" style="width: 23.568%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">29%</span>
+                                <div class="bar" style="width: 17.919999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">22%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 19.672%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">25%</span>
+                                <span class="name">chezmoi</span>
+                                <div class="bar" style="width: 4.184%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">repo</span>
-                                <div class="bar" style="width: 1.1199999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.848%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -495,29 +482,29 @@ Signed-off-by: Johannes Sixt &lt;j6t@kdbg.org&gt;</div>
                         <h3>Language activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
-                                <span class="name">Mail</span>
-                                <div class="bar" style="width: 18.880000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">24%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Bash</span>
-                                <div class="bar" style="width: 17.712%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">22%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">C</span>
-                                <div class="bar" style="width: 15.472%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">TOML</span>
+                                <div class="bar" style="width: 15.088%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">19%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Python</span>
-                                <div class="bar" style="width: 13.792%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">Mail</span>
+                                <div class="bar" style="width: 14.352%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">18%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Bash</span>
+                                <div class="bar" style="width: 13.463999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">17%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Other</span>
-                                <div class="bar" style="width: 5.152%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">6%</span>
+                                <span class="name">C</span>
+                                <div class="bar" style="width: 11.76%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">15%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Python</span>
+                                <div class="bar" style="width: 10.488%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">13%</span>
                             </div>
                         </div>
                     </section>
