@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="960" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="643" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}svg.large .largeable-column-fields{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -36,711 +36,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 104 commits in
-                                        <span class="repo">shejialuo/git</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">shejialuo/OS-Configuration</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1c3c7b1</div>
-                                        <div class="message">l10n: bg.po: Updated Bulgarian translation (5819t)
-
-Signed-off-by: Alexander Shopov &lt;ash@kambanaria.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2140ff4</div>
-                                        <div class="message">l10n: tr: Update Turkish translations for 2.50
-
-Signed-off-by: Emir SARI &lt;emir_sari@icloud.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#49c4d5c</div>
-                                        <div class="message">l10n: fr: v2.50 round 1
-
-Signed-off-by: Jean-Noël Avila &lt;jn.avila@free.fr&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bf5ce43</div>
-                                        <div class="message">l10n: Add full Irish translation (ga.po)
-
-- Added complete Irish translation (ga.po).
-- Added entry for Irish in po/TEAMS.
-- Corrected email format and removed trailing whitespace.
-- Translated new strings from Git 2.50.0-rc0
-
-Signed-off-by: Aindriú Mac Giolla Eoin &lt;aindriu80@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#09fb155</div>
-                                        <div class="message">diff --no-index: support limiting by pathspec
-
-The --no-index option of git-diff enables using the diff machinery from
-git while operating outside of a repository. This mode of git diff is
-able to compare directories and produce a diff of their contents.
-
-When operating git diff in a repository, git has the notion of
-"pathspecs" which can specify which files to compare. In particular,
-when using git to diff two trees, you might invoke:
-
-  $ git diff-tree -r &lt;treeish1&gt; &lt;treeish2&gt;.
-
-where the treeish could point to a subdirectory of the repository.
-
-When invoked this way, users can limit the selected paths of the tree by
-using a pathspec. Either by providing some list of paths to accept, or
-by removing paths via a negative refspec.
-
-The git diff --no-index mode does not support pathspecs, and cannot
-limit the diff output in this way. Other diff programs such as GNU
-difftools have options for excluding paths based on a pattern match.
-However, using git diff as a diff replacement has several advantages
-over many popular diff tools, including coloring moved lines, rename
-detections, and similar.
-
-Teach git diff --no-index how to handle pathspecs to limit the
-comparisons. This will only be supported if both provided paths are
-directories.
-
-For comparisons where one path isn't a directory, the --no-index mode
-already has some DWIM shortcuts implemented in the fixup_paths()
-function.
-
-Modify the fixup_paths function to return 1 if both paths are
-directories. If this is the case, interpret any extra arguments to git
-diff as pathspecs via parse_pathspec.
-
-Use parse_pathspec to load the remaining arguments (if any) to git diff
---no-index as pathspec items. Disable PATHSPEC_ATTR support since we do
-not have a repository to do attribute lookup. Disable PATHSPEC_FROMTOP
-since we do not have a repository root. All pathspecs are treated as
-rooted at the provided comparison paths.
-
-After loading the pathspec data, calculate skip offsets for skipping
-past the root portion of the paths. This is required to ensure that
-pathspecs start matching from the provided path, rather than matching
-from the absolute path. We could instead pass the paths as prefix values
-to parse_pathspec. This is slightly problematic because the paths come
-from the command line and don't necessarily have the proper trailing
-slash. Additionally, that would require parsing pathspecs multiple
-times.
-
-Pass the pathspec object and the skip offsets into queue_diff, which
-in-turn must pass them along to read_directory_contents.
-
-Modify read_directory_contents to check against the pathspecs when
-scanning the directory. Use the skip offset to skip past the initial
-root of the path, and only match against portions that are below the
-intended directory structure being compared.
-
-The search algorithm for finding paths is recursive with read_dir. To
-make pathspec matching work properly, we must set both
-DO_MATCH_DIRECTORY and DO_MATCH_LEADING_PATHSPEC.
-
-Without DO_MATCH_DIRECTORY, paths like "a/b/c/d" will not match against
-pathspecs like "a/b/c". This is usually achieved by setting the is_dir
-parameter of match_pathspec.
-
-Without DO_MATCH_LEADING_PATHSPEC, paths like "a/b/c" would not match
-against pathspecs like "a/b/c/d". This is crucial because we recursively
-iterate down the directories. We could simply avoid checking pathspecs
-at subdirectories, but this would force recursion down directories
-which would simply be skipped.
-
-If we always passed DO_MATCH_LEADING_PATHSPEC, then we will
-incorrectly match in certain cases such as matching 'a/c' against
-':(glob)**/d'. The match logic will see that a matches the leading part
-of the **/ and accept this even tho c doesn't match.
-
-To avoid this, use the match_leading_pathspec() variant recently
-introduced. This sets both flags when is_dir is set, but leaves them
-both cleared when is_dir is 0.
-
-Add test cases and documentation covering the new functionality. Note
-for the documentation I opted not to move the placement of '--' which is
-sometimes used to disambiguate arguments. The diff --no-index mode
-requires exactly 2 arguments determining what to compare. Any additional
-arguments are interpreted as pathspecs and must come afterwards. Use of
-'--' would not actually disambiguate anything, since there will never be
-ambiguity over which arguments represent paths or pathspecs.
-
-Signed-off-by: Jacob Keller &lt;jacob.keller@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#00466c1</div>
-                                        <div class="message">pathspec: add flag to indicate operation without repository
-
-A following change will add support for pathspecs to the git diff
---no-index command. This mode of git diff does not load any repository.
-
-Add a new PATHSPEC_NO_REPOSITORY flag indicating that we're parsing
-pathspecs without a repository.
-
-Both PATHSPEC_ATTR and PATHSPEC_FROMTOP require a repository to
-function. Thus, verify that both of these are set in magic_mask to
-ensure they won't be accepted when PATHSPEC_NO_REPOSITORY is set.
-
-Check PATHSPEC_NO_REPOSITORY when warning about paths outside the
-directory tree. When the flag is set, do not look for a git repository
-when generating the warning message.
-
-Finally, add a BUG in match_pathspec_item if the istate is NULL but the
-pathspec has PATHSPEC_ATTR set. Callers which support PATHSPEC_ATTR
-should always pass a valid istate, and callers which don't pass a valid
-istate should have set PATHSPEC_ATTR in the magic_mask field to disable
-support for attribute-based pathspecs.
-
-Signed-off-by: Jacob Keller &lt;jacob.keller@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6e4fb00</div>
-                                        <div class="message">pathspec: add match_leading_pathspec variant
-
-The do_match_pathspec() function has the DO_MATCH_LEADING_PATHSPEC
-option to allow pathspecs to match when matching "src" against a
-pathspec like "src/path/...". This support is not exposed by
-match_pathspec, and the internal flags to do_match_pathspec are not
-exposed outside of dir.c
-
-The upcoming support for pathspecs in git diff --no-index need the
-LEADING matching behavior when iterating down through a directory with
-readdir.
-
-We could try to expose the match_pathspec_with_flags to the public API.
-However, DO_MATCH_EXCLUDES really shouldn't be public, and its a bit
-weird to only have a few of the flags become public.
-
-Instead, add match_leading_pathspec() as a function which sets both
-DO_MATCH_DIRECTORY and DO_MATCH_LEADING_PATHSPEC when is_dir is true.
-
-This will be used in a following change to support pathspec matching in
-git diff --no-index.
-
-Signed-off-by: Jacob Keller &lt;jacob.keller@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c178b02</div>
-                                        <div class="message">pack-objects: allow --shallow and --path-walk
-
-There does not appear to be anything particularly incompatible about the
---shallow and --path-walk options of 'git pack-objects'. If shallow
-commits are to be handled differently, then it is by the revision walk
-that defines the commit set and which are interesting or uninteresting.
-
-However, before the previous change, a trivial removal of the warning
-would cause a failure in t5500-fetch-pack.sh when
-GIT_TEST_PACK_PATH_WALK is enabled. The shallow fetch would provide more
-objects than we desired, due to some incorrect behavior of the path-walk
-API, especially around walking uninteresting objects.
-
-The recently-added tests in t5538-push-shallow.sh help to confirm this
-behavior is working with the --path-walk option if
-GIT_TEST_PACK_PATH_WALK is enabled. These tests passed previously due to
-the --path-walk feature being disabled in the presence of a shallow
-clone.
-
-Signed-off-by: Derrick Stolee &lt;stolee@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4705889</div>
-                                        <div class="message">path-walk: add new 'edge_aggressive' option
-
-In preparation for allowing both the --shallow and --path-walk options
-in the 'git pack-objects' builtin, create a new 'edge_aggressive' option
-in the path-walk API. This option will help walk the boundary more
-thoroughly and help avoid sending extra objects during fetches and
-pushes.
-
-The only use of the 'edge_hint_aggressive' option in the revision API is
-within mark_edges_uninteresting(), which is usually called before
-between prepare_revision_walk() and before visiting commits with
-get_revision(). In prepare_revision_walk(), the UNINTERESTING commits
-are walked until a boundary is found.
-
-Signed-off-by: Derrick Stolee &lt;stolee@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e539479</div>
-                                        <div class="message">pack-objects: thread the path-based compression
-
-Adapting the implementation of ll_find_deltas(), create a threaded
-version of the --path-walk compression step in 'git pack-objects'.
-
-This involves adding a 'regions' member to the thread_params struct,
-allowing each thread to own a section of paths. We can simplify the way
-jobs are split because there is no value in extending the batch based on
-name-hash the way sections of the object entry array are attempted to be
-grouped. We re-use the 'list_size' and 'remaining' items for the purpose
-of borrowing work in progress from other "victim" threads when a thread
-has finished its batch of work more quickly.
-
-Using the Git repository as a test repo, the p5313 performance test
-shows that the resulting size of the repo is the same, but the threaded
-implementation gives gains of varying degrees depending on the number of
-objects being packed. (This was tested on a 16-core machine.)
-
-Test                        HEAD~1      HEAD
----------------------------------------------------
-5313.20: big pack             2.38      1.99 -16.4%
-5313.21: big pack size       16.1M     16.0M  -0.2%
-5313.24: repack             107.32     45.41 -57.7%
-5313.25: repack size        213.3M    213.2M  -0.0%
-
-(Test output is formatted to better fit in message.)
-
-This ~60% reduction in 'git repack --path-walk' time is typical across
-all repos I used for testing. What is interesting is to compare when the
-overall time improves enough to outperform the --name-hash-version=1
-case. These time improvements correlate with repositories with data
-shapes that significantly improve their data size as well. The
---path-walk feature frequently takes longer than --name-hash-version=2,
-trading some extra computation for some additional compression. The
-natural place where this additional computation comes from is the two
-compression passes that --path-walk takes, though the first pass is
-naturally faster due to the path boundaries avoiding a number of delta
-compression attempts.
-
-For example, the microsoft/fluentui repo has significant size reduction
-from --name-hash-version=1 to --name-hash-version=2 followed by further
-improvements with --path-walk. The threaded computation makes
---path-walk more competitive in time compared to --name-hash-version=2,
-though still ~31% more expensive in that metric.
-
-Repack Method       Pack Size       Time
-------------------------------------------
-Hash v1                439.4M      87.24s
-Hash v2                161.7M      21.51s
-Path Walk (Before)     142.5M      81.29s
-Path Walk (After)      142.5M      28.16s
-
-Similar results hold for the Git repository:
-
-Repack Method       Pack Size       Time
-------------------------------------------
-Hash v1                248.8M      30.44s
-Hash v2                249.0M      30.15s
-Path Walk (Before)     213.2M     142.50s
-Path Walk (After)      213.3M      45.41s
-
-...as well as the nodejs/node repository:
-
-Repack Method       Pack Size       Time
-------------------------------------------
-Hash v1                739.9M      71.18s
-Hash v2                764.6M      67.82s
-Path Walk (Before)     698.1M     208.10s
-Path Walk (After)      698.0M      75.10s
-
-Finally, the Linux kernel repository is a good test for this repacking
-time change, even though the space savings is more subtle:
-
-Repack Method       Pack Size       Time
-------------------------------------------
-Hash v1                  2.5G     554.41s
-Hash v2                  2.5G     549.62s
-Path Walk (before)       2.2G    1562.36s
-Path Walk (before)       2.2G     559.00s
-
-Signed-off-by: Derrick Stolee &lt;stolee@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#206a1bb</div>
-                                        <div class="message">pack-objects: refactor path-walk delta phase
-
-Previously, the --path-walk option to 'git pack-objects' would compute
-deltas inline with the path-walk logic. This would make the progress
-indicator look like it is taking a long time to enumerate objects, and
-then very quickly computed deltas.
-
-Instead of computing deltas on each region of objects organized by tree,
-store a list of regions corresponding to these groups. These can later
-be pulled from the list for delta compression before doing the "global"
-delta search.
-
-This presents a new progress indicator that can be used in tests to
-verify that this stage is happening.
-
-The current implementation is not integrated with threads, but we are
-setting it up to arrive in the next change.
-
-Since we do not attempt to sort objects by size until after exploring
-all trees, we can remove the previous change to t5530 due to a different
-error message appearing first.
-
-Signed-off-by: Derrick Stolee &lt;stolee@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4933152</div>
-                                        <div class="message">scalar: enable path-walk during push via config
-
-Repositories registered with Scalar are expected to be client-only
-repositories that are rather large. This means that they are more likely to
-be good candidates for using the --path-walk option when running 'git
-pack-objects', especially under the hood of 'git push'. Enable this config
-in Scalar repositories.
-
-Signed-off-by: Derrick Stolee &lt;stolee@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f7f571</div>
-                                        <div class="message">pack-objects: enable --path-walk via config
-
-Users may want to enable the --path-walk option for 'git pack-objects' by
-default, especially underneath commands like 'git push' or 'git repack'.
-
-This should be limited to client repositories, since the --path-walk option
-disables bitmap walks, so would be bad to include in Git servers when
-serving fetches and clones. There is potential that it may be helpful to
-consider when repacking the repository, to take advantage of improved deltas
-across historical versions of the same files.
-
-Much like how "pack.useSparse" was introduced and included in
-"feature.experimental" before being enabled by default, use the repository
-settings infrastructure to make the new "pack.usePathWalk" config enabled by
-"feature.experimental" and "feature.manyFiles".
-
-In order to test that this config works, add a new trace2 region around
-the path walk code that can be checked by a 'git push' command.
-
-Signed-off-by: Derrick Stolee &lt;stolee@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f71150</div>
-                                        <div class="message">repack: add --path-walk option
-
-Since 'git pack-objects' supports a --path-walk option, allow passing it
-through in 'git repack'. This presents interesting testing opportunities for
-comparing the different repacking strategies against each other.
-
-Add the --path-walk option to the performance tests in p5313.
-
-For the microsoft/fluentui repo [1] checked out at a specific commit [2],
-the --path-walk tests in p5313 look like this:
-
-Test                                                     this tree
--------------------------------------------------------------------------
-5313.18: thin pack with --path-walk                      0.08(0.06+0.02)
-5313.19: thin pack size with --path-walk                           18.4K
-5313.20: big pack with --path-walk                       2.10(7.80+0.26)
-5313.21: big pack size with --path-walk                            19.8M
-5313.22: shallow fetch pack with --path-walk             1.62(3.38+0.17)
-5313.23: shallow pack size with --path-walk                        33.6M
-5313.24: repack with --path-walk                         81.29(96.08+0.71)
-5313.25: repack size with --path-walk                             142.5M
-
-[1] https://github.com/microsoft/fluentui
-[2] e70848ebac1cd720875bccaa3026f4a9ed700e08
-
-Along with the earlier tests in p5313, I'll instead reformat the
-comparison as follows:
-
-Repack Method    Pack Size       Time
----------------------------------------
-Hash v1             439.4M      87.24s
-Hash v2             161.7M      21.51s
-Path Walk           142.5M      81.29s
-
-There are a few things to notice here:
-
- 1. The benefits of --name-hash-version=2 over --name-hash-version=1 are
-    significant, but --path-walk still compresses better than that
-    option.
-
- 2. The --path-walk command is still using --name-hash-version=1 for the
-    second pass of delta computation, using the increased name hash
-    collisions as a potential method for opportunistic compression on
-    top of the path-focused compression.
-
- 3. The --path-walk algorithm is currently sequential and does not use
-    multiple threads for delta compression. Threading will be
-    implemented in a future change so the computation time will improve
-    to better compete in this metric.
-
-There are small benefits in size for my copy of the Git repository:
-
-Repack Method    Pack Size       Time
----------------------------------------
-Hash v1             248.8M      30.44s
-Hash v2             249.0M      30.15s
-Path Walk           213.2M     142.50s
-
-As well as in the nodejs/node repository [3]:
-
-Repack Method    Pack Size       Time
----------------------------------------
-Hash v1             739.9M      71.18s
-Hash v2             764.6M      67.82s
-Path Walk           698.1M     208.10s
-
-[3] https://github.com/nodejs/node
-
-This benefit also repeats in my copy of the Linux kernel repository:
-
-Repack Method    Pack Size       Time
----------------------------------------
-Hash v1               2.5G     554.41s
-Hash v2               2.5G     549.62s
-Path Walk             2.2G    1562.36s
-
-It is important to see that even when the repository shape does not have
-many name-hash collisions, there is a slight space boost to be found
-using this method.
-
-As this repacking strategy was released in Git for Windows 2.47.0, some
-users have reported cases where the --path-walk compression is slightly
-worse than the --name-hash-version=2 option. In those cases, it may be
-beneficial to combine the two options. However, there has not been a
-released version of Git that has both options and I don't have access to
-these repos for testing.
-
-Signed-off-by: Derrick Stolee &lt;stolee@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6e95bf8</div>
-                                        <div class="message">t5538: add tests to confirm deltas in shallow pushes
-
-It can be notoriously difficult to detect if delta bases are being
-computed properly during 'git push'. Construct an example where it will
-make a kilobyte worth of difference when a delta base is not found. We
-can then use the progress indicators to distinguish between bytes and
-KiB depending on whether the delta base is found and used.
-
-Signed-off-by: Derrick Stolee &lt;stolee@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#861d4bc</div>
-                                        <div class="message">pack-objects: introduce GIT_TEST_PACK_PATH_WALK
-
-There are many tests that validate whether 'git pack-objects' works as
-expected. Instead of duplicating these tests, add a new test environment
-variable, GIT_TEST_PACK_PATH_WALK, that implies --path-walk by default
-when specified.
-
-This was useful in testing the implementation of the --path-walk
-implementation, helping to find tests that are overly specific to the
-default object walk. These include:
-
- - t0411-clone-from-partial.sh : One test fetches from a repo that does
-   not have the boundary objects. This causes the path-based walk to
-   fail. Disable the variable for this test.
-
- - t5306-pack-nobase.sh : Similar to t0411, one test fetches from a repo
-   without a boundary object.
-
- - t5310-pack-bitmaps.sh : One test compares the case when packing with
-   bitmaps to the case when packing without them. Since we disable the
-   test variable when writing bitmaps, this causes a difference in the
-   object list (the --path-walk option adds an extra object). Specify
-   --no-path-walk in both processes for the comparison. Another test
-   checks for a specific delta base, but when computing dynamically
-   without using bitmaps, the base object it too small to be considered
-   in the delta calculations so no base is used.
-
- - t5316-pack-delta-depth.sh : This script cares about certain delta
-   choices and their chain lengths. The --path-walk option changes how
-   these chains are selected, and thus changes the results of this test.
-
- - t5322-pack-objects-sparse.sh : This demonstrates the effectiveness of
-   the --sparse option and how it combines with --path-walk.
-
- - t5332-multi-pack-reuse.sh : This test verifies that the preferred
-   pack is used for delta reuse when possible. The --path-walk option is
-   not currently aware of the preferred pack at all, so finds a
-   different delta base.
-
- - t7406-submodule-update.sh : When using the variable, the --depth
-   option collides with the --path-walk feature, resulting in a warning
-   message. Disable the variable so this warning does not appear.
-
-I want to call out one specific test change that is only temporary:
-
- - t5530-upload-pack-error.sh : One test cares specifically about an
-   "unable to read" error message. Since the current implementation
-   performs delta calculations within the path-walk API callback, a
-   different "unable to get size" error message appears. When this
-   is changed in a future refactoring, this test change can be reverted.
-
-Similar to GIT_TEST_NAME_HASH_VERSION, we do not add this option to the
-linux-TEST-vars CI build as that's already an overloaded build.
-
-Signed-off-by: Derrick Stolee &lt;stolee@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3ce9e5f</div>
-                                        <div class="message">p5313: add performance tests for --path-walk
-
-The previous change added a --path-walk option to 'git pack-objects'.
-Create a performance test that demonstrates the time and space benefits
-of the feature.
-
-In order to get an appropriate comparison, we need to avoid reusing
-deltas and recompute them from scratch.
-
-Compare the creation of a thin pack representing a small push and the
-creation of a relatively large non-thin pack.
-
-Running on my copy of the Git repository results in this data (removing
-the repack tests for --name-hash-version):
-
-Test                                                     this tree
-------------------------------------------------------------------------
-5313.2: thin pack with --name-hash-version=1             0.02(0.01+0.01)
-5313.3: thin pack size with --name-hash-version=1                   1.6K
-5313.4: big pack with --name-hash-version=1              2.55(4.20+0.26)
-5313.5: big pack size with --name-hash-version=1                   16.4M
-5313.6: shallow fetch pack with --name-hash-version=1    1.24(2.03+0.08)
-5313.7: shallow pack size with --name-hash-version=1               12.2M
-5313.10: thin pack with --name-hash-version=2            0.03(0.01+0.01)
-5313.11: thin pack size with --name-hash-version=2                  1.6K
-5313.12: big pack with --name-hash-version=2             1.91(3.23+0.20)
-5313.13: big pack size with --name-hash-version=2                  16.4M
-5313.14: shallow fetch pack with --name-hash-version=2   1.06(1.57+0.10)
-5313.15: shallow pack size with --name-hash-version=2              12.5M
-5313.18: thin pack with --path-walk                      0.03(0.01+0.01)
-5313.19: thin pack size with --path-walk                            1.6K
-5313.20: big pack with --path-walk                       2.05(3.24+0.27)
-5313.21: big pack size with --path-walk                            16.3M
-5313.22: shallow fetch pack with --path-walk             1.08(1.66+0.07)
-5313.23: shallow pack size with --path-walk                        12.4M
-
-This can be reformatted as follows:
-
-Pack Type            Hash v1   Hash v2     Path Walk
----------------------------------------------------
-thin pack    (time)    0.02s      0.03s      0.03s
-             (size)    1.6K       1.6K       1.6K
-big pack     (time)    2.55s      1.91s      2.05s
-             (size)   16.4M      16.4M      16.3M
-shallow pack (time)    1.24s      1.06s      1.08s
-             (size)   12.2M      12.5M      12.4M
-
-Note that the timing is slower because there is no threading in the
---path-walk case (yet). Also, the shallow pack cases are really not
-using the --path-walk logic right now because it is disabled until some
-additions are made to the path walk API.
-
-The cases where the --path-walk option really shines is when the default
-name-hash is overwhelmed with unhelpful collisions. An open source
-example can be found in the microsoft/fluentui repo [1] at a certain
-commit [2].
-
-[1] https://github.com/microsoft/fluentui
-[2] e70848ebac1cd720875bccaa3026f4a9ed700e08
-
-Running the tests on this repo results in the following comparison table:
-
-Pack Type            Hash v1    Hash v2    Path Walk
----------------------------------------------------
-thin pack    (time)    0.36s      0.12s      0.08s
-             (size)    1.2M      22.0K      18.4K
-big pack     (time)    2.00s      2.90s      2.21s
-             (size)   20.4M      25.9M      19.5M
-shallow pack (time)    1.41s      1.80s      1.65s
-             (size)   34.4M      33.7M      33.6M
-
-Notice in particular that in the small thin pack, the time performance
-has improved from 0.36s for --name-hash-version=1 to 0.08s and this is
-likely due to the improved size of the resulting pack: 18.4K instead of
-1.2M.  The relatively new --name-hash-version=2 is competitive with
---path-walk (0.12s and 22.0K) but not quite as successful.
-
-Finally, running this on a copy of the Linux kernel repository results
-in these data points:
-
-Pack Type            Hash v1    Hash v2    Path Walk
----------------------------------------------------
-thin pack    (time)    0.03s      0.13s      0.03s
-             (size)    4.6K       4.6K       4.6K
-big pack     (time)   15.29s     12.32s     13.92s
-             (size)  201.1M     159.1M     158.5M
-shallow pack (time)   10.88s     22.93s     22.74s
-             (size)  269.2M     273.8M     267.7M
-
-Signed-off-by: Derrick Stolee &lt;stolee@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9fcfe12</div>
-                                        <div class="message">pack-objects: update usage to match docs
-
-The t0450 test script verifies that builtin usage matches the synopsis
-in the documentation. Adjust the builtin to match and then remove 'git
-pack-objects' from the exception list.
-
-Signed-off-by: Derrick Stolee &lt;stolee@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#70664d2</div>
-                                        <div class="message">pack-objects: add --path-walk option
-
-In order to more easily compute delta bases among objects that appear at
-the exact same path, add a --path-walk option to 'git pack-objects'.
-
-This option will use the path-walk API instead of the object walk given
-by the revision machinery. Since objects will be provided in batches
-representing a common path, those objects can be tested for delta bases
-immediately instead of waiting for a sort of the full object list by
-name-hash. This has multiple benefits, including avoiding collisions by
-name-hash.
-
-The objects marked as UNINTERESTING are included in these batches, so we
-are guaranteeing some locality to find good delta bases.
-
-After the individual passes are done on a per-path basis, the default
-name-hash is used to find other opportunistic delta bases that did not
-match exactly by the full path name.
-
-The current implementation performs delta calculations while walking
-objects, which is not ideal for a few reasons. First, this will cause
-the "Enumerating objects" phase to be much longer than usual. Second, it
-does not take advantage of threading during the path-scoped delta
-calculations. Even with this lack of threading, the path-walk option is
-sometimes faster than the usual approach. Future changes will refactor
-this code to allow for threading, but that complexity is deferred until
-later to keep this patch as simple as possible.
-
-This new walk is incompatible with some features and is ignored by
-others:
-
- * Object filters are not currently integrated with the path-walk API,
-   such as sparse-checkout or tree depth. A blobless packfile could be
-   integrated easily, but that is deferred for later.
-
- * Server-focused features such as delta islands, shallow packs, and
-   using a bitmap index are incompatible with the path-walk API.
-
- * The path walk API is only compatible with the --revs option, not
-   taking object lists or pack lists over stdin. These alternative ways
-   to specify the objects currently ignores the --path-walk option
-   without even a warning.
-
-Future changes will create performance tests that demonstrate the power
-of this approach.
-
-Signed-off-by: Derrick Stolee &lt;stolee@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4bc0ba0</div>
-                                        <div class="message">pack-objects: extract should_attempt_deltas()
-
-This will be helpful in a future change, which will reuse this logic.
-
-Signed-off-by: Derrick Stolee &lt;stolee@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                        <div class="sha">#8d18090</div>
+                                        <div class="message">macos: update software and brew bundle</div>
                                     </div>
                                 </div>
                             </section>
@@ -759,8 +63,8 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ec3837c</div>
-                                        <div class="message">Delete ranger</div>
+                                        <div class="sha">#616af30</div>
+                                        <div class="message">macos: sync terminal tools with archlinux</div>
                                     </div>
                                 </div>
                             </section>
@@ -779,8 +83,28 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#767cb04</div>
-                                        <div class="message">android: update android software</div>
+                                        <div class="sha">#85764ed</div>
+                                        <div class="message">android: install sony sound connect</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">shejialuo/dotfiles</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#94134ff</div>
+                                        <div class="message">Update yazi configuration</div>
                                     </div>
                                 </div>
                             </section>
@@ -799,28 +123,8 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#632e655</div>
-                                        <div class="message">Update macos</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shejialuo/OS-Configuration</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4191cf0</div>
-                                        <div class="message">Update iphone</div>
+                                        <div class="sha">#46df934</div>
+                                        <div class="message">archlinux: use yazi to replace ranger</div>
                                     </div>
                                 </div>
                             </section>
@@ -883,27 +187,27 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">OS-Configuration</span>
-                                <div class="bar" style="width: 43.288000000000004%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">54%</span>
+                                <div class="bar" style="width: 42.104%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">53%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 27.584%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">34%</span>
+                                <div class="bar" style="width: 28.631999999999998%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">36%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">git</span>
-                                <div class="bar" style="width: 6.68%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 6.4959999999999996%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">8%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">chezmoi</span>
-                                <div class="bar" style="width: 1.5839999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.92%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">hexo-blog</span>
-                                <div class="bar" style="width: 0.488%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.48%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -913,27 +217,27 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 43.663999999999994%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">55%</span>
+                                <div class="bar" style="width: 41.64%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">52%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TOML</span>
-                                <div class="bar" style="width: 15.448%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 15.36%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">19%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Bash</span>
-                                <div class="bar" style="width: 7.343999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 8.144%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">10%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 6.32%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 6.152000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">8%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Cheetah</span>
-                                <div class="bar" style="width: 1.5839999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.8479999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                         </div>
