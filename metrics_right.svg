@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="976" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1276" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.label,.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;border-radius:32px;font-size:12px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}.stackoverflow{margin-left:38px}.stackoverflow .entry{margin:4px 0 12px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}svg.large .largeable-column-fields{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.label,.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.c .side{background-color:#58a6ff26}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;border-radius:32px;font-size:12px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.chart-bars.horizontal .entry .name,.track .name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.stackoverflow{margin-left:38px}.stackoverflow .entry{margin:4px 0 12px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -29,6 +29,534 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 111 commits in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c5c3278</div>
+                                        <div class="message">git-gui: use [is_Windows], not bad _shellpath
+
+Commit 7d076d56757c (git-gui: handle shell script text filters when
+loading for blame, 2011-12-09) added open_cmd_pipe, with special
+handling for Windows detected by seeing that _shellpath does not
+point to an executable shell. That is bad practice, and is broken by
+the next commit that assures _shellpath is valid on all platforms.
+
+Fix this by using [is_Windows] as done for all Windows specific code.
+
+Signed-off-by: Mark Levedahl &lt;mlevedahl@gmail.com&gt;
+Signed-off-by: Johannes Sixt &lt;j6t@kdbg.org&gt;
+
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#37b9230</div>
+                                        <div class="message">git-gui: _which, only add .exe suffix if not present
+
+The _which function finds executables on $PATH, and adds .exe on Windows
+unless -script was given. However, win32.tcl executes "wscript.exe"
+and "cscript.exe", both of which fail as _which adds .exe to both. This
+is already fixed in git-gui released by Git for Windows. Do so here.
+
+Signed-off-by: Mark Levedahl &lt;mlevedahl@gmail.com&gt;
+Signed-off-by: Johannes Sixt &lt;j6t@kdbg.org&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d7bc50c</div>
+                                        <div class="message">Merge branch 'js/fix-open-exec-2.40.0' into js/fix-open-exec
+
+Branch js/fix-open-exec-2.40.0 converts `open` and `exec` calls to call
+wrappers that sanitze the command arguments. This side branch updates
+three `open` calls that are in conflict with the fix in the preceding
+commit.  To keep the intended operation of the 'open' calls, this merge
+does not try to merge and resolve the conflicts, but ignores the
+conversions that are brought in by the side branch, taking "ours" side
+of the code in these three cases.
+
+New fixes are the topic of the next commit.
+
+Signed-off-by: Johannes Sixt &lt;j6t@kdbg.org&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8e3070a</div>
+                                        <div class="message">gitk: encode arguments correctly with "open"
+
+While "exec" uses a normal arguments list which is applied as
+command + arguments (and redirections, etc), "open" uses a single
+argument which is this command+arguments, where the command and
+arguments are a list inside this one argument to "open".
+
+Commit bb5cb23 (gitk: prevent overly long command lines 2023-05-08)
+changed several values from individual arguments in that list (hashes
+and file names), to a single value which is fed to git via redirection
+to its stdin using "open" [1].
+
+However, it didn't ensure correctly that this aggregate value in this
+string is interpreted as a single element in this command+args list.
+
+It did just enough so that newlines (which is how these elements are
+concatenated) don't split this single list element.
+
+A followup commit at the same patchset: 7dd272e (gitk: escape file
+paths before piping to git log 2023-05-08) added a bit more, by
+escaping backslahes and spaces at the file names, so that at least
+it doesn't break when such file names get used there.
+
+But these are not enough. At the very least tab is missing, and more,
+and trying to manually escape every possible thing which can affect
+how this string is interpreted in a list is a sub-par approach.
+
+The solution is simply to tell tcl "this is a single list element".
+which we can do by aggregating this value completely normally (hashes
+and files separated by newlines), and then do [list $value].
+
+So this is what this commit does, for all 3 places where bb5cb23
+changed individual elements into an aggregate value.
+
+[1]
+That was not a fully accurate description. The accurate version
+is that this string originally included two lists: hashes and files.
+When used with "open" these lists correctly become the individual
+elements of these lists, even if they contain spaces etc, so the
+arguments which were used at this "git" commands were correct.
+
+Commit bb5cb23 couldn't use these two lists as-is, because it needed
+to process the individual elements in them (one element per line of
+the aggregate value), and the issue is that ensuring this aggregate
+is indeed interpreted as a single list element was sub-par.
+
+Note: all the (double) quotes before/after the modification are not
+required and with zero effect, even for \n. But this commit preserves
+the original quoting form intentionally. It can be cleaned up later.
+
+Signed-off-by: Avi Halachmi (:avih) &lt;avihpit@yahoo.com&gt;
+Signed-off-by: Johannes Sixt &lt;j6t@kdbg.org&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#026c397</div>
+                                        <div class="message">gitk: sanitize 'open' arguments: command pipeline
+
+As in the earlier commits, introduce a function that constructs a
+pipeline of commands after sanitizing the arguments.
+
+Signed-off-by: Johannes Sixt &lt;j6t@kdbg.org&gt;
+
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#79a3ef5</div>
+                                        <div class="message">gitk: collect construction of blameargs into a single conditional
+
+The command line to invoke 'git blame' for a single line is constructed
+using several if-conditionals, each with the same condition
+{$from_index new {}}. Merge all of them into a single conditional.
+This requires to duplicate significant parts of the command, but it
+helps the next change, where we will have to deal with a nested list
+structure.
+
+Signed-off-by: Johannes Sixt &lt;j6t@kdbg.org&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2aeb448</div>
+                                        <div class="message">gitk: sanitize 'open' arguments: simple commands, readable and writable
+
+As in the previous commits, introduce a function that sanitizes
+arguments and also keeps the returned file handle writable to pass
+data to stdin.
+
+Signed-off-by: Johannes Sixt &lt;j6t@kdbg.org&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#42a64b4</div>
+                                        <div class="message">gitk: sanitize 'open' arguments: simple commands with redirections
+
+As in the previous commits, introduce a function that sanitizes
+arguments intended for the process and in addition allows to pass
+redirections, which are passed to Tcl's 'open' verbatim.
+
+Signed-off-by: Johannes Sixt &lt;j6t@kdbg.org&gt;
+
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe32bf3</div>
+                                        <div class="message">gitk: sanitize 'open' arguments: simple commands
+
+Tcl 'open' treats the second argument as a command when it begins
+with |. The remainder of the argument is a list comprising the command
+and its arguments. It assigns special meaning to these arguments when
+they begin with a redirection, pipe or background operator. There are a
+number of invocations of 'open' which construct arguments that are
+taken from the Git repository or a user input. However, when file names
+or ref names are taken from the repository, it is possible to find
+names which have these special forms. They must not be interpreted by
+'open' lest it redirects input or output, or attempts to build a
+pipeline using a command name controlled by the repository.
+
+Introduce a helper function that identifies such arguments and prepends
+"./" to force such a name to be regarded as a relative file name.
+
+Signed-off-by: Johannes Sixt &lt;j6t@kdbg.org&gt;
+
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#30846b4</div>
+                                        <div class="message">gitk: sanitize 'exec' arguments: redirect to process
+
+Convert one 'exec' call that sends output to a process (pipeline).
+Fortunately, the command does not contain any variables. For this
+reason, just treat it as a "redirection".
+
+Signed-off-by: Johannes Sixt &lt;j6t@kdbg.org&gt;
+
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7a0493e</div>
+                                        <div class="message">gitk: sanitize 'exec' arguments: redirections and background
+
+Convert 'exec' calls that both redirect output to a file and run the
+process in the background. 'safe_exec_redirect' can take both these
+"redirections" in the second argument simultaneously.
+
+Signed-off-by: Johannes Sixt &lt;j6t@kdbg.org&gt;
+
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b631ee</div>
+                                        <div class="message">gitk: sanitize 'exec' arguments: redirections
+
+As in the previous commits, introduce a function that sanitizes
+arguments intended for the process and in addition allows to pass
+redirections verbatim, which are interpreted by Tcl's 'exec'.
+Redirections can include the background operator '&amp;'.
+
+Signed-off-by: Johannes Sixt &lt;j6t@kdbg.org&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#88139a6</div>
+                                        <div class="message">gitk: sanitize 'exec' arguments: 'eval exec'
+
+Convert calls of 'exec' where the arguments are already available in
+a list and 'eval' is used to unpack the list. Use 'concat' to unite
+the arguments into a single list before passing them to 'safe_exec'.
+
+Signed-off-by: Johannes Sixt &lt;j6t@kdbg.org&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9f0d1c2</div>
+                                        <div class="message">gitk: sanitize 'exec' arguments: simple cases
+
+Tcl 'exec' assigns special meaning to its argument when they begin with
+redirection, pipe or background operator. There are a number of
+invocations of 'exec' which construct arguments that are taken from the
+Git repository or a user input. However, when file names or ref names
+are taken from the repository, it is possible to find names with have
+these special forms. They must not be interpreted by 'exec' lest it
+redirects input or output, or attempts to build a pipeline using a
+command name controlled by the repository.
+
+Introduce a helper function that identifies such arguments and prepends
+"./" to force such a name to be regarded as a relative file name.
+
+Convert those 'exec' calls where the arguments can simply be packed
+into a list.
+
+Signed-off-by: Johannes Sixt &lt;j6t@kdbg.org&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6eb797f</div>
+                                        <div class="message">gitk: have callers of diffcmd supply pipe symbol when necessary
+
+Function 'diffcmd' derives which of git diff-files, git diff-index, or
+git diff-tree must be invoked depending on the ids provided. It puts
+the pipe symbol as the first element of the returned command list.
+
+Note though that of the four callers only two use the command with
+Tcl 'open' and need the pipe symbol. The other two callers pass the
+command to Tcl 'exec' and must remove the pipe symbol.
+
+Do not include the pipe symbol in the constructed command list, but let
+the call sites decide whether to add it or not. Note that Tcl 'open'
+inspects only the first character of the command list, which is also
+the first character of the first element in the list. For this reason,
+it is valid to just tack on the pipe symbol with |$cmd and it is not
+necessary to use [concat | $cmd].
+
+Signed-off-by: Johannes Sixt &lt;j6t@kdbg.org&gt;
+
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b966b73</div>
+                                        <div class="message">gitk: treat file names beginning with "|" as relative paths
+
+The Tcl 'open' function has a vary wide interface. It can open files as
+well as pipes to external processes. The difference is made only by the
+first character of the file name: if it is "|", an process is spawned.
+
+We have a number of calls of Tcl 'open' that take a file name from the
+environment in which Gitk is running. Be prepared that insane values are
+injected. In particular, when we intend to open a file, do not mistake
+a file name that happens to begin with "|" as a request to run a process.
+
+Signed-off-by: Johannes Sixt &lt;j6t@kdbg.org&gt;
+Signed-off-by: Taylor Blau &lt;me@ttaylorr.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9d2962a</div>
+                                        <div class="message">receive-pack: use batched reference updates
+
+The reference updates performed as a part of 'git-receive-pack(1)', take
+place one at a time. For each reference update, a new transaction is
+created and committed. This is necessary to ensure we can allow
+individual updates to fail without failing the entire command. The
+command also supports an 'atomic' mode, which uses a single transaction
+to update all of the references. But this mode has an all-or-nothing
+approach, where if a single update fails, all updates would fail.
+
+In 23fc8e4f61 (refs: implement batch reference update support,
+2025-04-08), we introduced a new mechanism to batch reference updates.
+Under the hood, this uses a single transaction to perform a batch of
+reference updates, while allowing only individual updates to fail.
+Utilize this newly introduced batch update mechanism in
+'git-receive-pack(1)'. This provides a significant bump in performance,
+especially when dealing with repositories with large number of
+references.
+
+With the reftable backend there is a 18x performance improvement, when
+performing receive-pack with 10000 refs:
+
+  Benchmark 1: receive: many refs (refformat = reftable, refcount = 10000, revision = master)
+    Time (mean ± σ):      4.276 s ±  0.078 s    [User: 0.796 s, System: 3.318 s]
+    Range (min … max):    4.185 s …  4.430 s    10 runs
+
+  Benchmark 2: receive: many refs (refformat = reftable, refcount = 10000, revision = HEAD)
+    Time (mean ± σ):     235.4 ms ±   6.9 ms    [User: 75.4 ms, System: 157.3 ms]
+    Range (min … max):   228.5 ms … 254.2 ms    11 runs
+
+  Summary
+    receive: many refs (refformat = reftable, refcount = 10000, revision = HEAD) ran
+     18.16 ± 0.63 times faster than receive: many refs (refformat = reftable, refcount = 10000, revision = master)
+
+In similar conditions, the files backend sees a 1.21x performance
+improvement:
+
+  Benchmark 1: receive: many refs (refformat = files, refcount = 10000, revision = master)
+    Time (mean ± σ):      1.121 s ±  0.021 s    [User: 0.128 s, System: 0.975 s]
+    Range (min … max):    1.097 s …  1.156 s    10 runs
+
+  Benchmark 2: receive: many refs (refformat = files, refcount = 10000, revision = HEAD)
+    Time (mean ± σ):     927.9 ms ±  22.6 ms    [User: 99.0 ms, System: 815.2 ms]
+    Range (min … max):   903.1 ms … 978.0 ms    10 runs
+
+  Summary
+    receive: many refs (refformat = files, refcount = 10000, revision = HEAD) ran
+      1.21 ± 0.04 times faster than receive: many refs (refformat = files, refcount = 10000, revision = master)
+
+As using batched updates requires the error handling to be moved to the
+end of the flow, create and use a 'struct strset' to track the failed
+refs and attribute the correct errors to them.
+
+This change also uncovers an issue when a client provides multiple
+updates to the same reference. For example:
+
+  $ git send-pack remote.git A:foo B:foo
+  Enumerating objects: 3, done.
+  Counting objects: 100% (3/3), done.
+  Delta compression using up to 20 threads
+  Compressing objects: 100% (2/2), done.
+  Writing objects: 100% (3/3), 226 bytes | 226.00 KiB/s, done.
+  Total 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+  remote: error: cannot lock ref 'refs/heads/foo': reference already exists
+  To remote.git
+   ! [remote rejected] A -&gt; foo (failed to update ref)
+   ! [remote failure]  B -&gt; foo (remote failed to report status)
+
+As you can see, the remote runs into an error because it cannot lock the
+target reference for the second update. Furthermore, the remote complains
+that the first update has been rejected whereas the second update didn't
+receive any status update because we failed to lock it. Reading this status
+message alone a user would probably expect that `foo` has not been updated
+at all. But that's not the case: while we claim that the ref wasn't updated,
+it surprisingly points to `A` now.
+
+One could argue that this is merely an error in how we report the result of
+this push. But ultimately, the user's request itself is already broken and
+doesn't make any sense in the first place and cannot ever lead to a sensible
+outcome that honors the full request.
+
+The conversion to batched transactions fixes the issue because we now try to
+queue both updates in the same transaction. As such, the transaction itself
+will notice this conflict and refuse the update altogether before we commit
+any of the values.
+
+Note that this requires changes to a couple of tests in t5408 that happened
+to exercise this behaviour. Given that the generated output is misleading
+and given that the user request cannot ever be fully honored this really
+feels more like a bug than properly designed behaviour. As such, changing
+the behaviour feels like the right thing to do.
+
+Since now reference updates are batched, the 'reference-transaction'
+hook will be invoked with all updates together. Currently git will 'die'
+when the hook returns with a non-zero exit status in the 'prepared'
+stage. For 'git-receive-pack(1)', this allowed users to reject an
+individual reference update, git would have applied previous updates but
+immediately abort further execution. This is definitely an incorrect
+usage of this hook, since the right place to do this would be the
+'update' hook. This patch retains the latter behavior, but
+'reference-transaction' hook now changes to a all-or-nothing behavior
+when a non-zero exit status is returned in the 'prepared' stage, since
+batch updates use a transaction under the hood. This explains the change
+in 't1416'.
+
+Helped-by: Jeff King &lt;peff@peff.net&gt;
+Helped-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#77188b5</div>
+                                        <div class="message">send-pack: fix memory leak around duplicate refs
+
+The 'git-send-pack(1)' allows users to push objects to a remote
+repository and explicitly list the references to be pushed. The status
+of each reference pushed is captured into a list mapped by refname.
+
+If a reference fails to be updated, its error message is captured in the
+`ref-&gt;remote_status` field. While the command allows duplicate ref
+inputs, the list doesn't accommodate this behavior as a particular
+refname is linked to a single `struct ref*` element. So if the user
+inputs a reference twice like:
+
+  git send-pack remote.git A:foo B:foo
+
+where the user is trying to update the same reference 'foo' twice and
+the reference fails to be updated, we first fill `ref-&gt;remote_status`
+with error message for the input 'A:foo' then we override the same field
+with the error message for 'B:foo'. This override happens without first
+free'ing the previous value. Fix this leak.
+
+The current tests already incorporate the above example, but in the test
+'A:foo' succeeds while 'B:foo' fails, meaning that the memory leak isn't
+triggered. Add a new test with multiple duplicates.
+
+Signed-off-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0e358de</div>
+                                        <div class="message">fetch: use batched reference updates
+
+The reference updates performed as a part of 'git-fetch(1)', take place
+one at a time. For each reference update, a new transaction is created
+and committed. This is necessary to ensure we can allow individual
+updates to fail without failing the entire command. The command also
+supports an '--atomic' mode, which uses a single transaction to update
+all of the references. But this mode has an all-or-nothing approach,
+where if a single update fails, all updates would fail.
+
+In 23fc8e4f61 (refs: implement batch reference update support,
+2025-04-08), we introduced a new mechanism to batch reference updates.
+Under the hood, this uses a single transaction to perform a batch of
+reference updates, while allowing only individual updates to fail.
+Utilize this newly introduced batch update mechanism in 'git-fetch(1)'.
+This provides a significant bump in performance, especially when dealing
+with repositories with large number of references.
+
+Adding support for batched updates is simply modifying the flow to also
+create a batch update transaction in the non-atomic flow.
+
+With the reftable backend there is a 22x performance improvement, when
+performing 'git-fetch(1)' with 10000 refs:
+
+  Benchmark 1: fetch: many refs (refformat = reftable, refcount = 10000, revision = master)
+    Time (mean ± σ):      3.403 s ±  0.775 s    [User: 1.875 s, System: 1.417 s]
+    Range (min … max):    2.454 s …  4.529 s    10 runs
+
+  Benchmark 2: fetch: many refs (refformat = reftable, refcount = 10000, revision = HEAD)
+    Time (mean ± σ):     154.3 ms ±  17.6 ms    [User: 102.5 ms, System: 56.1 ms]
+    Range (min … max):   145.2 ms … 220.5 ms    18 runs
+
+  Summary
+    fetch: many refs (refformat = reftable, refcount = 10000, revision = HEAD) ran
+     22.06 ± 5.62 times faster than fetch: many refs (refformat = reftable, refcount = 10000, revision = master)
+
+In similar conditions, the files backend sees a 1.25x performance
+improvement:
+
+  Benchmark 1: fetch: many refs (refformat = files, refcount = 10000, revision = master)
+    Time (mean ± σ):     605.5 ms ±   9.4 ms    [User: 117.8 ms, System: 483.3 ms]
+    Range (min … max):   595.6 ms … 621.5 ms    10 runs
+
+  Benchmark 2: fetch: many refs (refformat = files, refcount = 10000, revision = HEAD)
+    Time (mean ± σ):     485.8 ms ±   4.3 ms    [User: 91.1 ms, System: 396.7 ms]
+    Range (min … max):   477.6 ms … 494.3 ms    10 runs
+
+  Summary
+    fetch: many refs (refformat = files, refcount = 10000, revision = HEAD) ran
+      1.25 ± 0.02 times faster than fetch: many refs (refformat = files, refcount = 10000, revision = master)
+
+With this we'll either be using a regular transaction or a batch update
+transaction. This helps cleanup some code which is no longer needed as
+we'll now always have some type of 'ref_transaction' object being
+propagated.
+
+One big change is that earlier, each individual update would propagate a
+failure. Whereas now, the `ref_transaction_for_each_rejected_update`
+function is called at the end of the flow to capture the exit status for
+'git-fetch(1)' and also to print F/D conflict errors. This does change
+the order of the errors being printed, but the behavior stays the same.
+
+Since transaction errors are now explicitly defined as part of
+76e760b999 (refs: introduce enum-based transaction error types,
+2025-04-08), utilize them and get rid of custom errors defined within
+'builtin/fetch.c'.
+
+Signed-off-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b3de383</div>
+                                        <div class="message">refs: add function to translate errors to strings
+
+The commit 76e760b999 (refs: introduce enum-based transaction error
+types, 2025-04-08) introduced enum-based transaction error types. The
+refs transaction logic was also modified to propagate these errors. For
+clients of the ref transaction system, it would be beneficial to provide
+human readable messages for these errors.
+
+There is already an existing mapping in 'builtin/update-ref.c', move it
+to 'refs.c' as `ref_transaction_error_msg()` and use the same within the
+'builtin/update-ref.c'.
+
+Helped-by: Junio C Hamano &lt;gitster@pobox.com&gt;
+Signed-off-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -587,55 +1115,6 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">js-string-list-enhance-v3</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b608047</div>
-                                        <div class="message">u-string-list: move "remove duplicates" test to "u-string-list.c"
-
-We use "test-tool string-list remove_duplicates" to test the
-"string_list_remove_duplicates" function. As we have introduced the unit
-test, we'd better remove the logic from shell script to C program to
-improve test speed and readability.
-
-As all the tests in shell script are removed, let's just delete the
-"t0063-string-list.sh" and update the "meson.build" file to align with
-this change.
-
-Also we could simply remove "DISABLE_SIGN_COMPARE_WARNINGS" due to we
-have already deleted related code.
-
-Unfortunately, we cannot totally remove "test-string-list.c" due to that
-we would test the performance of sorting about string list by executing
-"test-tool string-list sort" in "p0071-sort.sh".
-
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4cc76a6</div>
-                                        <div class="message">u-string-list: move "filter string" test to "u-string-list.c"
-
-We use "test-tool string-list filter" to test the "filter_string_list"
-function. As we have introduced the unit test, we'd better remove the
-logic from shell script to C program to improve test speed and
-readability.
-
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -694,17 +1173,17 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">git</span>
-                                <div class="bar" style="width: 38.519999999999996%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">48%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 22.471999999999998%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">28%</span>
+                                <div class="bar" style="width: 39.024%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">49%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">OS-Configuration</span>
-                                <div class="bar" style="width: 19.016%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 22.072%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">28%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Unknown Project</span>
+                                <div class="bar" style="width: 18.912%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">24%</span>
                             </div>
                         </div>
@@ -714,27 +1193,27 @@ Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 38.495999999999995%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">48%</span>
+                                <div class="bar" style="width: 39%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">49%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 19.016%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">24%</span>
+                                <div class="bar" style="width: 22.072%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">28%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Text</span>
-                                <div class="bar" style="width: 5.911999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.992000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">7%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 4.712%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.760000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">conf</span>
-                                <div class="bar" style="width: 4.208%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.264%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                         </div>
