@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="504" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="884" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}svg.large .largeable-column-fields{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.label,.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;border-radius:32px;font-size:12px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -29,6 +29,399 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 228 commits in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#100f597</div>
+                                        <div class="message">gitk: set config dialog color swatches in one place
+
+gitk's color selection dialog uses a number of "label" widgets to show
+the current value of each selectable color. This uses the -background
+color property of label widgets, and this property is overwritten when
+the full ui color set is refreshed. The swatch colors are set
+individually using code passed into the chooser dialog, so there is no
+common routine to set all after updating the global ui colors.
+
+Let's replace this with a single routine that does set all swatches,
+removing a key impediment to restoring the ui colors if the dialog is
+cancelled.
+
+Signed-off-by: Mark Levedahl &lt;mlevedahl@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#339d95f</div>
+                                        <div class="message">ci: allow github-actions print test failures again
+
+eab5dbab (ci: wire up Meson builds, 2024-12-13) added two instances
+of a very similar construct
+
+    FAILED_TEST_ARTIFACTS=${TEST_OUTPUT_DIRECTORY:-t}/failed-test-artifacts
+
+one to ci/lib.sh and the other to ci/print-test-failures.sh
+Unfortunately, the latter had a typo causing shell to emit "Bad
+substitution".  Fix it.
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ec865d9</div>
+                                        <div class="message">midx: remove now-unused linked list of multi-pack indices
+
+In the preceding commits we have migrated all users of the linked list
+of multi-pack indices to instead use those stored in the object database
+sources. Remove those now-unused pointers.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c620586</div>
+                                        <div class="message">packfile: stop using linked MIDX list in `get_all_packs()`
+
+Refactor `get_all_packs()` so that we stop using the linked list of
+multi-pack indices. Note that there is no need to explicitly prepare
+alternates, and neither do we have to use `get_multi_pack_index()`,
+because `prepare_packed_git()` already takes care of populating all data
+structures for us.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7fc1998</div>
+                                        <div class="message">packfile: stop using linked MIDX list in `find_pack_entry()`
+
+Refactor `find_pack_entry()` so that we stop using the linked list of
+multi-pack indices. Note that there is no need to explicitly prepare
+alternates, and neither do we have to use `get_multi_pack_index()`,
+because `prepare_packed_git()` already takes care of populating all data
+structures for us.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#736bb72</div>
+                                        <div class="message">packfile: refactor `get_multi_pack_index()` to work on sources
+
+The function `get_multi_pack_index()` loads multi-pack indices via
+`prepare_packed_git()` and then returns the linked list of multi-pack
+indices that is stored in `struct object_database`. That list is in the
+process of being removed though in favor of storing the MIDX as part of
+the object database source it belongs to.
+
+Refactor `get_multi_pack_index()` so that it returns the multi-pack
+index for a single object source. Callers are now expected to call this
+function for each source they are interested in. This requires them to
+iterate through alternates, so we have to prepare alternate object
+sources before doing so.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6567432</div>
+                                        <div class="message">midx: stop using linked list when closing MIDX
+
+When calling `close_midx()` we not only close the multi-pack index for
+one object source, but instead we iterate through the whole linked list
+of MIDXs to close all of them. This linked list is about to go away in
+favor of using the new per-source pointer to its respective MIDX.
+
+Refactor the function to iterate through sources instead.
+
+Note that after this patch, there's a couple of callsites left that
+continue to use `close_midx()` without iterating through all sources.
+These are all cases where we don't care about the MIDX from other
+sources though, so it's fine to keep them as-is.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ec4380f</div>
+                                        <div class="message">packfile: refactor `prepare_packed_git_one()` to work on sources
+
+In the preceding commit we refactored how we load multi-pack indices to
+take a corresponding "source" as input. As part of this refactoring we
+started to store a pointer to the MIDX in `struct odb_source` itself.
+
+Refactor loading of packfiles in the same way: instead of passing in the
+object directory, we now pass in the source from which we want to load
+packfiles. This allows us to simplify the code because we don't have to
+search for a corresponding MIDX anymore, but we can instead directly use
+the MIDX that we have already prepared beforehand.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4d8be89</div>
+                                        <div class="message">midx: start tracking per object database source
+
+Multi-pack indices are tracked via `struct multi_pack_index`. This data
+structure is stored as a linked list inside `struct object_database`,
+which is the global database that spans across all of the object
+sources.
+
+This layout causes two problems:
+
+  - Object databases consist of multiple object sources (e.g. one source
+    per alternate object directory), where each multi-pack index is
+    specific to one of those sources. Regardless of that though, the
+    MIDX is not tracked per source, but tracked globally for the whole
+    object database. This creates a mismatch between the on-disk layout
+    and how things are organized in the object database subsystems and
+    makes some parts, like figuring out whether a source has an MIDX,
+    quite awkward.
+
+  - Multi-pack indices are an implementation detail of how efficient
+    access for packfiles work. As such, they are neither relevant in the
+    context of loose objects, nor in a potential future where we have
+    pluggable backends.
+
+Refactor `prepare_multi_pack_index_one()` so that it works on a specific
+source, which allows us to easily store a pointer to the multi-pack
+index inside of it. For now, this pointer exists next to the existing
+linked list we have in the object database. Users will be adjusted in
+subsequent patches to instead use the per-source pointers.
+
+Signed-off-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c29998d</div>
+                                        <div class="message">Merge branch 'tb/midx-avoid-cruft-packs' into ps/object-store-midx
+
+* tb/midx-avoid-cruft-packs:
+  repack: exclude cruft pack(s) from the MIDX where possible
+  pack-objects: introduce '--stdin-packs=follow'
+  pack-objects: swap 'show_{object,commit}_pack_hint'
+  pack-objects: fix typo in 'show_object_pack_hint()'
+  pack-objects: perform name-hash traversal for unpacked objects
+  pack-objects: declare 'rev_info' for '--stdin-packs' earlier
+  pack-objects: factor out handling '--stdin-packs'
+  pack-objects: limit scope in 'add_object_entry_from_pack()'
+  pack-objects: use standard option incompatibility functions</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dabecb9</div>
+                                        <div class="message">for-each-ref: introduce a '--start-after' option
+
+The `git-for-each-ref(1)` command is used to iterate over references
+present in a repository. In large repositories with millions of
+references, it would be optimal to paginate this output such that we
+can start iteration from a given reference. This would avoid having to
+iterate over all references from the beginning each time when paginating
+through results.
+
+The previous commit added 'seek' functionality to the reference
+backends. Utilize this and expose a '--start-after' option in
+'git-for-each-ref(1)'. When used, the reference iteration seeks to the
+lexicographically next reference and iterates from there onward.
+
+This enables efficient pagination workflows, where the calling script
+can remember the last provided reference and use that as the starting
+point for the next set of references:
+    git for-each-ref --count=100
+    git for-each-ref --count=100 --start-after=refs/heads/branch-100
+    git for-each-ref --count=100 --start-after=refs/heads/branch-200
+
+Since the reference iterators only allow seeking to a specified marker
+via the `ref_iterator_seek()`, we introduce a helper function
+`start_ref_iterator_after()`, which seeks to next reference by simply
+adding (char) 1 to the marker.
+
+We must note that pagination always continues from the provided marker,
+as such any concurrent reference updates lexicographically behind the
+marker will not be output. Document the same.
+
+Signed-off-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#526530a</div>
+                                        <div class="message">ref-filter: remove unnecessary else clause
+
+In 'ref-filter.c', there is an 'else' clause within `do_filter_refs()`.
+This is unnecessary since the 'if' clause calls `die()`, which would
+exit the program. So let's remove the unnecessary 'else' clause. This
+improves readability since the indentation is also reduced and flow is
+simpler.
+
+Signed-off-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2b4648b</div>
+                                        <div class="message">refs: selectively set prefix in the seek functions
+
+The ref iterator exposes a `ref_iterator_seek()` function. The name
+suggests that this would seek the iterator to a specific reference in
+some ways similar to how `fseek()` works for the filesystem.
+
+However, the function actually sets the prefix for refs iteration. So
+further iteration would only yield references which match the particular
+prefix. This is a bit confusing.
+
+Let's add a 'flags' field to the function, which when set with the
+'REF_ITERATOR_SEEK_SET_PREFIX' flag, will set the prefix for the
+iteration in-line with the existing behavior. Otherwise, the reference
+backends will simply seek to the specified reference and clears any
+previously set prefix. This allows users to start iteration from a
+specific reference.
+
+In the packed and reftable backend, since references are available in a
+sorted list, the changes are simply setting the prefix if needed. The
+changes on the files-backend are a little more involved, since the files
+backend uses the 'ref-cache' mechanism. We move out the existing logic
+within `cache_ref_iterator_seek()` to `cache_ref_iterator_set_prefix()`
+which is called when the 'REF_ITERATOR_SEEK_SET_PREFIX' flag is set. We
+then parse the provided seek string and set the required levels and
+their indexes to ensure that seeking is possible.
+
+Helped-by: Patrick Steinhardt &lt;ps@pks.im&gt;
+Signed-off-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#883a7ea</div>
+                                        <div class="message">ref-cache: remove unused function 'find_ref_entry()'
+
+The 'find_ref_entry' function is no longer used, so remove it.
+
+Signed-off-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6bde5d4</div>
+                                        <div class="message">refs: expose `ref_iterator` via 'refs.h'
+
+The `ref_iterator` is an internal structure to the 'refs/'
+sub-directory, which allows iteration over refs. All reference iteration
+is built on top of these iterators.
+
+External clients of the 'refs' subsystem use the various
+'refs_for_each...()' functions to iterate over refs. However since these
+are wrapper functions, each combination of functionality requires a new
+wrapper function. This is not feasible as the functions pile up with the
+increase in requirements. Expose the internal reference iterator, so
+advanced users can mix and match options as needed.
+
+Signed-off-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2441e19</div>
+                                        <div class="message">gitk: Add user preference to hide specific references
+
+External tools such as Jujutsu may add many references that are of no
+interest to the user. This preference allows hiding them.
+
+Signed-off-by: Ori Avtalion &lt;ori@avtalion.name&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bfacf83</div>
+                                        <div class="message">git-gui: strip the commit message after running commit-msg hook
+
+When commit-msg writes the file using CRLF, the lines in the final
+message include trailing spaces.
+
+Postpone stripping until after hooks execute.
+
+This aligns with Git's behavior, which passes the original message
+to commit-msg, then strips comments and whitespace.
+
+Signed-off-by: Orgad Shaneh &lt;orgads@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7cafb9a</div>
+                                        <div class="message">Merge branch 'ps/object-store' into ps/object-file-wo-the-repository
+
+* ps/object-store:
+  odb: rename `read_object_with_reference()`
+  odb: rename `pretend_object_file()`
+  odb: rename `has_object()`
+  odb: rename `repo_read_object_file()`
+  odb: rename `oid_object_info()`
+  odb: trivial refactorings to get rid of `the_repository`
+  odb: get rid of `the_repository` when handling submodule sources
+  odb: get rid of `the_repository` when handling the primary source
+  odb: get rid of `the_repository` in `for_each()` functions
+  odb: get rid of `the_repository` when handling alternates
+  odb: get rid of `the_repository` in `odb_mkstemp()`
+  odb: get rid of `the_repository` in `assert_oid_type()`
+  odb: get rid of `the_repository` in `find_odb()`
+  odb: introduce parent pointers
+  object-store: rename files to "odb.{c,h}"
+  object-store: rename `object_directory` to `odb_source`
+  object-store: rename `raw_object_store` to `object_database`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db0583b</div>
+                                        <div class="message">Merge branch 'ps/object-store' into ps/object-store-midx
+
+* ps/object-store:
+  odb: rename `read_object_with_reference()`
+  odb: rename `pretend_object_file()`
+  odb: rename `has_object()`
+  odb: rename `repo_read_object_file()`
+  odb: rename `oid_object_info()`
+  odb: trivial refactorings to get rid of `the_repository`
+  odb: get rid of `the_repository` when handling submodule sources
+  odb: get rid of `the_repository` when handling the primary source
+  odb: get rid of `the_repository` in `for_each()` functions
+  odb: get rid of `the_repository` when handling alternates
+  odb: get rid of `the_repository` in `odb_mkstemp()`
+  odb: get rid of `the_repository` in `assert_oid_type()`
+  odb: get rid of `the_repository` in `find_odb()`
+  odb: introduce parent pointers
+  object-store: rename files to "odb.{c,h}"
+  object-store: rename `object_directory` to `odb_source`
+  object-store: rename `raw_object_store` to `object_database`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ade14bf</div>
+                                        <div class="message">rebase: write script before initializing state
+
+If rebase.instructionFormat is invalid the repository is left in a
+strange state when the interactive rebase fails. `git status` outputs
+boths the same as it would in the normal case *and* something related to
+interactive rebase:
+
+    $ git -c rebase.instructionFormat=blah rebase -i
+    fatal: invalid --pretty format: blah
+    $ git status
+    On branch master
+    Your branch is ahead of 'upstream/master' by 1 commit.
+      (use "git push" to publish your local commits)
+
+    git-rebase-todo is missing.
+    No commands done.
+    No commands remaining.
+    You are currently editing a commit while rebasing branch 'master' on '8db3019401'.
+      (use "git commit --amend" to amend the current commit)
+      (use "git rebase --continue" once you are satisfied with your changes)
+
+By attempting to write the rebase script before initializing the state
+this potential scenario is avoided.
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -107,19 +500,19 @@ Archlinux upstream updates font awesome from 6 to 7. Align this behavior</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~1 coding hours recorded
+                            ~3 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            Working on hexo-blog
+                            Working on git
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                             </svg>
-                            Mostly coding in Markdown
+                            Mostly coding in C
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -127,7 +520,7 @@ Archlinux upstream updates font awesome from 6 to 7. Align this behavior</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/>
                             </svg>
-                            ~1 hours of coding per day
+                            ~2 hours of coding per day
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -148,14 +541,24 @@ Archlinux upstream updates font awesome from 6 to 7. Align this behavior</div>
                         <h3>Projects activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
+                                <span class="name">git</span>
+                                <div class="bar" style="width: 46.352000000000004%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">58%</span>
+                            </div>
+                            <div class="entry">
                                 <span class="name">hexo-blog</span>
-                                <div class="bar" style="width: 51.67999999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">65%</span>
+                                <div class="bar" style="width: 21.704%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">27%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 28.32%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">35%</span>
+                                <div class="bar" style="width: 11.896%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">15%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">luo_obsidian</span>
+                                <div class="bar" style="width: 0.04%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
                             </div>
                         </div>
                     </section>
@@ -163,19 +566,24 @@ Archlinux upstream updates font awesome from 6 to 7. Align this behavior</div>
                         <h3>Language activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
+                                <span class="name">C</span>
+                                <div class="bar" style="width: 46.352000000000004%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">58%</span>
+                            </div>
+                            <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 51.67999999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">65%</span>
+                                <div class="bar" style="width: 21.752000000000002%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">27%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">INI</span>
-                                <div class="bar" style="width: 15.936000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">20%</span>
+                                <div class="bar" style="width: 6.696%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">8%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Text</span>
-                                <div class="bar" style="width: 12.392000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">15%</span>
+                                <div class="bar" style="width: 5.2%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">7%</span>
                             </div>
                         </div>
                     </section>
