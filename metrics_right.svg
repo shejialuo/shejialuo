@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="643" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="960" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.deleted{color:#da3633}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.namespace{color:#b44418}.token.char,.token.number,.token.string{color:#2777aa}.token.builtin{color:#106cbc}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,99 +43,416 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#550231b</div>
+                                        <div class="message">archlinux(polybar): fix some issues
+
+We misuse fontawesome(fa) and material design(md). Let's use the format
+of material design.
+
+And we use circle icons which is hard to know which workspace we are at.
+So, we should use icon with number. However, the icon size is small.
+Let's introduce a new font with bigger size for i3 module.
+
+Also, there is no need to add icon for date. Let's delete the icon. And
+add the forgotten "spotify.ini" module configuration.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 123 commits in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#838fe56</div>
+                                        <div class="message">trace2: do not use strbuf_split*()
+
+tr2_cfg_load_patterns() and tr2_load_env_vars() functions are
+functions with very similar structure that each reads an environment
+variable, splits its value at the ',' boundaries, and trims the
+resulting string pieces into an array of strbufs.
+
+But the code paths that later use these strbufs take no advantage of
+the strbuf-ness of the result (they do not benefit from &lt;ptr,len&gt;
+representation to avoid having to run strlen(&lt;ptr&gt;), for example).
+
+Simplify the code by teaching these functions to split into a string
+list instead; even the trimming comes for free ;-).
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cb8e82a</div>
+                                        <div class="message">trace2: trim_trailing_newline followed by trim is a no-op
+
+strbuf_trim_trailing_newline() removes a LF or a CRLF from the tail
+of a string.  If the code plans to call strbuf_trim() immediately
+after doing so, the code is better off skipping the EOL trimming in
+the first place.  After all, LF/CRLF at the end is a mere special
+case of whitespaces at the end of the string, which will be removed
+by strbuf_rtrim() anyway.
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d6fd08b</div>
+                                        <div class="message">sub-process: do not use strbuf_split*()
+
+The code to read status from subprocess reads one packet line and
+tries to find "status=&lt;foo&gt;".  It is way overkill to split the line
+into an array of two strbufs to extract &lt;foo&gt;.
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b894d44</div>
+                                        <div class="message">environment: do not use strbuf_split*()
+
+environment.c:get_git_namespace() learns the raw namespace from an
+environment variable, splits it at "/", and appends them after
+"refs/namespaces/"; the reason why it splits first is so that an
+empty string resulting from double slashes can be omitted.
+
+The split pieces do not need to be edited in any way, so an array of
+strbufs is a wrong data structure to use.  Instead split into a
+string list and use the pieces from there.
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dcecac2</div>
+                                        <div class="message">config: do not use strbuf_split()
+
+When parsing an old-style GIT_CONFIG_PARAMETERS environment
+variable, the code parses key=value pairs by splitting them at '='
+into an array of strbuf's.  As strbuf_split() leaves the delimiter
+at the end of the split piece, the code has to manually trim it.
+
+If we split with string_list_split(), that becomes unnecessary.
+Retire the use of strbuf_split() from this code path.
+
+Note that the max parameter of string_list_split() is of
+an ergonomically iffy design---it specifies the maximum number of
+times the function is allowed to split, which means that in order to
+split a text into up to 2 pieces, you have to pass 1, not 2.
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#566e910</div>
+                                        <div class="message">notes: do not use strbuf_split*()
+
+When reading copy instructions from the standard input, the program
+reads a line, splits it into tokens at whitespace, and trims each of
+the tokens before using.  We no longer need to use strbuf just to be
+able to trim, as string_list_split*() family now can trim while
+splitting a string.
+
+Retire the use of strbuf_split() from this code path.
+
+Note that this loop is a bit sloppy in that it ensures at least
+there are two tokens on each line, but ignores if there are extra
+tokens on the line.  Tightening it is outside the scope of this
+series.
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d330912</div>
+                                        <div class="message">merge-tree: do not use strbuf_split*()
+
+When reading merge instructions from the standard input, the program
+reads from the standard input, splits the line into tokens at
+whitespace, and trims each of them before using.  We no longer need
+to use strbuf just for trimming, as string_list_split*() family can
+trim while splitting a string.
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4f60672</div>
+                                        <div class="message">clean: do not use strbuf_split*() [part 2]
+
+builtin/clean.c:filter_by_patterns_cmd() interactively reads a line
+that has exclude patterns from the user and splits the line into a
+list of patterns.  It uses the strbuf_split() so that each split
+piece can then trimmed.
+
+There is no need to use strbuf anymore, thanks to the recent
+enhancement to string_list_split*() family that allows us to trim
+the pieces split into a string_list.
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4985f72</div>
+                                        <div class="message">clean: do not pass the whole structure when it is not necessary
+
+The callee parse_choice() only needs to access a NUL-terminated
+string; instead of insisting to take a pointer to a strbuf, just
+take a pointer to a character array.
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7a4acc3</div>
+                                        <div class="message">clean: do not use strbuf_split*() [part 1]
+
+builtin/clean.c:parse_choice() is fed a single line of input, which
+is space or comma separated list of tokens, and a list of menu
+items.  It parses the tokens into number ranges (e.g. 1-3 that means
+the first three items) or string prefix (e.g. 's' to choose the menu
+item "(s)elect") that specify the elements in the menu item list,
+and tells the caller which ones are chosen.
+
+For parsing the input string, it uses strbuf_split() to split it
+into bunch of strbufs.  Instead use string_list_split_in_place(),
+for a few reasons.
+
+ * strbuf_split() is a bad API function to use, that yields an array
+   of strbuf that is a bad data structure to use in general.
+
+ * string_list_split_in_place() allows you to split with "comma or
+   space"; the current code has to preprocess the input string to
+   replace comma with space because strbuf_split() does not allow
+   this.
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#899ff9c</div>
+                                        <div class="message">clean: do not pass strbuf by value
+
+When you pass a structure by value, the callee can modify the
+contents of the structure that was passed in without having to worry
+about changing the structure the caller has.  Passing structure by
+value sometimes (but not very often) can be a valid way to give
+callee a temporary variable it can freely modify.
+
+But not a structure with members that are pointers, like a strbuf.
+
+builtin/clean.c:list_and_choose() reads a line interactively from
+the user, and passes the line (in a strbuf) to parse_choice() by
+value, which then munges by replacing ',' with ' ' (to accept both
+comma and space separated list of choices).  But because the strbuf
+passed by value still shares the underlying character array buf[],
+this ends up munging the caller's strbuf contents.
+
+This is a catastrophe waiting to happen.  If the callee causes the
+strbuf to be reallocated, the buf[] the caller has will become
+dangling, and when the caller does strbuf_release(), it would result
+in double-free.
+
+Stop calling the function with misleading call-by-value with strbuf.
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2efe707</div>
+                                        <div class="message">wt-status: avoid strbuf_split*()
+
+strbuf is a very good data structure to work with string data
+without having to worry about running past the end of the string,
+but strbuf_split() is a wrong API and an array of strbuf that the
+function produces is a wrong thing to use in general.  You do not
+edit these N strings split out of a single strbuf simultaneously.
+Often it is much better off to split a string into string_list and
+work with the resulting strings.
+
+wt-status.c:abbrev_oid_in_line() takes one line of rebase todo list
+(like "pick e813a0200a7121b97fec535f0d0b460b0a33356c title"), and
+for instructions that has an object name as the second token on the
+line, replace the object name with its unique abbreviation.  After
+splitting these tokens out of a single line, no simultaneous edit on
+any of these pieces of string that takes advantage of strbuf API
+takes place.  The final string is composed with strbuf API, but
+these split pieces are merely used as pieces of strings and there is
+no need for them to be stored in individual strbuf.
+
+Instead, split the line into a string_list, and compose the final
+string using these pieces.
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e901d1</div>
+                                        <div class="message">Merge branch 'jc/string-list-split' into jc/strbuf-split
+
+* jc/string-list-split:
+  string-list: split-then-remove-empty can be done while splitting
+  string-list: optionally omit empty string pieces in string_list_split*()
+  diff: simplify parsing of diff.colormovedws
+  string-list: optionally trim string pieces split by string_list_split*()
+  string-list: unify string_list_split* functions
+  string-list: align string_list_split() with its _in_place() counterpart
+  string-list: report programming error with BUG</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2ab2aac</div>
+                                        <div class="message">string-list: split-then-remove-empty can be done while splitting
+
+Thanks to the new STRING_LIST_SPLIT_NONEMPTY flag, a common pattern
+to split a string into a string list and then remove empty items in
+the resulting list is no longer needed.  Instead, just tell the
+string_list_split*() to omit empty ones while splitting.
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#27531ef</div>
+                                        <div class="message">string-list: optionally omit empty string pieces in string_list_split*()
+
+Teach the unified split_string() machinery a new flag bit,
+STRING_LIST_SPLIT_NONEMPTY, to cause empty split pieces to be
+omitted from the resulting string list.
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f3a303a</div>
+                                        <div class="message">diff: simplify parsing of diff.colormovedws
+
+The code to parse this configuration variable, whose value is a
+comma-separated list of known tokens like "ignore-space-change" and
+"ignore-all-space", uses string_list_split() to split the value into
+pieces, and then places each piece of string in a strbuf to trim,
+before comparing the result with the list of known tokens.
+
+Thanks to the previous steps, now string_list_split() can trim the
+resulting pieces before it places them in the string list.  Use it
+to simplify the code.
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5764549</div>
+                                        <div class="message">string-list: optionally trim string pieces split by string_list_split*()
+
+Teach the unified split_string() to take an optional "flags" word,
+and define the first flag STRING_LIST_SPLIT_TRIM to cause the split
+pieces to be trimmed before they are placed in the string list.
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#527535f</div>
+                                        <div class="message">string-list: unify string_list_split* functions
+
+Thanks to the previous step, the only difference between these two
+related functions is that string_list_split() works on a string
+without modifying its contents (i.e. taking "const char *") and the
+resulting pieces of strings are their own copies in a string list,
+while string_list_split_in_place() works on a mutable string and the
+resulting pieces of strings come from the original string.
+
+Consolidate their implementations into a single helper function, and
+make them a thin wrapper around it.  We can later add an extra flags
+parameter to extend both of these functions by updating only the
+internal helper function.
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9f6dfe4</div>
+                                        <div class="message">string-list: align string_list_split() with its _in_place() counterpart
+
+The string_list_split_in_place() function was updated by 52acddf3
+(string-list: multi-delimiter `string_list_split_in_place()`,
+2023-04-24) to take more than one delimiter characters, hoping that
+we can later use it to replace our uses of strtok().  We however did
+not make a matching change to the string_list_split() function,
+which is very similar.
+
+Before giving both functions more features in future commits, allow
+string_list_split() to also take more than one delimiter characters
+to make them closer to each other.
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4f9c8d8</div>
+                                        <div class="message">string-list: report programming error with BUG
+
+Passing a string list that has .strdup_strings bit unset to
+string_list_split(), or one that has .strdup_strings bit set to
+string_list_split_in_place(), is a programmer error.  Do not use
+die() to abort the execution.  Use BUG() instead.
+
+As a developer-facing message, the message string itself should
+be a lot more concise, but let's keep the original one for now.
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">shejialuo/dotfiles</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fef0cd6</div>
+                                        <div class="message">archlinux(polybar): update new theme</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">shejialuo/OS-Configuration</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#63d63ca</div>
+                                        <div class="message">feat: update archlinux</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">shejialuo/dotfiles</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#43c43eb</div>
                                         <div class="message">archlinux(i3): revert disabling auto starts nm-applet
 
 There are some restrictions for networkmanager_dmenu for VPN operations.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shejialuo/dotfiles</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#795c181</div>
-                                        <div class="message">archlinux: write script to control volume
-
-Because we have deleted pa-applet, we cannot use keyboard to control the
-volume, we need to add the keybingds in the i3 config.
-
-In order to do that create a shell script "volume_control.sh" to do that
-and use `dunstify` to notify the user and in order not to create the
-history, update the `dunstrc` to ignore app name "i3_volume_control".</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shejialuo/dotfiles</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3b572b3</div>
-                                        <div class="message">archlinux(i3): remove nm-applet and pa-applet
-
-Now, we could use rofi to do that.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shejialuo/dotfiles</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#97cf44b</div>
-                                        <div class="message">archlinux(rofi): change theme to dracula</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shejialuo/dotfiles</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#704c759</div>
-                                        <div class="message">archlinux(picom): never blur rofi</div>
                                     </div>
                                 </div>
                             </section>
@@ -156,7 +473,7 @@ Now, we could use rofi to do that.</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~12 coding hours recorded
+                            ~16 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -176,7 +493,7 @@ Now, we could use rofi to do that.</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/>
                             </svg>
-                            ~3 hours of coding per day
+                            ~4 hours of coding per day
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -198,17 +515,22 @@ Now, we could use rofi to do that.</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 70.328%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 70.712%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">88%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">OS-Configuration</span>
-                                <div class="bar" style="width: 8.591999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">11%</span>
+                                <div class="bar" style="width: 7.288%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">git</span>
+                                <div class="bar" style="width: 1.208%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">polybar-collection</span>
-                                <div class="bar" style="width: 1.064%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.776%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
@@ -223,27 +545,27 @@ Now, we could use rofi to do that.</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">INI</span>
-                                <div class="bar" style="width: 37.424%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">47%</span>
+                                <div class="bar" style="width: 42.111999999999995%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">53%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">cfg</span>
-                                <div class="bar" style="width: 20.328%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">25%</span>
+                                <div class="bar" style="width: 14.736000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">18%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 8.584%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">11%</span>
+                                <div class="bar" style="width: 7.288%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">conf</span>
-                                <div class="bar" style="width: 6.288%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
+                                <div class="bar" style="width: 4.608%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Other</span>
-                                <div class="bar" style="width: 3.7680000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">Mail</span>
+                                <div class="bar" style="width: 3.6159999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                         </div>
