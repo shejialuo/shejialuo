@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="877" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="779" class="">
     <defs>
         <style/>
     </defs>
@@ -431,72 +431,6 @@ Summary
 
 Signed-off-by: Phillip Wood &lt;phillip.wood@dunelm.org.uk&gt;
 Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">js-sign-warning-fix-series</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9f2b55f</div>
-                                        <div class="message">refs: enable sign compare warnings check
-
-After fixing the tricky compare warning introduced by calling
-"string_list_find_insert_index", there are only two loop iterator type
-mismatches. Fix them to enable compare warnings check.
-
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4d4bdf7</div>
-                                        <div class="message">string-list: change "string_list_find_insert_index" return type to "size_t"
-
-As "string_list_find_insert_index" is a simple wrapper of
-"get_entry_index", we could simply change its return type to "size_t".
-
-Update all callers to use size_t variables for storing the return value.
-The tricky fix is the loop condition in "mailmap.c" to properly handle
-"size_t" underflow by changing from `0 &lt;= --i` to `i-- &gt; 0`.
-
-Remove "DISABLE_SIGN_COMPARE_WARNINGS" from "mailmap.c" as it's no
-longer needed with the proper unsigned types.
-
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#104c090</div>
-                                        <div class="message">string-list: replace negative index encoding with "exact_match" parameter
-
-We would return negative index to indicate exact match by converting the
-original positive index to be "-1 - index" in
-"string_list_find_insert_index", which requires callers to decode this
-information.
-
-This is bad due to the following reasons:
-
-1. The callers need to convert the negative index back to the original
-   positive value, which requires the callers to understand the detail
-   of the function.
-2. As we have to return negative index, we need to specify the return
-   type to be `int` instead of `size_t`, which would cause sign compare
-   warnings.
-
-Refactor "string_list_find_insert_index" to use an output parameter
-"exact_match" for indicating the exact match rather than encoding
-through negative return values.
-
-Signed-off-by: shejialuo &lt;shejialuo@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
