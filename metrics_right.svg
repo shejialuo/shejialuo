@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="779" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="481" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -87,354 +87,6 @@ Signed-off-by: Johannes Sixt &lt;j6t@kdbg.org&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 15 commits in
-                                        <span class="repo">shejialuo/git</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4975ec3</div>
-                                        <div class="message">The seventh batch
-
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#95a8428</div>
-                                        <div class="message">Merge branch 'tc/last-modified'
-
-A new command "git last-modified" has been added to show the closest
-ancestor commit that touched each path.
-
-* tc/last-modified:
-  last-modified: use Bloom filters when available
-  t/perf: add last-modified perf script
-  last-modified: new subcommand to show when files were last modified</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#576e0b6</div>
-                                        <div class="message">Merge branch 'ds/ls-files-lazy-unsparse'
-
-"git ls-files &lt;pathspec&gt;..." should not necessarily have to expand
-the index fully if a sparsified directory is excluded by the
-pathspec; the code is taught to expand the index on demand to avoid
-this.
-
-* ds/ls-files-lazy-unsparse:
-  ls-files: conditionally leave index sparse</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4a7ebb9</div>
-                                        <div class="message">Merge branch 'ds/path-walk-repack-fix'
-
-"git repack --path-walk" lost objects in some corner cases, which
-has been corrected.
-
-* ds/path-walk-repack-fix:
-  path-walk: create initializer for path lists
-  path-walk: fix setup of pending objects</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9e3d0bd</div>
-                                        <div class="message">Merge branch 'am/xdiff-hash-tweak'
-
-Inspired by Ezekiel's recent effort to showcase Rust interface, the
-hash function implementation used to hash lines have been updated
-to the one used for ELF symbol lookup by Glibc.
-
-* am/xdiff-hash-tweak:
-  xdiff: optimize xdl_hash_record_verbatim
-  xdiff: refactor xdl_hash_record()</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d5e429</div>
-                                        <div class="message">Merge branch 'da/cargo-serialize'
-
-Makefile tried to run multiple "cargo build" which would not work
-very well; serialize their execution to work it around.
-
-* da/cargo-serialize:
-  Makefile: build libgit-rs and libgit-sys serially</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d9a7cd</div>
-                                        <div class="message">last-modified: use Bloom filters when available
-
-Our 'git last-modified' performs a revision walk, and computes a diff at
-each point in the walk to figure out whether a given revision changed
-any of the paths it considers interesting.
-
-When changed-path Bloom filters are available, we can avoid computing
-many such diffs. Before computing a diff, we first check if any of the
-remaining paths of interest were possibly changed at a given commit by
-consulting its Bloom filter. If any of them are, we are resigned to
-compute the diff.
-
-If none of those queries returned "maybe", we know that the given commit
-doesn't contain any changed paths which are interesting to us. So, we
-can avoid computing it in this case.
-
-Comparing the perf test results on git.git:
-
-    Test                                        HEAD~             HEAD
-    ------------------------------------------------------------------------------------
-    8020.1: top-level last-modified             4.49(4.34+0.11)   2.22(2.05+0.09) -50.6%
-    8020.2: top-level recursive last-modified   5.64(5.45+0.11)   5.62(5.30+0.11) -0.4%
-    8020.3: subdir last-modified                0.11(0.06+0.04)   0.07(0.03+0.04) -36.4%
-
-Based-on-patch-by: Taylor Blau &lt;me@ttaylorr.com&gt;
-Signed-off-by: Toon Claes &lt;toon@iotcl.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#97d5301</div>
-                                        <div class="message">t/perf: add last-modified perf script
-
-This just runs some simple last-modified commands. We already test
-correctness in the regular suite, so this is just about finding
-performance regressions from one version to another.
-
-Based-on-patch-by: Jeff King &lt;peff@peff.net&gt;
-Signed-off-by: Toon Claes &lt;toon@iotcl.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#32f7458</div>
-                                        <div class="message">last-modified: new subcommand to show when files were last modified
-
-Similar to git-blame(1), introduce a new subcommand
-git-last-modified(1). This command shows the most recent modification to
-paths in a tree. It does so by expanding the tree at a given commit,
-taking note of the current state of each path, and then walking
-backwards through history looking for commits where each path changed
-into its final commit ID.
-
-Based-on-patch-by: Jeff King &lt;peff@peff.net&gt;
-Improved-by: Ævar Arnfjörð Bjarmason &lt;avarab@gmail.com&gt;
-Signed-off-by: Toon Claes &lt;toon@iotcl.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#681f26b</div>
-                                        <div class="message">ls-files: conditionally leave index sparse
-
-When running 'git ls-files' with a pathspec, the index entries get
-filtered according to that pathspec before iterating over them in
-show_files().  In 78087097b8 (ls-files: add --sparse option,
-2021-12-22), this iteration was prefixed with a check for the '--sparse'
-option which allows the command to output directory entries; this
-created a pre-loop call to ensure_full_index().
-
-However, when a user runs 'git ls-files' where the pathspec matches
-directories that are recursively matched in the sparse-checkout, there
-are not any sparse directories that match the pathspec so they would not
-be written to the output. The expansion in this case is just a
-performance drop for no behavior difference.
-
-Replace this global check to expand the index with a check inside the
-loop for a matched sparse directory. If we see one, then expand the
-index and continue from the current location. This is safe since the
-previous entries in the index did not have any sparse directories and
-thus would remain stable in this expansion.
-
-A test in t1092 confirms that this changes the behavior.
-
-Signed-off-by: Derrick Stolee &lt;stolee@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0eeacde</div>
-                                        <div class="message">Makefile: build libgit-rs and libgit-sys serially
-
-"make -JN" with INCLUDE_LIBGIT_RS enabled causes cargo lock warnings
-and can trigger ld errors during the build.
-
-The build errors are caused by two inner "make" invocations getting
-triggered concurrently: once inside of libgit-sys and another inside of
-libgit-rs.
-
-Make libgit-rs depend on libgit-sys so that "make" prevents them
-from running concurrently. Apply the same logic to the test invocations.
-Use cargo's "--manifest-path" option instead of "cd" in the recipes.
-
-Signed-off-by: David Aguilar &lt;davvid@gmail.com&gt;
-Acked-by: Kyle Lippincott &lt;spectral@google.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#93afe9b</div>
-                                        <div class="message">path-walk: create initializer for path lists
-
-The previous change fixed a bug in 'git repack -adf --path-walk' that
-was due to an update to how path lists are initialized and missing some
-important cases when processing the pending objects.
-
-This change takes the three critical places where path lists are
-initialized and combines them into a static method. This simplifies the
-callers somewhat while also helping to avoid a missed update in the
-future.
-
-The other places where a path list (struct type_and_oid_list) is
-initialized is for the following "fixed" lists:
-
- * Tag objects.
- * Commit objects.
- * Root trees.
- * Tagged trees.
- * Tagged blobs.
-
-These lists are created and consumed in different ways, with only the
-root trees being passed into the logic that cares about the
-"maybe_interesting" bit. It is appropriate to keep these uses separate.
-
-Signed-off-by: Derrick Stolee &lt;stolee@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#febb9d8</div>
-                                        <div class="message">path-walk: fix setup of pending objects
-
-Users reported an issue where objects were missing from their local
-repositories after a full repack using 'git repack -adf --path-walk'.
-This was alarming and took a while to create a reproducer. Here, we fix
-the bug and include a test case that would fail without this fix.
-
-The root cause is that certain objects existed in the index and had no
-second versions. These objects are usually blobs, though trees can be
-included if a cache-tree exists. The issue is that the revision walk
-adds these objects to the "pending" list and the path-walk API forgets
-to mark the lists it creates at this point as "maybe_interesting". If
-these paths only ever have a single version in the history of the repo
-(including the current staged version) then the parent directory never
-tries to add a new object to the list and mark the list as
-"maybe_interesting". Thus, when walking the list later, the group is
-skipped as it is expected that no objects are interesting. This happens
-even when there are actually no UNINTERESTING objects at all! This is
-based on the optimization enabled by the pack.useSparse=true config
-option, which is the default.
-
-Thus, we create a test case that demonstrates the many cases of this
-issue for reproducibility:
-
- 1. File a/b/c has only one committed version.
- 2. Files a/i and x/y only exist as staged changes.
- 3. Tree x/ only exists in the cache-tree.
-
-After performing a non-path-walk repack to force all loose objects into
-packfiles, run a --path-walk repack followed by 'git fsck'. This fsck is
-what fails with the following errors:
-
-  error: invalid object 100644 f2e41136... for 'a/b/c'
-
-    This is the dropped instance of the single-versioned a/b/c file.
-
-  broken link from    tree cfda31d8...
-                to    tree 3f725fcd...
-
-    This is the missing tree for the single-versioned a/b/ directory.
-
-  missing blob 0ddf2bae... (a/i)
-  missing blob 975fbec8... (x/y)
-  missing blob a60d869d... (file)
-  missing blob f2e41136... (a/b/c)
-
-  missing tree 3f725fcd... (a/b/)
-
-  dangling tree 5896d7e... (staged root tree)
-
-Note that since the staged root tree is missing, the fsck output cannot
-even report that the staged x/ tree is missing as well.
-
-The core problem here is that the "maybe_interesting" member of 'struct
-type_and_oid_list' is not initialized to '1'. This member was added in
-6333e7ae0b (path-walk: mark trees and blobs as UNINTERESTING,
-2024-12-20) in a way to help when creating packfiles for a small commit
-range using the sparse path algorithm (enabled by pack.useSparse=true).
-
-The idea here is that the list is marked as "maybe_interesting" if an
-object is added that does not have the UNINTERESTING flag on it. Later,
-this is checked again in case all objects in the list were marked
-UNINTERESTING after that point in time. In this case, the algorithm
-skips the list as there is no reason to visit it.
-
-This leads to the problem where the "maybe_interesting" member was not
-appropriately initialized when the list is created from pending objects.
-Initializing this in the correct places fixes the bug.
-
-To reduce risk of similar bugs around initializing this structure, a
-follow-up change will make initializing lists use a shared method.
-
-Signed-off-by: Derrick Stolee &lt;stolee@gmail.com&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a4bbe8a</div>
-                                        <div class="message">xdiff: optimize xdl_hash_record_verbatim
-
-xdl_hash_record_verbatim uses modified djb2 hash with XOR instead of ADD
-for combining. The ADD-based variant is used as the basis of the modern
-("GNU") symbol lookup scheme in ELF. Glibc dynamic loader received an
-optimized version of this hash function thanks to Noah Goldstein [1].
-
-Switch xdl_hash_record_verbatim to additive hashing and implement
-an optimized loop following the scheme suggested by Noah.
-
-Timing 'git log --oneline --shortstat v2.0.0..v2.5.0' under perf, I got
-
-version | cycles, bn | instructions, bn
----------------------------------------
-A         6.38         11.3
-B         6.21         10.89
-C         5.80          9.95
-D         5.83          8.74
----------------------------------------
-
-A: baseline (git master at e4ef0485fd78)
-B: plus 'xdiff: refactor xdl_hash_record()'
-C: and plus this patch
-D: with 'xdiff: use xxhash' by Phillip Wood
-
-The resulting speedup for xdl_hash_record_verbatim itself is about 1.5x.
-
-[1] https://inbox.sourceware.org/libc-alpha/20220519221803.57957-6-goldstein.w.n@gmail.com/
-
-Signed-off-by: Alexander Monakov &lt;amonakov@ispras.ru&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#41d9783</div>
-                                        <div class="message">xdiff: refactor xdl_hash_record()
-
-Inline the check for whitespace flags so that the compiler can hoist
-it out of the loop in xdl_prepare_ctx(). This improves the performance
-by 8%.
-
-$ hyperfine --warmup=1 -L rev HEAD,HEAD^  --setup='git checkout {rev} -- :/ &amp;&amp; make git' ': {rev}; GIT_CONFIG_GLOBAL=/dev/null ./git log --oneline --shortstat v2.0.0..v2.5.0'
-Benchmark 1: : HEAD; GIT_CONFIG_GLOBAL=/dev/null ./git log --oneline --shortstat v2.0.0..v2.5.0
-  Time (mean ± σ):      1.670 s ±  0.044 s    [User: 1.473 s, System: 0.196 s]
-  Range (min … max):    1.619 s …  1.754 s    10 runs
-
-Benchmark 2: : HEAD^; GIT_CONFIG_GLOBAL=/dev/null ./git log --oneline --shortstat v2.0.0..v2.5.0
-  Time (mean ± σ):      1.801 s ±  0.021 s    [User: 1.605 s, System: 0.192 s]
-  Range (min … max):    1.766 s …  1.831 s    10 runs
-
-Summary
-  ': HEAD^; GIT_CONFIG_GLOBAL=/dev/null ./git log --oneline --shortstat v2.0.0..v2.5.0' ran
-    1.08 ± 0.03 times faster than ': HEAD^^; GIT_CONFIG_GLOBAL=/dev/null ./git log --oneline --shortstat v2.0.0..v2.5.0'
-
-Signed-off-by: Phillip Wood &lt;phillip.wood@dunelm.org.uk&gt;
-Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -451,7 +103,7 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~3 coding hours recorded
+                            ~2 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -463,7 +115,7 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                             </svg>
-                            Mostly coding in C
+                            Mostly coding in Mail
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -493,18 +145,18 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">git</span>
-                                <div class="bar" style="width: 53.608000000000004%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">67%</span>
+                                <div class="bar" style="width: 44.144%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">55%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 25.712000000000003%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">32%</span>
+                                <div class="bar" style="width: 34.4%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">43%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">cursor-bin</span>
-                                <div class="bar" style="width: 0.68%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
+                                <div class="bar" style="width: 1.456%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                         </div>
                     </section>
@@ -512,29 +164,29 @@ Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
                         <h3>Language activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
-                                <span class="name">C</span>
-                                <div class="bar" style="width: 30.872%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">39%</span>
-                            </div>
-                            <div class="entry">
                                 <span class="name">Mail</span>
-                                <div class="bar" style="width: 25.672%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">32%</span>
+                                <div class="bar" style="width: 34.312%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">43%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Diff</span>
-                                <div class="bar" style="width: 14.416%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 29.439999999999998%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">37%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">C</span>
+                                <div class="bar" style="width: 14.696%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">18%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">gitrebase</span>
-                                <div class="bar" style="width: 8.312000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">10%</span>
+                                <span class="name">Bash</span>
+                                <div class="bar" style="width: 1.456%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Bash</span>
-                                <div class="bar" style="width: 0.68%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
+                                <span class="name">sshconfig</span>
+                                <div class="bar" style="width: 0.08800000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
                             </div>
                         </div>
                     </section>
