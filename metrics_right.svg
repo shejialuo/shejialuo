@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="330" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="694" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}#metrics-end{width:100%}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}svg.large .largeable-column-fields{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.b .side{background-color:#9e91ff26}.contribution.c .side{background-color:#58a6ff26}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.keyword{color:#b44418}.token.boolean,.token.char,.token.number,.token.string{color:#2777aa}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -29,11 +29,837 @@
                 </h2>
                 <div class="row">
                     <section>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M1.75 1.5a.25.25 0 00-.25.25v9.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h6.5a.25.25 0 00.25-.25v-9.5a.25.25 0 00-.25-.25H1.75zM0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v9.5A1.75 1.75 0 0114.25 13H8.06l-2.573 2.573A1.457 1.457 0 013 14.543V13H1.75A1.75 1.75 0 010 11.25v-9.5zM9 9a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"/>
-                            </svg>
-                            No recent activity
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 146 commits in
+                                        <span class="repo">shejialuo/git</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#bcb08c8</div>
+                                        <div class="message">promisor-remote: use string_list_split() in filter_promisor_remote()
+
+A previous commit introduced a new parse_one_advertised_remote()
+function that takes a `const char *` argument. This function is called
+from filter_promisor_remote() and parses all the fields for one remote.
+
+This means that in filter_promisor_remote() we no longer need to split
+the remote information that will be passed to
+parse_one_advertised_remote() into an array of relatively heavy and
+complex `struct strbuf`.
+
+To use something lighter, let's then replace strbuf_split_str() with
+string_list_split() in filter_promisor_remote() to parse the remote
+information that is passed to parse_one_advertised_remote().
+
+Signed-off-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#de1efea</div>
+                                        <div class="message">promisor-remote: refactor how we parse advertised fields
+
+In a follow up commit we are going to parse more fields, like a filter
+and a token, coming from the server when it advertises promisor remotes
+using the "promisor-remote" capability.
+
+To prepare for this, let's refactor the code that parses the advertised
+fields coming from the server into a new parse_one_advertised_remote()
+function that will populate a `struct promisor_info` with the content
+of the fields it parsed.
+
+While at it, let's also pass this `struct promisor_info` to the
+should_accept_remote() function, instead of passing it the parsed name
+and url.
+
+These changes will make it simpler to both parse more fields and access
+the content of these parsed fields in follow up commits.
+
+Signed-off-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e2139c</div>
+                                        <div class="message">promisor-remote: use string constants for 'name' and 'url' too
+
+A previous commit started to define `promisor_field_filter` and
+`promisor_field_token`, and used them instead of the
+"partialCloneFilter" and "token" string literals.
+
+Let's do the same for "name" and "url" to avoid repeating them
+several times and for consistency with the other fields.
+
+For skipping "name=" or "url=" in advertisements, let's introduce
+a skip_field_name_prefix() helper function to keep parsing clean
+and easy to understand.
+
+Signed-off-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4bf7ae3</div>
+                                        <div class="message">promisor-remote: allow a server to advertise more fields
+
+For now the "promisor-remote" protocol capability can only pass "name"
+and "url" information from a server to a client in the form
+"name=&lt;remote_name&gt;,url=&lt;remote_url&gt;".
+
+To allow clients to make more informed decisions about which promisor
+remotes they accept, let's make it possible to pass more information
+by introducing a new "promisor.sendFields" configuration variable.
+
+On the server side, information about a remote `foo` is stored in
+configuration variables named `remote.foo.&lt;variable-name&gt;`. To make
+it clearer and simpler, we use `field` and `field name` like this:
+
+  * `field name` refers to the &lt;variable-name&gt; part of such a
+    configuration variable, and
+
+  * `field` refers to both the `field name` and the value of such a
+    configuration variable.
+
+The "promisor.sendFields" configuration variable should contain a
+comma or space separated list of field names that will be looked up
+in the configuration of the remote on the server to find the values
+that will be passed to the client.
+
+Only a set of predefined field names are allowed. The only field
+names in this set are "partialCloneFilter" and "token". The
+"partialCloneFilter" field name specifies the filter definition used
+by the promisor remote, and the "token" field name can provide an
+authentication credential for accessing it.
+
+For example, if "promisor.sendFields" is set to "partialCloneFilter",
+and the server has the "remote.foo.partialCloneFilter" config
+variable set to a value, then that value will be passed in the
+"partialCloneFilter" field in the form "partialCloneFilter=&lt;value&gt;"
+after the "name" and "url" fields.
+
+A following commit will allow the client to use the information to
+decide if it accepts the remote or not. For now the client doesn't do
+anything with the additional information it receives.
+
+Signed-off-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#57af9cc</div>
+                                        <div class="message">promisor-remote: refactor to get rid of 'struct strvec'
+
+In a following commit, we will use the new 'promisor-remote' protocol
+capability introduced by d460267613 (Add 'promisor-remote' capability
+to protocol v2, 2025-02-18) to pass and process more information
+about promisor remotes than just their name and url.
+
+For that purpose, we will need to store information about other
+fields, especially information that might or might not be available
+for different promisor remotes. Unfortunately using 'struct strvec',
+as we currently do, to store information about the promisor remotes
+with one 'struct strvec' for each field like "name" or "url" does not
+scale easily in that case. We would need one 'struct strvec' for each
+new field, and then we would have to pass all these 'struct strvec'
+around.
+
+Let's refactor this and introduce a new 'struct promisor_info'.
+
+It will only store promisor remote information in its members. For now
+it has only a 'name' member for the promisor remote name and an 'url'
+member for its URL. We will use a 'struct string_list' to store the
+instances of 'struct promisor_info'. For each 'item' in the
+string_list, 'item-&gt;string' will point to the promisor remote name and
+'item-&gt;util' will point to the corresponding 'struct promisor_info'
+instance.
+
+Explicit members are used within 'struct promisor_info' for type
+safety and clarity regarding the specific information being handled,
+rather than a generic key-value store. We want to specify and document
+each field and its content, so adding new members to the struct as
+more fields are supported is fine.
+
+Signed-off-by: Christian Couder &lt;chriscool@tuxfamily.org&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e2feb5</div>
+                                        <div class="message">alloc: fix dangling pointer in alloc_state cleanup
+
+All callers of clear_alloc_state() immediately free what they
+cleared, so currently it does not hurt anybody that the
+alloc_state is left in an unreusable state, but it is an
+error-prone API. Replace it with a new function that clears but
+in addition frees the structure, as well as NULLing the pointer
+that points at it and adjust existing callers.
+
+As it is a moral equivalent of FREE_AND_NULL(), except that what it
+frees has internal structure that needs to be cleaned, allow the
+helper to be called twice in a row, by making a call with a pointer
+to a pointer variable that already is NULLed.
+
+While at it, rename allocate_alloc_state() and name the new
+function alloc_state_free_and_null(), to follow more closely the
+function naming convention specified in the CodingGuidelines
+(namely, functions about S are named with S_ prefix and then
+verb).
+
+Signed-off-by: ノウラ | Flare &lt;nouraellm@gmail.com&gt;
+Helped-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0072724</div>
+                                        <div class="message">range-diff: add configurable memory limit for cost matrix
+
+When comparing large commit ranges (e.g., 250,000+ commits), range-diff
+attempts to allocate an n×n cost matrix that can exhaust available
+memory. For example, with 256,784 commits (n = 513,568), the matrix
+would require approximately 256GB of memory (513,568² × 4 bytes),
+causing either immediate segmentation faults due to integer overflow or
+system hangs.
+
+Add a memory limit check in get_correspondences() before allocating the
+cost matrix. This check uses the total size in bytes (n² × sizeof(int))
+and compares it against a configurable maximum, preventing both
+excessive memory usage and integer overflow issues.
+
+The limit is configurable via a new --max-memory option that accepts
+human-readable sizes (e.g., "1G", "500M"). The default is 4GB for 64 bit
+systems and 2GB for 32 bit systems. This allows comparing ranges of
+approximately 32,000 (16,000) commits - generous for real-world use cases
+while preventing impractical operations.
+
+When the limit is exceeded, range-diff now displays a clear error
+message showing both the requested memory size and the maximum allowed,
+formatted in human-readable units for better user experience.
+
+Example usage:
+  git range-diff --max-memory=1G branch1...branch2
+  git range-diff --max-memory=500M base..topic1 base..topic2
+
+This approach was chosen over alternatives:
+- Pre-counting commits: Would require spawning additional git processes
+  and reading all commits twice
+- Limiting by commit count: Less precise than actual memory usage
+- Streaming approach: Would require significant refactoring of the
+  current algorithm
+
+This issue was previously discussed in:
+https://lore.kernel.org/git/RFC-cover-v2-0.5-00000000000-20211210T122901Z-avarab@gmail.com/
+
+Acked-by: Johannes Schindelin &lt;johannes.schindelin@gmx.de&gt;
+Signed-off-by: Paulo Casaretto &lt;pcasaretto@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1b5a6bf</div>
+                                        <div class="message">curl: add support for curl_global_trace() components
+
+In addition to the regular trace information produced by
+CURLOPT_VERBOSE, recent curl versions can enable or disable tracing of
+specific subsystems using a call to curl_global_trace().
+
+This level of detail may or may not be useful for us in Git as mere
+users of libcurl, but there's one case where we need it for a test. In
+t5564, we set up a socks proxy, access it with GIT_TRACE_CURL set, and
+expect to find socks-related messages in the output. This test is broken
+in the release candidates for libcurl 8.16, as those socks messages are
+no longer produced in the trace.
+
+The problem bisects to curl's commit ab5e0bfddc (pytest: add SOCKS tests
+and scoring, 2025-07-21). There the socks messages were moved from
+generic infof() messages to the component-specific CURL_TRC_CF() system.
+And so we do not see them by default, but only if "socks" is enabled as
+a logging component.
+
+Teach Git's http code to accept a component list from the
+environment and pass it into curl_global_trace(). We can then use
+that in the test to enable the correct component.
+
+It should be safe to do so unconditionally. In older versions of curl
+which don't support this call, setting the environment variable is a
+noop. Likewise, any versions of curl which don't recognize the "socks"
+component should silently ignore it. The manpage for curl_global_trace()
+says this:
+
+  The config string is a list of comma-separated component names. Names
+  are case-insensitive and unknown names are ignored. The special name
+  "all" applies to all components. Names may be prefixed with '+' or '-'
+  to enable or disable detailed logging for a component.
+
+  The list of component names is not part of curl's public API. Names may
+  be added or disappear in future versions of libcurl. Since unknown
+  names are silently ignored, outdated log configurations does not cause
+  errors when upgrading libcurl. Given that, some names can be expected
+  to be fairly stable and are listed below for easy reference.
+
+So this should let us make the test work on all versions without
+worrying about confusing older (or newer) versions. For the same reason,
+I've opted not to document this interface. This is deep internal voodoo
+for which we can make no promises to users. In fact, I was tempted to
+simply hard-code "socks" to let our test pass and not expose anything.
+But I suspect a little run-time flexibility may come in handy in the
+future when debugging or dealing with similar logging issues.
+
+I also considered just putting "all" into such a hard-coded default. But
+if you try it, you will see that many of the components are quite
+verbose and likely not interesting. They would clutter up our trace
+output if we enabled them by default.
+
+Signed-off-by: Jeff King &lt;peff@peff.net&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#929b1d0</div>
+                                        <div class="message">Documentation: note styling for bit fields
+
+Our codebase uses a lot of bit field variables, generally to mark
+boolean type variables. While there is a formatting rule in the
+'.clang-format', there is no guideline specified in the
+'CodingGuidelines'.
+
+Since the '.clang-format' is not yet enforced, let's also add a
+guideline with the same rule as mentioned in the '.clang-format', which
+is to not use any spaces around the colon, like so:
+
+    unsigned my_field:1;
+    unsigned other_field:1;
+    unsigned field_with_longer_name:1;
+
+This would allow us not to modify the clang-format file, and more
+importantly, discourage people from doing ugly alignment with spaces,
+i.e.
+
+    unsigned my_field               : 1;
+    unsigned            other_field : 1;
+    unsigned field_with_longer_name : 1;
+
+Helped-by: Junio C Hamano &lt;gitster@pobox.com&gt;
+Signed-off-by: Karthik Nayak &lt;karthik.188@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fafc9b0</div>
+                                        <div class="message">docs: update sendmail docs to use more secure SMTP server for Gmail
+
+Earlier recommendation by IETF with RFC 2595 was to deprecate
+implicit TLS in preference for upgrade an initially unencrypted
+connection with STARTTLS command.  These days, however, IETF
+recommends that connections be made using "Implicit TLS", in
+preference to STARTTLS and the like, completely reversing their
+earlier position, in RFC8314.
+
+Update the GMail example to use the implicit TLS to match the
+current recommendation at port 465.
+
+Signed-off-by: Aditya Garg &lt;gargaditya08@live.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ace1bb7</div>
+                                        <div class="message">commit: print advice when core.commentString=auto
+
+Add some advice on how to change the config settings when
+"core.commentString=auto" or "core.commentChar=auto". The advice
+includes instructions for clearing the config setting or setting a
+fixed comment string. To try and be as specific as possible, the advice
+is customized based on the user's config. If "core.commentString=auto"
+is set in the system config and the user does not have write
+access then the advice omits the instructions to clear the config
+and recommends changing the global config instead. An alternative
+approach would be to advise the user to run "git config --show-origin"
+and leave them to figure out how to fix it themselves but that seems
+rather unfriendly. As we're forcing them to update their config we
+should try and make that as easy as possible.
+
+In order to generate this advice we need to record each file where
+either of the config keys is set and whether a key occurs more that
+once in a given file. This lets us generate the list of commands to
+remove all the keys and also tells us which key the "auto" setting
+comes from.
+
+As we want the user to update their config we do not provide a way
+for this advice to be disabled other than changing the value of
+"core.commentChar" or "core.commentString".
+
+Signed-off-by: Phillip Wood &lt;phillip.wood@dunelm.org.uk&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a0e6aae</div>
+                                        <div class="message">config: warn on core.commentString=auto
+
+As support for this setting was deprecated in the last commit print a
+warning (or die when WITH_BREAKING_CHANGES is enabled) if it is set.
+Avoid bombarding the user with warnings by only printing it (a) when
+running commands that call "git commit" and (b) only once per command.
+
+Some scaffolding is added to repo_read_config() to allow it to
+detect deprecated config settings and warn about them. As both
+"core.commentChar" and "core.commentString" set the comment
+character we record which one of them is used and tailor the
+warning message appropriately.
+
+Note the odd combination of die_message() followed by die(NULL)
+is to allow the next commit to insert a call to advise() in the middle.
+
+Signed-off-by: Phillip Wood &lt;phillip.wood@dunelm.org.uk&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fdae411</div>
+                                        <div class="message">breaking-changes: deprecate support for core.commentString=auto
+
+When "core.commentString" is set to "auto" then "git commit" will
+automatically select the comment character ensuring that it is not the
+first character on any of the lines in the commit message. This was
+introduced by commit 84c9dc2c5a2 (commit: allow core.commentChar=auto
+for character auto selection, 2014-05-17). The motivation seems to be
+to avoid commenting out lines from the existing message when amending
+a commit that was created with a message from a file.
+
+Unfortunately this feature does not work with:
+
+ * commit message templates that contain comments.
+
+ * prepare-commit-msg hooks that introduce comments.
+
+ * "git commit --cleanup=strip --edit -F &lt;file&gt;" which means that it
+   is incompatible with
+
+   - the "fixup" and "squash" commands of "git rebase -i" as the
+     comments added by those commands are then treated as part of
+     the commit message.
+
+   - the conflict comments added to the commit message by "git
+     cherry-pick", "git rebase" etc. as these comments are then
+     treated as part of the commit message.
+
+It is also ignored by "git notes" when amending a note.
+
+The issues with comments coming from a template, hook or file are a
+consequence of the design of this feature and are therefore hard to
+fix.
+
+As the costs of this feature outweigh the benefits, deprecate it and
+remove it in Git 3.0. If someone comes up with some patches that fix
+all the issues in a maintainable way then I'd be happy to see this
+change reverted.
+
+The next commits will add a warning and some advice for users on how
+they can update their config settings.
+
+Signed-off-by: Phillip Wood &lt;phillip.wood@dunelm.org.uk&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac70967</div>
+                                        <div class="message">config: document includeIf conditions consistently
+
+When 399b1984 (config: include file if remote URL matches a glob,
+2022-01-18) added the 'hasconfig:remote.*.url:&lt;URL&gt;' condition to be
+used in the "includeIf.&lt;condition&gt;.path" configuration, the keyword
+was added with an extra colon in the documentation.
+
+The section that documents these condition begins with this preamble:
+
+    The condition starts with a keyword followed by a colon and some data
+    whose format and meaning depends on the keyword. Supported keywords
+    are:
+
+which makes it clear that the colon that comes between the condition
+keyword (e.g. "gitdir") and the parameter (aka "some data") is not
+a part of the keyword.
+
+Lose the extra colon.  Also rewrite description of all keywords to
+clarify that "some data" does not directly follow "keyword", and the
+colon is not a part of keyword.
+
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e310699</div>
+                                        <div class="message">line-log: show all line ranges touched by the same diff range
+
+When line-level log is invoked with more than one disjoint line range
+in the same file, and one of the commits happens to change that file
+such that one diff range modifies more than one line range, then
+changes to all modified line ranges should be shown, but only the
+changes in the first modified line range are:
+
+  $ git log --oneline -p
+  80ca903 (HEAD -&gt; master) Initial
+  diff --git a/file b/file
+  new file mode 100644
+  index 0000000..00935f1
+  --- /dev/null
+  +++ b/file
+  @@ -0,0 +1,10 @@
+  +Line 1
+  +Line 2
+  +Line 3
+  +Line 4
+  +Line 5
+  +Line 6
+  +Line 7
+  +Line 8
+  +Line 9
+  +Line 10
+  $ git log --oneline -L1,2:file -L4,5:file -L7,8:file
+  80ca903 (HEAD -&gt; master) Initial
+
+  diff --git a/file b/file
+  --- /dev/null
+  +++ b/file
+  @@ -0,0 +1,2 @@
+  +Line 1
+  +Line 2
+
+The line-log-specific diff printer is already clever enough to handle
+the case when one line range covers multiple diff ranges, but the
+possibility of one diff range touching multiple disjoint line ranges
+was apparently overlooked.
+
+Add the necessary condition to dump_diff_hacky_one() to handle this case
+as well, and show all modified line ranges:
+
+  $ git log --oneline -L1,2:file -L4,5:file -L7,8:file
+  0f9a5b4 (HEAD -&gt; master) Initial
+
+  diff --git a/file b/file
+  --- /dev/null
+  +++ b/file
+  @@ -0,0 +1,2 @@
+  +Line 1
+  +Line 2
+  @@ -0,0 +4,2 @@
+  +Line 4
+  +Line 5
+  @@ -0,0 +7,2 @@
+  +Line 7
+  +Line 8
+
+This bug was already present in the initial line-log implementation
+added in 2da1d1f6f (Implement line-history search (git log -L),
+2013-03-28).  Interestingly, that commit already contained a canned
+test case covering a similar scenario:
+
+  "-L '/long f/',/^}/:a.c -L /main/,/^}/:a.c simple"
+
+This test case looks for two line ranges in the same file, and both
+trace back disjointly to the test repository's inital commit,
+therefore changes to both line ranges should have been shown for the
+initial commit, but only changes for the first line range are shown.
+So this test case should have failed from the very beginning, but it
+never did, because, unfortunately, the canned expected result is
+incorrect, as it doesn't include changes for the second line range.
+
+A similar test with a similarly incorrect canned expected result was
+added later in 209618860c (log -L: fix overlapping input ranges,
+2013-04-05).
+
+Correct these two canned expected results to contain the changes for
+the second line range for the initial commit as well.
+
+Signed-off-by: SZEDER Gábor &lt;szeder.dev@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab60c69</div>
+                                        <div class="message">line-log: fix assertion error
+
+When line-level log is invoked with more than one disjoint line range
+in the same file, and one of the commits happens to change that file
+such that:
+
+  - the last line of a line range R(n) immediately preceeds the first line
+    modified or added by a hunk H, and
+  - subtracting the number of lines added by hunk H from the start and
+    end of the subsequent line range R(n+1) would result in a range
+    overlapping with line range R(n),
+
+then git aborts with an assertion error, because those overlapping
+line ranges violate the invariants:
+
+  $ git log --oneline -p
+  73e4e2f (HEAD -&gt; master) Add lines 6 7 8 9 10
+  diff --git a/file b/file
+  index 572d5d9..00935f1 100644
+  --- a/file
+  +++ b/file
+  @@ -3,3 +3,8 @@ Line 2
+   Line 3
+   Line 4
+   Line 5
+  +Line 6
+  +Line 7
+  +Line 8
+  +Line 9
+  +Line 10
+  66e3561 Add lines 1 2 3 4 5
+  diff --git a/file b/file
+  new file mode 100644
+  index 0000000..572d5d9
+  --- /dev/null
+  +++ b/file
+  @@ -0,0 +1,5 @@
+  +Line 1
+  +Line 2
+  +Line 3
+  +Line 4
+  +Line 5
+  $ git log --oneline -L3,5:file -L7,8:file
+  git: line-log.c:73: range_set_append: Assertion `rs-&gt;nr == 0 || rs-&gt;ranges[rs-&gt;nr-1].end &lt;= a' failed.
+  Aborted (core dumped)
+
+The line-log machinery encodes line and diff ranges internally as
+[start, end) pairs, i.e. include 'start' but exclude 'end', and line
+numbering starts at 0 (as opposed to the -LX,Y option, where it starts
+at 1, IOW the parameter -L3,5 is represented internally as { start =
+2, end = 5 }).
+
+The reason for this assertion error and some related issues is that
+there are a couple of places where 'end' is mistakenly considered to
+be part of the range:
+
+  - When a commit modifies an interesting path, the line-log machinery
+    first checks which diff range (i.e. hunk) modify any line ranges.
+    This is done in diff_ranges_filter_touched(), where the outer loop
+    iterates over the diff ranges, and in each iteration the inner
+    loop advances the line ranges supposedly until the current line
+    range ends at or after the current diff range starts, and then the
+    current diff and line ranges are checked for overlap.
+
+    For HEAD in the above example the first line range [2, 5) ends
+    just before the diff range [5, 10) starts, so the inner loop
+    should advance, and then the second line range [6, 8) and the diff
+    range should be checked for overlap.
+
+    Unfortunately, the condition of the inner loop mistakenly
+    considers 'end' as part of the line range, and, seeing the diff
+    range starting at 5 and the line range ending at 5, it doesn't
+    skip the first range.  Consequently, the diff range and the first
+    line range are checked for overlap, and after that the outer loop
+    runs out of diff ranges, and then the processing goes on in the
+    false belief that this commit didn't touch any of the interesting
+    line ranges.
+
+    The line-log machinery later shifts the line ranges to account for
+    any added/removed lines in the diff ranges preceeding each line
+    range.  This leaves the first line range intact, but attempts to
+    shift the second line range [6, 8) by 5 lines towards the
+    beginning of the file, resulting in [1, 3), triggering the
+    assertion error, because the two overlapping line ranges violate
+    the invariants.
+
+    Fix that loop condition in diff_ranges_filter_touched() to not
+    treat 'end' as part of the line range.
+
+  - With the above fix the assertion error is gone... but, alas, we
+    now get stuck in an endless loop!
+
+    This happens in range_set_difference(), where a couple of nested
+    loops iterate over the line and diff ranges, and a condition is
+    supposed to break the middle loop when the current line range ends
+    before the current diff range, so processing could continue with
+    the next line range.
+
+    For HEAD in the above example the first line range [2, 5) ends
+    just before the diff range [5, 10) starts, so this condition
+    should trigger and break the middle loop.
+
+    Unfortunately, just like in the case of the assertion error, this
+    conditions mistakenly considers 'end' as part of the line range,
+    and, seeing the line range ending at 5 and the diff range starting
+    at 5, it doesn't break the loop, which will then go on and on.
+
+    Fix this condition in range_set_difference() to not treat 'end' as
+    part of the line range.
+
+  - With the above fix the endless loop is gone... but, alas, the
+    output is now wrong, as it shows both line ranges for HEAD, even
+    though the first line range is not modified by that commit:
+
+      $ git log --oneline -L3,5:file -L7,8:file
+      73e4e2f (HEAD -&gt; master) Add lines 6 7 8 9 10
+
+      diff --git a/file b/file
+      --- a/file
+      +++ b/file
+      @@ -3,3 +3,3 @@
+       Line 3
+       Line 4
+       Line 5
+      @@ -6,0 +7,2 @@
+      +Line 7
+      +Line 8
+      66e3561 Add lines 1 2 3 4 5
+
+      diff --git a/file b/file
+      --- /dev/null
+      +++ b/file
+      @@ -0,0 +3,3 @@
+      +Line 3
+      +Line 4
+      +Line 5
+
+    In dump_diff_hacky_one() a couple of nested loops are responsible
+    for finding and printing the modified line ranges: the big outer
+    loop iterates over all line ranges, and the first inner loop skips
+    over the diff ranges that end before the start of the current line
+    range.  This is followed by a condition checking whether the
+    current diff range starts after the end of the current line range,
+    which, when fulfilled, continues and advances the outer loop to
+    the next line range.
+
+    For HEAD in the above example the first line range [2, 5) ends
+    just before the diff range [5, 10), so this condition should
+    trigger, and the outer loop should advance to the second line
+    range.
+
+    Unfortunately, just like in the previous cases, this condition
+    mistakenly considers 'end' as part of the line range, and, seeing
+    the first line range ending at 5 and the diff range starting at 5,
+    it doesn't continue to advance the outher loop, but goes on to
+    show the (unmodified) first line range.
+
+    Fix this condition to not treat 'end' as part of the line range,
+    just like in the previous cases.
+
+After all this the command in the above example finally finishes and
+produces the right output:
+
+  $ git log --oneline -L3,5:file -L7,8:file
+  73e4e2f (HEAD -&gt; master) Add lines 6 7 8 9 10
+
+  diff --git a/file b/file
+  --- a/file
+  +++ b/file
+  @@ -6,0 +7,2 @@
+  +Line 7
+  +Line 8
+  66e3561 Add lines 1 2 3 4 5
+
+  diff --git a/file b/file
+  --- /dev/null
+  +++ b/file
+  @@ -0,0 +3,3 @@
+  +Line 3
+  +Line 4
+  +Line 5
+
+Add a canned test similar to the above example, with the line ranges
+adjusted to the test repository's history.
+
+Reported-by: Evgeni Chasnovski &lt;evgeni.chasnovski@gmail.com&gt;
+Signed-off-by: SZEDER Gábor &lt;szeder.dev@gmail.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8655908</div>
+                                        <div class="message">abbrev: allow extending beyond 32 chars to disambiguate
+
+When you have two or more objects with object names that share more
+than 32 letters in an SHA-1 repository, find_unique_abbrev() fails
+to show disambiguation.
+
+To see how many leading letters of a given full object name is
+sufficiently unambiguous, the algorithm starts from a initial
+length, guessed based on the estimated number of objects in the
+repository, and see if another object that shares the prefix, and
+keeps extending the abbreviation.  The loop stops at GIT_MAX_RAWSZ,
+which is counted as the number of bytes, since 5b20ace6 (sha1_name:
+unroll len loop in find_unique_abbrev_r(), 2017-10-08); before that
+change, it extended up to GIT_SHA1_HEXSZ, which meant to stop at the
+end of hexadecimal SHA-1 object name.
+
+Because the hexadecimal object name passed to the function is
+NUL-terminated, and this fact is used to correctly terminate the
+loop that scans for the first difference earlier in the function,
+use it to make sure we do not increment the .cur_len member beyond
+the end of the string.
+
+Noticed-by: Jon Forrest &lt;nobozo@gmail.com&gt;
+Helped-by: René Scharfe &lt;l.s.r@web.de&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f33b220</div>
+                                        <div class="message">send-email: enable copying emails to an IMAP folder without actually sending them
+
+`git imap-send` was built on the idea of copying emails to an IMAP folder
+like drafts, and sending them later using an email client. Currently
+the only way to do it is by piping output of `git format-patch` to IMAP
+send.
+
+Add another way to do it by using `git send-email` with the
+`--use-imap-only` or `sendmail.useImapOnly` option. This allows users to
+use the advanced features of `git send-email` like tweaking Cc: list
+programmatically, compose the cover letter, etc. and then send the well
+formatted emails to an IMAP folder using `git imap-send`.
+
+While at it, use `` instead of '' for --smtp-encryption ssl in help
+section of `git send-email`.
+
+Signed-off-by: Aditya Garg &lt;gargaditya08@live.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#04133f5</div>
+                                        <div class="message">send-email: add ability to send a copy of sent emails to an IMAP folder
+
+Some email providers like Apple iCloud Mail do not support sending a copy
+of sent emails to the "Sent" folder if SMTP server is used. As a
+workaround, various email clients like Thunderbird which rely on SMTP,
+use IMAP to send a copy of sent emails to the "Sent" folder. Something
+similar can be done if sending emails via `git send-email`, by using
+the `git imap-send` command to send a copy of the sent email to an IMAP
+folder specified by the user.
+
+Add this functionality to `git send-email` by introducing a new
+configuration variable `sendemail.imapfolder` and command line option
+`--imap-folder` which specifies the IMAP folder to send a copy of the
+sent emails to. If specified, a copy of the sent emails will be sent
+by piping the emails to `git imap-send` command, after all emails are
+sent via SMTP and the SMTP server has been closed.
+
+Signed-off-by: Aditya Garg &lt;gargaditya08@live.com&gt;
+Signed-off-by: Junio C Hamano &lt;gitster@pobox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#084681b</div>
+                                        <div class="message">Merge branch 'ps/config-wo-the-repository' into pw/3.0-commentchar-auto-deprecation
+
+* ps/config-wo-the-repository: (21 commits)
+  config: fix sign comparison warnings
+  config: move Git config parsing into "environment.c"
+  config: remove unused `the_repository` wrappers
+  config: drop `git_config_set_multivar()` wrapper
+  config: drop `git_config_get_multivar_gently()` wrapper
+  config: drop `git_config_set_multivar_in_file_gently()` wrapper
+  config: drop `git_config_set_in_file_gently()` wrapper
+  config: drop `git_config_set()` wrapper
+  config: drop `git_config_set_gently()` wrapper
+  config: drop `git_config_set_in_file()` wrapper
+  config: drop `git_config_get_bool()` wrapper
+  config: drop `git_config_get_ulong()` wrapper
+  config: drop `git_config_get_int()` wrapper
+  config: drop `git_config_get_string()` wrapper
+  config: drop `git_config_get_string()` wrapper
+  config: drop `git_config_get_string_multi()` wrapper
+  config: drop `git_config_get_value()` wrapper
+  config: drop `git_config_get_value()` wrapper
+  config: drop `git_config_get()` wrapper
+  config: drop `git_config_clear()` wrapper
+  ...</div>
+                                    </div>
+                                </div>
+                            </section>
                         </div>
                     </section>
                 </div>
@@ -51,19 +877,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~0 coding hours recorded
+                            ~2 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            Working on luo_beancount
+                            Working on Unknown Project
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                             </svg>
-                            Mostly coding in Other
+                            Mostly coding in Mail
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -71,19 +897,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/>
                             </svg>
-                            ~0 hours of coding per day
+                            ~2 hours of coding per day
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M0 2.75C0 1.784.784 1 1.75 1h12.5c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0114.25 15H1.75A1.75 1.75 0 010 13.25V2.75zm1.75-.25a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V2.75a.25.25 0 00-.25-.25H1.75zM7.25 8a.75.75 0 01-.22.53l-2.25 2.25a.75.75 0 11-1.06-1.06L5.44 8 3.72 6.28a.75.75 0 111.06-1.06l2.25 2.25c.141.14.22.331.22.53zm1.5 1.5a.75.75 0 000 1.5h3a.75.75 0 000-1.5h-3z"/>
                             </svg>
-                            Coding with VS Code
+                            Coding with Vim
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M6.5.75a.75.75 0 00-1.5 0V2H3.75A1.75 1.75 0 002 3.75V5H.75a.75.75 0 000 1.5H2v3H.75a.75.75 0 000 1.5H2v1.25c0 .966.784 1.75 1.75 1.75H5v1.25a.75.75 0 001.5 0V14h3v1.25a.75.75 0 001.5 0V14h1.25A1.75 1.75 0 0014 12.25V11h1.25a.75.75 0 000-1.5H14v-3h1.25a.75.75 0 000-1.5H14V3.75A1.75 1.75 0 0012.25 2H11V.75a.75.75 0 00-1.5 0V2h-3V.75zm5.75 11.75h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25zM5.75 5a.75.75 0 00-.75.75v4.5c0 .414.336.75.75.75h4.5a.75.75 0 00.75-.75v-4.5a.75.75 0 00-.75-.75h-4.5zm.75 4.5v-3h3v3h-3z"/>
                             </svg>
-                            Using Mac
+                            Using Linux
                         </div>
                     </section>
                 </div>
@@ -92,9 +918,14 @@
                         <h3>Projects activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
-                                <span class="name">luo_beancount</span>
-                                <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">100%</span>
+                                <span class="name">Unknown Project</span>
+                                <div class="bar" style="width: 72.768%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">91%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">repo</span>
+                                <div class="bar" style="width: 7.231999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
                             </div>
                         </div>
                     </section>
@@ -102,9 +933,24 @@
                         <h3>Language activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
+                                <span class="name">Mail</span>
+                                <div class="bar" style="width: 71.75200000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">90%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Git</span>
+                                <div class="bar" style="width: 7.231999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">mail</span>
+                                <div class="bar" style="width: 0.976%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
+                            </div>
+                            <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">100%</span>
+                                <div class="bar" style="width: 0.032%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
                             </div>
                         </div>
                     </section>
