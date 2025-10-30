@@ -23,6 +23,7 @@ jobs:
           template: classic
           base: header, activity, metadata
           base_indepth: yes
+          plugin_introduction: yes
           plugin_rss: yes
           plugin_rss_source: https://luolibrary.com/atom.xml
           plugin_rss_limit: 4
