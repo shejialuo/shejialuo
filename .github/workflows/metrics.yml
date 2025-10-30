@@ -15,17 +15,24 @@ jobs:
       contents: write
 
     steps:
-      - name: metrics
+      - name: Left part
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.*
+          filename: metrics_left.*
           template: classic
           base: header, activity, metadata
           base_indepth: yes
           plugin_rss: yes
           plugin_rss_source: https://luolibrary.com/atom.xml
           plugin_rss_limit: 4
+
+      - name: Right part
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics_right.*
+          base: ""
           plugin_wakatime: yes
           plugin_wakatime_sections: time, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
